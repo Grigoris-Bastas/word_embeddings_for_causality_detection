@@ -1,0 +1,751 @@
+
+(1)
+son corps projeter un ombre sur le pelouse
+KEYWORDS ::  son corps projeter ombre pelouse
+
+le soleil se lever
+KEYWORDS ::  soleil lever
+
+le pelouse avoir être tondre
+KEYWORDS ::  pelouse tondre 
+
+True
+correct: 1
+
+
+
+(2)
+le femme tolérer le comportement difficile de son amie
+KEYWORDS ::  femme tolérer comportement difficile son amie
+
+le femme savoir que son amie traverser un période difficile
+KEYWORDS ::  femme savoir son amie traverser période difficile
+
+le femme penser que son amie profiter de son gentillesse
+KEYWORDS ::  femme penser son amie profiter son gentillesse 
+
+False
+correct: 1
+
+
+
+(3)
+le femme se rencontrer à café
+KEYWORDS ::  femme rencontrer café
+
+le café avoir réouvrir à un autre endroit
+KEYWORDS ::  café autre endroit
+
+il vouloir se donner de son nouveau
+KEYWORDS ::  vouloir donner son nouveau 
+
+True
+correct: 2
+
+
+
+(4)
+le coureuse porter un short
+KEYWORDS ::  porter
+
+le météo prévoir un température élevé
+KEYWORDS ::  météo prévoir température
+
+il prévoir de courir le long de le plage
+KEYWORDS ::  prévoir courir long plage 
+
+True
+correct: 1
+
+
+
+(5)
+le invité de le fête se cacher derrière le canapé
+KEYWORDS ::  fête cacher canapé
+
+c être un fête surprise
+KEYWORDS ::  fête surprise
+
+c être un fête aller_d ' anniversaire
+KEYWORDS ::  fête anniversaire 
+
+False
+correct: 1
+
+
+
+(6)
+le politicien avoir perdre l élection
+KEYWORDS ::  politicien perdre élection
+
+il avoir faire un publicité de campagne négatif
+KEYWORDS ::  publicité campagne négatif
+
+personne n avoir voter pour lui
+KEYWORDS ::  personne voter 
+
+True
+correct: 2
+
+
+
+(7)
+le tâche être partir de le chemise
+KEYWORDS ::  tâche partir chemise
+
+j avoir rapiécer le chemise
+KEYWORDS ::  chemise
+
+j avoir passer le chemise à le javel
+KEYWORDS ::  passer chemise 
+
+False
+correct: 2
+
+
+
+(8)
+l homme avoir avoir un rabais sur son course
+KEYWORDS ::  homme son course
+
+il avoir saluer le caissier
+KEYWORDS ::  saluer
+
+il avoir utiliser un coupon
+KEYWORDS ::  utiliser coupon 
+
+True
+correct: 2
+
+
+
+(9)
+le médecin avoir mal diagnostiquer le patient
+KEYWORDS ::  médecin mal diagnostiquer patient
+
+le patient avoir faire un procès à médecin pour faute professionnel
+KEYWORDS ::  patient procès médecin faute professionnel
+
+le patient avoir dévoiler un information confidentiel à médecin
+KEYWORDS ::  patient dévoiler information confidentiel médecin 
+
+False
+correct: 1
+
+
+
+(10)
+the customer filed avoir complaint with the store manager
+KEYWORDS ::  manager
+
+the sale associat undercharged the customer
+KEYWORDS ::  sale
+
+the sale associare acted rude to the customer
+KEYWORDS ::  sale rude 
+
+True
+correct: 2
+
+
+
+(11)
+le femme avoir réparer le robinet
+KEYWORDS ::  femme réparer robinet
+
+le robinet fuir
+KEYWORDS ::  robinet fuir
+
+le robinet être fermé
+KEYWORDS ::  robinet 
+
+False
+correct: 1
+
+
+
+(12)
+le vieux dame avoir avoir un infarctus
+KEYWORDS ::  vieux dame infarctus
+
+le fille de le vieux dame être venir nettoyer son maison
+KEYWORDS ::  fille vieux dame nettoyer son maison
+
+le fille de le vieux dame avoir emménager pour s occuper d i il
+KEYWORDS ::  fille vieux dame emménager occuper 
+
+True
+correct: 2
+
+
+
+(13)
+le mare avoir geler pendant l hiver
+KEYWORDS ::  mare geler hiver
+
+le gens avoir faire de patin sur le mare
+KEYWORDS ::  gens patin mare
+
+le gens avoir apporter un bateau sur le mare
+KEYWORDS ::  gens apporter bateau mare 
+
+True
+correct: 1
+
+
+
+(14)
+le délinquant à violé son probation
+KEYWORDS ::  délinquant son
+
+il avoir être envoyer en prison
+KEYWORDS ::  envoyer prison
+
+il avoir voler de l argent de l e église
+KEYWORDS ::  voler argent église 
+
+True
+correct: 1
+
+
+
+(15)
+j avoir arroser son ami qui dormir
+KEYWORDS ::  arroser son ami dormir
+
+son ami s être réveiller
+KEYWORDS ::  son ami réveiller
+
+son ami ronfler
+KEYWORDS ::  son ami 
+
+False
+correct: 1
+
+
+
+(16)
+le fille avoir avoir un cri de surprise
+KEYWORDS ::  fille cri surprise
+
+son ami lui avoir mettre un cube de glace dans le dos
+KEYWORDS ::  son ami mettre glace dos
+
+son ami lui avoir mettre un petit tape dans le dos
+KEYWORDS ::  son ami mettre petit dos 
+
+True
+correct: 1
+
+
+
+(17)
+le chemise avoir rétrécir
+KEYWORDS ::  chemise rétrécir
+
+j avoir mettre de le javelle dessus
+KEYWORDS ::  mettre
+
+il l avoir mettre dans le séchoir
+KEYWORDS ::  mettre 
+
+True
+correct: 2
+
+
+
+(18)
+dehors il commencer à faire sombre
+KEYWORDS ::  commencer sombre
+
+un flocon de neige commençer à tomber du ciel
+KEYWORDS ::  neige tomber ciel
+
+le lune devenir visible dans le ciel
+KEYWORDS ::  lune devenir visible ciel 
+
+True
+correct: 2
+
+
+
+(19)
+il raccrochavoir le téléphone
+KEYWORDS ::  téléphone
+
+l interlocuteur me dire à revoir
+KEYWORDS ::  interlocuteur dire revoir
+
+l interlocuteur me donner son nom
+KEYWORDS ::  interlocuteur donner son nom 
+
+True
+correct: 1
+
+
+
+(20)
+le bague de le femme avoir glisser dans le douche
+KEYWORDS ::  bague femme glisser douche
+
+le femme polir le bague
+KEYWORDS ::  femme polir bague
+
+le bague être tomber dans le bonde
+KEYWORDS ::  bague tomber 
+
+True
+correct: 2
+
+
+
+(21)
+le petit fille avoir gagner un trophée
+KEYWORDS ::  petit fille gagner trophée
+
+il avoir gagner un concours de dictée
+KEYWORDS ::  gagner concours dictée
+
+il s être faire un nouveau ami
+KEYWORDS ::  nouveau ami 
+
+True
+correct: 1
+
+
+
+(22)
+l escorter de le femme vouloir avoir au ' air d e un gentleman
+KEYWORDS ::  femme vouloir air
+
+il lui avoir ouvrir le porte
+KEYWORDS ::  ouvrir porte
+
+il lui avoir demander si il aimer le sushi
+KEYWORDS ::  demander aimer 
+
+True
+correct: 1
+
+
+
+(23)
+le champ avoir besoin d irrigation
+KEYWORDS ::  besoin irrigation
+
+un canal avoir être construire
+KEYWORDS ::  canal construire
+
+un inondation avoir avoir lieu
+KEYWORDS ::  inondation lieu 
+
+True
+correct: 1
+
+
+
+(24)
+l hotesse avoir annuler le fête
+KEYWORDS ::  annuler fête
+
+il être certain d avoir le grippe
+KEYWORDS ::  certain grippe
+
+il avoir peur d attrapper le grippe
+KEYWORDS ::  peur grippe 
+
+False
+correct: 1
+
+
+
+(25)
+le femme avoir donner son numéro de téléphone à l homme
+KEYWORDS ::  femme donner son numéro téléphone homme
+
+il être attirer par lui
+KEYWORDS ::  attirer par
+
+il lui répugner
+KEYWORDS ::  répugner 
+
+False
+correct: 1
+
+
+
+(26)
+le parachutiste avoir planer jusqir à sol en tout sécurité
+KEYWORDS ::  planer sol sécurité
+
+il avoir ouvrir son parachute
+KEYWORDS ::  ouvrir son
+
+il avoir sauter de l avion
+KEYWORDS ::  sauter avion 
+
+True
+correct: 1
+
+
+
+(27)
+le bébé devenir de mauvais humeur
+KEYWORDS ::  bébé devenir mauvais humeur
+
+son mère lui avoir faire faire un sieste
+KEYWORDS ::  son mère
+
+son mère lui avoir faire un couette avec son cheveu
+KEYWORDS ::  son mère couette son cheveu 
+
+True
+correct: 1
+
+
+
+(28)
+l enfant être devenir immuniser à le maladie
+KEYWORDS ::  enfant devenir immuniser maladie
+
+il avoir éviter l exposition à le maladie
+KEYWORDS ::  éviter exposition maladie
+
+il avoir recevoir un vaccin contre le maladie
+KEYWORDS ::  recevoir vaccin maladie 
+
+True
+correct: 2
+
+
+
+(29)
+le jus de raisin avoir fermenter
+KEYWORDS ::  jus raisin fermenter
+
+le jus être devenir de vin
+KEYWORDS ::  jus devenir vin
+
+le jus s être évaporer
+KEYWORDS ::  jus évaporer 
+
+True
+correct: 1
+
+
+
+(30)
+le débat entre le ami s être prolonger de façon interminable
+KEYWORDS ::  débat ami prolonger façon interminable
+
+le ami se être mettre d accord
+KEYWORDS ::  ami mettre accord
+
+le ami avoir couper le cheveu en quatre
+KEYWORDS ::  ami couper cheveu quatre 
+
+False
+correct: 2
+
+
+
+(31)
+le femme chanter pour lui - même
+KEYWORDS ::  femme chanter
+
+il être nerveux
+KEYWORDS ::  nerveux
+
+il être de bon humeur
+KEYWORDS ::  bon humeur 
+
+False
+correct: 2
+
+
+
+(32)
+l homme détester son nouveau coiffure
+KEYWORDS ::  homme détester son nouveau
+
+il porter un chapeau
+KEYWORDS ::  porter chapeau
+
+il il laissar pousser le barbe
+KEYWORDS ::  pousser barbe 
+
+False
+correct: 1
+
+
+
+(33)
+le policier avoir viser le figutif avec son arme
+KEYWORDS ::  policier viser son arme
+
+le fugitif être tomber à sol
+KEYWORDS ::  fugitif tomber sol
+
+le fugitif avoir lâcher son pistolet
+KEYWORDS ::  fugitif lâcher son pistolet 
+
+False
+correct: 2
+
+
+
+(34)
+le patient être déshydrater
+KEYWORDS ::  patient déshydrater
+
+l infirmière avoir tester son réflexe
+KEYWORDS ::  tester son réflexe
+
+l infirmier lui avoir mettre un intraveineux
+KEYWORDS ::  infirmier mettre 
+
+True
+correct: 2
+
+
+
+(35)
+le fille avoir trouver le pièce manquant de puzzle
+KEYWORDS ::  fille trouver pièce manquant
+
+il avoir terminer le puzzle
+KEYWORDS ::  terminer
+
+il avoir défaire le puzzle
+KEYWORDS ::  défaire 
+
+False
+correct: 1
+
+
+
+(36)
+l homme avoir sauter de lit précipitamment
+KEYWORDS ::  homme sauter lit
+
+il vouloir éteindre le réveil
+KEYWORDS ::  vouloir éteindre réveil
+
+il vouloir repasser son pantalon avant de partir à travail
+KEYWORDS ::  vouloir repasser son pantalon avant partir travail 
+
+True
+correct: 1
+
+
+
+(37)
+le papier être en désordre
+KEYWORDS ::  papier désordre
+
+il il avoir photocopier
+KEYWORDS :: 
+
+il il avoir ranger alphabétiquement
+KEYWORDS ::  ranger 
+
+True
+correct: 2
+
+
+
+(38)
+le femme avoir gagner à le loterie
+KEYWORDS ::  femme gagner loterie
+
+il avoir acheter un yacht
+KEYWORDS ::  acheter
+
+il avoir rejoindre un paroisse
+KEYWORDS ::  rejoindre paroisse 
+
+True
+correct: 1
+
+
+
+(39)
+le couturière avoir pousser l aiguille dans le tissu
+KEYWORDS ::  pousser aiguille tissu
+
+le fil s enrouler autour de l ' aiguille
+KEYWORDS ::  fil enrouler aiguille
+
+le fil être passer à travers le tissu
+KEYWORDS ::  fil passer travers tissu 
+
+False
+correct: 2
+
+
+
+(40)
+le femme avoir engager un avocat
+KEYWORDS ::  femme engager avocat
+
+il avoir décider de poursuivre son employeur
+KEYWORDS ::  décider poursuivre son employeur
+
+il avoir décider de se présenter à élection
+KEYWORDS ::  décider présenter élection 
+
+True
+correct: 1
+
+
+
+(41)
+le locataire avoir perdre le clef de son appartement
+KEYWORDS ::  locataire perdre clef son appartement
+
+son propriétaire à ouvrir le porte
+KEYWORDS ::  son propriétaire ouvrir porte
+
+son propriétaire à réparer le porte
+KEYWORDS ::  son propriétaire réparer porte 
+
+True
+correct: 1
+
+
+
+(42)
+son chanson favorite être passer à le radio
+KEYWORDS ::  son chanson passer radio
+
+il me être boucher le oreille
+KEYWORDS ::  boucher oreille
+
+j avoir chanter avec
+KEYWORDS ::  chanter 
+
+True
+correct: 2
+
+
+
+(43)
+le responsable avoir décider de ne pas recruter le candidat
+KEYWORDS ::  responsable décider recruter candidat
+
+le candidat n avoir pas passer le vérification de son dossier
+KEYWORDS ::  candidat passer vérification son dossier
+
+le candidat avoir de l expérience pour ce emploi
+KEYWORDS ::  candidat expérience emploi 
+
+False
+correct: 1
+
+
+
+(44)
+l oeil de l e homme s ' être infecter
+KEYWORDS ::  oeil homme infecter
+
+il être devenir aveugle
+KEYWORDS ::  devenir aveugle
+
+il avoir mettre un lunettes
+KEYWORDS ::  mettre 
+
+True
+correct: 1
+
+
+
+(45)
+l oiseau ne pouvoir pas voler
+KEYWORDS ::  oiseau pouvoir voler
+
+il avoir émigrer pour l hiver
+KEYWORDS ::  émigrer hiver
+
+il s être blesser à l e aile
+KEYWORDS ::  blesser aile 
+
+False
+correct: 2
+
+
+
+(46)
+le fille avoir faire un voeu
+KEYWORDS ::  fille voeu
+
+il avoir voir un chat noir
+KEYWORDS ::  voir chat noir
+
+il avoir voir un étoile filant
+KEYWORDS ::  voir étoile 
+
+True
+correct: 2
+
+
+
+(47)
+le femme frissonait en sortir de le piscine
+KEYWORDS ::  femme sortir piscine
+
+il s être envelopper dans un serviette
+KEYWORDS ::  envelopper serviette
+
+il s être servir un limonade
+KEYWORDS ::  servir 
+
+False
+correct: 1
+
+
+
+(48)
+l infirmier préparer le seringue pour l e injection de patient
+KEYWORDS ::  infirmier préparer injection patient
+
+le patient saigner
+KEYWORDS ::  patient saigner
+
+le patient il tendre
+KEYWORDS ::  patient tendre 
+
+True
+correct: 2
+
+
+
+(49)
+l homme avoir jeter le pain
+KEYWORDS ::  homme jeter pain
+
+il être frais
+KEYWORDS ::  frais
+
+il être dur
+KEYWORDS ::  dur 
+
+False
+correct: 2
+
+
+
+(50)
+le enfant avoir renverser un lampe
+KEYWORDS ::  enfant renverser lampe
+
+il faire un bataille aller_d oreiller
+KEYWORDS ::  bataille
+
+il sauter sur le lit
+KEYWORDS ::  sauter lit 
+
+True
+correct: 1
+
+
+0.64

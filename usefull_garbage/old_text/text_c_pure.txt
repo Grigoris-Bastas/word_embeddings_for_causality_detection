@@ -1,0 +1,811 @@
+1|48) - si vous n' avez pas de login et de mot de passe( car vous n' êtes pas étudiants INSA par_exemple), ou si le votre ne marche pas( c' est qu' on a mal noté votre nom dans la base de donnée de l' amicale) alors contactez le webmaster de l' amicale: webmaster@amicale-insat.fr rp@amicale-insat.fr la com' RP Inventaires Leclerc par vip, le 15/05/2007 Evitez de vous inscrire sur plusieurs sessions des inventaires s' il vous plaît. 
+
+xxxxxxx>  si~pas{CS~ADV|mod~mod}		car{CC|coord}		être~par_exemple{V~ADV|dep_coord~mod}		Causation
+
+
+xxxxxxx>  si~pas{CS~ADV|mod~mod}		car{CC|coord}		être~par_exemple{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+xxxxxxx>  si~pas{CS~ADV|mod~mod}		car{CC|coord}		être~par_exemple{V~ADV|dep_coord~mod}		Evidence
+
+
+2|87) Si votre commentaire appelle une réponse d' intérêt général, vous trouverez celle-ci sur la page des" questions et réponses", que je vous conseille de lire avant_de poser votre question, car la réponse s' y trouve peut-être déjà, et vous pouvez aussi aller sur la page" plan du site" et utiliser le moteur de recherche. 
+
+------->  trouver{V|root}		car{CC|coord}		trouver~déjà{V~ADV|dep_coord~mod}		Causation
+
+
+------->  trouver{V|root}		car{CC|coord}		trouver~déjà{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  trouver{V|root}		car{CC|coord}		trouver~déjà{V~ADV|dep_coord~mod}		Evidence
+
+
+3|106) Un_peu_plus tard, des dizaines d'_autres immigrés sont amenés aux urgences car un incendie s' est déclaré dans l' atelier clandestin où ils travaillaient. 
+
+------->  dizaine~amener~immigré{NC~VPP~NC|suj~root~mod}		car{CC|coord}		incendie~déclarer{NC~VPP|suj~dep_coord}		Causation
+
+
+------->  dizaine~amener~immigré{NC~VPP~NC|suj~root~mod}		car{CC|coord}		incendie~déclarer{NC~VPP|suj~dep_coord}		FR_Cause_enunciation
+
+
+------->  dizaine~amener~immigré{NC~VPP~NC|suj~root~mod}		car{CC|coord}		incendie~déclarer{NC~VPP|suj~dep_coord}		Evidence
+
+
+4|180) Ce dernier produit est à utiliser avec modération car il attaque les élastiques à la longue. 
+
+------->  produit~être~dernier{NC~V~ADJ|suj~root~mod}		car{CC|coord}		attaquer~élastique{V~NC|dep_coord~obj}		Causation
+
+
+------->  produit~être~dernier{NC~V~ADJ|suj~root~mod}		car{CC|coord}		attaquer~élastique{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  produit~être~dernier{NC~V~ADJ|suj~root~mod}		car{CC|coord}		attaquer~élastique{V~NC|dep_coord~obj}		Evidence
+
+
+5|199) Les types de couches ont des durées de séchage différente, à savoir que les TE1 intégrales sèchent relativement plus longtemps que les couches traditionnelles alors_que pour les TE1 à poche, une ½ journée peut suffire selon la température ambiante, car ces couches ne sont pas confectionnés en tissu absorbant( PUL + polaire en règle générale). 
+
+------->  avoir~durée{V~NC|root~obj}		car{CC|coord}		confectionner~pas{VPP~ADV|dep_coord~mod}		Causation
+
+
+------->  avoir~durée{V~NC|root~obj}		car{CC|coord}		confectionner~pas{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  avoir~durée{V~NC|root~obj}		car{CC|coord}		confectionner~pas{VPP~ADV|dep_coord~mod}		Evidence
+
+
+6|226) Au final, la R19 16s est une voiture équilibrée, confortable et fiable, et abordable à l' achat car moins prisée que sa petite soeur( la Clio 16s) compensant son manque de puissance( relatif) par un comportement routier irréprochable, qui la rend difficile à classer: pas tout_à_fait une GTI et pas tout_à_fait une GT 
+
+------->  être~voiture~confortable{V~NC~ADJ|root~ats~mod}		car{CC|coord}		priser~moins{VPP~ADV|dep_coord~mod}		Causation
+
+
+------->  être~voiture~confortable{V~NC~ADJ|root~ats~mod}		car{CC|coord}		priser~moins{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  être~voiture~confortable{V~NC~ADJ|root~ats~mod}		car{CC|coord}		priser~moins{VPP~ADV|dep_coord~mod}		Evidence
+
+
+7|266) La séance de kiné de ce matin à fait plus_ou_moins de bien, je n' ai eu que séance de massage sans exercices car j' avais des douleurs musculaires. 
+
+------->  avoir~séance{VPP~NC|mod~obj}		car{CC|coord}		avoir~douleur{V~NC|dep_coord~obj}		Causation
+
+
+------->  avoir~séance{VPP~NC|mod~obj}		car{CC|coord}		avoir~douleur{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  avoir~séance{VPP~NC|mod~obj}		car{CC|coord}		avoir~douleur{V~NC|dep_coord~obj}		Evidence
+
+
+8|305) autre question: je travaille en_particulier sur l' information et la communication dans ce lycée car sa taille et sa structure( pour aller au 2ème étage à_partir_du rez-de-chaussée, il faut d'_abord en descendre un, passer par des couloirs interminable avant_de remonter au rez de chaussée, de ressortir pour passer par une autre porte et monter ces deux fameux étages... 
+
+------->  communication{NC|suj}		car{CC|coord}		taille{NC|dep_coord}		Causation
+
+
+------->  communication{NC|suj}		car{CC|coord}		taille{NC|dep_coord}		FR_Cause_enunciation
+
+
+------->  communication{NC|suj}		car{CC|coord}		taille{NC|dep_coord}		Evidence
+
+
+9|309) merci ali de toutes tes lumières, n' hésite pas à m' envoyer par mail toutes les infos( textes) dont tu disposes à mon adresse mail, car il faut croire que même le facteur a peur d' entrer! 
+
+------->  hésiter~pas{V~ADV|root~mod}		car{CC|coord}		falloir~croire{V~VINF|dep_coord~obj}		Causation
+
+
+------->  hésiter~pas{V~ADV|root~mod}		car{CC|coord}		falloir~croire{V~VINF|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  hésiter~pas{V~ADV|root~mod}		car{CC|coord}		falloir~croire{V~VINF|dep_coord~obj}		Evidence
+
+
+10|312) pour ce qui est de cette fameuse réunion du 8, je pense que je ne pourrai pas y être, car ma co- driver ne semble pas décidée, et moi pas permis de conduire et lycée pas vouloir payer train! 
+
+------->  penser{V|root}		car{CC|coord}		décider~pas{VPP~ADV|dep_coord~mod}		Causation
+
+
+------->  penser{V|root}		car{CC|coord}		décider~pas{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  penser{V|root}		car{CC|coord}		décider~pas{VPP~ADV|dep_coord~mod}		Evidence
+
+
+11|371) - Car il est évident qu' il faudra bien adapter les institutions de l' Union. 
+
+12|383) Car si les trois premiers jours sont réservés aux professionnels, dès le 25 novembre, le grand public est invité à découvrir le travail des créateurs du monde entier, qui se sont donnés rendez-vous dans la ville. 
+
+13|390) Je comptes l' emmener cette année sur circuit, car une sortie de route l' année dernière m' a fait comprendre qu' il est bien dangereux de chatouiller les limites sur route ouverte. 
+
+------->  comptes{NC|root}		car{CC|coord}		sortie{NC|dep_coord}		Causation
+
+
+------->  comptes{NC|root}		car{CC|coord}		sortie{NC|dep_coord}		FR_Cause_enunciation
+
+
+------->  comptes{NC|root}		car{CC|coord}		sortie{NC|dep_coord}		Evidence
+
+
+14|407) La forme et la position du front varie avec les nages: plus dur à gérer dans les nages symétriques( Brasse et Papillon), car elle se forme plus fortement en cycle de propulsion, et diminue en cycle de retour des bras. 
+
+------->  varier~dur~plus{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		former~fortement{V~ADV|dep_coord~mod}		Causation
+
+
+------->  varier~dur~plus{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		former~fortement{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  varier~dur~plus{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		former~fortement{V~ADV|dep_coord~mod}		Evidence
+
+
+15|409) Suivant les nages, la pénétration est toujours horizontale( ex. en Papillon ou en Brasse, car les épaules sont stables), ou_bien vrillante( ex. en Crawl ou en Dos, car elle suit les mouvements de rotation des épaules). 
+
+------->  être~ex.{V~ADV|root~mod}		car{CC|coord}		être~ex.{V~ADV|dep_coord~mod}		Causation
+
+
+------->  être~ex.{V~ADV|root~mod}		car{CC|coord}		être~ex.{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  être~ex.{V~ADV|root~mod}		car{CC|coord}		être~ex.{V~ADV|dep_coord~mod}		Evidence
+
+
+------->  être~ex.{V~ADV|dep_coord~mod}		car{CC|coord}		suivre~mouvement{V~NC|dep_coord~obj}		Causation
+
+
+------->  être~ex.{V~ADV|dep_coord~mod}		car{CC|coord}		suivre~mouvement{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  être~ex.{V~ADV|dep_coord~mod}		car{CC|coord}		suivre~mouvement{V~NC|dep_coord~obj}		Evidence
+
+
+16|470) Ainsi, si le dossier scientifique et technique parle des règles d' hygiènes en salles blanche d' hôpital je vais pouvoir construire des cours sur les risques biologiques en VSP car j' aurais parlé de contaminants et de méthodes pour les éradiquer. 
+
+------->  aller~pouvoir~construire{V~VINF~VINF|root~obj~obj}		car{CC|coord}		parler{VPP|dep_coord}		Causation
+
+
+------->  aller~pouvoir~construire{V~VINF~VINF|root~obj~obj}		car{CC|coord}		parler{VPP|dep_coord}		FR_Cause_enunciation
+
+
+------->  aller~pouvoir~construire{V~VINF~VINF|root~obj~obj}		car{CC|coord}		parler{VPP|dep_coord}		Evidence
+
+
+17|531) Construire de nouveaux repères car les informations sur la position de nos membres sont faussées dans l' eau. 
+
+------->  construire~repère{VINF~NC|suj~obj}		car{CC|coord}		information{NC|dep_coord}		Causation
+
+
+------->  construire~repère{VINF~NC|suj~obj}		car{CC|coord}		information{NC|dep_coord}		FR_Cause_enunciation
+
+
+------->  construire~repère{VINF~NC|suj~obj}		car{CC|coord}		information{NC|dep_coord}		Evidence
+
+
+18|562) surtout qu' à ce que je sais, les pinces elles sont pas auto- épinglantes chez moi( et que, même_si un inventeur les créaient, on les achèterait pas car ça serait preuve de fainéantise; 
+
+------->  acheter~pas{V~ADV|obj~mod}		car{CC|coord}		être~preuve{V~NC|dep_coord~ats}		Causation
+
+
+------->  acheter~pas{V~ADV|obj~mod}		car{CC|coord}		être~preuve{V~NC|dep_coord~ats}		FR_Cause_enunciation
+
+
+------->  acheter~pas{V~ADV|obj~mod}		car{CC|coord}		être~preuve{V~NC|dep_coord~ats}		Evidence
+
+
+19|593) De plus je voulais une GTI" old school", et assez dépouillée car le confort était secondaire dans mes critères. 
+
+------->  vouloir~GTI{V~NC|obj~obj}		car{CC|coord}		être~secondaire{V~ADJ|dep_coord~ats}		Causation
+
+
+------->  vouloir~GTI{V~NC|obj~obj}		car{CC|coord}		être~secondaire{V~ADJ|dep_coord~ats}		FR_Cause_enunciation
+
+
+------->  vouloir~GTI{V~NC|obj~obj}		car{CC|coord}		être~secondaire{V~ADJ|dep_coord~ats}		Evidence
+
+
+20|628) Aucun des deux ne semble être gravement blessé, mais Dan confie à Abby qu' il a peur que sa femme ne le tienne pour responsable de l' accident car elle lui reproche déjà la mort de leur premier enfant, décédé de mort blanche. 
+
+------->  peur~avoir{NC~V|suj~mod_rel}		car{CC|coord}		reprocher~mort{V~NC|dep_coord~obj}		Causation
+
+
+------->  peur~avoir{NC~V|suj~mod_rel}		car{CC|coord}		reprocher~mort{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  peur~avoir{NC~V|suj~mod_rel}		car{CC|coord}		reprocher~mort{V~NC|dep_coord~obj}		Evidence
+
+
+21|632) Age: 17 Inscrit le: 14 Oct 2005 Messages: 560 Humeur: Aucun pour le moment Bons amis: Johnny00, Jonas Quinn Sujet: Re: Repartit Dim 10 Sep- 17: 50 Pour info c est moi la source lol et donc je reprend car sheppard a tres mal compris! 
+
+------->  reprendre{V|dep_coord}		car{CC|coord}		avoir~mal{V~NC|dep_coord~obj}		Causation
+
+
+------->  reprendre{V|dep_coord}		car{CC|coord}		avoir~mal{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  reprendre{V|dep_coord}		car{CC|coord}		avoir~mal{V~NC|dep_coord~obj}		Evidence
+
+
+22|634) !) et interdit que SG passe sur un autre chaine car Scifi possède les droit de 1ere diffusion( comme desperate housewives sur Canal +! 
+
+------->  passer{V|obj}		car{CC|coord}		posséder~droit{V~NC|dep_coord~obj}		Causation
+
+
+------->  passer{V|obj}		car{CC|coord}		posséder~droit{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  passer{V|obj}		car{CC|coord}		posséder~droit{V~NC|dep_coord~obj}		Evidence
+
+
+23|638) car cooper( producter) a dit que Stargate va continuer d une forme ou d une autre sinon Scifi a dit que si SG coutait moins cher il accepterait PEUT ETRE une saison 11 Mais bon il on deja des probleme d argent alors si il en recoivent moins :_s _________________ Créateur Calendrier SG Membre Mach creation( FPS sur SG) Paul Davis Sous Lieutenant Age: 16 Inscrit le: 02 Aoû 2006 Messages: 2388 Humeur: délirente Bons amis: J' ai une tête à avoir des amis? 
+
+------->  dire{VPP|mod}		car{CC|coord}		cooper~producter{VINF~NC|dep_coord~mod}		Causation
+
+
+------->  dire{VPP|mod}		car{CC|coord}		cooper~producter{VINF~NC|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  dire{VPP|mod}		car{CC|coord}		cooper~producter{VINF~NC|dep_coord~mod}		Evidence
+
+
+24|699) Dans le cas où vous souhaiteriez apparaître comme partenaires dans la mise en oeuvre de cette recherche, veuillez m' en faire part car je prévois de lister ceux-ci lors_des remerciements préalables à la présentation des résultats. 
+
+------->  apparaître~partenaire{VINF~NC|obj~obj}		car{CC|coord}		prévoir{V|dep_coord}		Causation
+
+
+------->  apparaître~partenaire{VINF~NC|obj~obj}		car{CC|coord}		prévoir{V|dep_coord}		FR_Cause_enunciation
+
+
+------->  apparaître~partenaire{VINF~NC|obj~obj}		car{CC|coord}		prévoir{V|dep_coord}		Evidence
+
+
+25|729) À condition de lui raccorder un casque de qualité car les petits écouteurs fournis effacent les basses. 
+
+26|772) D'_abord un dessin animé que je regardais quand j' étais petite mais apparemment y' a que moi qui m' en souvient, car j' ai essayé de faire des... 
+
+xxxxxxx>  avoir{V|dep_coord}		car{CC|coord}		,{PONCT|ponct}		Causation
+
+
+------->  avoir{V|dep_coord}		car{CC|coord}		essayer{VPP|dep_coord}		Causation
+
+
+xxxxxxx>  avoir{V|dep_coord}		car{CC|coord}		,{PONCT|ponct}		FR_Cause_enunciation
+
+
+------->  avoir{V|dep_coord}		car{CC|coord}		essayer{VPP|dep_coord}		FR_Cause_enunciation
+
+
+xxxxxxx>  avoir{V|dep_coord}		car{CC|coord}		,{PONCT|ponct}		Evidence
+
+
+------->  avoir{V|dep_coord}		car{CC|coord}		essayer{VPP|dep_coord}		Evidence
+
+
+27|774) Mais bon j' en ai acheté qu' une_fois car j' en ai jamais retrouvé en rayon... 
+
+------->  acheter~une_fois~que{VPP~ADV~ADV|root~mod~mod}		car{CC|coord}		retrouver~jamais{VPP~ADV|dep_coord~mod}		Causation
+
+
+------->  acheter~une_fois~que{VPP~ADV~ADV|root~mod~mod}		car{CC|coord}		retrouver~jamais{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  acheter~une_fois~que{VPP~ADV~ADV|root~mod~mod}		car{CC|coord}		retrouver~jamais{VPP~ADV|dep_coord~mod}		Evidence
+
+
+28|792) ! Il vous invite à vous asseoir à côté de lui dans le car. 
+
+29|816) Atlantis a la fin de la saison 3 sera couper de la terre se qui signifie je pense que plus d E2PZ ni de dedale Donc Atlantis sera seul pendant au_moins le debut de la saison 4 Sinon Carter devrai avoir un role soit gros ou petit car elle est toujours sous contrat avec la MGM _________________ Créateur Calendrier SG Membre Mach creation( FPS sur SG) 
+
+------->  devoir~avoir~role{V~VINF~NC|obj~obj~obj}		car{CC|coord}		être~toujours{V~ADV|dep_coord~mod}		Causation
+
+
+------->  devoir~avoir~role{V~VINF~NC|obj~obj~obj}		car{CC|coord}		être~toujours{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  devoir~avoir~role{V~VINF~NC|obj~obj~obj}		car{CC|coord}		être~toujours{V~ADV|dep_coord~mod}		Evidence
+
+
+30|925) Dommage, car elle a pour but de préparer le corps à une activité physique. 
+
+xxxxxxx>  avoir~dommage{V~NC|root~mod}		car{CC|coord}		,{PONCT|ponct}		Causation
+
+
+xxxxxxx>  avoir~dommage{V~NC|root~mod}		car{CC|coord}		,{PONCT|ponct}		FR_Cause_enunciation
+
+
+xxxxxxx>  avoir~dommage{V~NC|root~mod}		car{CC|coord}		,{PONCT|ponct}		Evidence
+
+
+31|991) revue_presse_dieses.pdf Document PDF( 46.7 Ko) reperes_geographique.pdf Document PDF( 62.9 Ko) Soirée Off du Printemps des Etudiants par Yannick, le 24/03/2007 Salut à tous, prenez vos agendas et réservez votre soirée du jeudi 10 mai( c' est dans longtemps, mais c' est toujours mieux d' être prévenu à l' avance), car Le Printemps des Etudiants organise sa soirée off dans la salle de Boom. 
+
+------->  prendre~agenda{V~NC|root~obj}		car{CC|coord}		organiser~soirée{V~NC|dep_coord~obj}		Causation
+
+
+------->  prendre~agenda{V~NC|root~obj}		car{CC|coord}		organiser~soirée{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  prendre~agenda{V~NC|root~obj}		car{CC|coord}		organiser~soirée{V~NC|dep_coord~obj}		Evidence
+
+
+32|1036) Pour conclure on peut dire que ce nouvel outil servira essentiellement à déterminer les tendances générales car seules les requêtes volumineuses sont prises en_compte. 
+
+------->  tendance~général{NC~ADJ|obj~mod}		car{CC|coord}		requête~volumineux{NC~ADJ|dep_coord~mod}		Causation
+
+
+------->  tendance~général{NC~ADJ|obj~mod}		car{CC|coord}		requête~volumineux{NC~ADJ|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  tendance~général{NC~ADJ|obj~mod}		car{CC|coord}		requête~volumineux{NC~ADJ|dep_coord~mod}		Evidence
+
+
+33|1073) Evolution de la vue chez le nourrisson- Essilor Dans les premières semaines de la vie, il est recommandé aux adultes d' adopter des gestes lents, car les yeux du bébé n' organisent pas_encore bien les mouvements rapides... 
+
+------->  recommander{VPP|root}		car{CC|coord}		organiser~mouvement{V~NC|dep_coord~obj}		Causation
+
+
+------->  recommander{VPP|root}		car{CC|coord}		organiser~mouvement{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  recommander{VPP|root}		car{CC|coord}		organiser~mouvement{V~NC|dep_coord~obj}		Evidence
+
+
+34|1087) Le moteur KR est étonnant car il offre réellement un caractère à deux visages. 
+
+------->  être~étonnant{V~ADJ|root~ats}		car{CC|coord}		offrir~caractère{V~NC|dep_coord~obj}		Causation
+
+
+------->  être~étonnant{V~ADJ|root~ats}		car{CC|coord}		offrir~caractère{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  être~étonnant{V~ADJ|root~ats}		car{CC|coord}		offrir~caractère{V~NC|dep_coord~obj}		Evidence
+
+
+35|1094) Je ne le juge ni sur son physique, parce_que sinon voila quoi, ce mec à un pas' d' nez quand meme, ni sur ces actes car rien n' est prouvé et meme si c' était le cas, il reste quand meme à mes yeux un grand feseur de bonnes chanson ^^ Il chante bien, danse bien, je n' écoute pas particulirment ces albums du matin au soir, mais j' aime pas mal de ces chansons. 
+
+------->  mec{NC|suj}		car{CC|coord}		prouver~ne{VPP~ADV|dep_coord~mod}		Causation
+
+
+------->  mec{NC|suj}		car{CC|coord}		prouver~ne{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  mec{NC|suj}		car{CC|coord}		prouver~ne{VPP~ADV|dep_coord~mod}		Evidence
+
+
+36|1095) tchô lea13 Débutant Inscrit le: 31 Mai 2007 Messages: 16 Sujet: Re: Michael Jackson Ven 1 Juin- 15: 16 Slt ben jai mit" indifférent" car je ne m' occupe pas trop de lui... 
+
+------->  sujet~15{NC~ADJ|root~mod}		car{CC|coord}		occuper~trop{V~ADV|dep_coord~mod}		Causation
+
+
+------->  sujet~15{NC~ADJ|root~mod}		car{CC|coord}		occuper~trop{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  sujet~15{NC~ADJ|root~mod}		car{CC|coord}		occuper~trop{V~ADV|dep_coord~mod}		Evidence
+
+
+37|1170) Le règlement des conflits constitue la meilleure garantie de la liberté de conscience et de religion qui doit être défendue et réaffirmée, car la diversité des cultures et leur coexistence sont la condition d' un avenir de paix et de prospérité. 
+
+------->  constituer~garantie~meilleur{V~NC~ADJ|root~obj~mod}		car{CC|coord}		être~condition{V~NC|dep_coord~ats}		Causation
+
+
+------->  constituer~garantie~meilleur{V~NC~ADJ|root~obj~mod}		car{CC|coord}		être~condition{V~NC|dep_coord~ats}		FR_Cause_enunciation
+
+
+------->  constituer~garantie~meilleur{V~NC~ADJ|root~obj~mod}		car{CC|coord}		être~condition{V~NC|dep_coord~ats}		Evidence
+
+
+38|1181) Il est facile à comprendre car il convient à mon âge. 
+
+------->  être~facile{V~ADJ|root~ats}		car{CC|coord}		convenir{V|dep_coord}		Causation
+
+
+------->  être~facile{V~ADJ|root~ats}		car{CC|coord}		convenir{V|dep_coord}		FR_Cause_enunciation
+
+
+------->  être~facile{V~ADJ|root~ats}		car{CC|coord}		convenir{V|dep_coord}		Evidence
+
+
+39|1193) - Avis: Ce livre est intéressant, ce sont des histoires d' horreurs, qui donne la chair de poule, dans un livre à ne_pas lire trop souvent, car il fait peur. 
+
+------->  être~histoire{V~NC|mod~ats}		car{CC|coord}		faire~peur{V~NC|dep_coord~obj}		Causation
+
+
+------->  être~histoire{V~NC|mod~ats}		car{CC|coord}		faire~peur{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  être~histoire{V~NC|mod~ats}		car{CC|coord}		faire~peur{V~NC|dep_coord~obj}		Evidence
+
+
+40|1197) Ce livre est très intéressant car il_y_a d' avantage d' histoires différentes et plus courtes. 
+
+------->  être~intéressant~très{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		il_y_a{V|dep_coord}		Causation
+
+
+------->  être~intéressant~très{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		il_y_a{V|dep_coord}		FR_Cause_enunciation
+
+
+------->  être~intéressant~très{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		il_y_a{V|dep_coord}		Evidence
+
+
+41|1198) Mais un jour, il a vraiment trop rajeunit car il est redevenu un bébé, alors le petit garçon appela sa copine et ils s' en occupèrent. 
+
+------->  rajeunir~trop{V~ADV|dep_coord~mod}		car{CC|coord}		redevenir~bébé{VPP~NC|dep_coord~obj}		Causation
+
+
+------->  rajeunir~trop{V~ADV|dep_coord~mod}		car{CC|coord}		redevenir~bébé{VPP~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  rajeunir~trop{V~ADV|dep_coord~mod}		car{CC|coord}		redevenir~bébé{VPP~NC|dep_coord~obj}		Evidence
+
+
+42|1200) - Avis: Ce livre est très bien car j' aime les bébés. 
+
+------->  être~bien~très{V~ADV~ADV|root~mod~mod}		car{CC|coord}		aimer~bébé{V~NC|dep_coord~obj}		Causation
+
+
+------->  être~bien~très{V~ADV~ADV|root~mod~mod}		car{CC|coord}		aimer~bébé{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  être~bien~très{V~ADV~ADV|root~mod~mod}		car{CC|coord}		aimer~bébé{V~NC|dep_coord~obj}		Evidence
+
+
+43|1205) à quel age se déclare une femelle a la chasse car ma kortal a 1 et 1/2 elle ne s' intéresse pas du tous a la chasse. 
+
+------->  chasse{NC|obj}		car{CC|coord}		kortal{NC|dep_coord}		Causation
+
+
+------->  chasse{NC|obj}		car{CC|coord}		kortal{NC|dep_coord}		FR_Cause_enunciation
+
+
+------->  chasse{NC|obj}		car{CC|coord}		kortal{NC|dep_coord}		Evidence
+
+
+44|1206) car j' adore ma chienne mais j' aimerai quel s' intéresse à la chasse. 
+
+45|1207) josephine Dimanche 30 Juillet 2006_18: 02 je recommande vivement à toutes les personnes désirant etre propriétaire de chiens de suivre des cours de dressage, ou l' on éduque essentiellement le maitre, cela permettra de beaucoup apprendre sur vous meme, il faut souvent se remettre en_question car le chien nous testera toujours. 
+
+------->  falloir~remettre~en_question{V~VINF~ADV|mod~obj~mod}		car{CC|coord}		tester~toujours{V~ADV|dep_coord~mod}		Causation
+
+
+------->  falloir~remettre~en_question{V~VINF~ADV|mod~obj~mod}		car{CC|coord}		tester~toujours{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  falloir~remettre~en_question{V~VINF~ADV|mod~obj~mod}		car{CC|coord}		tester~toujours{V~ADV|dep_coord~mod}		Evidence
+
+
+46|1211) la fin de la rubrique quelle poisson prennez -vous m' a fait penser a ceci car on ne prend pas toujour ce que l' on voudrai prendre pour ma part j' aime prendre du poisson combatif et etre toujour a la limite quand ca ne tien qu' a un fil qui peu casser a la moindre mauvaise maneuvre Fisher24 Administrateur Age: 26 Inscrit le: 20 Nov 2006 Messages: 2490 Localisation: Mussidan( 24) Prénom: Laurent Sujet: Re: quelle poisson preferez -vous prendre Jeu 25 Oct- 17: 59 Question difficile mais je pense que ma réponse est la carpe( que ce soit au coup ou en batterie). 
+
+------->  avoir~inscrit~localisation{V~NC~NC|root~obj~mod}		car{CC|coord}		prendre~toujour{V~ADV|dep_coord~mod}		Causation
+
+
+------->  avoir~inscrit~localisation{V~NC~NC|root~obj~mod}		car{CC|coord}		prendre~toujour{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  avoir~inscrit~localisation{V~NC~NC|root~obj~mod}		car{CC|coord}		prendre~toujour{V~ADV|dep_coord~mod}		Evidence
+
+
+47|1219) Résultat: vous cherchez à gagner de l' argent mais vous en perdez avec une méthode qui en fait n' a rien de miraculeux car elle ne fonctionne pas. 
+
+------->  avoir~ne{V~ADV|aux_pass~mod}		car{CC|coord}		fonctionner~pas{V~ADV|dep_coord~mod}		Causation
+
+
+------->  avoir~ne{V~ADV|aux_pass~mod}		car{CC|coord}		fonctionner~pas{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  avoir~ne{V~ADV|aux_pass~mod}		car{CC|coord}		fonctionner~pas{V~ADV|dep_coord~mod}		Evidence
+
+
+48|1293) Vous rencontrez un clown qui se marre bien car vous avez déjoué les pièges de son ennemi Monsieur Patate. 
+
+------->  marrer~bien{V~ADV|mod_rel~mod}		car{CC|coord}		déjouer~piège{VPP~NC|dep_coord~obj}		Causation
+
+
+------->  marrer~bien{V~ADV|mod_rel~mod}		car{CC|coord}		déjouer~piège{VPP~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  marrer~bien{V~ADV|mod_rel~mod}		car{CC|coord}		déjouer~piège{VPP~NC|dep_coord~obj}		Evidence
+
+
+49|1340) Wilde cheyenne9786 Age: 21 Inscrit le: 07 Aoû 2007 Messages: 579 Localisation: Méounes les Montrieux Var 83 Sujet: Re: Enrenement pessoa Mar 11 Sep- 9: 56 C' etait un simple question, merci de vos reponse, c' est vrai Articia tu a raison surtout qu' en ce moment je lui ai augmenté les dose car il avait serieusement perdu de l' etat! 
+
+------->  être~surtout{V~ADV|mod~mod}		car{CC|coord}		perdre~serieusement{VPP~ADV|dep_coord~mod}		Causation
+
+
+------->  être~surtout{V~ADV|mod~mod}		car{CC|coord}		perdre~serieusement{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  être~surtout{V~ADV|mod~mod}		car{CC|coord}		perdre~serieusement{VPP~ADV|dep_coord~mod}		Evidence
+
+
+50|1341) Je ne suis pas non_plus adepte des enrenements mais j' avoue que cet enrenement sur MON cheval( je dit mon car c' est pas forcement valable sur tout les chevaux) a fait de veritable merveilles! 
+
+------->  dire{V|obj}		car{CC|coord}		être~forcement{V~NC|dep_coord~ats}		Causation
+
+
+------->  dire{V|obj}		car{CC|coord}		être~forcement{V~NC|dep_coord~ats}		FR_Cause_enunciation
+
+
+------->  dire{V|obj}		car{CC|coord}		être~forcement{V~NC|dep_coord~ats}		Evidence
+
+
+51|1401) ), je me suis mise en quête d' une 205 GTI, car elle correspondait le plus à ce que je recherchais: une voiture authentique, à l' ancienne, avec un moteur bien présent et efficace. 
+
+------->  mettre{VPP|root}		car{CC|coord}		correspondre~voiture{V~NC|dep_coord~obj}		Causation
+
+
+------->  mettre{VPP|root}		car{CC|coord}		correspondre~voiture{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  mettre{VPP|root}		car{CC|coord}		correspondre~voiture{V~NC|dep_coord~obj}		Evidence
+
+
+52|1411) L' e-tourisme en bref Les Français sont de_plus_en_plus adeptes d' Internet pour acheter ou chercher des informations sur leurs voyages car pr ès de 3 internautes sur 5 achètent leurs voyages sur Internet( mai 2007). 
+
+xxxxxxx>  sur~voyage{P~NC|dep~obj}		car{CC|coord}		pour~ès{P~NC|dep_coord~obj}		Causation
+
+
+xxxxxxx>  sur~voyage{P~NC|dep~obj}		car{CC|coord}		pour~ès{P~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+xxxxxxx>  sur~voyage{P~NC|dep~obj}		car{CC|coord}		pour~ès{P~NC|dep_coord~obj}		Evidence
+
+
+53|1428) Utile car les touches sensitives sont capricieuses. 
+
+54|1430) Côté réseaux, l' E950 décevra les clients SFR car il fait l' impasse sur la 3G. 
+
+------->  décevoir~client{V~NC|root~obj}		car{CC|coord}		faire~impasse{V~NC|dep_coord~obj}		Causation
+
+
+------->  décevoir~client{V~NC|root~obj}		car{CC|coord}		faire~impasse{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  décevoir~client{V~NC|root~obj}		car{CC|coord}		faire~impasse{V~NC|dep_coord~obj}		Evidence
+
+
+55|1437) ( remarque importante: Je ne tiens pas à polémiquer et encore moins à dire de quel blog il s' agit, car cela représente un détail[... 
+
+------->  remarquer~important{V~ADJ|root~ats}		car{CC|coord}		représenter~détail{V~NC|dep_coord~obj}		Causation
+
+
+------->  remarquer~important{V~ADJ|root~ats}		car{CC|coord}		représenter~détail{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  remarquer~important{V~ADJ|root~ats}		car{CC|coord}		représenter~détail{V~NC|dep_coord~obj}		Evidence
+
+
+56|1461) Je ne repasserai que ce soir( après le foot) car je travaille cette après midi( et oui, il n' y a pas que les" boulangères" qui bossent le week-end! 
+
+------->  soir{NC|root}		car{CC|coord}		travailler{V|dep_coord}		Causation
+
+
+------->  soir{NC|root}		car{CC|coord}		travailler{V|dep_coord}		FR_Cause_enunciation
+
+
+------->  soir{NC|root}		car{CC|coord}		travailler{V|dep_coord}		Evidence
+
+
+57|1510) « Ces machines se vendent à_travers le monde car elles allient innovation, technologie, flexibilité et haute cadence» ajoute L. 
+
+------->  machine~vendre{NC~V|suj~root}		car{CC|coord}		allier~technologie{V~NC|dep_coord~obj}		Causation
+
+
+------->  machine~vendre{NC~V|suj~root}		car{CC|coord}		allier~technologie{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  machine~vendre{NC~V|suj~root}		car{CC|coord}		allier~technologie{V~NC|dep_coord~obj}		Evidence
+
+
+58|1518) Les hommes proposent, Dieu dispose Le docteur Peter Benton arrive à l' hôpital totalement affolé car l' état de santé de sa mère ne s' est pas amélioré et il est conscient de son impuissance pour pouvoir la soulager. 
+
+------->  homme~proposer{NC~V|suj~root}		car{CC|coord}		améliorer~pas{VPP~ADV|dep_coord~mod}		Causation
+
+
+------->  homme~proposer{NC~V|suj~root}		car{CC|coord}		améliorer~pas{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  homme~proposer{NC~V|suj~root}		car{CC|coord}		améliorer~pas{VPP~ADV|dep_coord~mod}		Evidence
+
+
+59|1519) Ross est serein car sa relation avec Diane s' est stabilisée. 
+
+------->  être~serein{V~ADJ|root~ats}		car{CC|coord}		relation~stabiliser{NC~VPP|suj~dep_coord}		Causation
+
+
+------->  être~serein{V~ADJ|root~ats}		car{CC|coord}		relation~stabiliser{NC~VPP|suj~dep_coord}		FR_Cause_enunciation
+
+
+------->  être~serein{V~ADJ|root~ats}		car{CC|coord}		relation~stabiliser{NC~VPP|suj~dep_coord}		Evidence
+
+
+60|1638) Il était vital pour moi de faire cet album, c' est ma carte d' identité car je me sens profondément malgache. 
+
+------->  être~carte{V~NC|mod~ats}		car{CC|coord}		sentir~malgache{V~NC|dep_coord~obj}		Causation
+
+
+------->  être~carte{V~NC|mod~ats}		car{CC|coord}		sentir~malgache{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  être~carte{V~NC|mod~ats}		car{CC|coord}		sentir~malgache{V~NC|dep_coord~obj}		Evidence
+
+
+61|1647) Donc demain matin on va essayer de passer à l' agence, si on a le temps car demain on récupère notre nouvelle voiture( trop bien ça aussi). 
+
+------->  avoir~temps{V~NC|obj~obj}		car{CC|coord}		récupérer~voiture{V~NC|dep_coord~obj}		Causation
+
+
+------->  avoir~temps{V~NC|obj~obj}		car{CC|coord}		récupérer~voiture{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  avoir~temps{V~NC|obj~obj}		car{CC|coord}		récupérer~voiture{V~NC|dep_coord~obj}		Evidence
+
+
+62|1766) 1.200,00 EUR 28-Jan-08 échange voiture sans permis 2 place diesel contre varadero 125 bonjour je possedes une jolie voitue sans permis 2 place deisel 1989 de marque belier il_y_a les machore de frain av ar a fair .ou si non elle demare au car de tour mais, je me la fais pas rouler car... 
+
+xxxxxxx>  à~demare{P+D~ADV|mod~mod}		car{CC|coord}		de~tour{P~NC|dep_coord~obj}		Causation
+
+
+xxxxxxx>  à~demare{P+D~ADV|mod~mod}		car{CC|coord}		de~tour{P~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+xxxxxxx>  à~demare{P+D~ADV|mod~mod}		car{CC|coord}		de~tour{P~NC|dep_coord~obj}		Evidence
+
+
+xxxxxxx>  rouler{VINF|obj}		car{CC|coord}		...{PONCT|ponct}		Causation
+
+
+xxxxxxx>  rouler{VINF|obj}		car{CC|coord}		...{PONCT|ponct}		FR_Cause_enunciation
+
+
+xxxxxxx>  rouler{VINF|obj}		car{CC|coord}		...{PONCT|ponct}		Evidence
+
+
+63|1788) Le Marimastat serait efficace car il inhibe la metalloproteinase 9 responsable de certains glioblastomes primaires. 
+
+------->  être~efficace{V~ADJ|root~ats}		car{CC|coord}		inhiber~metalloproteinase{V~NC|dep_coord~obj}		Causation
+
+
+------->  être~efficace{V~ADJ|root~ats}		car{CC|coord}		inhiber~metalloproteinase{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  être~efficace{V~ADJ|root~ats}		car{CC|coord}		inhiber~metalloproteinase{V~NC|dep_coord~obj}		Evidence
+
+
+64|1809) Il semble donc que, lorsque chacun reste à sa place, la relation affective entraîneur/ entraîné qui s' installe, est propice au développement personnel du nageur et à la performance car elle n' est pas parasitée par des intérêts personnels, par des prises de pouvoirs abusives ou par des comportements affectifs périphériques. 
+
+------->  sembler~donc{V~ADV|root~mod}		car{CC|coord}		parasiter~pas{VPP~ADV|dep_coord~mod}		Causation
+
+
+------->  sembler~donc{V~ADV|root~mod}		car{CC|coord}		parasiter~pas{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  sembler~donc{V~ADV|root~mod}		car{CC|coord}		parasiter~pas{VPP~ADV|dep_coord~mod}		Evidence
+
+
+65|1870) Cela me semble jouable car ma femme semble vraiment apprécier l' auto. 
+
+------->  sembler~jouable{V~ADJ|root~ats}		car{CC|coord}		sembler~apprécier{V~VINF|dep_coord~ats}		Causation
+
+
+------->  sembler~jouable{V~ADJ|root~ats}		car{CC|coord}		sembler~apprécier{V~VINF|dep_coord~ats}		FR_Cause_enunciation
+
+
+------->  sembler~jouable{V~ADJ|root~ats}		car{CC|coord}		sembler~apprécier{V~VINF|dep_coord~ats}		Evidence
+
+
+66|1890) Enfin bon, je te remercie quand même car tu auras eu au_moins le mérite de remettre un_peu d' animation sur ce forum qui avait tendance à s' endormir un_peu. 
+
+xxxxxxx>  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		même{ADV|mod}		Causation
+
+
+------->  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		taire~aura{VPP~NC|dep_coord~mod}		Causation
+
+
+xxxxxxx>  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		même{ADV|mod}		FR_Cause_enunciation
+
+
+------->  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		taire~aura{VPP~NC|dep_coord~mod}		FR_Cause_enunciation
+
+
+xxxxxxx>  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		même{ADV|mod}		Evidence
+
+
+------->  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		taire~aura{VPP~NC|dep_coord~mod}		Evidence
+
+
+67|1918) Car si c' est le cas, pourquoi Mission-Pêche, par l' intermédiaire de ses membres, ne tenterait -il pas une campagne de ré-empoissonnement dans des lieux stratégiques? 
+
+68|1925) comme j' ai dit, peut-etre que ce n' ai pas partout pareil et que ton departement a des ruisseaux a la fois gérés par des APP et comme tu le dit pollués mais chez nous aussi rappelle toi que je suis dans le sud-ouest et que chez nous aussi nous avons un gros probleme d' eau lolo pourras te le confirmé lui qui habite à peu prés à 100 kms de chez moi maintenant si notre idées prend forme et que nous puissions faire quelques choses il te faudra surement allé voir des petites APP qui, je le pense te suivrons car ce serais une tres bonne chose pour eux( a voir) maintenant; 
+
+------->  suivre~confirmer{V~VPP|root~obj}		car{CC|coord}		être~voir{V~VINF|dep_coord~obj}		Causation
+
+
+------->  suivre~confirmer{V~VPP|root~obj}		car{CC|coord}		être~voir{V~VINF|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  suivre~confirmer{V~VPP|root~obj}		car{CC|coord}		être~voir{V~VINF|dep_coord~obj}		Evidence
+
+
+69|1927) mais peut-etre etait il occupé et le ferat plus_tard je parle de roland car j' aime ces dire! 
+
+------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		Causation
+
+
+------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		Evidence
+
+
+70|1947) mais peut-etre etait il occupé et le ferat plus_tard je parle de roland car j' aime ces dire! 
+
+------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		Causation
+
+
+------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		Evidence
+
+
+71|1973) Je le conseille à tous .. même au débutant, car ce jeu apprend même les bases du poker aux joueurs débutants. 
+
+------->  conseiller{V|root}		car{CC|coord}		apprendre~base{V~NC|dep_coord~obj}		Causation
+
+
+------->  conseiller{V|root}		car{CC|coord}		apprendre~base{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  conseiller{V|root}		car{CC|coord}		apprendre~base{V~NC|dep_coord~obj}		Evidence
+
+
+72|2007) Aucun barrage économique n'a été levé, car c'est la seule arme qui leur reste pour peser encore sur le cours de l'histoire et se faire entendre. 
+
+xxxxxxx>  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		c'est{ADV|mod}		Causation
+
+
+------->  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		arme~seul{NC~ADJ|dep_coord~mod}		Causation
+
+
+xxxxxxx>  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		c'est{ADV|mod}		FR_Cause_enunciation
+
+
+------->  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		arme~seul{NC~ADJ|dep_coord~mod}		FR_Cause_enunciation
+
+
+xxxxxxx>  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		c'est{ADV|mod}		Evidence
+
+
+------->  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		arme~seul{NC~ADJ|dep_coord~mod}		Evidence
+
+
+73|2067) Choix des verres et des lunettes de vue chez l' opticien- Varilux Avant_d' aller choisir vos futures chez votre opticien, vous devez penser: A la monture, qui doit être choisie en_fonction_de vos goûts mais également selon la morphologie de votre visage .. Aux verres, ils doivent retenir toute votre attention car ils prennent en_compte non_seulement vos goûts, mais aussi l' esthétique, l' utilisation que vous souhaitez faire de vos et bien_sûr votre correction .. 2. 
+
+------->  devoir~retenir~attention{V~VINF~NC|root~obj~obj}		car{CC|coord}		prendre~utilisation{V~NC|dep_coord~obj}		Causation
+
+
+------->  devoir~retenir~attention{V~VINF~NC|root~obj~obj}		car{CC|coord}		prendre~utilisation{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  devoir~retenir~attention{V~VINF~NC|root~obj~obj}		car{CC|coord}		prendre~utilisation{V~NC|dep_coord~obj}		Evidence
+
+
+74|2113) Mon général, Lorsque je vous ai nommé à_la_tête_des armées françaises, le 30 octobre 2002, c' était en toute confiance, car j' avais eu l' occasion d' apprécier la fermeté de votre caractère, la hauteur de vos vues, votre sens de l' Etat. 
+
+------->  général{NC|root}		car{CC|coord}		avoir~occasion{VPP~NC|dep_coord~obj}		Causation
+
+
+------->  général{NC|root}		car{CC|coord}		avoir~occasion{VPP~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  général{NC|root}		car{CC|coord}		avoir~occasion{VPP~NC|dep_coord~obj}		Evidence
+
+
+75|2129) « Car notre but est de sensibiliser le maximum d' acteurs à l' écologie et au développement durable» poursuit -elle. 
+
+76|2182) Mais le grand singe ne voulait pas m' aider car il trouvait que c' était trop dangereux pour un enfant d' aller sur l' île du dragon. 
+
+------->  vouloir~aider{V~VINF|dep_coord~obj}		car{CC|coord}		trouver{V|dep_coord}		Causation
+
+
+------->  vouloir~aider{V~VINF|dep_coord~obj}		car{CC|coord}		trouver{V|dep_coord}		FR_Cause_enunciation
+
+
+------->  vouloir~aider{V~VINF|dep_coord~obj}		car{CC|coord}		trouver{V|dep_coord}		Evidence
+
+
+77|2186) car je suis toujours tout seul, tout le monde a peur de moi. 
+

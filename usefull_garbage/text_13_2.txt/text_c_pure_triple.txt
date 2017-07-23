@@ -1,0 +1,458 @@
+1|48) - si vous n' avez pas de login et de mot de passe( car vous n' êtes pas étudiants INSA par_exemple), ou si le votre ne marche pas( c' est qu' on a mal noté votre nom dans la base de donnée de l' amicale) alors contactez le webmaster de l' amicale: webmaster@amicale-insat.fr rp@amicale-insat.fr la com' RP Inventaires Leclerc par vip, le 15/05/2007 Evitez de vous inscrire sur plusieurs sessions des inventaires s' il vous plaît. 
+
+xxxxxxx>  si{CS|mod}		car{CC|coord}		être{V|dep_coord}		
+
+
+2|97) Si votre commentaire appelle une réponse d' intérêt général, vous trouverez celle-ci sur la page des" questions et réponses", que je vous conseille de lire avant_de poser votre question, car la réponse s' y trouve peut-être déjà, et vous pouvez aussi aller sur la page" plan du site" et utiliser le moteur de recherche. 
+
+xxxxxxx>  trouver{V|root}		car{CC|coord}		trouver{V|dep_coord}		
+
+
+3|111) Un_peu_plus tard, des dizaines d'_autres immigrés sont amenés aux urgences car un incendie s' est déclaré dans l' atelier clandestin où ils travaillaient. 
+
+xxxxxxx>  amener~dizaine{VPP~NC|root~suj}		car{CC|coord}		déclarer{VPP|dep_coord}		
+
+
+4|193) Ce dernier produit est à utiliser avec modération car il attaque les élastiques à la longue. 
+
+xxxxxxx>  être{V|root}		car{CC|coord}		attaquer{V|dep_coord}		
+
+
+5|211) Les types de couches ont des durées de séchage différente, à savoir que les TE1 intégrales sèchent relativement plus longtemps que les couches traditionnelles alors_que pour les TE1 à poche, une ½ journée peut suffire selon la température ambiante, car ces couches ne sont pas confectionnés en tissu absorbant( PUL + polaire en règle générale). 
+
+xxxxxxx>  avoir~durée{V~NC|root~obj}		car{CC|coord}		confectionner{VPP|dep_coord}		
+
+
+6|235) Au final, la R19 16s est une voiture équilibrée, confortable et fiable, et abordable à l' achat car moins prisée que sa petite soeur( la Clio 16s) compensant son manque de puissance( relatif) par un comportement routier irréprochable, qui la rend difficile à classer: pas tout_à_fait une GTI et pas tout_à_fait une GT 
+
+xxxxxxx>  être~GTI{V~NC|root~ats}		car{CC|coord}		priser{VPP|dep_coord}		
+
+
+7|276) La séance de kiné de ce matin à fait plus_ou_moins de bien, je n' ai eu que séance de massage sans exercices car j' avais des douleurs musculaires. 
+
+xxxxxxx>  avoir~séance{VPP~NC|mod~obj}		car{CC|coord}		avoir{V|dep_coord}		
+
+
+8|319) autre question: je travaille en_particulier sur l' information et la communication dans ce lycée car sa taille et sa structure( pour aller au 2ème étage à_partir_du rez-de-chaussée, il faut d'_abord en descendre un, passer par des couloirs interminable avant_de remonter au rez de chaussée, de ressortir pour passer par une autre porte et monter ces deux fameux étages... 
+
+------->  communication{NC|suj}		car{CC|coord}		taille{NC|dep_coord}		
+
+
+9|322) merci ali de toutes tes lumières, n' hésite pas à m' envoyer par mail toutes les infos( textes) dont tu disposes à mon adresse mail, car il faut croire que même le facteur a peur d' entrer! 
+
+xxxxxxx>  hésiter~merci{V~NC|root~mod}		car{CC|coord}		falloir{V|dep_coord}		
+
+
+10|328) pour ce qui est de cette fameuse réunion du 8, je pense que je ne pourrai pas y être, car ma co- driver ne semble pas décidée, et moi pas permis de conduire et lycée pas vouloir payer train! 
+
+xxxxxxx>  penser{V|root}		car{CC|coord}		décider{VPP|dep_coord}		
+
+
+11|411) - Car il est évident qu' il faudra bien adapter les institutions de l' Union. 
+
+12|423) Car si les trois premiers jours sont réservés aux professionnels, dès le 25 novembre, le grand public est invité à découvrir le travail des créateurs du monde entier, qui se sont donnés rendez-vous dans la ville. 
+
+13|434) Je comptes l' emmener cette année sur circuit, car une sortie de route l' année dernière m' a fait comprendre qu' il est bien dangereux de chatouiller les limites sur route ouverte. 
+
+------->  comptes{NC|root}		car{CC|coord}		sortie{NC|dep_coord}		
+
+
+14|460) La forme et la position du front varie avec les nages: plus dur à gérer dans les nages symétriques( Brasse et Papillon), car elle se forme plus fortement en cycle de propulsion, et diminue en cycle de retour des bras. 
+
+xxxxxxx>  varier~dur{V~ADJ|root~ats}		car{CC|coord}		former{V|dep_coord}		
+
+
+15|466) Suivant les nages, la pénétration est toujours horizontale( ex. en Papillon ou en Brasse, car les épaules sont stables), ou_bien vrillante( ex. en Crawl ou en Dos, car elle suit les mouvements de rotation des épaules). 
+
+xxxxxxx>  être~horizontal{V~ADJ|root~ats}		car{CC|coord}		être{V|dep_coord}		
+
+
+xxxxxxx>  être~stable{V~ADJ|dep_coord~ats}		car{CC|coord}		suivre{V|dep_coord}		
+
+
+16|466) Suivant les nages, la pénétration est toujours horizontale( ex. en Papillon ou en Brasse, car les épaules sont stables), ou_bien vrillante( ex. en Crawl ou en Dos, car elle suit les mouvements de rotation des épaules). 
+
+xxxxxxx>  être~horizontal~pénétration{V~ADJ~NC|root~ats~suj}		car{CC|coord}		être~stable{V~ADJ|dep_coord~ats}		
+
+
+xxxxxxx>  être~stable~épaule{V~ADJ~NC|dep_coord~ats~suj}		car{CC|coord}		suivre{V|dep_coord}		
+
+
+17|530) Ainsi, si le dossier scientifique et technique parle des règles d' hygiènes en salles blanche d' hôpital je vais pouvoir construire des cours sur les risques biologiques en VSP car j' aurais parlé de contaminants et de méthodes pour les éradiquer. 
+
+xxxxxxx>  aller{V|root}		car{CC|coord}		parler{VPP|dep_coord}		
+
+
+18|594) Construire de nouveaux repères car les informations sur la position de nos membres sont faussées dans l' eau. 
+
+------->  construire{VINF|suj}		car{CC|coord}		information{NC|dep_coord}		
+
+
+19|637) surtout qu' à ce que je sais, les pinces elles sont pas auto- épinglantes chez moi( et que, même_si un inventeur les créaient, on les achèterait pas car ça serait preuve de fainéantise; 
+
+xxxxxxx>  acheter{V|obj}		car{CC|coord}		être{V|dep_coord}		
+
+
+20|663) De plus je voulais une GTI" old school", et assez dépouillée car le confort était secondaire dans mes critères. 
+
+xxxxxxx>  vouloir~GTI{V~NC|obj~obj}		car{CC|coord}		être{V|dep_coord}		
+
+
+21|698) Aucun des deux ne semble être gravement blessé, mais Dan confie à Abby qu' il a peur que sa femme ne le tienne pour responsable de l' accident car elle lui reproche déjà la mort de leur premier enfant, décédé de mort blanche. 
+
+xxxxxxx>  avoir~peur{V~NC|mod_rel~suj}		car{CC|coord}		reprocher{V|dep_coord}		
+
+
+22|701) Age: 17 Inscrit le: 14 Oct 2005 Messages: 560 Humeur: Aucun pour le moment Bons amis: Johnny00, Jonas Quinn Sujet: Re: Repartit Dim 10 Sep- 17: 50 Pour info c est moi la source lol et donc je reprend car sheppard a tres mal compris! 
+
+xxxxxxx>  reprendre{V|dep_coord}		car{CC|coord}		avoir{V|dep_coord}		
+
+
+23|703) !) et interdit que SG passe sur un autre chaine car Scifi possède les droit de 1ere diffusion( comme desperate housewives sur Canal +! 
+
+xxxxxxx>  passer{V|obj}		car{CC|coord}		posséder{V|dep_coord}		
+
+
+24|707) car cooper( producter) a dit que Stargate va continuer d une forme ou d une autre sinon Scifi a dit que si SG coutait moins cher il accepterait PEUT ETRE une saison 11 Mais bon il on deja des probleme d argent alors si il en recoivent moins :_s _________________ Créateur Calendrier SG Membre Mach creation( FPS sur SG) Paul Davis Sous Lieutenant Age: 16 Inscrit le: 02 Aoû 2006 Messages: 2388 Humeur: délirente Bons amis: J' ai une tête à avoir des amis? 
+
+xxxxxxx>  dire{VPP|mod}		car{CC|coord}		cooper{VINF|dep_coord}		
+
+
+25|778) Dans le cas où vous souhaiteriez apparaître comme partenaires dans la mise en oeuvre de cette recherche, veuillez m' en faire part car je prévois de lister ceux-ci lors_des remerciements préalables à la présentation des résultats. 
+
+xxxxxxx>  apparaître{VINF|obj}		car{CC|coord}		prévoir{V|dep_coord}		
+
+
+26|816) À condition de lui raccorder un casque de qualité car les petits écouteurs fournis effacent les basses. 
+
+27|862) D'_abord un dessin animé que je regardais quand j' étais petite mais apparemment y' a que moi qui m' en souvient, car j' ai essayé de faire des... 
+
+xxxxxxx>  avoir{V|dep_coord}		car{CC|coord}		,{PONCT|ponct}		
+
+
+xxxxxxx>  avoir{V|dep_coord}		car{CC|coord}		essayer{VPP|dep_coord}		
+
+
+28|864) Mais bon j' en ai acheté qu' une_fois car j' en ai jamais retrouvé en rayon... 
+
+xxxxxxx>  acheter{VPP|root}		car{CC|coord}		retrouver{VPP|dep_coord}		
+
+
+29|884) ! Il vous invite à vous asseoir à côté de lui dans le car. 
+
+30|918) Atlantis a la fin de la saison 3 sera couper de la terre se qui signifie je pense que plus d E2PZ ni de dedale Donc Atlantis sera seul pendant au_moins le debut de la saison 4 Sinon Carter devrai avoir un role soit gros ou petit car elle est toujours sous contrat avec la MGM _________________ Créateur Calendrier SG Membre Mach creation( FPS sur SG) 
+
+xxxxxxx>  devoir{V|obj}		car{CC|coord}		être{V|dep_coord}		
+
+
+31|1018) Dommage, car elle a pour but de préparer le corps à une activité physique. 
+
+xxxxxxx>  avoir~dommage{V~NC|root~mod}		car{CC|coord}		,{PONCT|ponct}		
+
+
+32|1071) )- Lautréamont( que j' ai déjà cité)- Edgard Poe( à lire en VO ou traduit par Baudelaire, c' est toujours bien)- Voltaire( j' aime, j' adore, l' impertinence par excellence)- Lovecraft( je sais pas si tu le range au rang des classiques mais bon)- Oscar Wilde( surtout pour' Le Portrait De Dorian Gray' qui est magnifique en VO)- Tolkien( quand ma passion pour les mythologies rencontre ma passion pour la littérature)- Antonin Artaud( que je préfère de_loin à Breton dans le mouvement surréaliste) Il y en a d'_autres mais j' ai pas tout en tête là, disons que c' est ce qui m' a le plus marqué _________________ Total Support To WATAIN! 
+
+xxxxxxx>  adorer~passion{V~NC|mod~obj}		Oscar{NPP|mod}		Wilde{NPP|mod}		
+
+
+xxxxxxx>  adorer~passion~impertinence{V~NC~NC|mod~obj~mod}		Oscar{NPP|mod}		({PONCT|ponct}		
+
+
+xxxxxxx>  adorer~passion~impertinence{V~NC~NC|mod~obj~mod}		Oscar{NPP|mod}		surtout{ADV|mod}		
+
+
+33|1083) revue_presse_dieses.pdf Document PDF( 46.7 Ko) reperes_geographique.pdf Document PDF( 62.9 Ko) Soirée Off du Printemps des Etudiants par Yannick, le 24/03/2007 Salut à tous, prenez vos agendas et réservez votre soirée du jeudi 10 mai( c' est dans longtemps, mais c' est toujours mieux d' être prévenu à l' avance), car Le Printemps des Etudiants organise sa soirée off dans la salle de Boom. 
+
+xxxxxxx>  prendre~agenda{V~NC|root~obj}		car{CC|coord}		organiser{V|dep_coord}		
+
+
+34|1135) Pour conclure on peut dire que ce nouvel outil servira essentiellement à déterminer les tendances générales car seules les requêtes volumineuses sont prises en_compte. 
+
+------->  tendance~général{NC~ADJ|obj~mod}		car{CC|coord}		requête{NC|dep_coord}		
+
+
+35|1170) Evolution de la vue chez le nourrisson- Essilor Dans les premières semaines de la vie, il est recommandé aux adultes d' adopter des gestes lents, car les yeux du bébé n' organisent pas_encore bien les mouvements rapides... 
+
+xxxxxxx>  recommander~évolution{VPP~NC|root~mod}		car{CC|coord}		organiser{V|dep_coord}		
+
+
+36|1183) Le moteur KR est étonnant car il offre réellement un caractère à deux visages. 
+
+xxxxxxx>  être~étonnant{V~ADJ|root~ats}		car{CC|coord}		offrir{V|dep_coord}		
+
+
+37|1190) Je ne le juge ni sur son physique, parce_que sinon voila quoi, ce mec à un pas' d' nez quand meme, ni sur ces actes car rien n' est prouvé et meme si c' était le cas, il reste quand meme à mes yeux un grand feseur de bonnes chanson ^^ Il chante bien, danse bien, je n' écoute pas particulirment ces albums du matin au soir, mais j' aime pas mal de ces chansons. 
+
+xxxxxxx>  mec{NC|suj}		car{CC|coord}		prouver{VPP|dep_coord}		
+
+
+38|1191) tchô lea13 Débutant Inscrit le: 31 Mai 2007 Messages: 16 Sujet: Re: Michael Jackson Ven 1 Juin- 15: 16 Slt ben jai mit" indifférent" car je ne m' occupe pas trop de lui... 
+
+xxxxxxx>  sujet~15{NC~ADJ|root~mod}		car{CC|coord}		occuper{V|dep_coord}		
+
+
+39|1269) Le règlement des conflits constitue la meilleure garantie de la liberté de conscience et de religion qui doit être défendue et réaffirmée, car la diversité des cultures et leur coexistence sont la condition d' un avenir de paix et de prospérité. 
+
+xxxxxxx>  constituer~garantie{V~NC|root~obj}		car{CC|coord}		être{V|dep_coord}		
+
+
+40|1280) Il est facile à comprendre car il convient à mon âge. 
+
+xxxxxxx>  être~facile{V~ADJ|root~ats}		car{CC|coord}		convenir{V|dep_coord}		
+
+
+41|1290) - Avis: Ce livre est intéressant, ce sont des histoires d' horreurs, qui donne la chair de poule, dans un livre à ne_pas lire trop souvent, car il fait peur. 
+
+xxxxxxx>  être~histoire{V~NC|mod~ats}		car{CC|coord}		faire{V|dep_coord}		
+
+
+42|1293) Ce livre est très intéressant car il_y_a d' avantage d' histoires différentes et plus courtes. 
+
+xxxxxxx>  être~intéressant{V~ADJ|root~ats}		car{CC|coord}		il_y_a{V|dep_coord}		
+
+
+43|1294) Mais un jour, il a vraiment trop rajeunit car il est redevenu un bébé, alors le petit garçon appela sa copine et ils s' en occupèrent. 
+
+xxxxxxx>  rajeunir~jour{V~NC|dep_coord~mod}		car{CC|coord}		redevenir{VPP|dep_coord}		
+
+
+44|1296) - Avis: Ce livre est très bien car j' aime les bébés. 
+
+xxxxxxx>  être~livre{V~NC|root~suj}		car{CC|coord}		aimer{V|dep_coord}		
+
+
+45|1300) à quel age se déclare une femelle a la chasse car ma kortal a 1 et 1/2 elle ne s' intéresse pas du tous a la chasse. 
+
+------->  chasse{NC|obj}		car{CC|coord}		kortal{NC|dep_coord}		
+
+
+46|1301) car j' adore ma chienne mais j' aimerai quel s' intéresse à la chasse. 
+
+47|1302) josephine Dimanche 30 Juillet 2006_18: 02 je recommande vivement à toutes les personnes désirant etre propriétaire de chiens de suivre des cours de dressage, ou l' on éduque essentiellement le maitre, cela permettra de beaucoup apprendre sur vous meme, il faut souvent se remettre en_question car le chien nous testera toujours. 
+
+xxxxxxx>  falloir{V|mod}		car{CC|coord}		tester{V|dep_coord}		
+
+
+48|1305) la fin de la rubrique quelle poisson prennez -vous m' a fait penser a ceci car on ne prend pas toujour ce que l' on voudrai prendre pour ma part j' aime prendre du poisson combatif et etre toujour a la limite quand ca ne tien qu' a un fil qui peu casser a la moindre mauvaise maneuvre Fisher24 Administrateur Age: 26 Inscrit le: 20 Nov 2006 Messages: 2490 Localisation: Mussidan( 24) Prénom: Laurent Sujet: Re: quelle poisson preferez -vous prendre Jeu 25 Oct- 17: 59 Question difficile mais je pense que ma réponse est la carpe( que ce soit au coup ou en batterie). 
+
+49|1313) Résultat: vous cherchez à gagner de l' argent mais vous en perdez avec une méthode qui en fait n' a rien de miraculeux car elle ne fonctionne pas. 
+
+xxxxxxx>  avoir{V|aux_pass}		car{CC|coord}		fonctionner{V|dep_coord}		
+
+
+50|1401) Vous rencontrez un clown qui se marre bien car vous avez déjoué les pièges de son ennemi Monsieur Patate. 
+
+xxxxxxx>  marrer{V|mod_rel}		car{CC|coord}		déjouer{VPP|dep_coord}		
+
+
+51|1448) Wilde cheyenne9786 Age: 21 Inscrit le: 07 Aoû 2007 Messages: 579 Localisation: Méounes les Montrieux Var 83 Sujet: Re: Enrenement pessoa Mar 11 Sep- 9: 56 C' etait un simple question, merci de vos reponse, c' est vrai Articia tu a raison surtout qu' en ce moment je lui ai augmenté les dose car il avait serieusement perdu de l' etat! 
+
+xxxxxxx>  être~vrai{V~ADJ|mod~ats}		car{CC|coord}		perdre{VPP|dep_coord}		
+
+
+52|1449) Je ne suis pas non_plus adepte des enrenements mais j' avoue que cet enrenement sur MON cheval( je dit mon car c' est pas forcement valable sur tout les chevaux) a fait de veritable merveilles! 
+
+xxxxxxx>  dire{V|obj}		car{CC|coord}		être{V|dep_coord}		
+
+
+53|1517) ), je me suis mise en quête d' une 205 GTI, car elle correspondait le plus à ce que je recherchais: une voiture authentique, à l' ancienne, avec un moteur bien présent et efficace. 
+
+xxxxxxx>  mettre{VPP|root}		car{CC|coord}		correspondre{V|dep_coord}		
+
+
+54|1528) L' e-tourisme en bref Les Français sont de_plus_en_plus adeptes d' Internet pour acheter ou chercher des informations sur leurs voyages car pr ès de 3 internautes sur 5 achètent leurs voyages sur Internet( mai 2007). 
+
+xxxxxxx>  sur~voyage{P~NC|dep~obj}		car{CC|coord}		pour{P|dep_coord}		
+
+
+55|1544) Utile car les touches sensitives sont capricieuses. 
+
+56|1546) Côté réseaux, l' E950 décevra les clients SFR car il fait l' impasse sur la 3G. 
+
+xxxxxxx>  décevoir~client{V~NC|root~obj}		car{CC|coord}		faire{V|dep_coord}		
+
+
+57|1554) ( remarque importante: Je ne tiens pas à polémiquer et encore moins à dire de quel blog il s' agit, car cela représente un détail[... 
+
+xxxxxxx>  remarquer~important{V~ADJ|root~ats}		car{CC|coord}		représenter{V|dep_coord}		
+
+
+58|1576) Je ne repasserai que ce soir( après le foot) car je travaille cette après midi( et oui, il n' y a pas que les" boulangères" qui bossent le week-end! 
+
+xxxxxxx>  soir{NC|root}		car{CC|coord}		travailler{V|dep_coord}		
+
+
+59|1624) « Ces machines se vendent à_travers le monde car elles allient innovation, technologie, flexibilité et haute cadence» ajoute L. 
+
+xxxxxxx>  vendre~machine{V~NC|root~suj}		car{CC|coord}		allier{V|dep_coord}		
+
+
+60|1636) Les hommes proposent, Dieu dispose Le docteur Peter Benton arrive à l' hôpital totalement affolé car l' état de santé de sa mère ne s' est pas amélioré et il est conscient de son impuissance pour pouvoir la soulager. 
+
+xxxxxxx>  proposer~homme{V~NC|root~suj}		car{CC|coord}		améliorer{VPP|dep_coord}		
+
+
+61|1638) Ross est serein car sa relation avec Diane s' est stabilisée. 
+
+xxxxxxx>  être~serein{V~ADJ|root~ats}		car{CC|coord}		stabiliser{VPP|dep_coord}		
+
+
+62|1743) Au niveau international, la presse malgache s' intéresse beaucoup à son CD( L' Express de Madagascar, The Phoenix Magazine Madagascar,... 
+
+xxxxxxx>  Express{NPP|mod}		Madagascar{NPP|mod}		The{ET|dep}		
+
+
+xxxxxxx>  Express{NPP|mod}		Madagascar{NPP|mod}		Phoenix{NPP|dep}		
+
+
+xxxxxxx>  Express{NPP|mod}		Madagascar{NPP|mod}		Magazine{NPP|dep}		
+
+
+63|1743) Au niveau international, la presse malgache s' intéresse beaucoup à son CD( L' Express de Madagascar, The Phoenix Magazine Madagascar,... 
+
+xxxxxxx>  Express{NPP|mod}		Madagascar{NPP|mod}		The{ET|dep}		
+
+
+xxxxxxx>  Express{NPP|mod}		Madagascar{NPP|mod}		Phoenix{NPP|dep}		
+
+
+xxxxxxx>  Express{NPP|mod}		Madagascar{NPP|mod}		Magazine{NPP|dep}		
+
+
+64|1744) des tournées en France et l' enseignement du chant Jazz et Gospel, Colette a récemment retrouvé ses racines à_travers son nouvel album:« RACINES- Suite pour Madagascar». 
+
+65|1745) Le disque de huit titres raconte le parcours d' une femme métisse qui recherche ses origines, de l' Occident jusqu'_à Madagascar, terre nourricière. 
+
+66|1750) Il était vital pour moi de faire cet album, c' est ma carte d' identité car je me sens profondément malgache. 
+
+xxxxxxx>  être~carte{V~NC|mod~ats}		car{CC|coord}		sentir{V|dep_coord}		
+
+
+67|1759) Donc demain matin on va essayer de passer à l' agence, si on a le temps car demain on récupère notre nouvelle voiture( trop bien ça aussi). 
+
+xxxxxxx>  avoir~temps{V~NC|obj~obj}		car{CC|coord}		récupérer{V|dep_coord}		
+
+
+68|1819) Le réseau départemental des cars s' appellera LIHSA Le 21 janvier 2008 Depuis 1982, le Conseil Général gère le réseau de transports collectifs interurbains de la Haute-Savoie. 
+
+69|1820) Pour améliorer l' image de ce service et, surtout, favoriser la fréquentation des cars, le Département vient de choisir un nom pour son réseau départemental: lihsa. 
+
+70|1821) à_la_fois sigle il signifie lignes interurbaines de Haute-Savoie, et homonyme d' un prénom facilement compréhensible et mémorisable, il se déclinera sur l' ensemble des autocars et des documents( fiches horaires, plans de réseau, etc). 
+
+71|1865) 6.000,00 EUR 01-Fév-08 MICROCAR VOITURE SANS PERMIS DE COULEUR BLANCHE. 
+
+xxxxxxx>  euro{NC|root}		MICROCAR{NPP|mod}		VOITURE{NPP|mod}		
+
+
+72|1867) 800,00 EUR 29-Jan-08 microcar MICROCAR gl 300 av Année 1988 Gl 300 diesel Couleur: blanche Chevaux: 1 ch. 
+
+73|1867) 800,00 EUR 29-Jan-08 microcar MICROCAR gl 300 av Année 1988 Gl 300 diesel Couleur: blanche Chevaux: 1 ch. 
+
+74|1869) 1.200,00 EUR 29-Jan-08 MICROCAR MICROCAR GL 300 DIESEL 28345 KM LES 4 PNEU OK LA CARROSERIE OK ELLE EST DE COULEUR BLANCHE ELLE EST DE L' ANNER 1988 DE PLUS DANS LE PRIX DE VENTE IL YA UN AUTRE MOTEUR QUI EST... 
+
+75|1869) 1.200,00 EUR 29-Jan-08 MICROCAR MICROCAR GL 300 DIESEL 28345 KM LES 4 PNEU OK LA CARROSERIE OK ELLE EST DE COULEUR BLANCHE ELLE EST DE L' ANNER 1988 DE PLUS DANS LE PRIX DE VENTE IL YA UN AUTRE MOTEUR QUI EST... 
+
+76|1870) 1.200,00 EUR 28-Jan-08 échange voiture sans permis 2 place diesel contre varadero 125 bonjour je possedes une jolie voitue sans permis 2 place deisel 1989 de marque belier il_y_a les machore de frain av ar a fair .ou si non elle demare au car de tour mais, je me la fais pas rouler car... 
+
+xxxxxxx>  à{P+D|mod}		car{CC|coord}		de{P|dep_coord}		
+
+
+xxxxxxx>  rouler{VINF|obj}		car{CC|coord}		...{PONCT|ponct}		
+
+
+77|1870) 1.200,00 EUR 28-Jan-08 échange voiture sans permis 2 place diesel contre varadero 125 bonjour je possedes une jolie voitue sans permis 2 place deisel 1989 de marque belier il_y_a les machore de frain av ar a fair .ou si non elle demare au car de tour mais, je me la fais pas rouler car... 
+
+xxxxxxx>  à{P+D|mod}		car{CC|coord}		de{P|dep_coord}		
+
+
+xxxxxxx>  rouler{VINF|obj}		car{CC|coord}		...{PONCT|ponct}		
+
+
+78|1887) Le Marimastat serait efficace car il inhibe la metalloproteinase 9 responsable de certains glioblastomes primaires. 
+
+xxxxxxx>  être~efficace{V~ADJ|root~ats}		car{CC|coord}		inhiber{V|dep_coord}		
+
+
+79|1912) Il semble donc que, lorsque chacun reste à sa place, la relation affective entraîneur/ entraîné qui s' installe, est propice au développement personnel du nageur et à la performance car elle n' est pas parasitée par des intérêts personnels, par des prises de pouvoirs abusives ou par des comportements affectifs périphériques. 
+
+xxxxxxx>  sembler{V|root}		car{CC|coord}		parasiter{VPP|dep_coord}		
+
+
+80|1977) Cela me semble jouable car ma femme semble vraiment apprécier l' auto. 
+
+xxxxxxx>  sembler~jouable{V~ADJ|root~ats}		car{CC|coord}		sembler{V|dep_coord}		
+
+
+81|1996) Enfin bon, je te remercie quand même car tu auras eu au_moins le mérite de remettre un_peu d' animation sur ce forum qui avait tendance à s' endormir un_peu. 
+
+xxxxxxx>  remercier~bon{V~ADJ|root~mod}		car{CC|coord}		même{ADV|mod}		
+
+
+xxxxxxx>  remercier~bon{V~ADJ|root~mod}		car{CC|coord}		taire{VPP|dep_coord}		
+
+
+82|2026) Car si c' est le cas, pourquoi Mission-Pêche, par l' intermédiaire de ses membres, ne tenterait -il pas une campagne de ré-empoissonnement dans des lieux stratégiques? 
+
+83|2032) comme j' ai dit, peut-etre que ce n' ai pas partout pareil et que ton departement a des ruisseaux a la fois gérés par des APP et comme tu le dit pollués mais chez nous aussi rappelle toi que je suis dans le sud-ouest et que chez nous aussi nous avons un gros probleme d' eau lolo pourras te le confirmé lui qui habite à peu prés à 100 kms de chez moi maintenant si notre idées prend forme et que nous puissions faire quelques choses il te faudra surement allé voir des petites APP qui, je le pense te suivrons car ce serais une tres bonne chose pour eux( a voir) maintenant; 
+
+xxxxxxx>  suivre{V|root}		car{CC|coord}		être{V|dep_coord}		
+
+
+84|2033) mais peut-etre etait il occupé et le ferat plus_tard je parle de roland car j' aime ces dire! 
+
+xxxxxxx>  parler~ferat{V~NC|dep_coord~mod}		car{CC|coord}		aimer{V|dep_coord}		
+
+
+85|2052) mais peut-etre etait il occupé et le ferat plus_tard je parle de roland car j' aime ces dire! 
+
+xxxxxxx>  parler~ferat{V~NC|dep_coord~mod}		car{CC|coord}		aimer{V|dep_coord}		
+
+
+86|2079) Je le conseille à tous .. même au débutant, car ce jeu apprend même les bases du poker aux joueurs débutants. 
+
+xxxxxxx>  conseiller{V|root}		car{CC|coord}		apprendre{V|dep_coord}		
+
+
+87|2107) Dans ce cas, un référendum devait désigner le président de Madagascar dans les six mois. 
+
+88|2114) Aucun barrage économique n'a été levé, car c'est la seule arme qui leur reste pour peser encore sur le cours de l'histoire et se faire entendre. 
+
+xxxxxxx>  lever~barrage{VPP~NC|root~suj}		car{CC|coord}		c'est{ADV|mod}		
+
+
+------->  lever~barrage{VPP~NC|root~suj}		car{CC|coord}		arme{NC|dep_coord}		
+
+
+89|2128) Le lundi 29 avril, dix jours après la signature de l'Accord de Dakar, le secrétaire général de l'OUA, Amara Essy, en dénonçant la proclamation, la veille, de Marc Ravalomanana comme président de Madagascar par la Haute Cour Constitutionnelle( HCC), a résumé l'embarras de la communauté internationale. 
+
+90|2192) Choix des verres et des lunettes de vue chez l' opticien- Varilux Avant_d' aller choisir vos futures chez votre opticien, vous devez penser: A la monture, qui doit être choisie en_fonction_de vos goûts mais également selon la morphologie de votre visage .. Aux verres, ils doivent retenir toute votre attention car ils prennent en_compte non_seulement vos goûts, mais aussi l' esthétique, l' utilisation que vous souhaitez faire de vos et bien_sûr votre correction .. 2. 
+
+xxxxxxx>  devoir{V|root}		car{CC|coord}		prendre{V|dep_coord}		
+
+
+91|2247) Mon général, Lorsque je vous ai nommé à_la_tête_des armées françaises, le 30 octobre 2002, c' était en toute confiance, car j' avais eu l' occasion d' apprécier la fermeté de votre caractère, la hauteur de vos vues, votre sens de l' Etat. 
+
+xxxxxxx>  général{NC|root}		car{CC|coord}		avoir{VPP|dep_coord}		
+
+
+92|2262) « Car notre but est de sensibiliser le maximum d' acteurs à l' écologie et au développement durable» poursuit -elle. 
+
+93|2275) LA FILIERE JOAILLERIE A MADAGASCAR Les pierres fines et précieuses de Madagascar sont réputées dans le monde pour leur beauté et leur pureté. 
+
+94|2275) LA FILIERE JOAILLERIE A MADAGASCAR Les pierres fines et précieuses de Madagascar sont réputées dans le monde pour leur beauté et leur pureté. 
+
+95|2276) Notre magasin, situé dans la rue Colbert à Diego Suarez, au nord de Madagascar, vous présente comme dans un écrin toutes ces merveilles données par la terre rouge de la Grande Île. 
+
+96|2278) Créateur de bijoux à Diego Suarez, nord de Madagascar depuis 1910, nous mettons notre expérience à votre service pour_que vous profitiez de ce qui se fait de mieux en artisanat bijoutier. 
+
+97|2279) Nous vendons notre propre création, monture, filigrane, bijoux en or, argent, ainsi_que pierres fines et précieuses de Madagascar taillées et montées. 
+
+98|2280) Nous vendons également les pierres fines et précieuses de Madagascar taillées non montées: citrine, saphir, tourmaline, améthyste, aigue-marine,... 
+
+99|2312) Mais le grand singe ne voulait pas m' aider car il trouvait que c' était trop dangereux pour un enfant d' aller sur l' île du dragon. 
+
+xxxxxxx>  vouloir~singe{V~NC|dep_coord~suj}		car{CC|coord}		trouver{V|dep_coord}		
+
+
+100|2317) car je suis toujours tout seul, tout le monde a peur de moi. 
+

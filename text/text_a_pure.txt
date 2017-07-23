@@ -1,0 +1,5937 @@
+------->  être{V|root}		responsable{NC|mod}		groupe~industriel{NC~NC|mod~mod}		Causation/
+
+
+------->  être~marque{V~NC|root~ats}		responsable{NC|mod}		groupe{NC|mod}		Causation/
+
+
+------->  être~marque{V~NC|root~ats}		responsable{NC|mod}		Dijon{NPP|mod}		Causation/
+
+
+------->  être~marque{V~NC|root~ats}		responsable{NC|mod}		francois.battault@dijon.cci.fr{NPP|mod}		Causation/
+
+
+------->  VIF{NPP|suj}		responsable{NC|mod}		filière{NC|mod}		Causation/
+
+
+------->  VIF{NPP|suj}		responsable{NC|mod}		industrie~laitier{NC~ADJ|mod~mod}		Causation/
+
+
+------->  souhaiter~rejoindre~équipe{V~VINF~NC|root~obj~obj}		responsable{NC|mod}		groupe{NC|mod}		Causation/
+
+
+------->  souhaiter~rejoindre~équipe{V~VINF~NC|root~obj~obj}		responsable{NC|mod}		Seine{NPP|mod}		Causation/
+
+
+------->  souhaiter~rejoindre~équipe{V~VINF~NC|root~obj~obj}		responsable{NC|mod}		Dijon{NPP|mod}		Causation/
+
+
+------->  Dijon{NPP|mod}		responsable{NC|mod}		groupe{NC|mod}		Causation/
+
+
+------->  revenir~parent{V~NC|root~obj}		responsable{NC|obj}		aller~avoir{V~VINF|mod_rel~obj}		Causation/
+
+
+------->  intervenir{V|root}		responsable{NC|suj}		H{NC|mod}		Causation/
+
+
+------->  intervenir{V|root}		responsable{NC|suj}		F{NC|mod}		Causation/
+
+
+------->  intervenir{V|root}		responsable{NC|suj}		VINCI~construction{NC~NC|mod~mod}		Causation/
+
+
+------->  intervenir{V|root}		responsable{NC|suj}		Rhône{NPP|mod}		Causation/
+
+
+------->  intervenir{V|root}		responsable{NC|suj}		présentation{NC|mod}		Causation/
+
+
+------->  intervenir{V|root}		responsable{NC|suj}		construction{NC|mod}		Causation/
+
+
+------->  intervenir{V|root}		responsable{NC|suj}		étude{NC|mod}		Causation/
+
+
+------->  intervenir{V|root}		responsable{NC|suj}		F{NC|mod}		Causation/
+
+
+------->  intervenir{V|root}		responsable{NC|suj}		VINCI~construction{NC~NC|mod~mod}		Causation/
+
+
+------->  intervenir{V|root}		responsable{NC|suj}		Rhône{NPP|mod}		Causation/
+
+
+------->  intervenir{V|root}		responsable{NC|suj}		présentation{NC|mod}		Causation/
+
+
+------->  intervenir{V|root}		responsable{NC|suj}		construction{NC|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|suj}		futur{NC|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|suj}		Resp{NC|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|suj}		K{NPP|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|suj}		PAR{NPP|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|suj}		Rhône-Alpes{NPP|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|suj}		K{NPP|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|suj}		futur{NC|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|suj}		Resp{NC|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|suj}		K{NPP|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|suj}		PAR{NPP|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|suj}		Rhône-Alpes{NPP|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|suj}		K{NPP|mod}		Causation/
+
+
+------->  rechercher~société_anonyme{V~NC|root~obj}		responsable{NC|suj}		F{NC|mod}		Causation/
+
+
+------->  rechercher~société_anonyme{V~NC|root~obj}		responsable{NC|suj}		CDI{NPP|mod}		Causation/
+
+
+------->  rechercher~société_anonyme{V~NC|root~obj}		responsable{NC|suj}		Savoie{NPP|mod}		Causation/
+
+
+------->  rechercher~société_anonyme{V~NC|root~obj}		responsable{NC|suj}		AGENCE{NPP|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|suj}		futur{NC|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|suj}		K{NPP|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|mod}		futur{NC|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|mod}		Resp{NC|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|mod}		K{NPP|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|mod}		PAR{NPP|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|mod}		Rhône-Alpes{NPP|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|mod}		K{NPP|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|suj}		futur{NC|mod}		Causation/
+
+
+------->  être~leader{V~NC|root~ats}		responsable{NC|suj}		K{NPP|mod}		Causation/
+
+
+------->  société~fabriquer{NC~V|suj~root}		responsable{NC|mod}		REGIONAL{NC|mod}		Causation/
+
+
+------->  société~fabriquer{NC~V|suj~root}		responsable{NC|mod}		ADENINE{NPP|mod}		Causation/
+
+
+------->  société~fabriquer{NC~V|suj~root}		responsable{NC|mod}		HUMAN{NPP|mod}		Causation/
+
+
+------->  société~fabriquer{NC~V|suj~root}		responsable{NC|mod}		Rhône{NPP|mod}		Causation/
+
+
+------->  société~fabriquer{NC~V|suj~root}		responsable{NC|mod}		Filiale{NPP|mod}		Causation/
+
+
+------->  société~fabriquer{NC~V|suj~root}		responsable{NC|mod}		personne{NC|mod}		Causation/
+
+
+------->  adjoint{NC|mod}		responsable{NC|mod}		Administratif{NPP|mod}		Causation/
+
+
+------->  Thierry{NPP|obj}		responsable{NC|mod}		sécurité{NC|mod}		Causation/
+
+
+------->  rechercher~développement{V~NC|dep_coord~obj}		responsable{NC|obj}		h{NC|mod}		Causation/
+
+
+------->  Romain~85.{NPP~NC|obj~mod}		responsable{NC|mod}		Fédéral{NPP|mod}		Causation/
+
+
+------->  Romain{NPP|obj}		responsable{NC|mod}		Fédéral{NPP|mod}		Causation/
+
+
+------->  enfant~grandir{NC~V|suj~root}		responsable{NC|mod}		Monsieur~Ecole{NC~NC|mod~mod}		Causation/
+
+
+------->  rechercher~établir~clôture{V~VINF~NC|root~mod~obj}		responsable{NC|mod}		COMPTABLE{NPP|mod}		Causation/
+
+
+------->  rechercher~établir~clôture{V~VINF~NC|root~mod~obj}		responsable{NC|mod}		LYON{NPP|mod}		Causation/
+
+
+------->  rechercher~établir~clôture{V~VINF~NC|root~mod~obj}		responsable{NC|mod}		69{NC|mod}		Causation/
+
+
+------->  rechercher~établir~clôture{V~VINF~NC|root~mod~obj}		responsable{NC|mod}		englober~société{VPR~NC|mod~obj}		Causation/
+
+
+------->  être~pas{V~ADV|root~mod}		responsable{ADJ|ats}		résultat~mauvais{NC~ADJ|obj~mod}		Causation/
+
+
+------->  RRF{NPP|obj}		responsable{NC|mod}		formation~parapent{NC~ADJ|mod~mod}		Causation/
+
+
+------->  Vincent~cadre~formation{NPP~NC~NC|root~mod~mod}		responsable{NC|mod}		formation~deltaplane{NC~NC|mod~mod}		Causation/
+
+
+------->  Robert{NPP|suj}		responsable{ADJ|mod}		produire{VPP|mod}		Causation/
+
+
+------->  être~tout{V~ADJ|root~ats}		responsable{NC|suj}		engager~fortement{VPP~ADV|mod~mod}		Causation/
+
+
+------->  faire~ensuite{V~ADV|root~mod}		responsable{NC|mod}		Recherche-Développement{NPP|mod}		Causation/
+
+
+------->  Carole{NPP|suj}		responsable{NC|mod}		base{NC|mod}		Causation/
+
+
+------->  4~4{NC~NC|root~mod}		responsable{ADJ|dep}		Alain{NPP|mod}		Causation/
+
+
+------->  4~4{NC~NC|root~mod}		responsable{ADJ|dep}		pocheau_AT_irphe.univ-mrs.fr{NPP|mod}		Causation/
+
+
+------->  4~4{NC~NC|root~mod}		responsable{ADJ|dep}		équipe{NPP|mod}		Causation/
+
+
+------->  4~4{NC~NC|root~mod}		responsable{ADJ|dep}		Bioméca~Technopôle{NPP~NC|mod~mod}		Causation/
+
+
+------->  contact{NC|mod}		responsable{NC|mod}		filière{NC|mod}		Causation/
+
+
+------->  formation~avoir~dispenser{NC~V~VPP|suj~root~mod}		responsable{NC|mod}		Ingénieurs{NPP|mod}		Causation/
+
+
+------->  formation~avoir~dispenser{NC~V~VPP|suj~root~mod}		responsable{NC|mod}		Pharmaciens{NPP|mod}		Causation/
+
+
+------->  formation~avoir~dispenser{NC~V~VPP|suj~root~mod}		responsable{NC|mod}		technicien~supérieur{NC~ADJ|mod~mod}		Causation/
+
+
+------->  formation~avoir~dispenser{NC~V~VPP|suj~root~mod}		responsable{NC|mod}		suivre~formation{VPP~NC|mod~obj}		Causation/
+
+
+------->  voici~intégralité{V~NC|root~obj}		responsable{NC|mod}		charger{VPP|mod}		Causation/
+
+
+------->  département~aide~tout{NC~NC~ADJ|root~mod~mod}		responsable{NC|mod}		Clientèle{NPP|mod}		Causation/
+
+
+------->  département~aide~tout{NC~NC~ADJ|root~mod~mod}		responsable{NC|mod}		h{NC|mod}		Causation/
+
+
+------->  domicile{NC|obj}		responsable{NC|mod}		clientèle{NC|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		h{NC|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		F{NC|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		JAMES{NC|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		Pas-de-Calais{NPP|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		James{NPP|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		Partner{NPP|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		spécialiste{NC|mod}		Causation/
+
+
+------->  Integra{NPP|mod}		responsable{NC|mod}		e-mail~protéger{NC~VPP|suj~mod}		Causation/
+
+
+------->  attendre~établissement{V~NC|root~obj}		responsable{NC|suj}		contrôleur{NC|mod}		Causation/
+
+
+------->  Sopra{NPP|obj}		responsable{NC|mod}		qualité{NC|mod}		Causation/
+
+
+------->  posséder~compétence~avérer{V~NC~VPP|root~obj~mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  cabinet~e{NC~NC|root~mod}		responsable{NC|mod}		Flux{NPP|mod}		Causation/
+
+
+------->  cabinet~e{NC~NC|root~mod}		responsable{NC|mod}		Financiers{NPP|mod}		Causation/
+
+
+------->  recruter{V|root}		responsable{NC|suj}		COMPTABLE{NPP|mod}		Causation/
+
+
+------->  recruter{V|root}		responsable{NC|suj}		PAGE{NPP|mod}		Causation/
+
+
+------->  recruter{V|root}		responsable{NC|suj}		client{NC|mod}		Causation/
+
+
+------->  recruter{V|root}		responsable{NC|suj}		acteur~majeur{NC~ADJ|mod~mod}		Causation/
+
+
+------->  attendre~participation~significatif{V~NC~ADJ|root~obj~mod}		responsable{NC|suj}		contrôleur{NC|mod}		Causation/
+
+
+------->  attendre~participation~significatif{V~NC~ADJ|root~obj~mod}		responsable{NC|suj}		responsable{NC|mod}		Causation/
+
+
+------->  attendre~participation~significatif{V~NC~ADJ|root~obj~mod}		responsable{NC|suj}		responsable{NC|mod}		Causation/
+
+
+------->  responsabilité~prévoir~médical{NC~VPP~ADJ|suj~root~mod}		responsable{NC|obj}		PU-PH{NPP|mod}		Causation/
+
+
+------->  groupe~rechercher~acteur{NC~V~NC|suj~root~mod}		responsable{NC|obj}		régional{NC|mod}		Causation/
+
+
+------->  groupe~rechercher~acteur{NC~V~NC|suj~root~mod}		responsable{NC|obj}		h{NC|mod}		Causation/
+
+
+------->  groupe~rechercher~acteur{NC~V~NC|suj~root~mod}		responsable{NC|obj}		F{NC|mod}		Causation/
+
+
+------->  groupe~rechercher~acteur{NC~V~NC|suj~root~mod}		responsable{NC|obj}		poste~baser{NC~VPP|mod~mod}		Causation/
+
+
+------->  e{NC|mod}		responsable{NC|mod}		h{NC|mod}		Causation/
+
+
+------->  dire{VPP|mod}		responsable{NC|suj}		rencontrer~dernièrement{VPP~ADV|mod~mod}		Causation/
+
+
+------->  être~année~réussir{V~NC~VPP|root~mod~mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  être~année~réussir{V~NC~VPP|root~mod~mod}		responsable{NC|mod}		Online~h{NC~NC|mod~mod}		Causation/
+
+
+------->  être~année~réussir{V~NC~VPP|root~mod~mod}		responsable{NC|mod}		F{NC|mod}		Causation/
+
+
+------->  disposer~ainsi{V~ADV|root~mod}		responsable{NC|mod}		compléter~le_cas_échéant{VPP~ADV|mod~mod}		Causation/
+
+
+------->  analyser~programme{V~NC|root~mod}		déterminant{NC|obj}		population{NC|mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  analyser~programme{V~NC|root~mod}		déterminant{NC|obj}		géographie{NC|mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  analyser~programme{V~NC|root~mod}		déterminant{NC|obj}		eau{NC|mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  information~responsable{NC~NC|mod~mod}		responsable{NC|mod}		conception{NC|mod}		Causation/
+
+
+------->  remercier~aussi{V~ADV|root~mod}		responsable{NC|obj}		permettre{VPP|mod_rel}		Causation/
+
+
+------->  manager~être{NC~V|suj~root}		responsable{ADJ|ats}		avoir~pas{V~ADV|obj~mod}		Causation/
+
+
+------->  retraite{NC|obj}		responsable{NC|mod}		santé{NC|mod}		Causation/
+
+
+------->  être~pas{V~ADV|root~mod}		responsable{ADJ|ats}		site{NC|dep}		Causation/
+
+
+------->  être~mettre~jeudi{VPP~VPP~NC|root~mod~mod}		responsable{NC|suj}		mettre{VPP|mod_rel}		Causation/
+
+
+------->  être~mettre~jeudi{VPP~VPP~NC|root~mod~mod}		responsable{NC|suj}		mettre{VPP|mod}		Causation/
+
+
+------->  poursuivre~risque{VPP~NC|root~obj}		responsable{NC|suj}		GlaxoSmithKline{NPP|mod}		Causation/
+
+
+------->  connaître~ligne{VINF~NC|root~obj}		responsable{NC|suj}		mettre~jeudi{VPP~NC|mod~mod}		Causation/
+
+
+------->  disposer{V|root}		responsable{NC|mod}		Matériel{NPP|mod}		Causation/
+
+
+------->  disposer{V|root}		responsable{NC|mod}		Vat{NPP|mod}		Causation/
+
+
+------->  séminaire~adresser{NC~V|suj~root}		responsable{NC|mod}		aller~opérer{V~VINF|mod_rel~obj}		Causation/
+
+
+------->  plasturgie{NC|obj}		responsable{NC|mod}		méthode{NC|mod}		Causation/
+
+
+------->  plasturgie{NC|obj}		responsable{NC|mod}		qualité{NC|mod}		Causation/
+
+
+------->  opposition~gagner{NC~V|suj~obj}		responsable{NC|suj}		menace~surgir{NC~V|suj~mod}		Causation/
+
+
+------->  documentaliste-bibliothécaire~être{NC~V|suj~root}		responsable{ADJ|ats}		mission{NC|dep}		Causation/
+
+
+------->  lumière~induire{NC~V|suj~root}		responsable{NC|obj}		décoloration{NC|mod}		Causation/
+
+
+------->  lumière~induire{NC~V|suj~root}		responsable{NC|obj}		balance~chromatique{NC~ADJ|mod~mod}		Causation/
+
+
+------->  acteur~impliquer{NC~VPP|obj~mod}		responsable{NC|mod}		e-mailing{NC|mod}		Causation/
+
+
+------->  nommer{VPP|mod}		responsable{ADJ|mod}		biographie{NC|dep}		Causation/
+
+
+------->  venir~dire{VPP~VINF|root~obj}		responsable{NC|suj}		CGT{NPP|mod}		Causation/
+
+
+------->  rencontrer~printemps{VINF~NC|obj~obj}		responsable{NC|obj}		viser{VPP|mod}		Causation/
+
+
+------->  rencontrer~printemps{VINF~NC|obj~obj}		responsable{NC|obj}		devoir~être{V~VINF|mod_rel~obj}		Causation/
+
+
+------->  Maxauto~avenue{NPP~NC|suj~mod}		responsable{NC|mod}		ressource~humain{NC~ADJ|mod~mod}		Causation/
+
+
+------->  performance{NC|suj}		responsable{NC|mod}		action~Zon{NC~ADJ|mod~mod}		Causation/
+
+
+------->  être~donner{V~VINF|root~obj}		responsable{ADJ|ats}		spécialiser{VPP|dep}		Causation/
+
+
+------->  analyser{V|root}		responsable{NC|suj}		Montréal{NPP|mod}		Causation/
+
+
+------->  analyser{V|root}		responsable{NC|suj}		cdeacf.ca{NPP|mod}		Causation/
+
+
+------->  analyser{V|root}		responsable{NC|suj}		publier{VPP|mod}		Causation/
+
+
+------->  contrat~engager{NC~V|suj~obj}		responsable{NC|obj}		Extrait{NPP|mod}		Causation/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		réseau{NC|mod}		Causation/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		rue~Vrier{NC~ADJ|mod~mod}		Causation/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		44240{NC|mod}		Causation/
+
+
+------->  être{V|root}		responsable{ADJ|ats}		année~dernier{NC~ADJ|dep~mod}		Causation/
+
+
+------->  produit~financier{NC~ADJ|dep_coord~mod}		responsable{NC|mod}		traiter~activité{VPR~NC|mod~obj}		Causation/
+
+
+------->  activité~activité~bancaire{NC~NC~ADJ|obj~mod~mod}		responsable{NC|mod}		point{NC|mod}		Causation/
+
+
+------->  inspecteur{NC|obj}		responsable{NC|mod}		habiliter{VPP|mod}		Causation/
+
+
+------->  refuser~même{VPP~ADV|root~mod}		responsable{NC|suj}		dire~modérer{VPP~ADJ|mod~mod}		Causation/
+
+
+------->  être~métropole{V~NC|root~ats}		responsable{NC|suj}		désigner~régulièrement{VPP~ADV|mod~mod}		Causation/
+
+
+------->  éliminer~communauté~juif{V~NC~ADJ|root~obj~mod}		responsable{NC|obj}		inciter~citoyen{VPR~NC|mod~obj}		Causation/
+
+
+------->  avoir~vocation{V~NC|root~obj}		responsable{NC|mod}		Annie{NPP|mod}		Causation/
+
+
+------->  avoir~vocation{V~NC|root~obj}		responsable{NC|mod}		Lille~2{NPP~ADJ|mod~mod}		Causation/
+
+
+------->  dire{VPP|root}		responsable{NC|suj}		auditionner{VPP|mod}		Causation/
+
+
+------->  ITPLC~o{NPP~NC|obj~mod}		responsable{NC|mod}		Ketsia{NPP|mod}		Causation/
+
+
+------->  ITPLC~o{NPP~NC|obj~mod}		responsable{NC|mod}		Raynal-Ljutovac{NPP|mod}		Causation/
+
+
+------->  ITPLC~o{NPP~NC|obj~mod}		responsable{NC|mod}		Tél{NPP|mod}		Causation/
+
+
+------->  devoir~laisser{V~VPP|root~obj}		responsable{NC|suj}		candidat~pas{NC~ADV|mod~mod}		Causation/
+
+
+------->  être~pas{V~ADV|dep_coord~mod}		responsable{NC|ats}		pe{NC|mod}		Causation/
+
+
+------->  annoncer~mercredi{VPP~NC|root~obj}		responsable{NC|obj}		Yomodou{NPP|mod}		Causation/
+
+
+------->  avoir~passion{V~NC|root~obj}		responsable{NC|suj}		Dieppe{NPP|mod}		Causation/
+
+
+------->  déclaration{NC|root}		responsable{NC|mod}		Ecologie{NPP|mod}		Causation/
+
+
+------->  obliger{V|root}		responsable{NC|obj}		ministère{NPP|mod}		Causation/
+
+
+------->  obliger{V|root}		responsable{NC|obj}		rectorat{NC|mod}		Causation/
+
+
+------->  obliger{V|root}		responsable{NC|obj}		IA{NPP|mod}		Causation/
+
+
+------->  obliger{V|root}		responsable{NC|obj}		IEN{NPP|mod}		Causation/
+
+
+------->  être~fortement{V~ADV|root~mod}		responsable{ADJ|ats}		énergie{NC|dep}		Causation/
+
+
+------->  Alain{NPP|obj}		responsable{NC|mod}		PS{NPP|mod}		Causation/
+
+
+------->  Alain{NPP|obj}		responsable{NC|mod}		PS{NPP|mod}		Causation/
+
+
+------->  produit~service{NC~NC|obj~mod}		responsable{NC|mod}		qualité{NC|mod}		Causation/
+
+
+------->  produit~service{NC~NC|obj~mod}		responsable{NC|mod}		concepteur{NC|mod}		Causation/
+
+
+------->  linge{NC|obj}		responsable{NC|mod}		méthode~industriel{NC~ADJ|mod~mod}		Causation/
+
+
+------->  prospective{NC|obj}		responsable{NC|mod}		Janine{NPP|mod}		Causation/
+
+
+------->  prospective{NC|obj}		responsable{NC|mod}		Saturnin{NPP|mod}		Causation/
+
+
+------->  prospective{NC|obj}		responsable{NC|mod}		Chargés{NPP|mod}		Causation/
+
+
+------->  séminaire~adresser{NC~V|suj~root}		responsable{NC|mod}		étude{NC|mod}		Causation/
+
+
+------->  Justice~hépatite~B{NPP~NC~NC|suj~mod~mod}		responsable{NC|mod}		mettre{VPP|mod}		Causation/
+
+
+------->  être~mettre{VPP~VPP|root~mod}		responsable{NC|suj}		mettre{VPP|mod_rel}		Causation/
+
+
+------->  hépatite~B{NC~NC|mod~mod}		responsable{NC|mod}		mettre{VPP|mod}		Causation/
+
+
+------->  Jean-Paul~vice-président{NPP~NC|root~mod}		responsable{ADJ|mod}		commission~biologie{NPP~NC|mod~mod}		Causation/
+
+
+------->  affirmer{V|mod}		responsable{NC|suj}		Jean-Bernard{NPP|mod}		Causation/
+
+
+------->  opiner{V|root}		responsable{NC|suj}		Michel{NPP|mod}		Causation/
+
+
+------->  Institut~courriel{NPP~NC|obj~mod}		responsable{NC|mod}		formation{NC|mod}		Causation/
+
+
+------->  agence~rechercher{NC~V|suj~root}		responsable{NC|obj}		MAPI{NPP|mod}		Causation/
+
+
+------->  agence~rechercher{NC~V|suj~root}		responsable{NC|obj}		agence{NC|mod}		Causation/
+
+
+------->  recruter{V|mod}		responsable{NC|suj}		matériaux{NC|mod}		Causation/
+
+
+------->  Armelle{NPP|obj}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  André{NPP|dep_coord}		responsable{NC|mod}		qualité{NC|mod}		Causation/
+
+
+------->  Nicolas{NPP|suj}		responsable{NC|mod}		recrutement~tour{NC~NC|mod~mod}		Causation/
+
+
+------->  être{VINF|obj}		responsable{NC|obj}		endeuiller~restaurant{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  Rivière~stage{NPP~NC|obj~mod}		responsable{NC|mod}		reconnaître~Établissement{VPP~ADV|mod~mod}		Causation/
+
+
+------->  séminaire~concerner{NC~V|suj~root}		responsable{NC|obj}		responsable~commercial{NC~ADJ|mod~mod}		Causation/
+
+
+------->  séminaire~concerner{NC~V|suj~root}		responsable{NC|obj}		marketing~responsable{NC~ADJ|mod~mod}		Causation/
+
+
+------->  séminaire~concerner{NC~V|suj~root}		responsable{NC|obj}		chef{NC|mod}		Causation/
+
+
+------->  séminaire~concerner{NC~V|suj~root}		responsable{NC|obj}		responsable{NC|mod}		Causation/
+
+
+------->  performance{NC|obj}		responsable{NC|mod}		Donner{NPP|mod}		Causation/
+
+
+------->  être~atypique{V~ADJ|root~ats}		responsable{NC|suj}		Financier{NPP|mod}		Causation/
+
+
+------->  être~atypique{V~ADJ|root~ats}		responsable{NC|suj}		tenir{VPP|mod}		Causation/
+
+
+------->  être~atypique{V~ADJ|root~ats}		responsable{NC|suj}		mai{NC|mod}		Causation/
+
+
+------->  être~atypique{V~ADJ|root~ats}		responsable{NC|suj}		juin~2006{NC~ADJ|mod~mod}		Causation/
+
+
+------->  dépense~tout{NC~ADJ|obj~mod}		responsable{NC|mod}		séjour{NC|mod}		Causation/
+
+
+------->  faire~scission{V~NC|root~obj}		responsable{NC|mod}		Jamîl{NPP|mod}		Causation/
+
+
+------->  séminaire~concerner{NC~V|suj~root}		responsable{NC|obj}		responsable~commercial{NC~ADJ|mod~mod}		Causation/
+
+
+------->  séminaire~concerner{NC~V|suj~root}		responsable{NC|obj}		marketing~responsable{NC~ADJ|mod~mod}		Causation/
+
+
+------->  séminaire~concerner{NC~V|suj~root}		responsable{NC|obj}		chef{NC|mod}		Causation/
+
+
+------->  séminaire~concerner{NC~V|suj~root}		responsable{NC|obj}		responsable{NC|mod}		Causation/
+
+
+------->  perspective~ingénieur~qualité{NC~NC~NC|root~mod~mod}		responsable{NC|mod}		qualité{NC|mod}		Causation/
+
+
+------->  perspective~directeur~qualité{NC~NC~NC|root~mod~mod}		responsable{NC|mod}		amélioration~Continue{NC~NC|mod~mod}		Causation/
+
+
+------->  perspective~carrière{NC~NC|root~obj}		responsable{NC|mod}		achat{NC|mod}		Causation/
+
+
+------->  perspective~responsable{NC~NC|root~mod}		responsable{NC|mod}		formation{NC|mod}		Causation/
+
+
+------->  perspective~responsable{NC~NC|root~mod}		responsable{NC|mod}		recrutement{NC|mod}		Causation/
+
+
+------->  Media~général{NPP~NC|obj~mod}		responsable{NC|mod}		relation~client{NC~NC|mod~mod}		Causation/
+
+
+------->  assurance~responsable{NC~NC|obj~mod}		responsable{NC|mod}		Pôle{NPP|mod}		Causation/
+
+
+------->  assurance~responsable{NC~NC|obj~mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  assurance~responsable{NC~NC|obj~mod}		responsable{NC|mod}		Agnès{NPP|mod}		Causation/
+
+
+------->  assurance~responsable{NC~NC|obj~mod}		responsable{NC|mod}		Goret{NPP|mod}		Causation/
+
+
+------->  assurance~responsable{NC~NC|obj~mod}		responsable{NC|mod}		GAZ{NPP|mod}		Causation/
+
+
+------->  TELECOM{NPP|mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  recrutement{NC|obj}		responsable{NC|mod}		RH{NPP|mod}		Causation/
+
+
+------->  Master~T~E{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		Mastère{NPP|mod}		Causation/
+
+
+------->  Master~T~E{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		Spécialisé{NPP|mod}		Causation/
+
+
+------->  Master~T~E{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		Jean-François{NPP|mod}		Causation/
+
+
+------->  Master~T~E{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		Petiot{NPP|mod}		Causation/
+
+
+------->  Master~T~E{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		T~8{NC~ADJ|mod~mod}		Causation/
+
+
+------->  membre~être{NC~V|suj~root}		responsable{NC|ats}		mettre~expérience{V~NC|mod_rel~obj}		Causation/
+
+
+------->  souligner{V|mod}		responsable{NC|suj}		sélectionner{VPP|mod_rel}		Causation/
+
+
+------->  institution~désigner{NC~V|suj~root}		responsable{NC|obj}		devoir~avoir{V~VINF|mod_rel~obj}		Causation/
+
+
+------->  accepter~invitation{VPP~NC|root~obj}		responsable{NC|suj}		ministre~fédéral{NC~ADJ|mod~mod}		Causation/
+
+
+------->  participer~également{V~ADV|root~mod}		responsable{NC|suj}		Monsieur{NPP|mod}		Causation/
+
+
+------->  participer~également{V~ADV|root~mod}		responsable{NC|suj}		Bail{NPP|mod}		Causation/
+
+
+------->  être~entièrement{V~ADV|root~mod}		responsable{ADJ|ats}		concerner{VPR|dep}		Causation/
+
+
+------->  AUCHAN{NPP|obj}		responsable{NC|mod}		relation{NC|mod}		Causation/
+
+
+------->  AUCHAN{NPP|obj}		responsable{NC|mod}		client{NC|mod}		Causation/
+
+
+------->  LA~responsable{NC~NC|mod~mod}		responsable{NC|mod}		pôle{NC|mod}		Causation/
+
+
+------->  LA~responsable{NC~NC|mod~mod}		responsable{NC|mod}		développement{NC|mod}		Causation/
+
+
+------->  LA~responsable{NC~NC|mod~mod}		responsable{NC|mod}		Christelle{NPP|mod}		Causation/
+
+
+------->  LA~responsable{NC~NC|mod~mod}		responsable{NC|mod}		GESLIN{NPP|mod}		Causation/
+
+
+------->  weber~économie{NC~NC|root~mod}		responsable{NC|mod}		J.-P{NPP|mod}		Causation/
+
+
+------->  déposer~offre{VPP~NC|mod~obj}		responsable{NC|mod}		juger{VPP|mod}		Causation/
+
+
+------->  déposer~offre{VPP~NC|mod~obj}		responsable{NC|mod}		14{NC|mod}		Causation/
+
+
+------->  déposer~offre{VPP~NC|mod~obj}		responsable{NC|mod}		00{NC|mod}		Causation/
+
+
+------->  déposer~offre{VPP~NC|mod~obj}		responsable{NC|mod}		zoom~télécommunications{NC~NC|mod~mod}		Causation/
+
+
+------->  entendre~renforcer~rôle{V~VINF~NC|root~obj~obj}		responsable{NC|suj}		CFDT{NPP|mod}		Causation/
+
+
+------->  suivre~offre{V~NC|root~obj}		responsable{NC|mod}		BUDGETAIRE{NPP|mod}		Causation/
+
+
+------->  suivre~offre{V~NC|root~obj}		responsable{NC|mod}		Contrat{NPP|mod}		Causation/
+
+
+------->  comporter~différemment{V~ADV|root~mod}		responsable{NC|suj}		être~femme{V~NC|mod_rel~ats}		Causation/
+
+
+------->  merci~adresser{NC~VINF|root~obj}		responsable{NC|mod}		RH{NC|mod}		Causation/
+
+
+------->  merci~adresser{NC~VINF|root~obj}		responsable{NC|mod}		direction{NC|mod}		Causation/
+
+
+------->  Mahmou{NPP|obj}		responsable{NC|mod}		assassiner{VPP|mod}		Causation/
+
+
+------->  reconnaître~légitimité{V~NC|root~obj}		responsable{NC|suj}		réclamer~pédagogie{V~NC|mod_rel~obj}		Causation/
+
+
+------->  Jarnac{NPP|obj}		responsable{NC|mod}		franchise~rue{NC~NC|mod~mod}		Causation/
+
+
+------->  évoquer~geste~impulsif{V~NC~ADJ|root~obj~mod}		responsable{NC|obj}		mettre{VPP|mod}		Causation/
+
+
+------->  Alessandro{NPP|obj}		responsable{NC|mod}		Spidertech{NPP|mod}		Causation/
+
+
+------->  installer~déchet{VINF~NC|root~obj}		responsable{NC|mod}		formation~qualifiant{NC~ADJ|mod~mod}		Causation/
+
+
+------->  installer~déchet{VINF~NC|root~obj}		responsable{NC|mod}		Modules{NPP|mod}		Causation/
+
+
+------->  être~objet{V~NC|root~ats}		responsable{NC|suj}		Marie-Élisabeth{NPP|mod}		Causation/
+
+
+------->  être~objet{V~NC|root~ats}		responsable{NC|suj}		Boutroue{NPP|mod}		Causation/
+
+
+------->  être~objet{V~NC|root~ats}		responsable{NC|suj}		écriture{NC|mod}		Causation/
+
+
+------->  volume~être~idéal{NC~V~ADJ|suj~root~mod}		responsable{ADJ|ats}		spécialiser{VPP|dep}		Causation/
+
+
+------->  souligner~importance~samedi{V~NC~NC|root~obj~mod}		responsable{NC|suj}		Daniel{NPP|mod}		Causation/
+
+
+------->  suivre{V|dep_coord}		responsable{ADJ|ats}		travail{NC|mod}		Causation/
+
+
+------->  être{VS|obj}		responsable{NC|mod}		comptes{NC|mod}		Causation/
+
+
+------->  être~van{V~NC|root~mod}		responsable{NC|ats}		système~numérique{NC~ADJ|mod~mod}		Causation/
+
+
+------->  Hervé~arbitrage{NPP~NC|suj~obj}		responsable{NC|mod}		Arbitrage{NPP|mod}		Causation/
+
+
+------->  programme~parler~parler{NC~VINF~VINF|obj~mod~obj}		responsable{NC|mod}		:_D{NPP|mod}		Causation/
+
+
+------->  infirmier~ère{NC~NC|suj~mod}		responsable{NC|mod}		e{NC|mod}		Causation/
+
+
+------->  chercher~militant~politique{V~NC~ADJ|mod_rel~obj~mod}		responsable{NC|obj}		sien{NC|mod}		Causation/
+
+
+------->  relation~extérieur{NC~ADJ|obj~mod}		responsable{NC|mod}		Internet{NPP|mod}		Causation/
+
+
+------->  être~susceptible{V~ADJ|root~ats}		responsable{NC|suj}		impliquer{VPP|mod}		Causation/
+
+
+------->  être~présent{V~ADJ|obj~ats}		déterminant{NC|suj}		être~allèle{V~NC|mod_rel~mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  poursuivre{VS|obj}		responsable{NC|obj}		incriminer{VPP|mod}		Causation/
+
+
+------->  poursuivre{VS|obj}		responsable{NC|obj}		M.~orienter{NC~V|suj~mod_rel}		Causation/
+
+
+------->  métier{NC|root}		responsable{NC|mod}		point~charger{NC~VPP|mod~mod}		Causation/
+
+
+------->  métier~responsable~point{NC~NC~NC|root~mod~mod}		responsable{NC|mod}		traiter~opération{VPR~NC|mod~obj}		Causation/
+
+
+------->  contacter{VINF|root}		responsable{NC|obj}		Jacob{NPP|mod}		Causation/
+
+
+------->  contacter{VINF|root}		responsable{NC|obj}		Michel{NPP|mod}		Causation/
+
+
+------->  contacter{VINF|root}		responsable{NC|obj}		Encrenaz{NPP|mod}		Causation/
+
+
+------->  contacter{VINF|root}		responsable{NC|obj}		Bourget{NPP|mod}		Causation/
+
+
+------->  contacter{VINF|root}		responsable{NC|obj}		Joëlle{NPP|mod}		Causation/
+
+
+------->  contacter{VINF|root}		responsable{NC|obj}		Rochas{NPP|mod}		Causation/
+
+
+------->  contacter{VINF|root}		responsable{NC|obj}		Annecy{NPP|mod}		Causation/
+
+
+------->  contacter{VINF|root}		responsable{NC|obj}		Nathalie{NPP|mod}		Causation/
+
+
+------->  contacter{VINF|root}		responsable{NC|obj}		Rajon{NPP|mod}		Causation/
+
+
+------->  créer~poste{V~NC|root~obj}		responsable{NC|mod}		achat~H{NC~NC|mod~mod}		Causation/
+
+
+------->  créer~poste{V~NC|root~obj}		responsable{NC|mod}		F~Reference{NC~NC|mod~mod}		Causation/
+
+
+------->  créer~poste{V~NC|root~obj}		responsable{NC|mod}		adm_resp_achat{NC|mod}		Causation/
+
+
+------->  inviter~élus{V~NC|root~obj}		responsable{NC|suj}		page{NC|dep}		Causation/
+
+
+------->  être~enfin{V~ADV|root~mod}		responsable{ADJ|ats}		lier{VPP|dep}		Causation/
+
+
+------->  être~responsable{V~ADJ|root~ats}		responsable{NC|mod}		blanchir{VPP|mod}		Causation/
+
+
+------->  histoire~immédiat{NC~ADJ|obj~mod}		responsable{NC|mod}		J-F{NPP|mod}		Causation/
+
+
+------->  histoire~immédiat{NC~ADJ|obj~mod}		responsable{NC|mod}		Soulet{NPP|mod}		Causation/
+
+
+------->  partir~communauté~camerounais{VPP~NC~ADJ|root~mod~mod}		responsable{NC|suj}		ABIDJAN{NPP|mod}		Causation/
+
+
+------->  partir~communauté~camerounais{VPP~NC~ADJ|root~mod~mod}		responsable{NC|suj}		INADES{NPP|mod}		Causation/
+
+
+------->  partir~communauté~camerounais{VPP~NC~ADJ|root~mod~mod}		responsable{NC|suj}		FORMATION{NPP|mod}		Causation/
+
+
+------->  partir~communauté~camerounais{VPP~NC~ADJ|root~mod~mod}		responsable{NC|suj}		1991{NC|mod}		Causation/
+
+
+------->  produire~effet{VPP~NC|root~obj}		responsable{NC|suj}		initier{VPP|mod}		Causation/
+
+
+------->  Fabrice~chef{NPP~NC|mod~mod}		responsable{NC|mod}		développement~énergie{NC~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Jules{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Zirnheld{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		1{NC|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Gaston{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Tessier~1944{NPP~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Gaston{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Tessier{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		1946~président{NC~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Georges{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Torcq{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Gaston{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Tessier{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		1948~-1953{NC~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Gaston{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Tessier{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Maurice{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Bouladoux~1961{NPP~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Maurice{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Bouladoux{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Georges~1961{NPP~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		président{NC|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Georges{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Levard{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		2{NC|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Eugène{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Descamps{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		1967~-1970{NC~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		André{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Jeanson{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Eugène{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Descamps~1970{NPP~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Eugène{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Descamps{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		3{NC|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		1971~-1973{NC~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Laurent{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Lucas{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Edmond{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Maire{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		1973~secrétaire{NC~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Edmond{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Maire{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		1988~secrétaire{NC~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Jean{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Kaspar~secrétaire{NPP~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Nicole{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Notat{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		François{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Chérèque{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		1{NC|mod}		Causation/
+
+
+------->  équipe~contacter{NC~V|suj~root}		responsable{NC|obj}		Maxime{NPP|mod}		Causation/
+
+
+------->  exclure~pour_autant{VPP~ADV|root~mod}		responsable{ADJ|mod}		Andreff{NPP|dep}		Causation/
+
+
+------->  pratiquer~systématiquement{VPP~ADV|root~mod}		responsable{NC|suj}		François{NPP|mod}		Causation/
+
+
+------->  pratiquer~systématiquement{VPP~ADV|root~mod}		responsable{NC|suj}		Dolbeau{NPP|mod}		Causation/
+
+
+------->  pratiquer~systématiquement{VPP~ADV|root~mod}		responsable{NC|suj}		EPHE{NPP|mod}		Causation/
+
+
+------->  pratiquer~systématiquement{VPP~ADV|root~mod}		responsable{NC|suj}		recherche{NC|mod}		Causation/
+
+
+------->  prise~conduire~en_compte{NC~VPP~ADV|suj~root~mod}		responsable{NC|obj}		Port~2000{NC~NC|mod~mod}		Causation/
+
+
+------->  Professeure~Associée{NC~NC|mod~mod}		responsable{NC|mod}		administratif{NC|mod}		Causation/
+
+
+------->  suite~appointer{NC~V|suj~root}		responsable{NC|obj}		leader{NC|mod}		Causation/
+
+
+------->  demander{VPP|mod}		responsable{NC|suj}		formation{NC|mod}		Causation/
+
+
+------->  mettre~groupe~composer{VPP~NC~VPP|root~obj~mod}		responsable{NC|suj}		formation{NC|mod}		Causation/
+
+
+------->  devoir~abstenir{V~VINF|root~obj}		responsable{ADJ|mod}		enseignant~tout{NC~ADV|dep~mod}		Causation/
+
+
+------->  assister{VINF|obj}		responsable{NC|obj}		Editorial{NPP|mod}		Causation/
+
+
+------->  Antoine{NPP|suj}		responsable{NC|mod}		relation{NC|mod}		Causation/
+
+
+------->  Antoine{NPP|suj}		responsable{NC|mod}		client{NC|mod}		Causation/
+
+
+------->  expliquer{V|mod}		responsable{NC|suj}		relation{NC|mod}		Causation/
+
+
+------->  expliquer{V|mod}		responsable{NC|suj}		client{NC|mod}		Causation/
+
+
+------->  considérer~client{VINF~NC|obj~obj}		responsable{NC|obj}		relation{NC|mod}		Causation/
+
+
+------->  considérer~client{VINF~NC|obj~obj}		responsable{NC|obj}		client{NC|mod}		Causation/
+
+
+------->  FILS{NPP|dep_coord}		responsable{NC|mod}		relation~client{NC~NC|mod~mod}		Causation/
+
+
+------->  Marketing{NPP|obj}		responsable{NC|mod}		programme{NC|mod}		Causation/
+
+
+------->  LA{NC|mod}		responsable{NC|mod}		Pôle{NPP|mod}		Causation/
+
+
+------->  LA{NC|mod}		responsable{NC|mod}		Fichier{NPP|mod}		Causation/
+
+
+------->  assurance{NC|mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  LA~client~responsable{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  client{NC|mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  client{NC|mod}		responsable{NC|mod}		client{NC|mod}		Causation/
+
+
+------->  désigner{VPR|mod}		responsable{NC|obj}		habiliter{VPP|mod}		Causation/
+
+
+------->  punir~mercredi~septembre{V~NC~NC|root~mod~mod}		responsable{NC|obj}		extrait{NC|mod}		Causation/
+
+
+------->  VILLEGEORGES{NC|obj}		responsable{NC|mod}		agence{NC|mod}		Causation/
+
+
+------->  acte{NC|root}		responsable{ADJ|mod}		être{V|aux_pass}		Causation/
+
+
+------->  dire~grièvement{VPP~ADV|root~obj}		responsable{NC|suj}		Basharat{NPP|mod}		Causation/
+
+
+------->  suivre~formation{VPP~NC|root~obj}		responsable{NC|suj}		FI{NPP|mod}		Causation/
+
+
+------->  3~Monsieur{NC~NC|root~mod}		responsable{NC|mod}		recrutement{NC|mod}		Causation/
+
+
+------->  3~Monsieur{NC~NC|root~mod}		responsable{NC|mod}		développement{NC|mod}		Causation/
+
+
+------->  3~Monsieur{NC~NC|root~mod}		responsable{NC|mod}		ressource~humain{NC~ADJ|mod~mod}		Causation/
+
+
+------->  3~Monsieur{NC~NC|root~mod}		responsable{NC|mod}		FI{NPP|mod}		Causation/
+
+
+------->  3~Monsieur{NC~NC|root~mod}		responsable{NC|mod}		BTS{NC|mod}		Causation/
+
+
+------->  3~Monsieur{NC~NC|root~mod}		responsable{NC|mod}		formation{NC|mod}		Causation/
+
+
+------->  succès{NC|obj}		responsable{NC|mod}		RH{NPP|mod}		Causation/
+
+
+------->  succès~responsable{NC~NC|obj~mod}		responsable{NC|mod}		formation{NC|mod}		Causation/
+
+
+------->  être{V|root}		responsable{NC|ats}		Appartager.fr{NPP|mod}		Causation/
+
+
+------->  proposer~ainsi{V~ADV|root~mod}		responsable{NC|mod}		magasin{NC|mod}		Causation/
+
+
+------->  lumière~induire{NC~V|suj~root}		responsable{NC|obj}		décoloration{NC|mod}		Causation/
+
+
+------->  lumière~induire{NC~V|suj~root}		responsable{NC|obj}		balance~chromatique{NC~ADJ|mod~mod}		Causation/
+
+
+------->  TU~B{NC~NC|mod~mod}		responsable{NC|mod}		poursuivre{VPP|mod}		Causation/
+
+
+------->  rester{V|root}		responsable{NC|ats}		voir{VPP|mod}		Causation/
+
+
+------->  animer~démarche{VINF~NC|obj~obj}		responsable{NC|obj}		qualité{NC|mod}		Causation/
+
+
+------->  percevoir~plus{V~ADV|dep_coord~mod}		déterminant{NC|obj}		contraindre{V|mod_rel}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  PHY~601{NPP~ADJ|mod~mod}		responsable{NC|mod}		Manuel{NPP|mod}		Causation/
+
+
+------->  PHY~601{NPP~ADJ|mod~mod}		responsable{NC|mod}		Joffre{NPP|mod}		Causation/
+
+
+------->  PHY~601{NPP~ADJ|mod~mod}		responsable{NC|mod}		Spécialité{NPP|mod}		Causation/
+
+
+------->  PHY~601{NPP~ADJ|mod~mod}		responsable{NC|mod}		cohabilité{VPP|mod}		Causation/
+
+
+------->  PHY~602{NPP~ADJ|mod~mod}		responsable{NC|mod}		Catherine{NPP|mod}		Causation/
+
+
+------->  PHY~602{NPP~ADJ|mod~mod}		responsable{NC|mod}		Krafft{NPP|mod}		Causation/
+
+
+------->  PHY~602{NPP~ADJ|mod~mod}		responsable{NC|mod}		Spécialité{NPP|mod}		Causation/
+
+
+------->  PHY~602{NPP~ADJ|mod~mod}		responsable{NC|mod}		cohabilité{VPP|mod}		Causation/
+
+
+------->  PHY~603{NPP~NC|mod~mod}		responsable{NC|mod}		Jean-Pierre{NPP|mod}		Causation/
+
+
+------->  PHY~603{NPP~NC|mod~mod}		responsable{NC|mod}		Boilot{NPP|mod}		Causation/
+
+
+------->  PHY~603{NPP~NC|mod~mod}		responsable{NC|mod}		Spécialité{NPP|mod}		Causation/
+
+
+------->  PHY~603{NPP~NC|mod~mod}		responsable{NC|mod}		cohabilité{VPP|mod}		Causation/
+
+
+------->  PHY~604{NPP~NC|mod~mod}		responsable{NC|mod}		Jean-Marcel{NPP|mod}		Causation/
+
+
+------->  PHY~604{NPP~NC|mod~mod}		responsable{NC|mod}		Rax{NPP|mod}		Causation/
+
+
+------->  PHY~604{NPP~NC|mod~mod}		responsable{NC|mod}		Spécialité{NPP|mod}		Causation/
+
+
+------->  PHY~604{NPP~NC|mod~mod}		responsable{NC|mod}		cohabilité{VPP|mod}		Causation/
+
+
+------->  membre~numéro~060254DAJ{NC~NC~ADJ|root~mod~mod}		responsable{NC|mod}		Gilles{NPP|mod}		Causation/
+
+
+------->  membre~numéro~060254DAJ{NC~NC~ADJ|root~mod~mod}		responsable{NC|mod}		Pijaudier-Cabot{NPP|mod}		Causation/
+
+
+------->  avoir{VINF|obj}		responsable{NC|obj}		rendre~comptes{V~NC|mod_rel~obj}		Causation/
+
+
+------->  contact{NC|suj}		responsable{NC|mod}		Gestion{NPP|mod}		Causation/
+
+
+------->  contact{NC|suj}		responsable{NC|mod}		Privée{NPP|mod}		Causation/
+
+
+------->  contact{NC|suj}		responsable{NC|mod}		Contactez{NPP|mod}		Causation/
+
+
+------->  contact{NC|suj}		responsable{NC|mod}		Philippe{NPP|mod}		Causation/
+
+
+------->  contact{NC|suj}		responsable{NC|mod}		CHALVET{NPP|mod}		Causation/
+
+
+------->  contact{NC|suj}		responsable{NC|mod}		mandat{NC|mod}		Causation/
+
+
+------->  affirmer{V|mod}		responsable{NC|suj}		Jean-Bernard{NPP|mod}		Causation/
+
+
+------->  Master~+5{NPP~NC|root~mod}		responsable{NC|mod}		Cnam{NPP|mod}		Causation/
+
+
+------->  Master~+5{NPP~NC|root~mod}		responsable{NC|mod}		Picardie{NPP|mod}		Causation/
+
+
+------->  Master~+5{NPP~NC|root~mod}		responsable{NC|mod}		Approfondissement{NPP|mod}		Causation/
+
+
+------->  Master~Autre{NPP~NC|root~mod}		responsable{NC|mod}		Bac+4~concerner{NC~VPP|mod~mod}		Causation/
+
+
+------->  Encre~ZI~platière{NPP~NC~NC|suj~mod~mod}		responsable{NC|mod}		développement{NC|mod}		Causation/
+
+
+------->  Encre~ZI~platière{NPP~NC~NC|suj~mod~mod}		responsable{NC|mod}		réseau~2F{NC~ADJ|mod~mod}		Causation/
+
+
+------->  être~ensemble{V~NC|root~ats}		responsable{NC|mod}		autorité~parental{NC~ADJ|mod~mod}		Causation/
+
+
+------->  être~ensemble{V~NC|root~ats}		responsable{NC|mod}		définition~loi{NC~NC|mod~mod}		Causation/
+
+
+------->  être~mission~principal{V~NC~ADJ|root~ats~mod}		responsable{NC|suj}		Anne-Véronique{NPP|mod}		Causation/
+
+
+------->  être~mission~principal{V~NC~ADJ|root~ats~mod}		responsable{NC|suj}		Raynal{NPP|mod}		Causation/
+
+
+------->  être~mission~principal{V~NC~ADJ|root~ats~mod}		responsable{NC|suj}		histoire{NC|mod}		Causation/
+
+
+------->  exercer~mission{V~NC|root~obj}		responsable{NC|suj}		Préfet{NPP|mod}		Causation/
+
+
+------->  pouvoir~responsable{V~NC|root~obj}		responsable{NC|obj}		Hubert{NPP|mod}		Causation/
+
+
+------->  pouvoir~responsable{V~NC|root~obj}		responsable{NC|obj}		Hubert{NPP|mod}		Causation/
+
+
+------->  perspective~directeur{NC~NC|root~mod}		responsable{NC|mod}		Cellule{NPP|mod}		Causation/
+
+
+------->  séminaire~concerner{NC~V|suj~root}		responsable{NC|obj}		responsable~commercial{NC~ADJ|mod~mod}		Causation/
+
+
+------->  séminaire~concerner{NC~V|suj~root}		responsable{NC|obj}		marketing~responsable{NC~ADJ|mod~mod}		Causation/
+
+
+------->  séminaire~concerner{NC~V|suj~root}		responsable{NC|obj}		chef{NC|mod}		Causation/
+
+
+------->  séminaire~concerner{NC~V|suj~root}		responsable{NC|obj}		responsable{NC|mod}		Causation/
+
+
+------->  annoncer{VPP|mod}		responsable{NC|suj}		renforcer{VPP|mod}		Causation/
+
+
+------->  déclaration{NC|root}		responsable{NC|mod}		Ecologie{NPP|mod}		Causation/
+
+
+------->  pouvoir~déverser~argent{V~VINF~NC|obj~obj~obj}		responsable{NC|suj}		congé~associatif{NC~ADJ|mod~mod}		Causation/
+
+
+------->  rencontrer{VINF|dep}		responsable{NC|obj}		pouvoir~proposer{V~VINF|mod_rel~obj}		Causation/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		développement~484{NC~ADJ|mod~mod}		Causation/
+
+
+------->  souligner{V|mod}		responsable{NC|suj}		appliquer~également{V~ADV|mod_rel~mod}		Causation/
+
+
+------->  venir~firme{VPR~NC|mod~obj}		responsable{NC|obj}		être~évaluateur{V~NC|mod_rel~ats}		Causation/
+
+
+------->  fixer~rémunération{VINF~NC|obj~obj}		responsable{NC|mod}		établir~pas{VPP~ADV|mod_rel~mod}		Causation/
+
+
+------->  reproduire~débat~avoir{VPP~NC~VPP|root~obj~mod}		responsable{NC|mod}		humanité{NC|obj}		Causation/
+
+
+------->  retrouver~lieu{V~NC|root~obj}		responsable{NC|obj}		Gérard{NPP|mod}		Causation/
+
+
+------->  retrouver~lieu{V~NC|root~obj}		responsable{NC|obj}		Annick{NPP|mod}		Causation/
+
+
+------->  retrouver~lieu{V~NC|root~obj}		responsable{NC|obj}		François{NPP|mod}		Causation/
+
+
+------->  retrouver~lieu{V~NC|root~obj}		responsable{NC|obj}		Jean-Marie{NPP|mod}		Causation/
+
+
+------->  retrouver~lieu{V~NC|root~obj}		responsable{NC|obj}		Bernard{NPP|mod}		Causation/
+
+
+------->  retrouver~lieu{V~NC|root~obj}		responsable{NC|obj}		Claude{NPP|mod}		Causation/
+
+
+------->  courrier~CRM~directeur{NC~NC~NC|obj~mod~mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  courrier~CRM~directeur{NC~NC~NC|obj~mod~mod}		responsable{NC|mod}		Opérationnel{NPP|mod}		Causation/
+
+
+------->  courrier~CRM~directeur{NC~NC~NC|obj~mod~mod}		responsable{NC|mod}		Marchés{NPP|mod}		Causation/
+
+
+------->  courrier~CRM~directeur{NC~NC~NC|obj~mod~mod}		responsable{NC|mod}		Particuliers{NPP|mod}		Causation/
+
+
+------->  courrier~CRM~directeur{NC~NC~NC|obj~mod~mod}		responsable{NC|mod}		Joëlle{NPP|mod}		Causation/
+
+
+------->  courrier~CRM~directeur{NC~NC~NC|obj~mod~mod}		responsable{NC|mod}		Burgin{NPP|mod}		Causation/
+
+
+------->  courrier~CRM~directeur{NC~NC~NC|obj~mod~mod}		responsable{NC|mod}		CAMIF{NPP|mod}		Causation/
+
+
+------->  Marketing{NPP|dep_coord}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  banque~assurance~FRANCE{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  banque~assurance~FRANCE{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		Opérationnel{NPP|mod}		Causation/
+
+
+------->  banque~assurance~FRANCE{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		Elisabeth{NPP|mod}		Causation/
+
+
+------->  banque~assurance~FRANCE{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		Marle{NPP|mod}		Causation/
+
+
+------->  banque~assurance~FRANCE{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		MÉDIATIS{NPP|mod}		Causation/
+
+
+------->  banque~assurance~FRANCE{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		Directrice{NPP|mod}		Causation/
+
+
+------->  banque~assurance~FRANCE{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  banque~assurance~FRANCE{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		Adjointe{NPP|mod}		Causation/
+
+
+------->  banque~assurance~FRANCE{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		Christophe{NPP|mod}		Causation/
+
+
+------->  banque~assurance~FRANCE{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		Mayer{NPP|mod}		Causation/
+
+
+------->  banque~assurance~FRANCE{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		ZENITHOPTIMEDIA{NPP|mod}		Causation/
+
+
+------->  banque~assurance~FRANCE{NC~NC~NC|mod~mod~mod}		responsable{NC|mod}		directeur{NC|mod}		Causation/
+
+
+------->  général{NC|mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  Sanofi{NPP|obj}		responsable{NC|mod}		Gestion{NPP|mod}		Causation/
+
+
+------->  joindre~renseignement{VINF~NC|root~obj}		responsable{NC|obj}		Pierre.le-Masne@univ-poitiers.fr.{NPP|mod}		Causation/
+
+
+------->  concerner~d'abord{V~ADV|root~mod}		responsable{NC|obj}		savoir{V|mod_rel}		Causation/
+
+
+------->  RSSI{NPP|obj}		responsable{NC|mod}		sécurité{NC|mod}		Causation/
+
+
+------->  rappeler{V|mod_rel}		responsable{NC|suj}		2{NC|mod}		Causation/
+
+
+------->  être{VINF|obj}		responsable{NC|obj}		endeuiller~restaurant{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  être~pourtant{V~ADV|root~mod}		responsable{NC|ats}		réduire{VPR|mod}		Causation/
+
+
+------->  confier{VPP|root}		responsable{NC|suj}		ordonnancement{NC|mod}		Causation/
+
+
+------->  confier{VPP|root}		responsable{NC|suj}		responsable{NC|mod}		Causation/
+
+
+------->  responsable~responsable{NC~NC|dep_coord~mod}		responsable{NC|mod}		planning{NC|mod}		Causation/
+
+
+------->  pouvoir~appeler~retour{V~VINF~NC|root~obj~obj}		responsable{NC|mod}		fabrication{NC|mod}		Causation/
+
+
+------->  cedex{NC|mod}		responsable{NC|mod}		IFEP-Sciences~économique{NPP~NC|mod~mod}		Causation/
+
+
+------->  avoir~preuve~moindre{V~NC~ADJ|root~obj~mod}		responsable{NC|obj}		financer{VPP|mod}		Causation/
+
+
+------->  secteur~réception{NC~NC|obj~mod}		responsable{NC|mod}		planning{NC|mod}		Causation/
+
+
+------->  ordonnancement{NC|mod}		responsable{NC|mod}		magasin{NC|mod}		Causation/
+
+
+------->  distribution{NC|obj}		responsable{NC|mod}		sécurité{NC|mod}		Causation/
+
+
+------->  pouvoir~appeler~retour{V~VINF~NC|root~obj~obj}		responsable{NC|mod}		responsable~responsable{NC~NC|mod~mod}		Causation/
+
+
+------->  responsable~fabrication{NC~NC|mod~obj}		responsable{NC|mod}		responsable{NC|mod}		Causation/
+
+
+------->  Jocelyne{NPP|obj}		responsable{NC|mod}		développement{NC|mod}		Causation/
+
+
+------->  Laurence{NPP|obj}		responsable{NC|mod}		marketing{NC|mod}		Causation/
+
+
+------->  Fabien{NPP|obj}		responsable{NC|mod}		Développement{NPP|mod}		Causation/
+
+
+------->  indiquer{VPP|root}		responsable{NC|suj}		M.{NC|mod}		Causation/
+
+
+------->  consacrer~réunion{VPP~NC|root~obj}		responsable{NC|suj}		DIONNET{NC|mod}		Causation/
+
+
+------->  consacrer~réunion{VPP~NC|root~obj}		responsable{NC|suj}		envoyer~2008{VINF~NC|dep~obj}		Causation/
+
+
+------->  étudier~système~futur{V~NC~NC|root~obj~mod}		responsable{NC|mod}		élire{VPP|mod}		Causation/
+
+
+------->  rencontrer{VINF|obj}		responsable{NC|obj}		1{NC|mod}		Causation/
+
+
+------->  François~association~Normand{NPP~NC~ADJ|suj~mod~mod}		responsable{NC|mod}		normand{NC|mod}		Causation/
+
+
+------->  François~association~Normand{NPP~NC~ADJ|suj~mod~mod}		responsable{NC|mod}		réunir{VPP|mod}		Causation/
+
+
+------->  banque{NC|obj}		responsable{NC|mod}		RH{NC|mod}		Causation/
+
+
+------->  chapeauter{V|root}		responsable{NC|suj}		Monsieur{NC|mod}		Causation/
+
+
+------->  Eric{NPP|obj}		responsable{NC|mod}		étude{NC|mod}		Causation/
+
+
+------->  décider~place{VPP~NC|root~mod}		responsable{NC|suj}		inquiéter{V|mod_rel}		Causation/
+
+
+------->  rechercher{V|coord}		responsable{NC|suj}		boîte{NC|mod}		Causation/
+
+
+------->  CONTACT~rue{NPP~NC|suj~mod}		responsable{NC|mod}		développement{NC|mod}		Causation/
+
+
+------->  réunir{V|root}		responsable{NC|obj}		confronter{VPP|mod}		Causation/
+
+
+------->  désigner{VINF|obj}		responsable{NC|obj}		communiqué{NC|mod}		Causation/
+
+
+------->  gérer~réservation~premier{V~NC~ADJ|root~obj~mod}		responsable{NC|suj}		Hoverspeed{NPP|mod}		Causation/
+
+
+------->  fermer~yeux{V~NC|root~obj}		responsable{NC|suj}		charger{VPP|mod}		Causation/
+
+
+------->  disposer~ainsi{V~ADV|root~mod}		responsable{NC|mod}		compléter~le_cas_échéant{VPP~ADV|mod~mod}		Causation/
+
+
+------->  atteinte~être{NC~V|suj~mod_rel}		responsable{ADJ|ats}		sinus~frontal{NC~ADJ|dep~mod}		Causation/
+
+
+------->  général{NC|mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  échos{NC|dep_coord}		responsable{NC|mod}		Etudes{NPP|mod}		Causation/
+
+
+------->  poste{NC|dep_coord}		responsable{NC|mod}		pôle{NC|mod}		Causation/
+
+
+------->  poste{NC|dep_coord}		responsable{NC|mod}		agence{NC|mod}		Causation/
+
+
+------->  poste{NC|dep_coord}		responsable{NC|mod}		Philippe{NPP|mod}		Causation/
+
+
+------->  poste{NC|dep_coord}		responsable{NC|mod}		LACROIX{NPP|mod}		Causation/
+
+
+------->  poste{NC|dep_coord}		responsable{NC|mod}		SÉLECTION{NPP|mod}		Causation/
+
+
+------->  courrier{NC|mod}		responsable{NC|mod}		Publications{NPP|mod}		Causation/
+
+
+------->  courrier{NC|mod}		responsable{NC|mod}		Jean-Claude{NPP|mod}		Causation/
+
+
+------->  courrier{NC|mod}		responsable{NC|mod}		PINEL{NPP|mod}		Causation/
+
+
+------->  famille~professionnel{NC~ADJ|obj~mod}		responsable{NC|mod}		charger{VPP|mod}		Causation/
+
+
+------->  avoir~ha{V~ADV|root~mod}		responsable{NC|suj}		directeur{NC|mod}		Causation/
+
+
+------->  avoir~ha{V~ADV|root~mod}		responsable{NC|suj}		fget{NC|mod}		Causation/
+
+
+------->  avoir~ha{V~ADV|root~mod}		responsable{NC|suj}		argument{NC|mod}		Causation/
+
+
+------->  confier{VPP|root}		responsable{NC|suj}		responsable{NC|mod}		Causation/
+
+
+------->  évoluer~rapidement{VINF~ADV|obj~mod}		responsable{NC|mod}		planning{NC|mod}		Causation/
+
+
+------->  évoluer~rapidement{VINF~ADV|obj~mod}		responsable{NC|mod}		ordonnancement{NC|mod}		Causation/
+
+
+------->  évoluer~rapidement{VINF~ADV|obj~mod}		responsable{NC|mod}		responsable{NC|mod}		Causation/
+
+
+------->  évoluer~rapidement{VINF~ADV|obj~mod}		responsable{NC|mod}		responsable~sécurité{NC~NC|mod~mod}		Causation/
+
+
+------->  responsable~logistique{NC~ADJ|mod~mod}		responsable{NC|mod}		sécurité{NC|mod}		Causation/
+
+
+------->  page~ingénieur~process{NC~NC~ADJ|obj~mod~mod}		responsable{NC|mod}		méthode{NC|mod}		Causation/
+
+
+------->  page~ingénieur~process{NC~NC~ADJ|obj~mod~mod}		responsable{NC|mod}		service{NC|mod}		Causation/
+
+
+------->  page~ingénieur~process{NC~NC~ADJ|obj~mod~mod}		responsable{NC|mod}		méthode{NC|mod}		Causation/
+
+
+------->  Nadine{NPP|mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  pouvoir~appeler~retour{V~VINF~NC|root~obj~obj}		responsable{NC|mod}		planning{NC|mod}		Causation/
+
+
+------->  pouvoir~appeler~retour{V~VINF~NC|root~obj~obj}		responsable{NC|mod}		ordonnancement{NC|mod}		Causation/
+
+
+------->  pouvoir~appeler~retour{V~VINF~NC|root~obj~obj}		responsable{NC|mod}		responsable{NC|mod}		Causation/
+
+
+------->  responsabilité~international{NC~ADJ|obj~mod}		responsable{NC|mod}		baser~manager{VPP~NC|mod~mod}		Causation/
+
+
+------->  être~demandeur{V~NC|obj~obj}		responsable{NC|suj}		avoir{V|mod_rel}		Causation/
+
+
+------->  étayer~membre{V~NC|obj~mod}		responsable{ADJ|suj}		quatre{NC|mod}		Causation/
+
+
+------->  AFSSA~charger~groupe{NC~VPP~NC|obj~mod~mod}		responsable{NC|mod}		qualité{NC|mod}		Causation/
+
+
+------->  administrateur~cap{NC~NC|mod~mod}		responsable{NC|mod}		qualité{NC|mod}		Causation/
+
+
+------->  secteur~brevet{NC~NC|obj~mod}		responsable{NC|mod}		qualité{NC|mod}		Causation/
+
+
+------->  autoriser{VPP|root}		responsable{NC|suj}		Monsieur{NC|mod}		Causation/
+
+
+------->  autoriser{VPP|root}		responsable{NC|suj}		Port.{NC|mod}		Causation/
+
+
+------->  autoriser{VPP|root}		responsable{NC|suj}		horaire{NC|mod}		Causation/
+
+
+------->  autoriser{VPP|root}		responsable{NC|suj}		mercredi{NC|mod}		Causation/
+
+
+------->  autoriser{VPP|root}		responsable{NC|suj}		accès{NC|mod}		Causation/
+
+
+------->  informer{VINF|obj}		responsable{NC|obj}		produire{V|mod}		Causation/
+
+
+------->  Bordeaux~histoire{NPP~NC|suj~mod}		responsable{NC|mod}		collection~vigne-vin{NC~ADJ|mod~mod}		Causation/
+
+
+------->  éditer{V|root}		responsable{NC|suj}		A.C.R.E.P.T.{NPP|mod}		Causation/
+
+
+------->  Marie-Christine{NPP|mod}		responsable{NC|mod}		recrutement~tour{NC~NC|mod~mod}		Causation/
+
+
+------->  tenir{VPP|obj}		responsable{ADJ|ats}		voir{VINF|obj}		Causation/
+
+
+------->  tél.~loir{NC~NC|root~mod}		responsable{NC|mod}		site{NC|mod}		Causation/
+
+
+------->  tél.~loir{NC~NC|root~mod}		responsable{NC|mod}		Internet{NPP|mod}		Causation/
+
+
+------->  rencontrer{VINF|dep_coord}		responsable{NC|obj}		bureau~B{NC~NC|mod~mod}		Causation/
+
+
+------->  téléphone~numéro{NC~NC|root~mod}		responsable{NC|mod}		circulation~aérien{NC~ADJ|mod~mod}		Causation/
+
+
+------->  annuaire{NC|suj}		responsable{NC|mod}		E-mail{NPP|mod}		Causation/
+
+
+------->  pouvoir~affirmer~nécessité{VPP~VINF~NC|root~obj~obj}		responsable{NC|suj}		libérer{VPP|mod}		Causation/
+
+
+------->  désigner{VPR|mod}		responsable{NC|obj}		habiliter{VPP|mod}		Causation/
+
+
+------->  Gérard~élire{NPP~VPP|mod~mod}		responsable{NC|mod}		Bernard{NPP|mod}		Causation/
+
+
+------->  Gérard~élire{NPP~VPP|mod~mod}		responsable{NC|mod}		François{NPP|mod}		Causation/
+
+
+------->  Gérard~élire{NPP~VPP|mod~mod}		responsable{NC|mod}		DELAPIERRE{NPP|mod}		Causation/
+
+
+------->  exprimer~regret{VPP~NC|obj~obj}		responsable{NC|suj}		entendre{VPP|mod}		Causation/
+
+
+------->  an~gestion~an{NC~NC~NC|suj~mod~mod}		responsable{NC|mod}		Aurélie{NPP|dep}		Causation/
+
+
+------->  Emilie~an{NPP~NC|root~mod}		responsable{NC|mod}		marketing{NC|mod}		Causation/
+
+
+------->  Élodie~an~29{NPP~NC~ADJ|dep_coord~mod~mod}		responsable{NC|mod}		marketing{NC|mod}		Causation/
+
+
+------->  an~gestion~an{NC~NC~NC|suj~mod~mod}		responsable{NC|mod}		Aurélie{NPP|dep}		Causation/
+
+
+------->  Emilie~an{NPP~NC|root~mod}		responsable{NC|mod}		marketing{NC|mod}		Causation/
+
+
+------->  Élodie~an~29{NPP~NC~ADJ|dep_coord~mod~mod}		responsable{NC|mod}		marketing{NC|mod}		Causation/
+
+
+------->  famille~fget{NC~NC|obj~mod}		responsable{NC|mod}		transparence{NC|mod}		Causation/
+
+
+------->  confier{VPP|root}		responsable{NC|suj}		ordonnancement{NC|mod}		Causation/
+
+
+------->  confier{VPP|root}		responsable{NC|suj}		responsable{NC|mod}		Causation/
+
+
+------->  responsable~responsable{NC~NC|dep_coord~mod}		responsable{NC|mod}		planning{NC|mod}		Causation/
+
+
+------->  secteur~distribution{NC~NC|obj~mod}		responsable{NC|mod}		magasin{NC|mod}		Causation/
+
+
+------->  médicament{NC|obj}		responsable{NC|mod}		sécurité{NC|mod}		Causation/
+
+
+------->  maintenance{NC|mod}		responsable{NC|mod}		méthode{NC|mod}		Causation/
+
+
+------->  contact~autre{NC~ADJ|root~mod}		responsable{NC|mod}		associer{VPP|mod}		Causation/
+
+
+------->  classe~division~division{NC~NC~NC|root~mod~mod}		responsable{NC|mod}		créatif~capable{NC~ADJ|obj~mod}		Causation/
+
+
+------->  régime~spécial{NC~ADJ|suj~mod}		responsable{NC|mod}		CGT{NPP|mod}		Causation/
+
+
+------->  pouvoir~être~interlocuteur{VS~VINF~NC|obj~obj~obj}		responsable{NC|suj}		syndicat{NC|mod}		Causation/
+
+
+------->  Fraternellement{NC|dep_coord}		responsable{NC|mod}		PCF{NPP|mod}		Causation/
+
+
+------->  être~pour_l'heure{V~ADV|root~mod}		responsable{NC|ats}		désigner{VPP|mod}		Causation/
+
+
+------->  décision~rendre{NC~V|suj~root}		responsable{NC|obj}		accuser~américain{V~NC|mod_rel~obj}		Causation/
+
+
+------->  échanger{VINF|obj}		responsable{NC|mod}		déconcentrer~régional{VPP~ADJ|mod~mod}		Causation/
+
+
+------->  être~responsable{V~ADJ|root~ats}		responsable{NC|mod}		blanchir{VPP|mod}		Causation/
+
+
+------->  Pascal~Alexandra{NPP~NC|obj~mod}		responsable{NC|mod}		environnement{NC|mod}		Causation/
+
+
+------->  TARKETT~responsable{NC~NC|mod~mod}		responsable{NC|mod}		Local{NPP|mod}		Causation/
+
+
+------->  TARKETT~responsable{NC~NC|mod~mod}		responsable{NC|mod}		Caroline{NPP|mod}		Causation/
+
+
+------->  TARKETT~responsable{NC~NC|mod~mod}		responsable{NC|mod}		PIERRE{NPP|mod}		Causation/
+
+
+------->  Nathalie{NPP|mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  punir{VINF|obj}		responsable{NC|obj}		rendre~coupable{VPP~ADJ|mod_rel~ats}		Causation/
+
+
+------->  témoigner~effort~réaliser{VPP~NC~VPP|root~obj~mod}		responsable{NC|suj}		SPIP{NPP|mod}		Causation/
+
+
+------->  organisation{NC|obj}		responsable{NC|mod}		:_O{NPP|mod}		Causation/
+
+
+------->  évoluer~méthode~responsable{VINF~NC~NC|obj~obj~mod}		responsable{NC|mod}		planning{NC|mod}		Causation/
+
+
+------->  évoluer~méthode~responsable{VINF~NC~NC|obj~obj~mod}		responsable{NC|mod}		ordonnancement{NC|mod}		Causation/
+
+
+------->  évoluer~méthode~responsable{VINF~NC~NC|obj~obj~mod}		responsable{NC|mod}		responsable~magasin{NC~NC|mod~mod}		Causation/
+
+
+------->  responsable~ordonnancement{NC~NC|mod~mod}		responsable{NC|mod}		magasin{NC|mod}		Causation/
+
+
+------->  méthode~logistique{NC~ADJ|obj~mod}		responsable{NC|mod}		sécurité{NC|mod}		Causation/
+
+
+------->  Justice~hépatite~B{NPP~NC~NC|suj~mod~mod}		responsable{NC|mod}		mettre{VPP|mod}		Causation/
+
+
+------->  être~mettre{VPP~VPP|root~mod}		responsable{NC|suj}		mettre{VPP|mod_rel}		Causation/
+
+
+------->  hépatite~B{NC~NC|mod~mod}		responsable{NC|mod}		mettre{VPP|mod}		Causation/
+
+
+------->  â~groupe{V~NC|mod_rel~obj}		responsable{NC|suj}		Marketing{NPP|mod}		Causation/
+
+
+------->  â~groupe{V~NC|mod_rel~obj}		responsable{NC|suj}		LAFONT{NPP|mod}		Causation/
+
+
+------->  â~groupe{V~NC|mod_rel~obj}		responsable{NC|suj}		RAPNOUIL{NPP|mod}		Causation/
+
+
+------->  étude~clinique{NC~ADJ|obj~mod}		responsable{NC|mod}		assurance{NC|mod}		Causation/
+
+
+------->  étude~clinique{NC~ADJ|obj~mod}		responsable{NC|mod}		qualité{NC|mod}		Causation/
+
+
+------->  maison{NC|root}		responsable{NC|mod}		vie~étudiant{NC~ADJ|mod~mod}		Causation/
+
+
+------->  membre~FFHB{NC~NC|mod~mod}		responsable{NC|mod}		Label{NPP|mod}		Causation/
+
+
+------->  membre~FFHB{NC~NC|mod~mod}		responsable{NC|mod}		Ecole~Répondre{NC~NC|mod~mod}		Causation/
+
+
+------->  facteur~religieux{NC~ADJ|root~mod}		déterminant{ADJ|mod}		être{V|aux_pass}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  imaginer~mal{V~ADV|root~mod}		responsable{NC|obj}		lancer{VPR|mod}		Causation/
+
+
+------->  décharger~fonction{VPP~NC|dep_coord~obj}		responsable{NC|mod}		informer~commission{V~NC|mod_rel~obj}		Causation/
+
+
+------->  Paulette{NPP|obj}		responsable{NC|mod}		PS{NPP|mod}		Causation/
+
+
+------->  attendre{VPP|root}		responsable{NC|suj}		dirigeant{NC|mod}		Causation/
+
+
+------->  être~tuer{VPP~VPP|root~mod}		responsable{NC|suj}		CRP{NPP|mod}		Causation/
+
+
+------->  être~tuer{VPP~VPP|root~mod}		responsable{NC|suj}		Ameur{NPP|mod}		Causation/
+
+
+------->  rencontrer~récemment{VPP~ADV|root~mod}		responsable{NC|obj}		cap{NC|mod}		Causation/
+
+
+------->  rencontrer~récemment{VPP~ADV|root~mod}		responsable{NC|obj}		Stéria{NPP|mod}		Causation/
+
+
+------->  rencontrer~récemment{VPP~ADV|root~mod}		responsable{NC|obj}		Syntec-Informatique{NPP|mod}		Causation/
+
+
+------->  rencontrer~récemment{VPP~ADV|root~mod}		responsable{NC|obj}		montrer~accord{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  rencontrer{VINF|obj}		responsable{NC|obj}		TIC{NPP|mod}		Causation/
+
+
+------->  rencontrer{VINF|obj}		responsable{NC|obj}		pédagogie{NC|mod}		Causation/
+
+
+------->  lire~suite{VINF~NC|root~obj}		responsable{NC|mod}		Ricardo{NPP|mod}		Causation/
+
+
+------->  lire~suite{VINF~NC|root~obj}		responsable{NC|mod}		Alarcón{NPP|mod}		Causation/
+
+
+------->  lire~suite{VINF~NC|root~obj}		responsable{NC|mod}		président{NC|mod}		Causation/
+
+
+------->  interroger~répondre{VPP~VINF|root~obj}		responsable{NC|obj}		cibler~clientèle{VPR~NC|mod~obj}		Causation/
+
+
+------->  transmission~sexuel{NC~ADJ|mod~mod}		responsable{NC|mod}		source{NC|mod}		Causation/
+
+
+------->  être{V|dep_coord}		responsable{ADJ|ats}		température~moyen{NC~ADJ|dep~mod}		Causation/
+
+
+------->  être{V|dep_coord}		responsable{ADJ|ats}		température~moyen{NC~ADJ|dep~mod}		Causation/
+
+
+------->  CONTACT~office{NPP~NC|suj~mod}		responsable{NC|mod}		franchise{NC|mod}		Causation/
+
+
+------->  source~g{NC~NC|root~mod}		déterminant{NC|suj}		performance{NC|mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		développement~colonel{NC~NC|mod~mod}		Causation/
+
+
+------->  devoir~laisser{V~VPP|root~obj}		responsable{NC|suj}		candidat~pas{NC~ADV|mod~mod}		Causation/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		développement~19{NC~ADJ|mod~mod}		Causation/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		rue{NC|mod}		Causation/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		75003{NC|mod}		Causation/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		Paris{NPP|mod}		Causation/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		Fax{NPP|mod}		Causation/
+
+
+------->  Alain{NPP|obj}		responsable{NC|mod}		PS{NPP|mod}		Causation/
+
+
+------->  collectif~regrouper~décider{NC~V~VPP|suj~root~mod}		responsable{NC|obj}		espace~public{NC~ADJ|mod~mod}		Causation/
+
+
+------->  collectif~regrouper~décider{NC~V~VPP|suj~root~mod}		responsable{NC|obj}		point{NC|mod}		Causation/
+
+
+------->  collectif~regrouper~décider{NC~V~VPP|suj~root~mod}		responsable{NC|obj}		cybercentre{NC|mod}		Causation/
+
+
+------->  collectif~regrouper~décider{NC~V~VPP|suj~root~mod}		responsable{NC|obj}		cyberbu{NC|mod}		Causation/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		développement{NC|mod}		Causation/
+
+
+------->  adresser~Futuroscope{V~NC|root~obj}		responsable{NC|mod}		Philippe{NPP|mod}		Causation/
+
+
+------->  adresser~Futuroscope{V~NC|root~obj}		responsable{NC|mod}		NOREL{NPP|mod}		Causation/
+
+
+------->  adresser~Futuroscope{V~NC|root~obj}		responsable{NC|mod}		Tél{NPP|mod}		Causation/
+
+
+------->  adresser~Futuroscope{V~NC|root~obj}		responsable{NC|mod}		05_49_45_31_57{NC|mod}		Causation/
+
+
+------->  adresser~Futuroscope{V~NC|root~obj}		responsable{NC|mod}		Fax{NPP|mod}		Causation/
+
+
+------->  interview~rechercher~07-03-07{NC~V~NC|suj~root~mod}		responsable{NC|obj}		groupe{NC|mod}		Causation/
+
+
+------->  être~notamment{VPP~ADV|ats~mod}		responsable{NC|suj}		charger{VPP|mod}		Causation/
+
+
+------->  Nadine{NPP|mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  indiquer{VPP|root}		responsable{NC|suj}		Unrwa{NPP|mod}		Causation/
+
+
+------->  indiquer{VPP|root}		responsable{NC|suj}		John{NPP|mod}		Causation/
+
+
+------->  étudiant~rattacher~inscrire{NC~VPP~VPP|suj~root~mod}		responsable{NC|mod}		Jean-Pierre{NPP|mod}		Causation/
+
+
+------->  étudiant~rattacher~inscrire{NC~VPP~VPP|suj~root~mod}		responsable{NC|mod}		BERDOT{NPP|mod}		Causation/
+
+
+------->  étudiant~rattacher~inscrire{NC~VPP~VPP|suj~root~mod}		responsable{NC|mod}		Tél{NPP|mod}		Causation/
+
+
+------->  étudiant~rattacher~inscrire{NC~VPP~VPP|suj~root~mod}		responsable{NC|mod}		05_49_45_31_96{NC|mod}		Causation/
+
+
+------->  étudiant~rattacher~inscrire{NC~VPP~VPP|suj~root~mod}		responsable{NC|mod}		Fax{NPP|mod}		Causation/
+
+
+------->  étudiant~rattacher~inscrire{NC~VPP~VPP|suj~root~mod}		responsable{NC|mod}		secrétariat~cycle{NC~NC|mod~mod}		Causation/
+
+
+------->  étudiant~rattacher~inscrire{NC~VPP~VPP|suj~root~mod}		responsable{NC|mod}		Tél{NPP|mod}		Causation/
+
+
+------->  étudiant~rattacher~inscrire{NC~VPP~VPP|suj~root~mod}		responsable{NC|mod}		05_49_45_31_71{NC|mod}		Causation/
+
+
+------->  étudiant~rattacher~inscrire{NC~VPP~VPP|suj~root~mod}		responsable{NC|mod}		Fax{NPP|mod}		Causation/
+
+
+------->  étudiant~rattacher~inscrire{NC~VPP~VPP|suj~root~mod}		responsable{NC|mod}		service{NC|mod}		Causation/
+
+
+------->  étudiant~rattacher~inscrire{NC~VPP~VPP|suj~root~mod}		responsable{NC|mod}		Monsieur{NC|mod}		Causation/
+
+
+------->  étudiant~rattacher~inscrire{NC~VPP~VPP|suj~root~mod}		responsable{NC|mod}		e-mail{NC|mod}		Causation/
+
+
+------->  étudiant~rattacher~inscrire{NC~VPP~VPP|suj~root~mod}		responsable{NC|mod}		guylene.jolly@univ-poitiers.fr~présentation{NPP~NC|mod~mod}		Causation/
+
+
+------->  étudiant~rattacher~inscrire{NC~VPP~VPP|suj~root~mod}		responsable{NC|mod}		condition~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  secteur~réception{NC~NC|obj~mod}		responsable{NC|mod}		planning{NC|mod}		Causation/
+
+
+------->  ordonnancement{NC|mod}		responsable{NC|mod}		magasin{NC|mod}		Causation/
+
+
+------->  distribution{NC|obj}		responsable{NC|mod}		sécurité{NC|mod}		Causation/
+
+
+------->  pouvoir~appeler~retour{V~VINF~NC|root~obj~obj}		responsable{NC|mod}		responsable~responsable{NC~NC|mod~mod}		Causation/
+
+
+------->  responsable~fabrication{NC~NC|mod~obj}		responsable{NC|mod}		responsable{NC|mod}		Causation/
+
+
+------->  poste{NC|root}		responsable{NC|mod}		pôle{NC|mod}		Causation/
+
+
+------->  poste{NC|root}		responsable{NC|mod}		développement{NC|mod}		Causation/
+
+
+------->  souhaiter~lancer{V~VINF|root~obj}		responsable{NC|suj}		affréteur{NC|mod}		Causation/
+
+
+------->  séminaire~adresser{NC~V|suj~root}		responsable{NC|mod}		étude{NC|mod}		Causation/
+
+
+------->  médicament{NC|obj}		responsable{NC|mod}		transparence{NC|mod}		Causation/
+
+
+------->  e~description{NC~NC|mod~mod}		responsable{NC|mod}		Machines{NPP|mod}		Causation/
+
+
+------->  e~description{NC~NC|mod~mod}		responsable{NC|mod}		Spéciales{NPP|mod}		Causation/
+
+
+------->  précéder~responsable{V~ADJ|mod~mod}		responsable{NC|suj}		directeur{NC|mod}		Causation/
+
+
+------->  appeler~retour{VINF~NC|obj~obj}		responsable{NC|mod}		export{NC|mod}		Causation/
+
+
+------->  être~résumer{V~VINF|root~obj}		déterminant{NC|ats}		expliquer~évolution{V~NC|mod_rel~obj}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  être{V|root}		déterminant{ADJ|ats}		pouvoir~transposer{V~VPP|mod_rel~obj}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  devoir~soumettre~lettre{V~VINF~NC|mod~obj~obj}		responsable{NC|suj}		intéresser{VPP|mod}		Causation/
+
+
+------->  contrat~engager{NC~V|suj~obj}		responsable{NC|obj}		Extrait{NPP|mod}		Causation/
+
+
+------->  interroger~répondre{VPP~VINF|root~obj}		responsable{NC|obj}		charger{VPP|mod}		Causation/
+
+
+------->  Auvergne{NPP|suj}		responsable{NC|mod}		VO{NPP|mod}		Causation/
+
+
+------->  faire~appel{V~NC|root~obj}		responsable{NC|suj}		Bob{NPP|mod}		Causation/
+
+
+------->  CARINNA~rue{NPP~NC|obj~mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  prendre~contact{VPP~NC|dep_coord~obj}		responsable{NC|suj}		avoir~bureau{V~NC|mod_rel~obj}		Causation/
+
+
+------->  associer~éducation~culturel{VPR~NC~ADJ|mod~obj~mod}		responsable{NC|mod}		semestre{NC|mod}		Causation/
+
+
+------->  associer~éducation~culturel{VPR~NC~ADJ|mod~obj~mod}		responsable{NC|mod}		2008{NC|mod}		Causation/
+
+
+------->  associer~éducation~culturel{VPR~NC~ADJ|mod~obj~mod}		responsable{NC|mod}		expérimentation{NC|mod}		Causation/
+
+
+------->  dire{VPP|root}		responsable{NC|suj}		auditionner{VPP|mod}		Causation/
+
+
+------->  appellation~retour{NC~NC|root~mod}		responsable{NC|mod}		produit{NC|mod}		Causation/
+
+
+------->  avoir~directeur~général{V~NC~ADJ|root~obj~mod}		responsable{NC|obj}		responsable~charger{NC~VPP|mod~mod}		Causation/
+
+
+------->  responsable~administratif{NC~ADJ|obj~mod}		responsable{NC|mod}		charger{VPP|mod}		Causation/
+
+
+------->  Solenne{NPP|suj}		responsable{NC|mod}		Musique{NPP|mod}		Causation/
+
+
+------->  Régis{NPP|suj}		responsable{NC|mod}		vidéo{NPP|mod}		Causation/
+
+
+------->  être~coupable{V~ADJ|obj~ats}		responsable{NC|suj}		inciter~population{V~NC|mod_rel~obj}		Causation/
+
+
+------->  avoir~élus{V~NC|root~obj}		responsable{NC|obj}		avoir~chose{V~NC|mod~obj}		Causation/
+
+
+------->  Anne-Laure~Plan{NPP~NC|obj~mod}		responsable{NC|mod}		recrutement~recrutement{NC~NC|mod~mod}		Causation/
+
+
+------->  Philippe{NPP|root}		responsable{NC|mod}		livraison{NC|mod}		Causation/
+
+
+------->  Pizzas{NPP|obj}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  Pizzas{NPP|obj}		responsable{NC|mod}		BP~tresse{NPP~NC|mod~mod}		Causation/
+
+
+------->  déclaration{NC|root}		responsable{NC|mod}		Ecologie{NPP|mod}		Causation/
+
+
+------->  mobiliser{VPP|mod_rel}		responsable{NC|suj}		venir{VPP|mod}		Causation/
+
+
+------->  souvenir~anecdote{NC~NC|suj~mod}		responsable{NC|mod}		permettre{VPP|mod}		Causation/
+
+
+------->  insister{V|dep_coord}		responsable{NC|suj}		compter~laïc{V~ADJ|mod_rel~obj}		Causation/
+
+
+------->  Chine~recrutement{NPP~NC|obj~mod}		responsable{NC|mod}		recrutement~relation{NC~NC|mod~mod}		Causation/
+
+
+------->  Chine~recrutement{NPP~NC|obj~mod}		responsable{NC|mod}		école{NC|mod}		Causation/
+
+
+------->  Chine~recrutement{NPP~NC|obj~mod}		responsable{NC|mod}		métier{NC|mod}		Causation/
+
+
+------->  gérer~demande~propre{V~NC~ADJ|obj~obj~mod}		responsable{NC|suj}		Ressources{NPP|mod}		Causation/
+
+
+------->  gérer~demande~propre{V~NC~ADJ|obj~obj~mod}		responsable{NC|suj}		Humaines~usine{NPP~NC|mod~mod}		Causation/
+
+
+------->  recrutement{NC|obj}		responsable{NC|mod}		RH{NC|mod}		Causation/
+
+
+------->  annonce~e{NC~NC|root~mod}		responsable{NC|mod}		production~stage{NC~NC|mod~mod}		Causation/
+
+
+------->  travail~électronique{NC~NC|obj~mod}		responsable{NC|mod}		transport{NC|mod}		Causation/
+
+
+------->  travail~électronique{NC~NC|obj~mod}		responsable{NC|mod}		charger{VPP|mod}		Causation/
+
+
+------->  inspirer{VINF|obj}		responsable{NC|obj}		dire~chrétien{VPR~ADJ|mod~ats}		Causation/
+
+
+------->  demander~grand~place{VPP~ADJ~NC|root~obj~mod}		responsable{NC|suj}		Walter{NPP|mod}		Causation/
+
+
+------->  élever~exposition{VPP~NC|root~mod}		conséquent{ADJ|ats}		déconseiller~fortement{VPP~ADV|dep~mod}		Causation/
+
+
+------->  Pascal~réaction{NPP~NC|root~mod}		responsable{NC|mod}		JA{NPP|mod}		Causation/
+
+
+------->  demeurer{V|dep_coord}		responsable{NC|obj}		pouvoir~refuser{V~VINF|mod_rel~obj}		Causation/
+
+
+------->  ECSAT~service~informatique{NPP~NC~ADJ|mod~mod~mod}		responsable{NC|mod}		Europe{NPP|mod}		Causation/
+
+
+------->  contact~rue{NPP~NC|suj~mod}		responsable{NC|mod}		développement{NC|mod}		Causation/
+
+
+------->  désigner{V|mod}		responsable{NC|suj}		Internet{NPP|mod}		Causation/
+
+
+------->  échanger~mois~1{V~NC~ADJ|root~mod~mod}		responsable{NC|suj}		Internet{NPP|mod}		Causation/
+
+
+------->  mois~charger~semaine{NC~V~NC|suj~root~mod}		responsable{NC|obj}		Internet{NPP|mod}		Causation/
+
+
+------->  contact{NPP|suj}		responsable{NC|mod}		développement~1{NC~ADJ|mod~mod}		Causation/
+
+
+------->  contact{NPP|suj}		responsable{NC|mod}		rue{NC|mod}		Causation/
+
+
+------->  être{VINF|obj}		responsable{NC|obj}		endeuiller~restaurant{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  contact~Vitame{NPP~NC|suj~mod}		responsable{NC|mod}		développement~2{NC~ADJ|mod~mod}		Causation/
+
+
+------->  contact~Vitame{NPP~NC|suj~mod}		responsable{NC|mod}		rue{NC|mod}		Causation/
+
+
+------->  contact~Vitame{NPP~NC|suj~mod}		responsable{NC|mod}		31520{NC|mod}		Causation/
+
+
+------->  contact~Vitame{NPP~NC|suj~mod}		responsable{NC|mod}		Ramonville-Saint-Agne{NPP|mod}		Causation/
+
+
+------->  Guillaume{NPP|suj}		responsable{NC|mod}		arbitrage{NC|mod}		Causation/
+
+
+------->  Justice~hépatite~B{NPP~NC~NC|suj~mod~mod}		responsable{NC|mod}		mettre{VPP|mod}		Causation/
+
+
+------->  être~information{VPP~NC|mod~obj}		responsable{NC|suj}		mettre{VPP|mod_rel}		Causation/
+
+
+------->  hépatite~B{NC~NC|mod~mod}		responsable{NC|mod}		mettre{VPP|mod}		Causation/
+
+
+------->  Rémy{NPP|mod}		responsable{NC|mod}		développement~58{NC~ADJ|mod~mod}		Causation/
+
+
+------->  prendre~responsabilité~lourd{V~NC~ADJ|root~obj~mod}		responsable{NC|suj}		accommoder~facilement{V~ADV|mod_rel~mod}		Causation/
+
+
+------->  connaître~notamment{V~ADV|mod_rel~mod}		responsable{NC|suj}		faire~état{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  contacter{VINF|obj}		responsable{NC|obj}		Monsieur{NC|mod}		Causation/
+
+
+------->  être~tuer{VPP~VPP|root~mod}		responsable{NC|suj}		CRP{NPP|mod}		Causation/
+
+
+------->  être~tuer{VPP~VPP|root~mod}		responsable{NC|suj}		Ameur{NPP|mod}		Causation/
+
+
+------->  h{NC|obj}		responsable{NC|mod}		Daniel{NPP|mod}		Causation/
+
+
+------->  h{NC|obj}		responsable{NC|mod}		Terrolle{NPP|mod}		Causation/
+
+
+------->  être~réussir~projet{V~VINF~NC|root~mod~obj}		responsable{NC|mod}		identifier{VPP|mod}		Causation/
+
+
+------->  inviter~tables-ronde{VPP~NC|root~obj}		responsable{NC|suj}		cinéaste{NC|mod}		Causation/
+
+
+------->  inviter~tables-ronde{VPP~NC|root~obj}		responsable{NC|suj}		acteur{NC|mod}		Causation/
+
+
+------->  Rubrique~pays{NPP~NC|mod~mod}		responsable{NC|mod}		Rubrique~10{NPP~ADJ|mod~mod}		Causation/
+
+
+------->  craindre{V|obj}		responsable{NC|suj}		être~proche{V~ADJ|mod_rel~ats}		Causation/
+
+
+------->  intermédiaire~être{NC~V|suj~root}		responsable{NC|ats}		recevoir~formation{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  établissement{NC|obj}		responsable{NC|mod}		sécurité{NC|mod}		Causation/
+
+
+------->  Monsieur~sas{NPP~NC|mod~mod}		responsable{NC|mod}		Monsieur{NPP|mod}		Causation/
+
+
+------->  Monsieur~sas{NPP~NC|mod~mod}		responsable{NC|mod}		LEVEQUE{NPP|mod}		Causation/
+
+
+------->  Monsieur~sas{NPP~NC|mod~mod}		responsable{NC|mod}		Didier{NPP|mod}		Causation/
+
+
+------->  Monsieur~sas{NPP~NC|mod~mod}		responsable{NC|mod}		responsable~local{NC~ADJ|mod~mod}		Causation/
+
+
+------->  Monsieur~sas{NPP~NC|mod~mod}		responsable{NC|mod}		directeur~Tél{NC~NC|mod~mod}		Causation/
+
+
+------->  responsable~technique{NC~ADJ|mod~mod}		responsable{NC|mod}		Monsieur{NPP|mod}		Causation/
+
+
+------->  responsable~technique{NC~ADJ|mod~mod}		responsable{NC|mod}		HENNEQUIN{NPP|mod}		Causation/
+
+
+------->  responsable~technique{NC~ADJ|mod~mod}		responsable{NC|mod}		Laurent{NPP|mod}		Causation/
+
+
+------->  Avis{NPP|mod}		responsable{NC|mod}		métier{NC|mod}		Causation/
+
+
+------->  être~donc{V~ADV|mod~mod}		responsable{NC|suj}		avoir~pas{VPP~ADV|mod~mod}		Causation/
+
+
+------->  confier{V|root}		responsable{NC|suj}		Monsieur{NC|mod}		Causation/
+
+
+------->  organiser~journée{VPP~NC|root~obj}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  organiser~journée{VPP~NC|root~obj}		responsable{NC|mod}		code{NC|obj}		Causation/
+
+
+------->  organiser~journée{VPP~NC|root~obj}		responsable{NC|mod}		Handball{NPP|mod}		Causation/
+
+
+------->  cadre~jeune{NC~ADJ|mod~mod}		responsable{NC|mod}		contrôleur{NC|mod}		Causation/
+
+
+------->  annonce{NC|root}		responsable{NC|mod}		BDG{NPP|mod}		Causation/
+
+
+------->  annonce{NC|root}		responsable{NC|mod}		Créer{NPP|mod}		Causation/
+
+
+------->  aborder~sujet~tabou{V~NC~NC|root~obj~mod}		responsable{NC|suj}		d'EDF{NPP|mod}		Causation/
+
+
+------->  charger~affaire{VPP~NC|mod~obj}		responsable{NC|mod}		marché{NC|mod}		Causation/
+
+
+------->  cour~sursis{NC~NC|obj~mod}		responsable{NC|mod}		fiscalité{NC|mod}		Causation/
+
+
+------->  manager~être{NC~V|suj~root}		responsable{ADJ|ats}		avoir~pas{V~ADV|obj~mod}		Causation/
+
+
+------->  rejoindre{VINF|obj}		responsable{NC|obj}		CGT{NPP|mod}		Causation/
+
+
+------->  expliquer{V|mod}		responsable{NC|suj}		Irina{NPP|mod}		Causation/
+
+
+------->  pouvoir~ignorer{V~VINF|root~obj}		responsable{NC|suj}		être{V|mod_rel}		Causation/
+
+
+------->  Carine{NPP|suj}		responsable{NC|mod}		Scanstrut{NPP|mod}		Causation/
+
+
+------->  conférence{NC|obj}		responsable{NC|mod}		masquer{VPP|mod}		Causation/
+
+
+------->  émettre~hypothèse{VPP~NC|root~obj}		responsable{ADJ|suj}		hauts{NC|mod}		Causation/
+
+
+------->  émettre~hypothèse{VPP~NC|root~obj}		responsable{ADJ|suj}		cité~israélien{NC~ADJ|mod~mod}		Causation/
+
+
+------->  groupe~inscrit{NC~NC|root~mod}		responsable{NC|mod}		FAQ{NPP|mod}		Causation/
+
+
+------->  groupe~inscrit{NC~NC|root~mod}		responsable{NC|mod}		Messages{NPP|mod}		Causation/
+
+
+------->  copyright{NC|root}		responsable{NC|mod}		projet{NC|mod}		Causation/
+
+
+------->  Florence{NPP|mod}		responsable{NC|mod}		Cosmetic-bio{NPP|mod}		Causation/
+
+
+------->  Florence{NPP|mod}		responsable{NC|mod}		numéro{NC|mod}		Causation/
+
+
+------->  CONTACT~rue{NPP~NC|suj~mod}		responsable{NC|mod}		développement~14{NC~ADJ|mod~mod}		Causation/
+
+
+------->  tribune{NC|suj}		responsable{NC|mod}		Monsieur{NPP|mod}		Causation/
+
+
+------->  tribune{NC|suj}		responsable{NC|mod}		LEVEQUE{NPP|mod}		Causation/
+
+
+------->  tribune{NC|suj}		responsable{NC|mod}		Didier{NPP|mod}		Causation/
+
+
+------->  tribune{NC|suj}		responsable{NC|mod}		responsable~local{NC~ADJ|mod~mod}		Causation/
+
+
+------->  tribune{NC|suj}		responsable{NC|mod}		directeur~Tél{NC~NC|mod~mod}		Causation/
+
+
+------->  responsable~technique{NC~ADJ|mod~mod}		responsable{NC|mod}		Monsieur{NPP|mod}		Causation/
+
+
+------->  responsable~technique{NC~ADJ|mod~mod}		responsable{NC|mod}		HENNEQUIN{NPP|mod}		Causation/
+
+
+------->  responsable~technique{NC~ADJ|mod~mod}		responsable{NC|mod}		Laurent{NPP|mod}		Causation/
+
+
+------->  contact~responsable~pédagogique{NC~NC~ADJ|root~mod~mod}		responsable{NC|mod}		section{NC|mod}		Causation/
+
+
+------->  CONSTANT-MAURE{NPP|root}		responsable{NC|mod}		hygiène~alimentaire{NC~ADJ|mod~mod}		Causation/
+
+
+------->  LOCATELLI{NPP|root}		responsable{NC|mod}		santé~animal{NC~ADJ|mod~mod}		Causation/
+
+
+------->  Ronnie{NPP|suj}		responsable{ADJ|mod}		produire{VPP|mod}		Causation/
+
+
+------->  marché{NC|obj}		responsable{NC|mod}		fidélisation{NC|mod}		Causation/
+
+
+------->  vente{NC|obj}		responsable{NC|mod}		référencement{NC|mod}		Causation/
+
+
+------->  affiliation{NC|dep_coord}		responsable{NC|obj}		relation~public{NC~ADJ|mod~mod}		Causation/
+
+
+------->  recruteur~répondre{NC~V|suj~mod}		responsable{NC|suj}		RH{NPP|mod}		Causation/
+
+
+------->  formuler~notamment{VPP~ADV|root~mod}		responsable{NC|suj}		enquêter{VPP|mod}		Causation/
+
+
+------->  concept~ficher{NC~V|suj~mod}		déterminant{NC|obj}		schéma{NC|mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  être{V|root}		déterminant{NC|ats}		IDE{NPP|mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  occuper~poste~responsable{VPP~NC~ADJ|root~obj~mod}		responsable{NC|mod}		laboratoire{NC|mod}		Causation/
+
+
+------->  cession{NC|mod}		responsable{ADJ|mod}		acquisition{NC|mod}		Causation/
+
+
+------->  confier{V|root}		responsable{NC|suj}		Monsieur{NC|mod}		Causation/
+
+
+------->  Gérald{NPP|obj}		responsable{NC|mod}		ressource{NC|mod}		Causation/
+
+
+------->  Affaires{NPP|obj}		responsable{NC|mod}		Administratifs{NPP|mod}		Causation/
+
+
+------->  Affaires{NPP|obj}		responsable{NC|mod}		Administratifs{NPP|mod}		Causation/
+
+
+------->  consulter{VINF|mod}		responsable{NC|obj}		convertir{VPP|mod}		Causation/
+
+
+------->  consulter{VINF|mod}		responsable{NC|obj}		suppression{NC|mod}		Causation/
+
+
+------->  marketing~Vent{NC~ADJ|mod~mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		suivre{V|mod}		Causation/
+
+
+------->  voir~numéro{VINF~NC|root~obj}		responsable{NC|mod}		Paris{NPP|mod}		Causation/
+
+
+------->  voir~numéro{VINF~NC|root~obj}		responsable{NC|mod}		Adresse{NPP|mod}		Causation/
+
+
+------->  voir~numéro{VINF~NC|root~obj}		responsable{NC|mod}		LCPC{NPP|mod}		Causation/
+
+
+------->  voir~numéro{VINF~NC|root~obj}		responsable{NC|mod}		Centre{NPP|mod}		Causation/
+
+
+------->  rencontrer~occasion{VPP~NC|root~obj}		responsable{NC|obj}		Monsieur~M.{NC~NC|mod~mod}		Causation/
+
+
+------->  Jean-Pierre~secteur{NPP~NC|dep_coord~mod}		responsable{NC|mod}		JA{NPP|mod}		Causation/
+
+
+------->  Romain{NPP|suj}		responsable{NC|mod}		arbitre{NC|mod}		Causation/
+
+
+------->  Romain{NPP|suj}		responsable{NC|mod}		secteur{NC|mod}		Causation/
+
+
+------->  Romain{NPP|suj}		responsable{NC|mod}		copyright{NC|mod}		Causation/
+
+
+------->  avoir~sacrifier{V~ADJ|root~ats}		responsable{NC|suj}		J{NPP|mod}		Causation/
+
+
+------->  demander~délai{V~NC|root~obj}		responsable{ADJ|mod}		seconde{NC|mod}		Causation/
+
+
+------->  faire{V|root}		responsable{NC|suj}		savoir{V|mod}		Causation/
+
+
+------->  déclarer~élément~avancer{VPP~NC~VPP|mod~obj~mod}		responsable{NC|suj}		Arnaud{NPP|mod}		Causation/
+
+
+------->  Gérard{NPP|root}		responsable{NC|mod}		charger{VPP|mod}		Causation/
+
+
+------->  http://www.champagne-ardenne-tech.fr/_Cyrille{NPP|root}		responsable{NC|mod}		valorisation{NC|mod}		Causation/
+
+
+------->  titre~homologuer{NC~VPP|root~mod}		responsable{NC|mod}		Etudes{NPP|mod}		Causation/
+
+
+------->  institut{NC|root}		responsable{NC|mod}		Etudes{NPP|mod}		Causation/
+
+
+------->  organisation{NC|obj}		responsable{NC|mod}		:_O{NPP|mod}		Causation/
+
+
+------->  avoir~accès{V~NC|root~obj}		responsable{NC|suj}		finance{NC|mod}		Causation/
+
+
+------->  avoir~accès{V~NC|root~obj}		responsable{NC|suj}		ressource~humain{NC~ADJ|mod~mod}		Causation/
+
+
+------->  avoir~accès{V~NC|root~obj}		responsable{NC|suj}		fabrication{NC|mod}		Causation/
+
+
+------->  Monsieur~sas{NPP~NC|mod~mod}		responsable{NC|mod}		Monsieur{NPP|mod}		Causation/
+
+
+------->  Monsieur~sas{NPP~NC|mod~mod}		responsable{NC|mod}		LEVEQUE{NPP|mod}		Causation/
+
+
+------->  Monsieur~sas{NPP~NC|mod~mod}		responsable{NC|mod}		Didier{NPP|mod}		Causation/
+
+
+------->  Monsieur~sas{NPP~NC|mod~mod}		responsable{NC|mod}		responsable~local{NC~ADJ|mod~mod}		Causation/
+
+
+------->  Monsieur~sas{NPP~NC|mod~mod}		responsable{NC|mod}		directeur~Tél{NC~NC|mod~mod}		Causation/
+
+
+------->  responsable~technique{NC~ADJ|mod~mod}		responsable{NC|mod}		Monsieur{NPP|mod}		Causation/
+
+
+------->  responsable~technique{NC~ADJ|mod~mod}		responsable{NC|mod}		HENNEQUIN{NPP|mod}		Causation/
+
+
+------->  responsable~technique{NC~ADJ|mod~mod}		responsable{NC|mod}		Laurent{NPP|mod}		Causation/
+
+
+------->  SNC{NPP|root}		responsable{NC|mod}		ETS~secondaire{NC~ADJ|mod~mod}		Causation/
+
+
+------->  SNC{NPP|root}		responsable{NC|mod}		directeur{NC|mod}		Causation/
+
+
+------->  répéter{V|mod}		responsable{NC|suj}		interviewé{NC|mod}		Causation/
+
+
+------->  Monsieur~sas{NPP~NC|mod~mod}		responsable{NC|mod}		Monsieur{NPP|mod}		Causation/
+
+
+------->  Monsieur~sas{NPP~NC|mod~mod}		responsable{NC|mod}		LEVEQUE{NPP|mod}		Causation/
+
+
+------->  Monsieur~sas{NPP~NC|mod~mod}		responsable{NC|mod}		Didier{NPP|mod}		Causation/
+
+
+------->  Monsieur~sas{NPP~NC|mod~mod}		responsable{NC|mod}		responsable~local{NC~ADJ|mod~mod}		Causation/
+
+
+------->  Monsieur~sas{NPP~NC|mod~mod}		responsable{NC|mod}		directeur~Tél{NC~NC|mod~mod}		Causation/
+
+
+------->  responsable~technique{NC~ADJ|mod~mod}		responsable{NC|mod}		Monsieur{NPP|mod}		Causation/
+
+
+------->  responsable~technique{NC~ADJ|mod~mod}		responsable{NC|mod}		HENNEQUIN{NPP|mod}		Causation/
+
+
+------->  responsable~technique{NC~ADJ|mod~mod}		responsable{NC|mod}		Laurent{NPP|mod}		Causation/
+
+
+------->  être~chef{V~NC|root~ats}		responsable{NC|ats}		aller~piloter{V~VINF|mod_rel~obj}		Causation/
+
+
+------->  qualité{NC|mod}		responsable{NC|obj}		relation~public{NC~ADJ|mod~mod}		Causation/
+
+
+------->  Plan~salle{NC~NC|root~obj}		responsable{NC|mod}		régisseur{NC|mod}		Causation/
+
+
+------->  Plan~salle{NC~NC|root~obj}		responsable{NC|mod}		Thierry{NPP|mod}		Causation/
+
+
+------->  Physique~science{NPP~NC|mod~mod}		responsable{NC|mod}		photothèque{NC|mod}		Causation/
+
+
+------->  Physique~science{NPP~NC|mod~mod}		responsable{NC|mod}		Tél.~+33{NC~ADJ|mod~mod}		Causation/
+
+
+------->  prendre~suivi{V~NC|root~obj}		responsable{NC|mod}		e{NC|mod}		Causation/
+
+
+------->  investissement{NC|suj}		responsable{ADJ|mod}		International_Survey_Research{NPP|mod}		Causation/
+
+
+------->  développement~déclaration{NC~NC|dep_coord~mod}		responsable{NC|mod}		Ecologie{NPP|mod}		Causation/
+
+
+------->  lettre{NC|obj}		responsable{NC|mod}		Ecologie{NPP|mod}		Causation/
+
+
+------->  s'agit~acte~volontaire{V~NC~ADJ|mod~obj~mod}		responsable{NC|suj}		doute{NC|mod}		Causation/
+
+
+------->  être{VINF|obj}		responsable{NC|obj}		endeuiller~restaurant{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  émaner{VPR|mod}		responsable{NC|obj}		mettre{VPP|mod}		Causation/
+
+
+------->  accroître~d'accès{VPP~ADV|mod~mod}		déterminant{ADJ|mod}		personnalisation{NC|mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  contact~presse{NC~NC|root~mod}		responsable{NC|mod}		communication{NC|obj}		Causation/
+
+
+------->  contact~presse{NC~NC|root~mod}		responsable{NC|mod}		société~protecteur{NC~ADJ|mod~mod}		Causation/
+
+
+------->  destiner~bien{VPP~ADV|root~mod}		responsable{NC|mod}		Michel{NPP|mod}		Causation/
+
+
+------->  destiner~bien{VPP~ADV|root~mod}		responsable{NC|mod}		Centre{NPP|mod}		Causation/
+
+
+------->  destiner~bien{VPP~ADV|root~mod}		responsable{NC|mod}		Cavaillès{NPP|mod}		Causation/
+
+
+------->  destiner~bien{VPP~ADV|root~mod}		responsable{NC|mod}		Pré{NPP|mod}		Causation/
+
+
+------->  destiner~bien{VPP~ADV|root~mod}		responsable{NC|mod}		requérir{VPP|mod}		Causation/
+
+
+------->  interpeller{VINF|obj}		responsable{NC|obj}		éloigner~plus{VPP~ADV|mod_rel~mod}		Causation/
+
+
+------->  voir~mesure~optoélectronique{VINF~NC~ADJ|root~obj~mod}		responsable{NC|mod}		Nantes{NPP|mod}		Causation/
+
+
+------->  voir~mesure~optoélectronique{VINF~NC~ADJ|root~obj~mod}		responsable{NC|mod}		Adresse{NPP|mod}		Causation/
+
+
+------->  voir~mesure~optoélectronique{VINF~NC~ADJ|root~obj~mod}		responsable{NC|mod}		LCPC{NPP|mod}		Causation/
+
+
+------->  voir~mesure~optoélectronique{VINF~NC~ADJ|root~obj~mod}		responsable{NC|mod}		boulevard~15{NC~ADJ|mod~mod}		Causation/
+
+
+------->  assurer~encadrement{V~NC|root~obj}		responsable{NC|suj}		représenter~établissement{VPR~NC|mod~obj}		Causation/
+
+
+------->  assurer~encadrement{V~NC|root~obj}		responsable{NC|suj}		entreprise{NC|mod}		Causation/
+
+
+------->  rejoindre~Airline{V~NC|root~obj}		responsable{NC|mod}		comptes{NC|mod}		Causation/
+
+
+------->  rejoindre~Airline{V~NC|root~obj}		responsable{NC|mod}		CEI{NPP|mod}		Causation/
+
+
+------->  rejoindre~Airline{V~NC|root~obj}		responsable{NC|mod}		Communauté{NPP|mod}		Causation/
+
+
+------->  offre~suivre{NC~V|suj~root}		responsable{NC|obj}		H{NC|mod}		Causation/
+
+
+------->  offre~suivre{NC~V|suj~root}		responsable{NC|obj}		F{NC|mod}		Causation/
+
+
+------->  offre~suivre{NC~V|suj~root}		responsable{NC|obj}		Emploi~message{NPP~NC|mod~mod}		Causation/
+
+
+------->  offre~suivre{NC~V|suj~root}		responsable{NC|obj}		T~maintenance{NC~NC|mod~obj}		Causation/
+
+
+------->  offre~suivre{NC~V|suj~root}		responsable{NC|obj}		H{NC|mod}		Causation/
+
+
+------->  offre~suivre{NC~V|suj~root}		responsable{NC|obj}		F{NC|mod}		Causation/
+
+
+------->  métier~siège{NC~NC|obj~mod}		responsable{NC|mod}		paie{NC|mod}		Causation/
+
+
+------->  Alain{NPP|suj}		responsable{NC|mod}		développement~PCA{NC~NC|mod~mod}		Causation/
+
+
+------->  Alain{NPP|suj}		responsable{NC|mod}		Centre{NPP|mod}		Causation/
+
+
+------->  Alain{NPP|suj}		responsable{NC|mod}		Emeraude~61/69{NPP~NC|mod~mod}		Causation/
+
+
+------->  lecture~bon{NC~ADJ|mod~mod}		responsable{NC|mod}		relation{NC|mod}		Causation/
+
+
+------->  Véronique{NPP|obj}		responsable{NC|mod}		énergie{NC|mod}		Causation/
+
+
+------->  Jéromes{NPP|obj}		responsable{NC|mod}		journée{NC|mod}		Causation/
+
+
+------->  voir{VINF|obj}		responsable{NC|obj}		TV{NC|mod}		Causation/
+
+
+------->  rester{V|root}		responsable{NC|ats}		voir{VPP|mod}		Causation/
+
+
+------->  rester~citation{V~NC|root~obj}		responsable{NC|ats}		voir{VPP|mod}		Causation/
+
+
+------->  Frédéric{NPP|obj}		responsable{NC|mod}		recherche{NC|mod}		Causation/
+
+
+------->  voilà~faire{V~VINF|root~obj}		responsable{NC|obj}		expliquer{V|mod_rel}		Causation/
+
+
+------->  Rubrique~pays{NPP~NC|mod~mod}		responsable{NC|mod}		Rubrique~10{NPP~ADJ|mod~mod}		Causation/
+
+
+------->  choisir~métier{VINF~NC|root~obj}		responsable{NC|mod}		responsable~logistique{NC~ADJ|mod~mod}		Causation/
+
+
+------->  choisir~métier{VINF~NC|root~obj}		responsable{NC|mod}		Choisir{NPP|mod}		Causation/
+
+
+------->  responsable{NC|mod}		responsable{NC|mod}		Technicien{NPP|mod}		Causation/
+
+
+------->  organiser{V|root}		responsable{NC|mod}		responsable{NC|mod}		Causation/
+
+
+------->  permettre{V|root}		responsable{NC|suj}		responsable~logistique{NC~ADJ|mod~mod}		Causation/
+
+
+------->  responsable~logistique{NC~ADJ|suj~mod}		responsable{NC|mod}		Missions{NPP|mod}		Causation/
+
+
+------->  office{NC|obj}		responsable{NC|mod}		office{NC|mod}		Causation/
+
+
+------->  office{NC|obj}		responsable{NC|mod}		Missions{NPP|mod}		Causation/
+
+
+------->  décision~rendre{NC~V|suj~root}		responsable{NC|obj}		accuser~américain{V~NC|mod_rel~obj}		Causation/
+
+
+------->  remercier~ici{VINF~ADV|obj~mod}		responsable{NC|obj}		accueillir{VPP|mod_rel}		Causation/
+
+
+------->  être~excuser{V~VPP|root~ats}		responsable{NC|suj}		secrétaire{NC|mod}		Causation/
+
+
+------->  être~excuser{V~VPP|root~ats}		responsable{NC|suj}		président{NC|mod}		Causation/
+
+
+------->  être{VINF|obj}		responsable{NC|obj}		endeuiller~restaurant{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  préoccuper~problème~aigu{V~NC~ADJ|root~obj~mod}		responsable{NC|suj}		association~divers{NC~ADJ|mod~mod}		Causation/
+
+
+------->  Bertrand{NPP|obj}		responsable{NC|mod}		Architecture{NPP|mod}		Causation/
+
+
+------->  être{VINF|obj}		responsable{NC|obj}		endeuiller~restaurant{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  parpaing~répondre~matériau{NC~V~NC|suj~obj~mod}		responsable{NC|obj}		reconnaître{V|mod_rel}		Causation/
+
+
+------->  réunir~mars~27{VPP~NC~ADJ|root~obj~mod}		responsable{NC|suj}		FPC{NPP|mod}		Causation/
+
+
+------->  concours{NC|obj}		responsable{NC|mod}		stage{NC|mod}		Causation/
+
+
+------->  décorer{VINF|obj}		responsable{NC|obj}		François{NPP|mod}		Causation/
+
+
+------->  décorer{VINF|obj}		responsable{NC|obj}		Bachy{NPP|mod}		Causation/
+
+
+------->  pouvoir~résultat~bon{V~NC~ADJ|obj~obj~mod}		responsable{NC|suj}		UMP{NPP|mod}		Causation/
+
+
+------->  faire~objet{V~NC|root~obj}		responsable{NC|suj}		Frank{NPP|mod}		Causation/
+
+
+------->  confier{V|root}		responsable{NC|suj}		Monsieur{NC|mod}		Causation/
+
+
+------->  dispositif~correspondant~local{NC~NC~ADJ|obj~mod~mod}		responsable{NC|mod}		Sylvie{NPP|mod}		Causation/
+
+
+------->  dispositif~correspondant~local{NC~NC~ADJ|obj~mod~mod}		responsable{NC|mod}		Hauchecorne{NPP|mod}		Causation/
+
+
+------->  dispositif~correspondant~local{NC~NC~ADJ|obj~mod~mod}		responsable{NC|mod}		Chef{NPP|mod}		Causation/
+
+
+------->  être~inéluctable~quasiment{V~ADJ~ADV|root~ats~mod}		imputable{ADJ|mod}		baisse{NC|dep}		FR_Attributing_cause/
+
+
+------->  télécommunications{NC|mod}		responsable{NC|mod}		responsable{NC|mod}		Causation/
+
+
+------->  test{NC|dep_coord}		responsable{NC|mod}		système{NC|mod}		Causation/
+
+
+------->  être{V|mod_rel}		responsable{NC|ats}		avoir~présidence{V~NC|mod_rel~obj}		Causation/
+
+
+------->  03_26_83_37_32{NC|mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  journal~rencontrer{NC~VPP|suj~obj}		responsable{NC|obj}		d'Avances{NPP|mod}		Causation/
+
+
+------->  technique{NC|suj}		responsable{NC|mod}		communication~interne{NC~ADJ|mod~mod}		Causation/
+
+
+------->  étayer~membre{V~NC|obj~mod}		responsable{ADJ|suj}		quatre{NC|mod}		Causation/
+
+
+------->  Gilbert{NPP|suj}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  être{VINF|obj}		responsable{NC|obj}		endeuiller~restaurant{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  direction{NC|obj}		responsable{NC|mod}		Lettres{NPP|mod}		Causation/
+
+
+------->  amélioration~continuer{NC~V|suj~mod}		responsable{NC|obj}		maintenance{NC|mod}		Causation/
+
+
+------->  amélioration~continuer{NC~V|suj~mod}		responsable{NC|obj}		responsable{NC|mod}		Causation/
+
+
+------->  responsable~maintenance{NC~NC|obj~mod}		responsable{NC|mod}		R{NPP|mod}		Causation/
+
+
+------->  méthode~continu{NC~ADJ|root~mod}		responsable{NC|mod}		HSE{NPP|mod}		Causation/
+
+
+------->  méthode~continu{NC~ADJ|root~mod}		responsable{NC|mod}		Technicien{NPP|mod}		Causation/
+
+
+------->  vivre{VPR|obj}		responsable{NC|mod}		Robert{NPP|mod}		Causation/
+
+
+------->  aspirer~organisation~adapter{V~NC~ADJ|root~mod~mod}		responsable{NC|suj}		avoir{V|mod_rel}		Causation/
+
+
+------->  annoncer{VPP|mod}		responsable{NC|suj}		renforcer{VPP|mod}		Causation/
+
+
+------->  connaître~essor~remarquable{VPP~NC~ADJ|root~obj~mod}		responsable{NC|mod}		Franck{NPP|mod}		Causation/
+
+
+------->  connaître~essor~remarquable{VPP~NC~ADJ|root~obj~mod}		responsable{NC|mod}		Petiteville{NPP|mod}		Causation/
+
+
+------->  connaître~essor~remarquable{VPP~NC~ADJ|root~obj~mod}		responsable{NC|mod}		L'analyse{NPP|mod}		Causation/
+
+
+------->  Moller{NPP|root}		responsable{NC|mod}		Europe{NPP|mod}		Causation/
+
+
+------->  être~pourcentage{V~NC|root~obj}		imputable{ADJ|ats}		année{NC|dep}		FR_Attributing_cause/
+
+
+------->  pouvoir~résultat~bon{V~NC~ADJ|obj~obj~mod}		responsable{NC|suj}		UMP{NPP|mod}		Causation/
+
+
+------->  éclairer{VINF|obj}		responsable{NC|obj}		étude{NC|mod}		Causation/
+
+
+------->  éclairer{VINF|obj}		responsable{NC|obj}		liste{NC|mod}		Causation/
+
+
+------->  éclairer{VINF|obj}		responsable{NC|obj}		conseil~juridique{NC~ADJ|mod~mod}		Causation/
+
+
+------->  confier{V|root}		responsable{NC|suj}		Monsieur{NC|mod}		Causation/
+
+
+------->  définir{VINF|obj}		déterminant{NC|obj}		viser{VPR|mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  professionnel{NC|root}		responsable{NC|mod}		Monsieur{NC|mod}		Causation/
+
+
+------->  professionnel{NC|root}		responsable{NC|mod}		Elie{NPP|mod}		Causation/
+
+
+------->  professionnel{NC|root}		responsable{NC|mod}		MARTIN{NPP|mod}		Causation/
+
+
+------->  être~embaucher{V~VINF|root~mod}		responsable{ADJ|ats}		consolidation{NC|dep}		Causation/
+
+
+------->  relever{V|mod}		responsable{NC|suj}		souvenir~extasier{V~VINF|mod_rel~obj}		Causation/
+
+
+------->  télécommunications{NC|mod}		responsable{NC|mod}		responsable{NC|mod}		Causation/
+
+
+------->  test{NC|dep_coord}		responsable{NC|mod}		système{NC|mod}		Causation/
+
+
+------->  responsable~+33{NC~NC|root~mod}		responsable{NC|mod}		Maternelle{NPP|mod}		Causation/
+
+
+------->  responsable~+33{NC~NC|root~mod}		responsable{NC|mod}		Prévert{NPP|mod}		Causation/
+
+
+------->  proposer~ouverture{V~NC|root~obj}		responsable{NC|suj}		Elémentaire{NPP|mod}		Causation/
+
+
+------->  proposer~ouverture{V~NC|root~obj}		responsable{NC|suj}		Jean-Christophe{NPP|mod}		Causation/
+
+
+------->  proposer~ouverture{V~NC|root~obj}		responsable{NC|suj}		Fournier{NPP|mod}		Causation/
+
+
+------->  proposer~ouverture{V~NC|root~obj}		responsable{NC|suj}		+33{NC|mod}		Causation/
+
+
+------->  proposer~ouverture{V~NC|root~obj}		responsable{NC|suj}		responsable~primaire{NC~ADJ|mod~mod}		Causation/
+
+
+------->  proposer~ouverture{V~NC|root~obj}		responsable{NC|suj}		Marina{NPP|mod}		Causation/
+
+
+------->  proposer~ouverture{V~NC|root~obj}		responsable{NC|suj}		Barbeau{NPP|mod}		Causation/
+
+
+------->  proposer~ouverture{V~NC|root~obj}		responsable{NC|suj}		+33{NC|mod}		Causation/
+
+
+------->  proposer~ouverture{V~NC|root~obj}		responsable{NC|suj}		accueil{NC|mod}		Causation/
+
+
+------->  responsable~+33{NC~NC|suj~mod}		responsable{NC|mod}		Barbou{NPP|mod}		Causation/
+
+
+------->  homme~être~politique{NC~V~ADJ|suj~root~mod}		responsable{ADJ|ats}		individu{NC|dep}		Causation/
+
+
+------->  CONTACT~Vitame{NPP~NC|suj~mod}		responsable{NC|mod}		développement~2{NC~ADJ|mod~mod}		Causation/
+
+
+------->  CONTACT~Vitame{NPP~NC|suj~mod}		responsable{NC|mod}		rue{NC|mod}		Causation/
+
+
+------->  CONTACT~Vitame{NPP~NC|suj~mod}		responsable{NC|mod}		31520{NC|mod}		Causation/
+
+
+------->  CONTACT~Vitame{NPP~NC|suj~mod}		responsable{NC|mod}		Ramonville-Saint-Agne{NPP|mod}		Causation/
+
+
+------->  contacter{VINF|root}		responsable{NC|obj}		faire~objet{VPP~NC|mod~obj}		Causation/
+
+
+------->  retrouver{VINF|root}		responsable{ADJ|mod}		rentrer{VPP|mod_rel}		Causation/
+
+
+------->  pouvoir~représentant{V~NC|root~obj}		responsable{NC|suj}		FC{NPP|mod}		Causation/
+
+
+------->  pouvoir~représentant{V~NC|root~obj}		responsable{NC|suj}		Universitaire~extérieur{NC~ADJ|mod~mod}		Causation/
+
+
+------->  pouvoir~représentant{V~NC|root~obj}		responsable{NC|suj}		représentant{NC|mod}		Causation/
+
+
+------->  pouvoir~représentant{V~NC|root~obj}		responsable{NC|suj}		représenter~qu'un{VPR~ADV|mod~mod}		Causation/
+
+
+------->  infrastructure~savoir{NC~V|suj~dep_coord}		responsable{NC|suj}		crise{NC|mod}		Causation/
+
+
+------->  devoir~rester~vigilant{V~VINF~ADJ|root~obj~ats}		responsable{NC|suj}		personne{NC|mod}		Causation/
+
+
+------->  être{V|root}		déterminant{NC|ats}		permettre{V|mod_rel}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  proposition~résolution~bon{NC~NC~ADJ|mod~obj~mod}		subordonné{NC|mod}		complément{NC|mod}		FR_Contingency-Objective_influence/
+
+
+------->  proposition~résolution~bon{NC~NC~ADJ|mod~obj~mod}		subordonné{NC|mod}		complément{NC|mod}		FR_Contingency-Objective_influence/
+
+
+------->  encourager{V|root}		responsable{NC|obj}		concerner~nature{V~NC|mod_rel~obj}		Causation/
+
+
+------->  éditer~rue~75016{VPP~NC~ADJ|mod~mod~mod}		responsable{NC|obj}		site~héberger{NC~VPP|suj~mod}		Causation/
+
+
+------->  Onera{NPP|mod}		responsable{NC|mod}		développement~système{NC~NC|mod~mod}		Causation/
+
+
+------->  équipe~composer{NC~V|suj~root}		responsable{NC|mod}		IA-IPR{NPP|mod}		Causation/
+
+
+------->  proposer~ainsi{V~ADV|root~mod}		responsable{NC|suj}		Domenico{NPP|mod}		Causation/
+
+
+------->  proposer~ainsi{V~ADV|root~mod}		responsable{NC|suj}		conseil~national{NC~ADJ|mod~mod}		Causation/
+
+
+------->  proposer~ainsi{V~ADV|root~mod}		responsable{NC|suj}		Rome{NPP|mod}		Causation/
+
+
+------->  être~pas{V~ADV|root~mod}		responsable{ADJ|ats}		héritier{NC|dep}		Causation/
+
+
+------->  maîtrise~outil{NC~NC|root~obj}		responsable{NC|mod}		DCSD{NPP|mod}		Causation/
+
+
+------->  maîtrise~outil{NC~NC|root~obj}		responsable{NC|mod}		QSV{NPP|mod}		Causation/
+
+
+------->  arriver{V|dep_coord}		responsable{NC|suj}		d'apporter{VINF|dep}		Causation/
+
+
+------->  arriver{V|dep_coord}		responsable{NC|suj}		jour{NC|mod}		Causation/
+
+
+------->  arriver{V|dep_coord}		responsable{NC|suj}		oiseau~mazouter{NC~VPP|mod~mod}		Causation/
+
+
+------->  télécommunications{NC|mod}		responsable{NC|mod}		responsable{NC|mod}		Causation/
+
+
+------->  test{NC|dep_coord}		responsable{NC|mod}		système{NC|mod}		Causation/
+
+
+------->  freiner~dépense{VPP~NC|root~obj}		déterminant{NC|suj}		consommation~taux{NC~NC|mod~mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  freiner~dépense{VPP~NC|root~obj}		déterminant{NC|suj}		entreprise~financier{NC~ADJ|mod~mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  Ginette{NPP|mod}		responsable{NC|mod}		Éric{NC|mod}		Causation/
+
+
+------->  passer~week-end~tout{VPP~NC~ADV|root~obj~mod}		responsable{NC|suj}		ex-société{NC|mod}		Causation/
+
+
+------->  passer~week-end~tout{VPP~NC~ADV|root~obj~mod}		responsable{NC|suj}		organiser~Grand{V~NC|mod_rel~obj}		Causation/
+
+
+------->  universitaire{ADJ|obj}		responsable{NC|mod_rel}		professionnaliser{VPR|mod}		Causation/
+
+
+------->  engager{VPP|root}		responsable{NC|obj}		assurer~fonctionnement{V~NC|mod_rel~obj}		Causation/
+
+
+------->  ingénieur~logistique{NC~ADJ|mod~mod}		responsable{NC|mod}		achat{NC|mod}		Causation/
+
+
+------->  groupe~export{NC~NC|obj~mod}		responsable{NC|mod}		entrepôt{NC|mod}		Causation/
+
+
+------->  supply~restauration~automatisme{V~NC~NC|dep_coord~obj~mod}		responsable{NC|obj}		transport~responsable{NC~NC|mod~mod}		Causation/
+
+
+------->  supply~restauration~automatisme{V~NC~NC|dep_coord~obj~mod}		responsable{NC|obj}		gestionnaire{NC|mod}		Causation/
+
+
+------->  supply~restauration~automatisme{V~NC~NC|dep_coord~obj~mod}		responsable{NC|obj}		approvisionnement~responsable{NC~NC|mod~mod}		Causation/
+
+
+------->  supply~restauration~automatisme{V~NC~NC|dep_coord~obj~mod}		responsable{NC|obj}		Gestionnaire~ordonnancement{NPP~NC|mod~mod}		Causation/
+
+
+------->  facteur~religieux{NC~ADJ|root~mod}		déterminant{ADJ|mod}		être{V|aux_pass}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  proposer~1{VPP~NC|root~mod}		responsable{NC|mod}		Marie{NPP|mod}		Causation/
+
+
+------->  proposer~1{VPP~NC|root~mod}		responsable{NC|mod}		Roué{NPP|mod}		Causation/
+
+
+------->  proposer~1{VPP~NC|root~mod}		responsable{NC|mod}		Jean{NPP|mod}		Causation/
+
+
+------->  Guiche{NPP|root}		responsable{NC|mod}		RATP{NPP|mod}		Causation/
+
+
+------->  conclusion~être{NC~V|suj~root}		responsable{NC|suj}		respecter{VPP|mod}		Causation/
+
+
+------->  développer~éducation{VINF~NC|obj~obj}		responsable{ADJ|obj}		être{V|mod_rel}		Causation/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		développement~réseau{NC~NC|mod~mod}		Causation/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		rue{NC|mod}		Causation/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		92100{NC|mod}		Causation/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		Boulogne{NPP|mod}		Causation/
+
+
+------->  CONTACT{NPP|suj}		responsable{NC|mod}		Fax{NPP|mod}		Causation/
+
+
+------->  Gérard{NPP|root}		responsable{NC|mod}		charger{VPP|mod}		Causation/
+
+
+------->  Mathias{NPP|obj}		responsable{NC|mod}		Méthodes{NPP|mod}		Causation/
+
+
+------->  être~convier{VPP~VPP|root~mod}		responsable{NC|suj}		CCA{NPP|mod}		Causation/
+
+
+------->  être~loin~déjà{V~ADV~ADV|dep_coord~mod~mod}		responsable{NC|suj}		féliciter{VPP|mod}		Causation/
+
+
+------->  être~loin~déjà{V~ADV~ADV|dep_coord~mod~mod}		responsable{NC|suj}		finalité~jeune{NC~ADJ|mod~mod}		Causation/
+
+
+------->  être{V|obj}		responsable{NC|ats}		lancer~caillou{V~NC|mod_rel~obj}		Causation/
+
+
+------->  enseignement{NC|obj}		responsable{NC|mod}		PCL2{NC|mod}		Causation/
+
+
+------->  chapeauter{V|root}		responsable{NC|suj}		Monsieur{NC|mod}		Causation/
+
+
+------->  ministère~membre{NPP~NC|obj~mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  rencontrer{VINF|obj}		responsable{NC|obj}		monde{NC|mod}		Causation/
+
+
+------->  rencontrer{VINF|obj}		responsable{NC|obj}		08{NC|mod}		Causation/
+
+
+------->  rencontrer{VINF|obj}		responsable{NC|obj}		56{NC|mod}		Causation/
+
+
+------->  rencontrer{VINF|obj}		responsable{NC|obj}		opposant~birman{NC~ADJ|mod~mod}		Causation/
+
+
+------->  Cotardière{NPP|obj}		responsable{NC|mod}		science{NC|mod}		Causation/
+
+
+------->  secouer~sous-préfet{VPP~NC|root~mod}		responsable{NC|mod}		propriétaire{NC|mod}		Causation/
+
+
+------->  secouer~sous-préfet{VPP~NC|root~mod}		responsable{NC|mod}		implanter~l'entrepris{VPP~ADJ|mod_rel~ats}		Causation/
+
+
+------->  hurler~encore{V~ADV|root~mod}		responsable{NC|suj}		lutte~d'associations{NC~ADV|mod~mod}		Causation/
+
+
+------->  fait{NC|root}		responsable{NC|mod}		tuer~exemple{VPP~NC|mod~obj}		Causation/
+
+
+------->  être{V|root}		responsable{ADJ|ats}		banlieue~exprimer{NC~V|suj~obj}		Causation/
+
+
+------->  vouloir~savoir{V~VINF|root~obj}		responsable{NC|suj}		ami{NC|mod}		Causation/
+
+
+------->  être~pas{V~ADV|root~mod}		responsable{ADJ|ats}		pouvoir~découler{VPR~VINF|dep~obj}		Causation/
+
+
+------->  affirmer{V|mod}		responsable{NC|suj}		renforcer~ainsi{VPP~ADV|mod_rel~mod}		Causation/
+
+
+------->  former{VINF|obj}		responsable{NC|obj}		membre{NC|mod}		Causation/
+
+
+------->  LOUCIF{NPP|root}		responsable{NC|mod}		assurance~e-mail{NC~NC|mod~mod}		Causation/
+
+
+------->  télécommunications{NC|mod}		responsable{NC|mod}		responsable{NC|mod}		Causation/
+
+
+------->  test{NC|dep_coord}		responsable{NC|mod}		système{NC|mod}		Causation/
+
+
+------->  être{VINF|obj}		responsable{NC|obj}		endeuiller~restaurant{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  avoir{VS|obj}		responsable{NC|obj}		veuillent~effacer{V~VINF|mod_rel~obj}		Causation/
+
+
+------->  être~excuser{V~VPP|root~ats}		responsable{NC|suj}		secrétaire{NC|mod}		Causation/
+
+
+------->  être~excuser{V~VPP|root~ats}		responsable{NC|suj}		président{NC|mod}		Causation/
+
+
+------->  Thierry{NPP|mod}		responsable{NC|mod}		intégration{NC|mod}		Causation/
+
+
+------->  Thierry{NPP|mod}		responsable{NC|mod}		enseigne{NC|mod}		Causation/
+
+
+------->  Centre~société{NPP~NC|obj~mod}		responsable{NC|mod}		h{NC|mod}		Causation/
+
+
+------->  Centre~société{NPP~NC|obj~mod}		responsable{NC|mod}		Départ{NPP|mod}		Causation/
+
+
+------->  exposer~visiter~entreprise{VPP~VINF~NC|root~obj~obj}		responsable{NC|suj}		Jean-Marie{NPP|mod}		Causation/
+
+
+------->  vouloir~respecter~délai{V~VINF~NC|root~obj~obj}		responsable{NC|suj}		charger{VPP|mod}		Causation/
+
+
+------->  dire~entendre{V~VPP|root~mod}		responsable{NC|suj}		CFDT{NPP|mod}		Causation/
+
+
+------->  être{VINF|obj}		responsable{NC|obj}		endeuiller~restaurant{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  Martiniquaise~générale{NPP~NC|suj~mod}		responsable{NC|mod}		marketing{NC|mod}		Causation/
+
+
+------->  veuillent~saisir~problème{V~VINF~NC|obj~obj~obj}		responsable{NC|suj}		responsable~politique{NC~ADJ|mod~mod}		Causation/
+
+
+------->  réunir~plus{V~ADV|root~mod}		responsable{NC|obj}		issir{VPP|mod}		Causation/
+
+
+------->  étudier~système~futur{V~NC~NC|root~obj~mod}		responsable{NC|mod}		élire{VPP|mod}		Causation/
+
+
+------->  dépendance~préoccuper{NC~V|suj~root}		responsable{NC|obj}		effectuer{VPP|mod}		Causation/
+
+
+------->  indiquer~lundi{VPP~NC|root~obj}		responsable{NC|obj}		faire~état{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  rechercher~lire~suite{V~VINF~NC|root~mod~obj}		responsable{ADJ|obj}		e-BusinessVu{NPP|mod}		Causation/
+
+
+------->  recruter~projet~récent{V~NC~ADJ|root~obj~mod}		responsable{NC|obj}		e-Business{NPP|mod}		Causation/
+
+
+------->  recruter~projet~récent{V~NC~ADJ|root~obj~mod}		responsable{NC|obj}		Lire{NPP|mod}		Causation/
+
+
+------->  recruter~projet~récent{V~NC~ADJ|root~obj~mod}		responsable{NC|obj}		suite{NC|mod}		Causation/
+
+
+------->  recruter~projet~récent{V~NC~ADJ|root~obj~mod}		responsable{NC|obj}		PrestaShop{NPP|mod}		Causation/
+
+
+------->  débattre~elus{VPP~ADV|root~mod}		responsable{NC|suj}		association{NC|mod}		Causation/
+
+
+------->  être~toujours{V~ADV|root~mod}		déterminant{ADJ|ats}		force~productif{NC~ADJ|dep~mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  Françoise{NPP|suj}		responsable{NC|mod}		accorder{VPP|mod_rel}		Causation/
+
+
+------->  hésiter~pas{V~ADV|root~mod}		responsable{NC|obj}		midi-pyrenees.communication@anpe.fr{NPP|suj}		Causation/
+
+
+------->  hésiter~pas{V~ADV|root~mod}		responsable{NC|obj}		Marie-Pierre{NPP|mod}		Causation/
+
+
+------->  hésiter~pas{V~ADV|root~mod}		responsable{NC|obj}		inauguration{NC|mod}		Causation/
+
+
+------->  hésiter~pas{V~ADV|root~mod}		responsable{NC|obj}		diplômer~ANPE{VPP~NC|mod~mod}		Causation/
+
+
+------->  terrain~anthropologie{NC~NC|mod~obj}		responsable{NC|mod}		Daniel{NPP|mod}		Causation/
+
+
+------->  terrain~anthropologie{NC~NC|mod~obj}		responsable{NC|mod}		Terrolle{NPP|mod}		Causation/
+
+
+------->  tué{NC|mod}		responsable{NC|mod_rel}		réagir{VINF|obj}		Causation/
+
+
+------->  mort{NC|obj}		responsable{NC|mod_rel}		réagir{VINF|obj}		Causation/
+
+
+------->  sujet~amélioration{NC~NC|obj~mod}		responsable{NC|mod}		DANONE{NPP|mod}		Causation/
+
+
+------->  Laure{NPP|suj}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  communication~information{NC~NC|root~mod}		responsable{NC|mod}		Préfecture{NPP|mod}		Causation/
+
+
+------->  communication~information{NC~NC|root~mod}		responsable{NC|mod}		DSDS{NPP|mod}		Causation/
+
+
+------->  indiquer{VPP|root}		responsable{NC|suj}		impliquer{VPP|mod}		Causation/
+
+
+------->  activité~cortical{NC~ADJ|obj~mod}		responsable{NC|mod}		Olivier{NPP|mod}		Causation/
+
+
+------->  activité~cortical{NC~ADJ|obj~mod}		responsable{NC|mod}		FAUGERAS{NPP|mod}		Causation/
+
+
+------->  activité~cortical{NC~ADJ|obj~mod}		responsable{NC|mod}		page~personnel{NC~ADJ|mod~mod}		Causation/
+
+
+------->  Noel{NPP|mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  Noel{NPP|mod}		responsable{NC|mod}		e-mail{NC|mod}		Causation/
+
+
+------->  projet{NC|obj}		responsable{NC|mod}		François{NPP|mod}		Causation/
+
+
+------->  projet{NC|obj}		responsable{NC|mod}		CHARPILLET{NPP|mod}		Causation/
+
+
+------->  projet{NC|obj}		responsable{NC|mod}		page~personnel{NC~ADJ|mod~mod}		Causation/
+
+
+------->  retraite{NC|obj}		responsable{NC|mod}		santé{NC|mod}		Causation/
+
+
+------->  dire{VPP|root}		responsable{NC|suj}		auditionner{VPP|mod}		Causation/
+
+
+------->  déclarer{V|root}		responsable{NC|suj}		reprendre~discours{VPR~NC|mod~obj}		Causation/
+
+
+------->  Bernard~ingénieur~projet{NPP~NC~NC|obj~mod~mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  copyright~presser{NC~V|suj~root}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  donner~aperçu{V~NC|mod_rel~obj}		responsable{NC|suj}		Thérèse{NPP|mod}		Causation/
+
+
+------->  donner~aperçu{V~NC|mod_rel~obj}		responsable{NC|suj}		directrice~scientifique{NC~ADJ|mod~mod}		Causation/
+
+
+------->  donner~aperçu{V~NC|mod_rel~obj}		responsable{NC|suj}		École{NC|mod}		Causation/
+
+
+------->  efficacité~directeur{NC~NC|obj~mod}		responsable{NC|mod}		publicité{NC|mod}		Causation/
+
+
+------->  avoir~évidemment{V~ADV|root~mod}		responsable{ADJ|obj}		être~important{V~ADJ|mod_rel~ats}		Causation/
+
+
+------->  lire~suite{VINF~NC|dep~obj}		responsable{NC|obj}		souhaiter~être{VPP~VINF|mod_rel~obj}		Causation/
+
+
+------->  Patrick{NPP|obj}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  Terre-net{NPP|obj}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  Terre-net{NPP|obj}		responsable{NC|mod}		T~erre{NC~NC|mod~mod}		Causation/
+
+
+------->  Terre-net{NPP|obj}		responsable{NC|mod}		n{NC|mod}		Causation/
+
+
+------->  HENRION~02{NC~NC|root~mod}		responsable{NC|mod}		occasion{NC|mod}		Causation/
+
+
+------->  Interview{NPP|suj}		responsable{NC|mod}		occasion~CHOUFFOT{NC~NC|mod~mod}		Causation/
+
+
+------->  e~description{NC~NC|mod~mod}		responsable{NC|mod}		Machines{NPP|mod}		Causation/
+
+
+------->  e~description{NC~NC|mod~mod}		responsable{NC|mod}		Spéciales{NPP|mod}		Causation/
+
+
+------->  télécommunications{NC|mod}		responsable{NC|mod}		responsable{NC|mod}		Causation/
+
+
+------->  test{NC|dep_coord}		responsable{NC|mod}		système{NC|mod}		Causation/
+
+
+------->  organiser~cours{V~NC|root~obj}		responsable{NC|suj}		Roosa{NPP|mod}		Causation/
+
+
+------->  organiser~cours{V~NC|root~obj}		responsable{NC|suj}		Toivonen{NPP|mod}		Causation/
+
+
+------->  être{V|mod_rel}		responsable{ADJ|ats}		avoir{V|aux_tps}		Causation/
+
+
+------->  inciter{V|dep_coord}		responsable{NC|obj}		habiter~presbytère{V~NC|mod_rel~obj}		Causation/
+
+
+------->  avoir~ne{V~ADV|root~mod}		responsable{NC|suj}		charger{VPP|mod}		Causation/
+
+
+------->  être~maladie~rare{V~NC~ADJ|root~ats~mod}		responsable{NC|mod}		suette{NPP|suj}		Causation/
+
+
+------->  décès~être{NC~V|suj~root}		imputable{ADJ|ats}		jours~deux{NC~ADJ|dep~mod}		FR_Attributing_cause/
+
+
+------->  Michel{NPP|suj}		responsable{ADJ|mod}		Service{NPP|mod}		Causation/
+
+
+------->  Michel{NPP|suj}		responsable{ADJ|mod}		pièce{NC|mod}		Causation/
+
+
+------->  solution~déployer{NC~ADJ|dep_coord~mod}		responsable{NC|mod}		offre{NC|mod}		Causation/
+
+
+------->  comprendre~notamment{V~ADV|root~mod}		responsable{NC|obj}		COSA{NPP|mod}		Causation/
+
+
+------->  comprendre~notamment{V~ADV|root~mod}		responsable{NC|obj}		DIRE{NPP|mod}		Causation/
+
+
+------->  comprendre~notamment{V~ADV|root~mod}		responsable{NC|obj}		Minefi{NPP|mod}		Causation/
+
+
+------->  comprendre~notamment{V~ADV|root~mod}		responsable{NC|obj}		GIP{NPP|mod}		Causation/
+
+
+------->  premier~être{ADJ~V|suj~mod}		responsable{ADJ|ats}		équipier~1er{NC~ADJ|mod~mod}		Causation/
+
+
+------->  analyser{V|root}		déterminant{NC|mod}		aide~obtenir{NC~VPP|mod~mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  être{V|dep_coord}		responsable{NC|obj}		société~connaître{NC~V|suj~mod_rel}		Causation/
+
+
+------->  PES~coopération{NPP~NC|root~mod}		responsable{NC|mod}		Yves{NPP|mod}		Causation/
+
+
+------->  Illinois~1_72_92_59_52{NPP~NC|root~mod}		responsable{NC|mod}		Olivier{NPP|mod}		Causation/
+
+
+------->  Illinois~1_72_92_59_52{NPP~NC|root~mod}		responsable{NC|mod}		TEMAM{NPP|mod}		Causation/
+
+
+------->  Illinois~1_72_92_59_52{NPP~NC|root~mod}		responsable{NC|mod}		page~personnel{NC~ADJ|mod~mod}		Causation/
+
+
+------->  nommer~européen{VPP~ADJ|root~mod}		responsable{ADJ|obj}		charger{VPP|dep}		Causation/
+
+
+------->  produire~effet{VPP~NC|root~obj}		responsable{NC|suj}		initier{VPP|mod}		Causation/
+
+
+------->  Frédéric{NPP|obj}		responsable{NC|mod}		recherche{NC|mod}		Causation/
+
+
+------->  président{NC|root}		responsable{NC|mod}		santé~distribution{NC~NC|mod~mod}		Causation/
+
+
+------->  être~ainsi{V~ADV|root~mod}		symptomatique{ADJ|ats}		être~populaire{VS~ADJ|dep~ats}		Evidence/
+
+
+------->  ressource~pourvoir~métier{NC~VPP~NC|suj~root~mod}		responsable{NC|mod}		gérer~assistant{VPR~NC|mod~mod}		Causation/
+
+
+------->  er{VINF|root}		responsable{ADJ|mod}		Christophe~animateur{NPP~NC|mod~mod}		Causation/
+
+
+------->  er{VINF|root}		responsable{ADJ|mod}		Gérard~société{NPP~NC|mod~mod}		Causation/
+
+
+------->  er{VINF|root}		responsable{ADJ|mod}		Michel~gérant{NPP~NC|mod~mod}		Causation/
+
+
+------->  préciser{V|root}		responsable{NC|suj}		Rémi{NPP|mod}		Causation/
+
+
+------->  préciser{V|root}		responsable{NC|suj}		Senac{NPP|mod}		Causation/
+
+
+------->  conseiller{V|root}		responsable{NC|suj}		Laurent{NPP|mod}		Causation/
+
+
+------->  conseiller{V|root}		responsable{NC|suj}		ingénieur{NC|mod}		Causation/
+
+
+------->  norme~actuel{NC~ADJ|suj~mod}		responsable{NC|mod}		sécurité{NC|mod}		Causation/
+
+
+------->  norme~actuel{NC~ADJ|suj~mod}		responsable{NC|mod}		T-System{NPP|mod}		Causation/
+
+
+------->  norme~actuel{NC~ADJ|suj~mod}		responsable{NC|mod}		Suisse{NPP|mod}		Causation/
+
+
+------->  déclarer{VPP|mod}		responsable{NC|suj}		Nicolas{NPP|mod}		Causation/
+
+
+------->  personne~impliquer{NC~VPP|root~mod}		responsable{NC|mod}		sécurité~responsable{NC~ADJ|mod~mod}		Causation/
+
+
+------->  personne~impliquer{NC~VPP|root~mod}		responsable{NC|mod}		réseau{NC|mod}		Causation/
+
+
+------->  être{V|obj}		responsable{ADJ|ats}		victime~africain{NC~ADJ|dep~mod}		Causation/
+
+
+------->  Alain{NPP|obj}		responsable{NC|mod}		PS{NPP|mod}		Causation/
+
+
+------->  ISOC-France{NPP|root}		responsable{ADJ|mod}		Andrée{NPP|mod}		Causation/
+
+
+------->  sensibiliser{VINF|dep_coord}		responsable{NC|obj}		ressource~viser{NC~VPP|mod~mod}		Causation/
+
+
+------->  e-mail{NC|mod}		responsable{NC|mod}		ONERA{NPP|mod}		Causation/
+
+
+------->  contacter~détail{VINF~NC|root~obj}		responsable{NC|obj}		RF{NPP|mod}		Causation/
+
+
+------->  route~conducteur{NC~NC|root~mod}		responsable{NC|mod}		matériel{NC|mod}		Causation/
+
+
+------->  Laurent{NPP|obj}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Jules{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Zirnheld{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		1{NC|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Gaston{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Tessier~1944{NPP~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Gaston{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Tessier{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		1946~président{NC~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Georges{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Torcq{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Gaston{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Tessier{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		1948~-1953{NC~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Gaston{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Tessier{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Maurice{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Bouladoux~1961{NPP~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Maurice{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Bouladoux{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Georges~1961{NPP~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		président{NC|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Georges{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Levard{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		2{NC|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Eugène{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Descamps{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		1967~-1970{NC~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		André{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Jeanson{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Eugène{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Descamps~1970{NPP~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Eugène{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Descamps{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		3{NC|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		1971~-1973{NC~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Laurent{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Lucas{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		secrétaire~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Edmond{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Maire{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		1973~secrétaire{NC~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Edmond{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Maire{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		1988~secrétaire{NC~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Jean{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Kaspar~secrétaire{NPP~NC|mod~mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Nicole{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Notat{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		François{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		Chérèque{NPP|mod}		Causation/
+
+
+------->  mourir{V|root}		responsable{NC|mod}		1{NC|mod}		Causation/
+
+
+------->  disparaître~partout{V~ADV|root~mod}		responsable{NC|suj}		dévouer{V|mod_rel}		Causation/
+
+
+------->  aller~prendre~titre{V~VINF~NC|root~obj~obj}		responsable{NC|suj}		Ray{NPP|mod}		Causation/
+
+
+------->  aller~prendre~titre{V~VINF~NC|root~obj~obj}		responsable{NC|suj}		Ozzie{NPP|mod}		Causation/
+
+
+------->  être{V|root}		responsable{NC|mod}		H{NC|mod}		Causation/
+
+
+------->  être{V|root}		responsable{NC|mod}		F{NC|mod}		Causation/
+
+
+------->  Jaco3{NC|mod}		responsable{NC|mod}		Thierry{NPP|mod}		Causation/
+
+
+------->  Jaco3{NC|mod}		responsable{NC|mod}		PRIOL{NPP|mod}		Causation/
+
+
+------->  Jaco3{NC|mod}		responsable{NC|mod}		page~personnel{NC~ADJ|mod~mod}		Causation/
+
+
+------->  filière~structure{NC~NC|suj~obj}		responsable{NC|obj}		faire~partie{V~NC|mod_rel~obj}		Causation/
+
+
+------->  assurer~au_moins{V~ADV|root~mod}		responsable{NC|suj}		UMP{NPP|mod}		Causation/
+
+
+------->  étayer~pas{V~ADV|obj~mod}		responsable{NC|obj}		spécialiser{VPP|mod}		Causation/
+
+
+------->  étayer~pas{V~ADV|obj~mod}		responsable{NC|obj}		disparaître{V|mod_rel}		Causation/
+
+
+------->  mettre~garde{VINF~NC|obj~obj}		responsable{NC|obj}		californien{NC|mod}		Causation/
+
+
+------->  mettre~garde{VINF~NC|obj~obj}		responsable{NC|obj}		souhaiter~placer{V~VINF|mod_rel~obj}		Causation/
+
+
+------->  déclarer~qu'il{V~ADV|root~mod}		responsable{NC|suj}		M.{NC|mod}		Causation/
+
+
+------->  tutoriel~adresser{NC~V|suj~root}		responsable{NC|mod}		réseau{NC|mod}		Causation/
+
+
+------->  Jean{NPP|root}		responsable{NC|mod}		CGT{NPP|mod}		Causation/
+
+
+------->  Jean{NPP|root}		responsable{NC|mod}		CGT{NPP|mod}		Causation/
+
+
+------->  Jean{NPP|root}		responsable{NC|mod}		CGT{NPP|mod}		Causation/
+
+
+------->  investir~aussi{V~ADV|obj~mod}		responsable{NC|suj}		être~action{V~NC|mod_rel~ats}		Causation/
+
+
+------->  couleur{NC|obj}		responsable{NC|mod}		développement{NC|mod}		Causation/
+
+
+------->  entreprise{NC|obj}		responsable{NC|mod}		ressource~HUMAINES{NC~NC|mod~mod}		Causation/
+
+
+------->  Tom{NPP|suj}		responsable{NC|mod}		produit{NC|mod}		Causation/
+
+
+------->  mener~travail{VPP~NC|mod~obj}		responsable{NC|mod}		prise{NC|mod}		Causation/
+
+
+------->  mener~travail{VPP~NC|mod~obj}		responsable{NC|mod}		manager~expérimenter{NC~VPP|mod~mod}		Causation/
+
+
+------->  février~2005{NC~ADJ|suj~mod}		responsable{NC|mod}		Monsieur{NC|mod}		Causation/
+
+
+------->  février~2005{NC~ADJ|suj~mod}		responsable{NC|mod}		Alexandre{NPP|mod}		Causation/
+
+
+------->  février~2005{NC~ADJ|suj~mod}		responsable{NC|mod}		MBATCHI{NPP|mod}		Causation/
+
+
+------->  trouver{V|root}		responsable{NC|mod}		Matthieu{NPP|mod}		Causation/
+
+
+------->  trouver{V|root}		responsable{NC|mod}		MALER{NPP|mod}		Causation/
+
+
+------->  trouver{V|root}		responsable{NC|mod}		service{NC|mod}		Causation/
+
+
+------->  trouver{V|root}		responsable{NC|mod}		YPOK{NPP|mod}		Causation/
+
+
+------->  trouver{V|root}		responsable{NC|mod}		www.ypok.com{NPP|mod}		Causation/
+
+
+------->  trouver{V|root}		responsable{NC|mod}		Sécrétariat{NPP|mod}		Causation/
+
+
+------->  trouver{V|root}		responsable{NC|mod}		général{NC|mod}		Causation/
+
+
+------->  trouver{V|root}		responsable{NC|mod}		site~optimiser{NC~VPP|mod~mod}		Causation/
+
+
+------->  manager~logistique{NC~ADJ|mod~mod}		responsable{NC|mod}		approvisionneur{NC|mod}		Causation/
+
+
+------->  manager~logistique{NC~ADJ|mod~mod}		responsable{NC|mod}		responsable{NC|mod}		Causation/
+
+
+------->  indiquer{V|mod}		responsable{NC|suj}		d'Ipodec{NPP|mod}		Causation/
+
+
+------->  prendre~conscience{VPP~NC|root~obj}		responsable{NC|suj}		diversité{NC|mod}		Causation/
+
+
+------->  prendre~conscience{VPP~NC|root~obj}		responsable{NC|suj}		dirigeant{NC|mod}		Causation/
+
+
+------->  prendre~conscience{VPP~NC|root~obj}		responsable{NC|suj}		syndicat~salarier{NC~ADJ|mod~mod}		Causation/
+
+
+------->  prendre~conscience{VPP~NC|root~obj}		responsable{NC|suj}		contexte{NC|mod}		Causation/
+
+
+------->  assurer~au_moins{V~ADV|root~mod}		responsable{NC|suj}		UMP{NPP|mod}		Causation/
+
+
+------->  PHILIPPE{NPP|mod}		responsable{NC|mod}		partenaire{NC|mod}		Causation/
+
+
+------->  éliminer~communauté~juif{V~NC~ADJ|root~obj~mod}		responsable{NC|obj}		inciter~citoyen{VPR~NC|mod~obj}		Causation/
+
+
+------->  webmestre{NC|obj}		responsable{NC|mod}		SIG{NPP|mod}		Causation/
+
+
+------->  attendre~pas{V~ADV|root~mod}		responsable{NC|obj}		transformer{V|mod_rel}		Causation/
+
+
+------->  Jean{NPP|root}		responsable{NC|mod}		CGT{NPP|mod}		Causation/
+
+
+------->  Jean{NPP|root}		responsable{NC|mod}		CGT{NPP|mod}		Causation/
+
+
+------->  Jean{NPP|root}		responsable{NC|mod}		CGT{NPP|mod}		Causation/
+
+
+------->  assemblée~désigner~national{NC~V~ADJ|suj~root~mod}		responsable{NC|obj}		charger{VPP|mod}		Causation/
+
+
+------->  famille{NC|obj}		responsable{NC|mod}		responsable{NC|mod}		Causation/
+
+
+------->  rencontrer{VPP|root}		responsable{NC|obj}		loueur{NC|mod}		Causation/
+
+
+------->  rencontrer{VPP|root}		responsable{NC|obj}		traiteur{NC|mod}		Causation/
+
+
+------->  rencontrer{VPP|root}		responsable{NC|obj}		Et_même{NPP|mod}		Causation/
+
+
+------->  rencontrer{VPP|root}		responsable{NC|obj}		Catherine{NPP|mod}		Causation/
+
+
+------->  rencontrer{VPP|root}		responsable{NC|obj}		ministre~alors{NC~ADV|mod~mod}		Causation/
+
+
+------->  entendre~renforcer~rôle{V~VINF~NC|root~obj~obj}		responsable{NC|suj}		CFDT{NPP|mod}		Causation/
+
+
+------->  assister~en_partie{VPP~ADV|root~mod}		responsable{NC|suj}		Denis{NPP|mod}		Causation/
+
+
+------->  assister~en_partie{VPP~ADV|root~mod}		responsable{NC|suj}		Coquin{NPP|mod}		Causation/
+
+
+------->  examiner~également{VPP~ADV|root~mod}		déterminant{NC|suj}		relever~choix{V~NC|mod_rel~obj}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  aider{VINF|obj}		responsable{NC|obj}		CLIN{NPP|mod}		Causation/
+
+
+------->  aider{VINF|obj}		responsable{NC|obj}		médecin{NC|mod}		Causation/
+
+
+------->  aider{VINF|obj}		responsable{NC|obj}		pharmacien{NC|mod}		Causation/
+
+
+------->  aider{VINF|obj}		responsable{NC|obj}		directeur{NC|mod}		Causation/
+
+
+------->  proposition~complétif{NC~ADJ|obj~mod}		subordonné{NC|mod}		introduire{VPP|mod}		FR_Contingency-Objective_influence/
+
+
+------->  constater{V|mod}		responsable{NC|suj}		programme~soutenir{NC~VPP|mod~mod}		Causation/
+
+
+------->  reconnaître{VPP|mod}		responsable{NC|mod}		dire~c'est-à-dire{VPP~NC|mod~mod}		Causation/
+
+
+------->  être{V|root}		responsable{NC|suj}		pays~prendre{NC~V|suj~mod_rel}		Causation/
+
+
+------->  recevoir~invitation{VPP~NC|root~obj}		responsable{NC|suj}		association~lier{NC~VPP|suj~mod_rel}		Causation/
+
+
+------->  Armelle{NPP|root}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  Armelle{NPP|root}		responsable{NC|mod}		03_26_85_84_87_4{NC|mod}		Causation/
+
+
+------->  Céline~communication{NPP~NC|root~mod}		responsable{NC|mod}		département~information{NC~NC|mod~mod}		Causation/
+
+
+------->  souhaiter~voir~synergie{VPP~VINF~NC|mod~obj~obj}		responsable{NC|suj}		Jean-Pierre{NPP|mod}		Causation/
+
+
+------->  souhaiter~voir~synergie{VPP~VINF~NC|mod~obj~obj}		responsable{NC|suj}		Cherain{NPP|mod}		Causation/
+
+
+------->  souhaiter~voir~synergie{VPP~VINF~NC|mod~obj~obj}		responsable{NC|suj}		président{NC|mod}		Causation/
+
+
+------->  devoir~aider~concitoyen{V~VINF~NC|root~obj~obj}		responsable{NC|mod}		élus~local{NC~ADJ|mod~mod}		Causation/
+
+
+------->  devoir~aider~concitoyen{V~VINF~NC|root~obj~obj}		responsable{NC|mod}		représentant{NC|mod}		Causation/
+
+
+------->  devoir~aider~concitoyen{V~VINF~NC|root~obj~obj}		responsable{NC|mod}		entreprise{NC|mod}		Causation/
+
+
+------->  recruter{V|root}		responsable{NC|obj}		H{NC|mod}		Causation/
+
+
+------->  recruter{V|root}		responsable{NC|obj}		F{NC|mod}		Causation/
+
+
+------->  merci~adresser{NC~VINF|root~obj}		responsable{NC|mod}		RH{NC|mod}		Causation/
+
+
+------->  merci~adresser{NC~VINF|root~obj}		responsable{NC|mod}		direction{NC|mod}		Causation/
+
+
+------->  être~fabrique{V~NC|root~obj}		responsable{ADJ|ats}		S.O.S{NPP|dep}		Causation/
+
+
+------->  être~fabrique{V~NC|root~obj}		responsable{ADJ|ats}		victime{NC|dep}		Causation/
+
+
+------->  être~fabrique{V~NC|root~obj}		responsable{ADJ|ats}		association{NC|dep}		Causation/
+
+
+------->  connaître~secteur{V~NC|root~obj}		responsable{ADJ|suj}		CFDT{NPP|mod}		Causation/
+
+
+------->  ajouter~encore{VPP~ADV|mod~mod}		responsable{NC|suj}		citer~déjà{VPP~ADV|mod~mod}		Causation/
+
+
+------->  infection~être~infection{NC~V~NC|suj~root~mod}		responsable{ADJ|ats}		%{NC|dep}		Causation/
+
+
+------->  occuper{V|root}		responsable{NC|suj}		Michel{NPP|mod}		Causation/
+
+
+------->  être~pleinement{V~ADV|root~mod}		responsable{ADJ|ats}		saison~prochain{NC~ADJ|dep~mod}		Causation/
+
+
+------->  disparaître~partout{V~ADV|root~mod}		responsable{NC|suj}		dévouer{V|mod_rel}		Causation/
+
+
+------->  eau{NC|obj}		responsable{NC|mod}		Main{NPP|mod}		Causation/
+
+
+------->  prendre~temps{V~NC|root~obj}		responsable{NC|suj}		pouvoir~faire{V~VINF|mod_rel~obj}		Causation/
+
+
+------->  être~capturer{VPP~VPP|root~mod}		responsable{NC|suj}		P{NC|mod}		Causation/
+
+
+------->  être~capturer{VPP~VPP|root~mod}		responsable{NC|suj}		responsable{NC|mod}		Causation/
+
+
+------->  être~capturer{VPP~VPP|root~mod}		responsable{NC|suj}		Dari{NPP|mod}		Causation/
+
+
+------->  être~capturer{VPP~VPP|root~mod}		responsable{NC|suj}		Conde{NPP|mod}		Causation/
+
+
+------->  être~capturer{VPP~VPP|root~mod}		responsable{NC|suj}		Rubio{NPP|mod}		Causation/
+
+
+------->  être~capturer{VPP~VPP|root~mod}		responsable{NC|suj}		Doris{NPP|mod}		Causation/
+
+
+------->  être~capturer{VPP~VPP|root~mod}		responsable{NC|suj}		rechercher{VPP|mod}		Causation/
+
+
+------->  être{VINF|obj}		responsable{NC|obj}		endeuiller~restaurant{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  ANDRA~mise~en_place{NPP~NC~ADV|obj~mod~mod}		responsable{NC|mod}		sécurité~sas{NC~NC|mod~mod}		Causation/
+
+
+------->  système~témoignage{NC~NC|obj~mod}		responsable{NC|mod}		QSE{NPP|mod}		Causation/
+
+
+------->  Robert~président{NPP~NC|root~mod}		responsable{NC|mod}		environnement{NC|mod}		Causation/
+
+
+------->  être{VINF|obj}		responsable{NC|obj}		endeuiller~restaurant{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  mardi~élever~octobre{NC~V~NC|suj~root~mod}		responsable{NC|mod}		Bernard-André{NPP|mod}		Causation/
+
+
+------->  mardi~élever~octobre{NC~V~NC|suj~root~mod}		responsable{NC|mod}		Gaillot{NPP|mod}		Causation/
+
+
+------->  mardi~élever~octobre{NC~V~NC|suj~root~mod}		responsable{NC|mod}		ba.gaillot@aix-mrs.iufm.fr{NPP|mod}		Causation/
+
+
+------->  mardi~élever~octobre{NC~V~NC|suj~root~mod}		responsable{NC|mod}		stage~reconduire{NC~VPP|mod~mod}		Causation/
+
+
+------->  mardi~élever~octobre{NC~V~NC|suj~root~mod}		responsable{NC|mod}		concours~interne{NC~ADJ|mod~mod}		Causation/
+
+
+------->  mardi~élever~octobre{NC~V~NC|suj~root~mod}		responsable{NC|mod}		inscrire~stage{VINF~NC|dep~mod}		Causation/
+
+
+------->  mardi~élever~octobre{NC~V~NC|suj~root~mod}		responsable{NC|mod}		désigner{VPP|mod}		Causation/
+
+
+------->  mardi~élever~octobre{NC~V~NC|suj~root~mod}		responsable{NC|mod}		relever{VPR|mod}		Causation/
+
+
+------->  mardi~élever~octobre{NC~V~NC|suj~root~mod}		responsable{NC|mod}		responsable{NC|mod}		Causation/
+
+
+------->  mardi~élever~octobre{NC~V~NC|suj~root~mod}		responsable{NC|mod}		vendredi~octobre{NC~NC|mod~mod}		Causation/
+
+
+------->  mardi~élever~octobre{NC~V~NC|suj~root~mod}		responsable{NC|mod}		PCL1{NC|mod}		Causation/
+
+
+------->  mardi~élever~octobre{NC~V~NC|suj~root~mod}		responsable{NC|mod}		mardi~octobre{NC~NC|mod~mod}		Causation/
+
+
+------->  confirmer~volonté~politique{VPP~NC~ADJ|root~obj~mod}		responsable{NC|suj}		directeur~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  confirmer~volonté~politique{VPP~NC~ADJ|root~obj~mod}		responsable{NC|suj}		finance{NC|mod}		Causation/
+
+
+------->  confirmer~volonté~politique{VPP~NC~ADJ|root~obj~mod}		responsable{NC|suj}		Pierre-Franck{NPP|mod}		Causation/
+
+
+------->  expliquer~mairie{V~NC|root~mod}		responsable{NC|suj}		Martine{NPP|mod}		Causation/
+
+
+------->  expliquer~mairie{V~NC|root~mod}		responsable{NC|suj}		Marsault{NPP|mod}		Causation/
+
+
+------->  mesurer~effet{V~NC|obj~obj}		responsable{NC|suj}		avoir{V|mod_rel}		Causation/
+
+
+------->  Aurélien{NPP|root}		responsable{NC|mod}		RH{NC|mod}		Causation/
+
+
+------->  Gisèle{NPP|root}		responsable{NC|mod}		diplômer~ANPE{VPP~NC|mod~mod}		Causation/
+
+
+------->  Cyrille~ANPE{NPP~NC|root~mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  Cyrille~ANPE{NPP~NC|root~mod}		responsable{NC|mod}		marketing{NC|mod}		Causation/
+
+
+------->  Sophie~01_53_79_40_80{NPP~NC|mod~mod}		responsable{NC|mod}		formation{NC|mod}		Causation/
+
+
+------->  annoncer~mercredi{VPP~NC|root~obj}		responsable{NC|obj}		Yomodou{NPP|mod}		Causation/
+
+
+------->  annoncer{VPP|mod}		responsable{NC|suj}		Yomodou{NPP|mod}		Causation/
+
+
+------->  annoncer{VPP|mod}		responsable{NC|suj}		Yomodou{NPP|mod}		Causation/
+
+
+------->  être~vieillir{V~VINF|aux_pass~obj}		responsable{ADJ|ats}		n¹a~solution{V~NC|obj~obj}		Causation/
+
+
+------->  préférer~communiquer{V~VINF|obj~obj}		responsable{NC|suj}		contacter{VPP|mod_rel}		Causation/
+
+
+------->  juger{VPP|mod}		responsable{ADJ|mod}		actualité{NC|dep}		Causation/
+
+
+------->  juger{VPP|mod}		responsable{ADJ|mod}		Business{NPP|dep}		Causation/
+
+
+------->  juger{VPP|mod}		responsable{ADJ|mod}		produit~pétrolier{NC~ADJ|dep~mod}		Causation/
+
+
+------->  Jury{NPP|obj}		responsable{NC|mod}		ONERA{NPP|mod}		Causation/
+
+
+------->  Optique~théoriu{NPP~ADJ|obj~mod}		responsable{NC|mod}		thèse{NC|mod}		Causation/
+
+
+------->  investir{VPP|root}		responsable{ADJ|suj}		jeune{NC|mod}		Causation/
+
+
+------->  investir{VPP|root}		responsable{ADJ|suj}		Rabia{NPP|mod}		Causation/
+
+
+------->  pouvoir~participer{VPP~VINF|root~obj}		responsable{NC|suj}		parent~d'élève{NC~ADJ|mod~mod}		Causation/
+
+
+------->  pouvoir~participer{VPP~VINF|root~obj}		responsable{NC|suj}		élus{NC|mod}		Causation/
+
+
+------->  investissement{NC|suj}		responsable{ADJ|mod}		International_Survey_Research{NPP|mod}		Causation/
+
+
+------->  surveiller{V|root}		responsable{NC|suj}		Gérard{NPP|mod}		Causation/
+
+
+------->  procéder{V|root}		responsable{NC|suj}		Jury{NPP|dep}		Causation/
+
+
+------->  consacrer~part~grand{V~NC~ADJ|root~obj~mod}		responsable{NC|mod}		élever{VPP|mod}		Causation/
+
+
+------->  Albert{NPP|root}		responsable{NC|mod}		vente{NC|mod}		Causation/
+
+
+------->  Albert{NPP|root}		responsable{NC|mod}		tuteur{NC|mod}		Causation/
+
+
+------->  ouvrir~étudiant{VPP~NC|root~mod}		responsable{NC|mod}		particulier{NC|mod}		Causation/
+
+
+------->  annoncer~mercredi{VPP~NC|root~obj}		responsable{NC|obj}		Yomodou{NPP|mod}		Causation/
+
+
+------->  dire{VPP|root}		responsable{NC|suj}		exprimer{V|mod_rel}		Causation/
+
+
+------->  contacter{VINF|obj}		responsable{NC|obj}		Benjamin{NPP|mod}		Causation/
+
+
+------->  contacter{VINF|obj}		responsable{NC|obj}		Werner{NPP|mod}		Causation/
+
+
+------->  avoir~plus{V~ADV|obj~mod}		responsable{NC|suj}		M.{NC|mod}		Causation/
+
+
+------->  poste{NC|obj}		responsable{ADJ|mod}		entretien{NC|dep}		Causation/
+
+
+------->  emploi{NC|suj}		responsable{NC|mod}		MAROC{NPP|mod}		Causation/
+
+
+------->  Luxembourg{NPP|suj}		responsable{NC|mod}		cavalerie{NC|mod}		Causation/
+
+
+------->  certifier{VPP|obj}		responsable{NC|suj}		m{NC|mod}		Causation/
+
+
+------->  admettre{V|root}		responsable{NC|suj}		infrastructure{NC|mod}		Causation/
+
+
+------->  être{V|obj}		responsable{NC|suj}		président{NC|mod}		Causation/
+
+
+------->  Paris{NPP|mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  Paris{NPP|mod}		responsable{NC|mod}		Tél.{NPP|mod}		Causation/
+
+
+------->  François{NPP|mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  François{NPP|mod}		responsable{NC|mod}		Tél.{NPP|mod}		Causation/
+
+
+------->  féliciter{VINF|obj}		responsable{NC|obj}		inviter{VPP|mod_rel}		Causation/
+
+
+------->  remonter{VINF|mod}		responsable{NC|obj}		réunir~responsable{VPP~NC|mod~mod}		Causation/
+
+
+------->  profil~presse{NC~NC|mod~mod}		responsable{NC|mod}		partenaire{NC|mod}		Causation/
+
+
+------->  profil~presse{NC~NC|mod~mod}		responsable{NC|mod}		partenaire{NC|mod}		Causation/
+
+
+------->  pub~être~budjet{NC~V~ADJ|suj~obj~mod}		conséquent{ADJ|ats}		cofidi~autre{NC~ADJ|dep~mod}		Causation/
+
+
+------->  accepter~invitation{VPP~NC|root~obj}		responsable{NC|suj}		ministre~fédéral{NC~ADJ|mod~mod}		Causation/
+
+
+------->  participer~également{V~ADV|root~mod}		responsable{NC|suj}		Monsieur{NPP|mod}		Causation/
+
+
+------->  participer~également{V~ADV|root~mod}		responsable{NC|suj}		Bail{NPP|mod}		Causation/
+
+
+------->  avoir{VINF|obj}		responsable{ADJ|obj}		charger{VPP|dep}		Causation/
+
+
+------->  rejoindre~parti~belliciste{V~NC~ADJ|root~obj~mod}		responsable{NC|mod}		juillet~1791{NC~ADJ|mod~mod}		Causation/
+
+
+------->  rejoindre~parti~belliciste{V~NC~ADJ|root~obj~mod}		responsable{NC|mod}		cinquantaine~tuer{NC~VPP|suj~mod_rel}		Causation/
+
+
+------->  investir{VPP|root}		responsable{ADJ|suj}		jeune{NC|mod}		Causation/
+
+
+------->  investir{VPP|root}		responsable{ADJ|suj}		Rabia{NPP|mod}		Causation/
+
+
+------->  connaître{VINF|obj}		responsable{NC|obj}		48{NC|mod}		Causation/
+
+
+------->  rendre~enfin{VPP~ADV|root~mod}		responsable{ADJ|ats}		effort~ultime{NC~ADJ|obj~mod}		Causation/
+
+
+------->  direction{NC|obj}		responsable{NC|mod}		charger{VPP|mod}		Causation/
+
+
+------->  estimer~grimper~cours{VPP~VINF~NC|root~mod~obj}		responsable{NC|suj}		Chokri{NPP|mod}		Causation/
+
+
+------->  marché{NC|obj}		responsable{NC|mod}		fidélisation{NC|mod}		Causation/
+
+
+------->  vente{NC|obj}		responsable{NC|mod}		référencement{NC|mod}		Causation/
+
+
+------->  affiliation{NC|dep_coord}		responsable{NC|obj}		relation~public{NC~ADJ|mod~mod}		Causation/
+
+
+------->  exister~hypothèse{V~NC|dep_coord~obj}		responsable{NC|obj}		attacher~très{VPP~ADV|mod~mod}		Causation/
+
+
+------->  ajouter~gel{VPP~NC|root~mod}		responsable{NC|mod}		Arnaud{NPP|mod}		Causation/
+
+
+------->  suivre{V|root}		responsable{NC|obj}		Philippe{NPP|mod}		Causation/
+
+
+------->  suivre{V|root}		responsable{NC|obj}		Jourdan{NPP|mod}		Causation/
+
+
+------->  suivre{V|root}		responsable{NC|obj}		inspecteur{NC|mod}		Causation/
+
+
+------->  suivre{V|root}		responsable{NC|obj}		directeur{NC|mod}		Causation/
+
+
+------->  exercer~aujourd'hui{V~ADV|root~mod}		déterminant{NC|suj}		School{NPP|dep}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  exercer~aujourd'hui{V~ADV|root~mod}		déterminant{NC|suj}		Londres{NPP|mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  exercer~aujourd'hui{V~ADV|root~mod}		déterminant{NC|suj}		médecine{NC|mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  être~juste{V~ADV|root~obj}		responsable{ADJ|ats}		voir{VINF|dep}		Causation/
+
+
+------->  préconiser{V|mod}		responsable{NC|suj}		IT{NPP|mod}		Causation/
+
+
+------->  préconiser{V|mod}		responsable{NC|suj}		stockage~centraliser{NC~VPP|mod~mod}		Causation/
+
+
+------->  préconiser{V|mod}		responsable{NC|suj}		loi{NC|mod}		Causation/
+
+
+------->  déclarer{V|mod}		responsable{NC|suj}		zélandais{NC|mod}		Causation/
+
+
+------->  être{VPP|aux_pass}		responsable{NC|suj}		chef{NC|mod}		Causation/
+
+
+------->  pouvoir~témoigner{VPP~VINF|root~obj}		responsable{NC|suj}		réunir{VPP|mod}		Causation/
+
+
+------->  déclarer~élément~avancer{VPP~NC~VPP|mod~obj~mod}		responsable{NC|suj}		Arnaud{NPP|mod}		Causation/
+
+
+------->  profil~presse{NC~NC|mod~mod}		responsable{NC|mod}		partenaire{NC|mod}		Causation/
+
+
+------->  confirmer{V|obj}		responsable{NC|suj}		Alain{NPP|mod}		Causation/
+
+
+------->  réunir~novembre~24{VPP~NC~ADJ|root~mod~mod}		responsable{NC|suj}		CFDT{NPP|mod}		Causation/
+
+
+------->  réunir~novembre~24{VPP~NC~ADJ|root~mod~mod}		responsable{NC|suj}		charger{VPP|mod}		Causation/
+
+
+------->  Carole{NPP|suj}		responsable{NC|mod}		base{NC|mod}		Causation/
+
+
+------->  emploi~e{NC~NC|mod~mod}		responsable{NC|mod}		Rattaché{NPP|mod}		Causation/
+
+
+------->  être~e{V~NC|root~mod}		responsable{NC|suj}		programme{NC|mod}		Causation/
+
+
+------->  emploi~e{NC~NC|mod~mod}		responsable{NC|mod}		Rattaché{NPP|mod}		Causation/
+
+
+------->  être~e{V~NC|root~mod}		responsable{NC|suj}		programme{NC|mod}		Causation/
+
+
+------->  emploi~e{NC~NC|mod~mod}		responsable{NC|mod}		Rattaché{NPP|mod}		Causation/
+
+
+------->  être~e{V~NC|root~mod}		responsable{NC|suj}		programme{NC|mod}		Causation/
+
+
+------->  calculer{V|mod}		responsable{NC|suj}		Dominique{NPP|mod}		Causation/
+
+
+------->  Joël{NPP|obj}		responsable{NC|mod}		projet{NC|mod}		Causation/
+
+
+------->  Franck{NPP|suj}		responsable{NC|mod}		com{NC|mod}		Causation/
+
+
+------->  Optique{NPP|obj}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  UMP~psychiatre~départemental{NPP~NC~ADJ|obj~mod~mod}		responsable{NC|mod}		SAMU{NPP|mod}		Causation/
+
+
+------->  chose~voir~nécessaire{NC~VINF~ADJ|suj~root~mod}		responsable{NC|obj}		Erasmus{NPP|mod}		Causation/
+
+
+------->  chose~voir~nécessaire{NC~VINF~ADJ|suj~root~mod}		responsable{NC|obj}		Italienne{NPP|mod}		Causation/
+
+
+------->  rencontrer~notamment{V~ADV|mod~mod}		responsable{NC|suj}		présenter~travail{V~NC|mod_rel~obj}		Causation/
+
+
+------->  confier~fin~octobre{VPP~NC~NC|root~mod~mod}		responsable{NC|suj}		CFTC{NPP|mod}		Causation/
+
+
+------->  renvoyer{VINF|obj}		responsable{NC|obj}		soupçonner{VPP|mod}		Causation/
+
+
+------->  Jarnac{NPP|obj}		responsable{NC|mod}		franchise~rue{NC~NC|mod~mod}		Causation/
+
+
+------->  malade~rendre{NC~V|suj~obj}		responsable{ADJ|ats}		tiré{NC|dep}		Causation/
+
+
+------->  ronan.legoff@touteleurope.fr{NC|mod}		responsable{NC|mod}		promotion{NC|mod}		Causation/
+
+
+------->  plaindre{VPP|root}		responsable{NC|suj}		prendre~non_seulement{VPP~ADV|mod~mod}		Causation/
+
+
+------->  laisser~euro~chauffage{VPP~NC~NC|root~obj~mod}		responsable{NC|suj}		mettre~clef{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  aller~devoir~introduire{V~VINF~VINF|obj~obj~obj}		responsable{NC|suj}		IT{NPP|mod}		Causation/
+
+
+------->  recruteur~être~chinois{NC~V~ADJ|suj~mod~mod}		responsable{NC|suj}		Chine{NPP|mod}		Causation/
+
+
+------->  Hélène{NPP|suj}		responsable{NC|mod}		Europe{NPP|mod}		Causation/
+
+
+------->  rencontrer{VINF|obj}		responsable{NC|obj}		travailler{V|mod_rel}		Causation/
+
+
+------->  être{V|root}		responsable{NC|ats}		constituer~armée{V~NC|mod_rel~obj}		Causation/
+
+
+------->  placer{VPP|root}		responsable{NC|mod}		impliquer{VPP|mod}		Causation/
+
+
+------->  Nicolas{NPP|suj}		responsable{NC|mod}		recrutement~tour{NC~NC|mod~mod}		Causation/
+
+
+------->  être{VINF|obj}		responsable{NC|obj}		endeuiller~restaurant{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  indiquer{VPP|mod}		responsable{NC|suj}		préciser{VPP|mod_rel}		Causation/
+
+
+------->  mechaal~RYAD{NC~NC|suj~obj}		responsable{NC|mod}		impliquer{VPP|mod}		Causation/
+
+
+------->  Nicolas{NPP|suj}		responsable{NC|mod}		recrutement~tour{NC~NC|mod~mod}		Causation/
+
+
+------->  être~office{V~NC|root~mod}		responsable{NC|ats}		Organisation{NPP|mod}		Causation/
+
+
+------->  être{VINF|obj}		responsable{NC|obj}		endeuiller~restaurant{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  souhaiter~chercheur{V~NC|root~mod}		responsable{ADJ|ats}		politiques{NC|mod}		Causation/
+
+
+------->  être~compétence~rechercher{V~NC~VPP|root~ats~mod}		responsable{NC|mod}		Evelyne{NPP|mod}		Causation/
+
+
+------->  être~compétence~rechercher{V~NC~VPP|root~ats~mod}		responsable{NC|mod}		LEBRUN{NPP|mod}		Causation/
+
+
+------->  être~compétence~rechercher{V~NC~VPP|root~ats~mod}		responsable{NC|mod}		evelyne.lebrun@u-psud.fr{NPP|mod}		Causation/
+
+
+------->  être~compétence~rechercher{V~NC~VPP|root~ats~mod}		responsable{NC|mod}		Sites{NPP|mod}		Causation/
+
+
+------->  être~compétence~rechercher{V~NC~VPP|root~ats~mod}		responsable{NC|mod}		faculté{NC|mod}		Causation/
+
+
+------->  être~compétence~rechercher{V~NC~VPP|root~ats~mod}		responsable{NC|mod}		administration{NC|mod}		Causation/
+
+
+------->  contacter{VPP|root}		responsable{NC|suj}		Loi{NPP|mod}		Causation/
+
+
+------->  inspection~recruter~général{NC~V~ADJ|suj~root~mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  inspection~recruter~général{NC~V~ADJ|suj~root~mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  inspection~recruter~général{NC~V~ADJ|suj~root~mod}		responsable{NC|mod}		marché{NC|mod}		Causation/
+
+
+------->  inspection~recruter~général{NC~V~ADJ|suj~root~mod}		responsable{NC|mod}		Organisation{NPP|mod}		Causation/
+
+
+------->  inspection~recruter~général{NC~V~ADJ|suj~root~mod}		responsable{NC|mod}		Juridique{NPP|mod}		Causation/
+
+
+------->  inspection~recruter~général{NC~V~ADJ|suj~root~mod}		responsable{NC|mod}		ressource~humain{NC~ADJ|mod~mod}		Causation/
+
+
+------->  inspection~recruter~général{NC~V~ADJ|suj~root~mod}		responsable{NC|mod}		stratégie{NC|mod}		Causation/
+
+
+------->  inspection~recruter~général{NC~V~ADJ|suj~root~mod}		responsable{NC|mod}		charger{VPP|mod}		Causation/
+
+
+------->  être~parallèlement{V~ADV|root~mod}		responsable{NC|ats}		situer{VPP|mod_rel}		Causation/
+
+
+------->  rencontrer{VINF|obj}		responsable{NC|obj}		1{NC|mod}		Causation/
+
+
+------->  devoir~relancer~lettre{V~VINF~NC|root~obj~obj}		responsable{NC|suj}		Sea{NPP|mod}		Causation/
+
+
+------->  devoir~relancer~lettre{V~VINF~NC|root~obj~obj}		responsable{NC|suj}		Invest{NPP|mod}		Causation/
+
+
+------->  produit~être~mixte{NC~V~ADJ|suj~root~mod}		déterminant{ADJ|ats}		avoir~colonne{V~NC|mod_rel~obj}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  être{V|mod_rel}		responsable{NC|ats}		faute{NC|mod}		Causation/
+
+
+------->  pouvoir~dynamisme{VPP~NC|root~obj}		responsable{NC|suj}		CFDT{NPP|mod}		Causation/
+
+
+------->  terrain~victime{NC~NC|root~mod}		responsable{NC|mod}		condamner~pas_encore{VPP~ADV|mod~mod}		Causation/
+
+
+------->  renseignement{NC|mod}		responsable{NC|mod}		Monsieur{NC|mod}		Causation/
+
+
+------->  renseignement{NC|mod}		responsable{NC|mod}		Oussama{NPP|mod}		Causation/
+
+
+------->  renseignement{NC|mod}		responsable{NC|mod}		HIJAZI{NPP|mod}		Causation/
+
+
+------->  intra{V|root}		responsable{NC|suj}		analyse~exhaustif{NC~ADJ|mod~mod}		Causation/
+
+
+------->  intra{V|root}		responsable{NC|suj}		animation{NC|mod}		Causation/
+
+
+------->  intra{V|root}		responsable{NC|suj}		option~spécialisation{NC~NC|mod~mod}		Causation/
+
+
+------->  plancher~jours{VPP~NC|root~mod}		responsable{NC|suj}		Uffa{NPP|mod}		Causation/
+
+
+------->  empresser{VPP|obj}		responsable{NC|suj}		ELF{NPP|mod}		Causation/
+
+
+------->  empresser{VPP|obj}		responsable{NC|suj}		BP{NPP|mod}		Causation/
+
+
+------->  contenir{V|obj}		responsable{ADJ|suj}		pouvoir~faire{V~VPP|mod_rel~obj}		Causation/
+
+
+------->  pointer~développement{VPP~NC|root~obj}		responsable{NC|mod}		mutation~économique{NC~ADJ|mod~mod}		Causation/
+
+
+------->  compter~partenaire~autre{V~NC~ADJ|mod_rel~obj~mod}		responsable{NC|mod}		Sandrine{NPP|mod}		Causation/
+
+
+------->  compter~partenaire~autre{V~NC~ADJ|mod_rel~obj~mod}		responsable{NC|mod}		ingénieur{NC|mod}		Causation/
+
+
+------->  Monsieur{NPP|suj}		responsable{NC|mod}		détourner~centaine{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  obtenir~engagement~ferme{VPP~NC~ADJ|root~obj~mod}		responsable{NC|mod}		média{NC|mod}		Causation/
+
+
+------->  être~blesser~grièvement{VPP~ADJ~ADV|root~ats~mod}		responsable{NC|suj}		CRP{NPP|mod}		Causation/
+
+
+------->  être~blesser~grièvement{VPP~ADJ~ADV|root~ats~mod}		responsable{NC|suj}		Ameur{NPP|mod}		Causation/
+
+
+------->  Vincent{NPP|suj}		responsable{NC|mod}		d'Adele{NPP|mod}		Causation/
+
+
+------->  Nicolas{NPP|suj}		responsable{NC|mod}		recrutement~tour{NC~NC|mod~mod}		Causation/
+
+
+------->  Tom{NPP|mod}		responsable{NC|mod}		programme~air-bag{NC~NC|mod~mod}		Causation/
+
+
+------->  directeur~avocat{NC~NC|mod~mod}		responsable{NC|mod}		management{NC|mod}		Causation/
+
+
+------->  directeur~avocat{NC~NC|mod~mod}		responsable{NC|mod}		responsable{NC|mod}		Causation/
+
+
+------->  syndic{NC|dep_coord}		responsable{NC|mod}		entretien{NC|mod}		Causation/
+
+
+------->  syndic{NC|dep_coord}		responsable{NC|mod}		responsable{NC|mod}		Causation/
+
+
+------->  devoir~présenter~excuse{V~VINF~NC|root~obj~obj}		responsable{NC|suj}		reprendre~déclaration{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  refuser{VPP|root}		responsable{NC|suj}		Thomas{NPP|mod}		Causation/
+
+
+------->  refuser{VPP|root}		responsable{NC|suj}		Bodel{NPP|mod}		Causation/
+
+
+------->  refuser{VPP|root}		responsable{NC|suj}		directeur{NC|mod}		Causation/
+
+
+------->  lancer~laconiquement{V~ADV|root~mod}		responsable{NC|suj}		venir~spécialement{VPP~ADV|mod~mod}		Causation/
+
+
+------->  Marc{NPP|mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  Nicolas{NPP|suj}		responsable{NC|mod}		recrutement~tour{NC~NC|mod~mod}		Causation/
+
+
+------->  Nicolas{NPP|suj}		responsable{NC|mod}		recrutement~tour{NC~NC|mod~mod}		Causation/
+
+
+------->  expliquer{V|mod}		responsable{NC|suj}		DDCCRF{NPP|mod}		Causation/
+
+
+------->  souhaiter~chercheur{V~NC|root~mod}		responsable{ADJ|ats}		politiques{NC|mod}		Causation/
+
+
+------->  Carrefour{NPP|mod}		responsable{NC|mod}		développement~RH{NC~NC|mod~mod}		Causation/
+
+
+------->  activité~être~humain{NC~V~ADJ|suj~root~mod}		responsable{ADJ|ats}		porter{VPP|dep}		Causation/
+
+
+------->  Pascal~Alexandra{NPP~NC|obj~mod}		responsable{NC|mod}		environnement{NC|mod}		Causation/
+
+
+------->  TARKETT~responsable{NC~NC|mod~mod}		responsable{NC|mod}		Local{NPP|mod}		Causation/
+
+
+------->  TARKETT~responsable{NC~NC|mod~mod}		responsable{NC|mod}		Caroline{NPP|mod}		Causation/
+
+
+------->  TARKETT~responsable{NC~NC|mod~mod}		responsable{NC|mod}		PIERRE{NPP|mod}		Causation/
+
+
+------->  adhérent{NC|obj}		responsable{NC|mod}		situer{VPP|mod}		Causation/
+
+
+------->  centrale~considérer~brésilien{NC~V~ADJ|suj~mod~mod}		responsable{NC|suj}		membre{NC|mod}		Causation/
+
+
+------->  repérer{VINF|obj}		responsable{NC|mod}		convenir{V|mod_rel}		Causation/
+
+
+------->  mène~programme{VS~NC|root~obj}		responsable{NC|suj}		Florence{NPP|mod}		Causation/
+
+
+------->  mène~programme{VS~NC|root~obj}		responsable{NC|suj}		Guillot{NPP|mod}		Causation/
+
+
+------->  mène~programme{VS~NC|root~obj}		responsable{NC|suj}		commune{NC|mod}		Causation/
+
+
+------->  regretter{V|dep}		responsable{NC|obj}		Maire-Luce{NPP|mod}		Causation/
+
+
+------->  avoir~enfin{V~ADV|root~mod}		responsable{NC|obj}		but~être{NC~V|suj~mod_rel}		Causation/
+
+
+------->  attirer~également{V~ADV|root~mod}		responsable{NC|obj}		être~décisif{V~ADJ|mod_rel~ats}		Causation/
+
+
+------->  information~charger{NC~VPP|obj~mod}		responsable{NC|mod}		intranet{NC|mod}		Causation/
+
+
+------->  Jarnac{NPP|obj}		responsable{NC|mod}		franchise~rue{NC~NC|mod~mod}		Causation/
+
+
+------->  démarche~préciser~être{NC~V~VPP|suj~root~mod}		responsable{NC|obj}		Grégory{NPP|mod}		Causation/
+
+
+------->  n'ont~pas{V~ADV|root~mod}		responsable{NC|suj}		IT{NPP|mod}		Causation/
+
+
+------->  être{V|dep_coord}		responsable{NC|suj}		IT{NPP|mod}		Causation/
+
+
+------->  penser~enrichir{V~VINF|obj~obj}		responsable{NC|suj}		Israël{NPP|mod}		Causation/
+
+
+------->  penser~enrichir{V~VINF|obj~obj}		responsable{NC|suj}		menacer{VPP|mod}		Causation/
+
+
+------->  estimer~avoir~affaire{V~VPP~NC|root~obj~obj}		responsable{NC|suj}		présumer{VPP|mod}		Causation/
+
+
+------->  avoir{V|mod}		déterminant{NC|obj}		apparaître{V|mod_rel}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  avancer{V|mod}		responsable{NC|suj}		Thierry{NPP|mod}		Causation/
+
+
+------->  Nicole~cadre{NPP~NC|obj~mod}		responsable{NC|mod}		installer~d'accueil{VPP~ADV|mod~mod}		Causation/
+
+
+------->  préciser~simplement{VPP~ADV|mod~mod}		responsable{NC|suj}		temporiser{V|mod_rel}		Causation/
+
+
+------->  pouvoir~poursuivre~formation{V~VINF~NC|root~obj~obj}		responsable{NC|suj}		bonification~conseiller{NC~NC|mod~obj}		Causation/
+
+
+------->  inspirer{VINF|root}		responsable{NC|obj}		scotcher{VPP|mod_rel}		Causation/
+
+
+------->  Nez~mondial{NPP~ADJ|obj~mod}		responsable{NC|mod}		formation~résidence{NC~NC|mod~mod}		Causation/
+
+
+------->  étayer~présent{V~ADJ|root~ats}		responsable{NC|suj}		représentant{NC|mod}		Causation/
+
+
+------->  étayer~présent{V~ADJ|root~ats}		responsable{NC|suj}		firme~pharmaceutique{NC~ADJ|mod~mod}		Causation/
+
+
+------->  étayer~présent{V~ADJ|root~ats}		responsable{NC|suj}		représenter{VPP|mod}		Causation/
+
+
+------->  expliquer{V|mod}		responsable{NC|suj}		dérouler~formule{V~NC|mod_rel~obj}		Causation/
+
+
+------->  demander~mise~en_place{VPP~NC~ADV|root~obj~mod}		responsable{NC|suj}		CGT{NPP|mod}		Causation/
+
+
+------->  responsabilité~filière{NC~NC|obj~mod}		responsable{NC|mod}		FC{NPP|mod}		Causation/
+
+
+------->  suivre~arrêt~appeler{V~NC~VPP|root~obj~mod}		responsable{ADJ|ats}		année{NC|dep}		Causation/
+
+
+------->  déclarer{VPP|root}		responsable{NC|suj}		Musalia{NPP|mod}		Causation/
+
+
+------->  association~fédérer{NC~V|suj~mod}		responsable{NC|suj}		avoir{V|mod_rel}		Causation/
+
+
+------->  ligue~sportif{NC~ADJ|dep_coord~mod}		responsable{NC|mod}		accéder{VPR|mod}		Causation/
+
+
+------->  être~pourcentage{V~NC|root~obj}		imputable{ADJ|ats}		année{NC|dep}		FR_Attributing_cause/
+
+
+------->  exercer~Salon{V~NC|root~mod}		responsable{NC|mod}		salon{NC|mod}		Causation/
+
+
+------->  constater{V|mod}		responsable{NC|suj}		suivre{VPP|mod}		Causation/
+
+
+------->  lire~appointer~suite{VINF~V~NC|suj~root~obj}		responsable{NC|obj}		leader{NC|mod}		Causation/
+
+
+------->  condamner~jamais{VPP~ADV|obj~mod}		responsable{NC|suj}		tenir~propos{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  enseigner~aurelie.gouret@cea.fr{VPR~NC|root~obj}		responsable{ADJ|ats}		Pr{NPP|mod}		Causation/
+
+
+------->  enseigner~aurelie.gouret@cea.fr{VPR~NC|root~obj}		responsable{ADJ|ats}		René~directeur{NPP~NC|mod~mod}		Causation/
+
+
+------->  an~directeur{NC~NC|root~mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  an~directeur{NC~NC|root~mod}		responsable{NC|mod}		Valérie{NPP|mod}		Causation/
+
+
+------->  an~directeur{NC~NC|root~mod}		responsable{NC|mod}		Toomeh{NPP|mod}		Causation/
+
+
+------->  faire~voyage{VPP~NC|root~obj}		responsable{NC|suj}		président~{NC~ADV|mod~mod}		Causation/
+
+
+------->  faire~voyage{VPP~NC|root~obj}		responsable{NC|suj}		issir{VPP|mod}		Causation/
+
+
+------->  ECN~07{NPP~ADJ|mod~mod}		responsable{NC|dep}		relation~Publique{NC~NC|obj~mod}		Causation/
+
+
+------->  définir~principe{VPP~NC|root~obj}		responsable{NC|mod}		désigner{VPP|mod}		Causation/
+
+
+------->  Nicolas{NPP|suj}		responsable{NC|mod}		recrutement~tour{NC~NC|mod~mod}		Causation/
+
+
+------->  vouloir~respecter~délai{V~VINF~NC|root~obj~obj}		responsable{NC|suj}		charger{VPP|mod}		Causation/
+
+
+------->  placer{V|mod_rel}		responsable{NC|obj}		devoir{VPR|mod}		Causation/
+
+
+------->  pouvoir~mettre~en_cause{VPP~VINF~ADV|root~obj~mod}		responsable{NC|suj}		attaquer{VPP|mod}		Causation/
+
+
+------->  enseigner{VPR|root}		responsable{ADJ|ats}		Michèle~professeur{NPP~NC|mod~mod}		Causation/
+
+
+------->  confier{V|root}		responsable{NC|suj}		Monsieur{NC|mod}		Causation/
+
+
+------->  devoir{V|root}		responsable{NC|suj}		présumer~innocent{VPP~ADJ|mod~ats}		Causation/
+
+
+------->  noter{VIMP|root}		déterminant{ADJ|obj}		chercher{VPP|dep}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  être~déterminant{V~ADJ|root~ats}		déterminant{ADJ|suj}		rester{VPR|mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  pouvoir~écrire~multilinéarité{V~VINF~NC|root~obj~obj}		déterminant{ADJ|suj}		chercher{VPP|dep}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  être~nul{V~ADJ|dep_coord~ats}		déterminant{NC|suj}		comporter~colonne{VPR~NC|mod~obj}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  calculer~facilement{V~ADV|root~mod}		déterminant{ADJ|obj}		quatre{NC|mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  être~nul{V~ADJ|obj~ats}		déterminant{ADJ|suj}		quatre{NC|mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  être~présent{V~ADJ|root~ats}		responsable{NC|suj}		installer~bien{VPP~ADV|mod~mod}		Causation/
+
+
+------->  poids~rester{NC~V|suj~root}		conséquent{ADJ|ats}		limiter~utilisation{VPR~NC|dep~obj}		Causation/
+
+
+------->  mettre{VINF|obj}		responsable{NC|obj}		Rose{NPP|mod}		Causation/
+
+
+------->  mettre{VINF|obj}		responsable{NC|obj}		espoir{NC|mod}		Causation/
+
+
+------->  abattre~lundi{VPP~NC|obj~mod}		responsable{NC|obj}		présumer{VPP|mod}		Causation/
+
+
+------->  enseigner{VPR|mod}		responsable{ADJ|ats}		Catherine{NPP|mod}		Causation/
+
+
+------->  enseigner{VPR|mod}		responsable{ADJ|ats}		LOUVEAU~11{NPP~ADJ|mod~mod}		Causation/
+
+
+------->  gérance{NC|obj}		responsable{NC|mod}		contentieux{NC|mod}		Causation/
+
+
+------->  jours~associer{NC~V|suj~root}		responsable{ADJ|ats}		politiques{NC|mod}		Causation/
+
+
+------->  jours~associer{NC~V|suj~root}		responsable{ADJ|ats}		représentant{NC|dep}		Causation/
+
+
+------->  former~2005{VPP~NC|root~obj}		responsable{NC|obj}		superviser~plus{V~ADV|mod_rel~mod}		Causation/
+
+
+------->  stage{NC|obj}		responsable{NC|mod}		Mustapha{NPP|mod}		Causation/
+
+
+------->  stage{NC|obj}		responsable{NC|mod}		Madjou{NPP|mod}		Causation/
+
+
+------->  stage{NC|obj}		responsable{NC|mod}		journée~porte{NC~NC|mod~mod}		Causation/
+
+
+------->  génome~génomique{NC~NC|obj~mod}		responsable{NC|mod}		Fabrice{NPP|mod}		Causation/
+
+
+------->  génome~génomique{NC~NC|obj~mod}		responsable{NC|mod}		Confalonieri{NPP|mod}		Causation/
+
+
+------->  être{VINF|obj}		responsable{NC|obj}		étudiant~effectuer{NC~V|suj~mod_rel}		Causation/
+
+
+------->  falloir{V|dep_coord}		responsable{NC|obj}		accepter{V|mod_rel}		Causation/
+
+
+------->  lieux{NC|obj}		responsable{NC|mod}		Tél.{NPP|mod}		Causation/
+
+
+------->  chantier~constructeur{NC~NC|dep_coord~mod}		responsable{NC|mod}		être{V|aux_pass}		Causation/
+
+
+------->  déclarer{VPP|mod}		responsable{NC|obj}		sanctionner{VPP|mod}		Causation/
+
+
+------->  membre{NC|root}		responsable{NC|mod}		Commerce{NPP|mod}		Causation/
+
+
+------->  membre{NC|root}		responsable{NC|mod}		opération{NC|mod}		Causation/
+
+
+------->  Paris{NPP|mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  Paris{NPP|mod}		responsable{NC|mod}		Tél.{NPP|mod}		Causation/
+
+
+------->  personnel{NC|obj}		responsable{NC|mod}		RH{NC|mod}		Causation/
+
+
+------->  personnel{NC|obj}		responsable{NC|mod}		assistant~formation{NC~NC|mod~mod}		Causation/
+
+
+------->  personnel{NC|obj}		responsable{NC|mod}		chargé{NC|mod}		Causation/
+
+
+------->  Nicolas{NPP|suj}		responsable{NC|mod}		recrutement~tour{NC~NC|mod~mod}		Causation/
+
+
+------->  Nicolas{NPP|suj}		responsable{NC|mod}		recrutement~tour{NC~NC|mod~mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		Christine{NPP|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		Scanff{NPP|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		christine.le-scanff@u-psud.fr{NPP|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		Adresses{NPP|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		université~11{NC~ADJ|mod~mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		UFR{NPP|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		STAPS{NPP|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		bâtiment{NC|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		Orsay~11{NPP~ADJ|mod~mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		UFR{NPP|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		Médical{NPP|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|suj}		rue~professionnel{NC~ADJ|mod~mod}		Causation/
+
+
+------->  placer{V|mod_rel}		responsable{NC|obj}		devoir{VPR|mod}		Causation/
+
+
+------->  permettre{V|root}		responsable{NC|suj}		Sylvie~pédagogique{NPP~ADJ|mod~mod}		Causation/
+
+
+------->  permettre{V|root}		responsable{NC|suj}		Nadine~A{NPP~NC|mod~mod}		Causation/
+
+
+------->  permettre{V|root}		responsable{NC|suj}		01_46_83_53_44{NC|mod}		Causation/
+
+
+------->  permettre{V|root}		responsable{NC|suj}		nadine.robette@u-psud.fr{NPP|mod}		Causation/
+
+
+------->  permettre{V|root}		responsable{NC|suj}		site{NC|mod}		Causation/
+
+
+------->  permettre{V|root}		responsable{NC|suj}		faculté{NC|mod}		Causation/
+
+
+------->  www.academie-du-gout.com~membre{NPP~NC|suj~mod}		responsable{NC|mod}		Coopérative~laitier{NPP~ADJ|mod~mod}		Causation/
+
+
+------->  Monsieur~négocier{NC~V|suj~root}		responsable{NC|obj}		financement{NC|mod}		Causation/
+
+
+------->  obtenir~alors{V~ADV|root~mod}		déterminant{ADJ|obj}		être~triangulaire{VPR~ADJ|dep~obj}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  exercer~entreprise~entreprise{V~NC~NC|root~mod~mod}		responsable{NC|mod}		chantier{NC|mod}		Causation/
+
+
+------->  exercer~entreprise~entreprise{V~NC~NC|root~mod~mod}		responsable{NC|mod}		Chef{NPP|mod}		Causation/
+
+
+------->  ressource~humain{NC~ADJ|root~mod}		responsable{ADJ|mod}		être{V|aux_tps}		Causation/
+
+
+------->  viser{V|root}		responsable{NC|suj}		Jean-Michel{NPP|mod}		Causation/
+
+
+------->  viser{V|root}		responsable{NC|suj}		LEFOUR{NPP|mod}		Causation/
+
+
+------->  viser{V|root}		responsable{NC|suj}		Sites{NPP|mod}		Causation/
+
+
+------->  viser{V|root}		responsable{NC|suj}		faculté{NC|mod}		Causation/
+
+
+------->  être{V|mod_rel}		responsable{ADJ|ats}		mesure{NC|dep}		Causation/
+
+
+------->  former~2005{VPP~NC|root~obj}		responsable{NC|obj}		superviser~plus{V~ADV|mod_rel~mod}		Causation/
+
+
+------->  pièce~laboratoire{NC~NC|obj~mod}		responsable{NC|mod}		Claude{NPP|mod}		Causation/
+
+
+------->  pièce~laboratoire{NC~NC|obj~mod}		responsable{NC|mod}		ROSENTAL{NPP|mod}		Causation/
+
+
+------->  Asset~avocat{NC~NC|mod~mod}		responsable{NC|mod}		contentieux{NC|mod}		Causation/
+
+
+------->  stage{NC|obj}		responsable{NC|mod}		Mustapha{NPP|mod}		Causation/
+
+
+------->  stage{NC|obj}		responsable{NC|mod}		Madjou{NPP|mod}		Causation/
+
+
+------->  stage{NC|obj}		responsable{NC|mod}		journée~porte{NC~NC|mod~mod}		Causation/
+
+
+------->  exécuter{V|root}		responsable{NC|suj}		obliger~bien{VPP~ADV|mod~mod}		Causation/
+
+
+------->  réunir~semaine{V~NC|root~mod}		responsable{NC|obj}		devoir~prendre{V~VINF|mod_rel~obj}		Causation/
+
+
+------->  avoir~rendez-vous{V~NC|root~obj}		responsable{NC|suj}		Alain{NPP|mod}		Causation/
+
+
+------->  avoir~rendez-vous{V~NC|root~obj}		responsable{NC|suj}		Hirel{NPP|mod}		Causation/
+
+
+------->  estimer{V|mod}		responsable{NC|suj}		Sylvie{NPP|mod}		Causation/
+
+
+------->  constituer~normalement{V~ADV|mod_rel~mod}		déterminant{NC|obj}		matière~premier{NC~ADJ|mod~mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  constituer~normalement{V~ADV|mod_rel~mod}		déterminant{NC|obj}		énergie{NC|mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  constituer~normalement{V~ADV|mod_rel~mod}		déterminant{NC|obj}		coût~fixe{NC~ADJ|mod~mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  colloque~adresser{NC~V|suj~root}		responsable{NC|obj}		conseil{NPP|mod}		Causation/
+
+
+------->  colloque~adresser{NC~V|suj~root}		responsable{NC|obj}		CESR{NPP|mod}		Causation/
+
+
+------->  colloque~adresser{NC~V|suj~root}		responsable{NC|obj}		conseil~général{NPP~NC|mod~mod}		Causation/
+
+
+------->  colloque~adresser{NC~V|suj~root}		responsable{NC|obj}		Elus{NPP|mod}		Causation/
+
+
+------->  colloque~adresser{NC~V|suj~root}		responsable{NC|obj}		Maires{NPP|mod}		Causation/
+
+
+------->  colloque~adresser{NC~V|suj~root}		responsable{NC|obj}		Députés{NPP|mod}		Causation/
+
+
+------->  colloque~adresser{NC~V|suj~root}		responsable{NC|obj}		Sénateurs{NPP|mod}		Causation/
+
+
+------->  colloque~adresser{NC~V|suj~root}		responsable{NC|obj}		direction{NC|mod}		Causation/
+
+
+------->  colloque~adresser{NC~V|suj~root}		responsable{NC|obj}		départementale{NC|mod}		Causation/
+
+
+------->  colloque~adresser{NC~V|suj~root}		responsable{NC|obj}		DRASS{NPP|mod}		Causation/
+
+
+------->  colloque~adresser{NC~V|suj~root}		responsable{NC|obj}		DDASS{NPP|mod}		Causation/
+
+
+------->  colloque~adresser{NC~V|suj~root}		responsable{NC|obj}		direction{NC|mod}		Causation/
+
+
+------->  Uli~être{NC~V|suj~root}		responsable{NC|mod}		Didier{NPP|mod}		Causation/
+
+
+------->  Uli~être{NC~V|suj~root}		responsable{NC|mod}		GORMAND{NPP|mod}		Causation/
+
+
+------->  Uli~être{NC~V|suj~root}		responsable{NC|mod}		Secrétariat{NPP|mod}		Causation/
+
+
+------->  Uli~être{NC~V|suj~root}		responsable{NC|mod}		Maïté{NPP|mod}		Causation/
+
+
+------->  Uli~être{NC~V|suj~root}		responsable{NC|mod}		RAPHOZ{NPP|mod}		Causation/
+
+
+------->  Uli~être{NC~V|suj~root}		responsable{NC|mod}		maite.raphoz@u-psud.fr{NPP|mod}		Causation/
+
+
+------->  Uli~être{NC~V|suj~root}		responsable{NC|mod}		Tél.{NPP|mod}		Causation/
+
+
+------->  Uli~être{NC~V|suj~root}		responsable{NC|mod}		formation~allée{NC~NC|mod~mod}		Causation/
+
+
+------->  étayer{V|mod}		responsable{NC|suj}		appeler{VPR|mod}		Causation/
+
+
+------->  demander~aide~d'urgence{VPP~NC~ADV|root~obj~mod}		responsable{NC|suj}		d'Emmaüs{NPP|mod}		Causation/
+
+
+------->  renouveler{VINF|obj}		responsable{NC|obj}		Jean-Pierre{NPP|mod}		Causation/
+
+
+------->  renouveler{VINF|obj}		responsable{NC|obj}		Mustier{NPP|mod}		Causation/
+
+
+------->  technicien~responsable~tout{NC~ADJ~ADV|dep_coord~mod~mod}		responsable{NC|mod}		responsable{NC|mod}		Causation/
+
+
+------->  poursuivre{V|mod}		responsable{NC|suj}		viser~marché{V~NC|mod_rel~obj}		Causation/
+
+
+------->  DRH~personne~charger{NC~NC~VPP|mod~mod~mod}		responsable{NC|mod}		RH{NC|mod}		Causation/
+
+
+------->  reprendre~décision{VPP~NC|root~mod}		responsable{NC|suj}		desservir{VPP|mod}		Causation/
+
+
+------->  société~DRH{NC~NC|obj~mod}		responsable{NC|mod}		RH{NC|mod}		Causation/
+
+
+------->  société~DRH{NC~NC|obj~mod}		responsable{NC|mod}		personne~charger{NC~VPP|mod~mod}		Causation/
+
+
+------->  parcours~science{NC~NC|suj~mod}		responsable{NC|mod}		Laurence{NPP|mod}		Causation/
+
+
+------->  parcours~science{NC~NC|suj~mod}		responsable{NC|mod}		Viennot{NPP|mod}		Causation/
+
+
+------->  parcours~science{NC~NC|suj~mod}		responsable{NC|mod}		Union_Européenne{NPP|mod}		Causation/
+
+
+------->  Maxauto~avenue{NPP~NC|suj~mod}		responsable{NC|mod}		ressource~humain{NC~ADJ|mod~mod}		Causation/
+
+
+------->  traduire~justice{VINF~NC|obj~obj}		responsable{NC|obj}		présumer{VPP|mod}		Causation/
+
+
+------->  constituer~task-force{V~NC|root~obj}		responsable{NC|suj}		TIC{NPP|mod}		Causation/
+
+
+------->  constituer~task-force{V~NC|root~obj}		responsable{NC|suj}		espace~numérique{NC~ADJ|mod~mod}		Causation/
+
+
+------->  prééminence~occulter{NC~V|suj~root}		déterminant{NC|obj}		condition~être{NC~V|suj~mod_rel}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  Victor~zuzi~ne{NPP~ADJ~ADV|dep_coord~mod~mod}		responsable{NC|mod}		Congolais{NPP|mod}		Causation/
+
+
+------->  être{V|root}		responsable{NC|ats}		attrister~quelque_peu{VPP~ADV|mod~mod}		Causation/
+
+
+------->  être{V|root}		responsable{NC|ats}		annoncer~nouveau{VPP~ADJ|mod_rel~obj}		Causation/
+
+
+------->  entendre~week-end{V~NC|root~obj}		responsable{NC|obj}		réunir{VPP|mod}		Causation/
+
+
+------->  gérer~compte~particulier{V~NC~ADJ|root~obj~mod}		responsable{NC|suj}		compte{NC|mod}		Causation/
+
+
+------->  être{V|mod}		responsable{NC|obj}		attendre{V|mod_rel}		Causation/
+
+
+------->  souligner~difficulté{VPP~NC|root~obj}		responsable{NC|suj}		CFDT{NPP|mod}		Causation/
+
+
+------->  montrer~critique{VPP~NC|root~mod}		responsable{NC|suj}		CFDT{NPP|mod}		Causation/
+
+
+------->  voilà{V|root}		responsable{NC|suj}		Joseph{NPP|mod}		Causation/
+
+
+------->  voilà{V|root}		responsable{NC|suj}		Rolland{NC|mod}		Causation/
+
+
+------->  voilà{V|root}		responsable{NC|suj}		Saint-Verand{NPP|mod}		Causation/
+
+
+------->  voilà{V|root}		responsable{NC|suj}		Saint-Marcelin~04_76_38_48_33{NC~NC|mod~mod}		Causation/
+
+
+------->  dire~grièvement{VPP~ADV|root~obj}		responsable{NC|suj}		Basharat{NPP|mod}		Causation/
+
+
+------->  société~général{NC~ADJ|dep~mod}		responsable{NC|mod}		Moyen-Orient{NPP|mod}		Causation/
+
+
+------->  rencontrer~notamment{VPP~ADV|root~mod}		responsable{NC|obj}		créer~liste{VPP~NC|mod_rel~obj}		Causation/
+
+
+------->  rapporter{V|mod}		responsable{NC|obj}		appartenir~appareil{V~NC|mod_rel~obj}		Causation/
+
+
+------->  constituer~task-force{V~NC|root~obj}		responsable{NC|suj}		TIC{NPP|mod}		Causation/
+
+
+------->  constituer~task-force{V~NC|root~obj}		responsable{NC|suj}		espace~numérique{NC~ADJ|mod~mod}		Causation/
+
+
+------->  voter~absorbsion{VPP~NC|root~obj}		responsable{NC|mod}		Agro{NPP|mod}		Causation/
+
+
+------->  voter~absorbsion{VPP~NC|root~obj}		responsable{NC|mod}		octobre~2007{NC~ADJ|mod~mod}		Causation/
+
+
+------->  épithélium~rénal{NC~ADJ|obj~mod}		responsable{NC|mod}		A{NC|mod}		Causation/
+
+
+------->  epithélium~sensoriel{NC~ADJ|obj~mod}		responsable{NC|mod}		E{NPP|mod}		Causation/
+
+
+------->  an~contact{NC~NC|root~mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  usine{NC|suj}		responsable{NC|mod}		licencier~scandale{VPP~NC|mod~mod}		Causation/
+
+
+------->  Magedouline~ne{NPP~ADV|mod~mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  être{V|obj}		responsable{NC|ats}		observer~à_court_terme{VPP~ADV|mod~mod}		Causation/
+
+
+------->  socié'©~sortir{NC~V|suj~root}		responsable{NC|mod}		Philippe{NPP|mod}		Causation/
+
+
+------->  société~général{NC~ADJ|dep~mod}		responsable{NC|mod}		pays{NC|mod}		Causation/
+
+
+------->  recevoir~guide{V~NC|root~obj}		responsable{NC|suj}		évaluation{NC|mod}		Causation/
+
+
+------->  expliquer{V|root}		responsable{NC|suj}		venir{VPP|mod}		Causation/
+
+
+------->  présent~etaient{ADJ~ADV|root~mod}		responsable{NC|obj}		concerner{VPP|mod}		Causation/
+
+
+------->  agenda~consommation{NC~NC|mod~mod}		responsable{NC|mod}		septembre{NC|mod}		Causation/
+
+
+------->  Frédérique~secteur{NPP~NC|suj~mod}		responsable{NC|mod}		ressource~Humaine{NC~NC|mod~mod}		Causation/
+
+
+------->  groupe~rendre{NC~VPP|suj~root}		responsable{NC|suj}		mercredi~hôtel{NC~NC|mod~mod}		Causation/
+
+
+------->  intra{V|root}		responsable{NC|suj}		questionnaire{NC|mod}		Causation/
+
+
+------->  intra{V|root}		responsable{NC|suj}		formation~opérationnel{NC~ADJ|mod~mod}		Causation/
+
+
+------->  intra{V|root}		responsable{NC|suj}		alternance{NC|mod}		Causation/
+
+
+------->  intra{V|root}		responsable{NC|suj}		consultant~auditeur{NC~NC|mod~mod}		Causation/
+
+
+------->  intra{V|root}		responsable{NC|suj}		option~spécialisation{NC~NC|mod~mod}		Causation/
+
+
+------->  contacter~secrétariat{VINF~NC|root~mod}		responsable{NC|mod}		professeur{NC|mod}		Causation/
+
+
+------->  contacter~secrétariat{VINF~NC|root~mod}		responsable{NC|mod}		an{NC|mod}		Causation/
+
+
+------->  contacter~secrétariat{VINF~NC|root~mod}		responsable{NC|mod}		â¬{NC|mod}		Causation/
+
+
+------->  contacter~secrétariat{VINF~NC|root~mod}		responsable{NC|mod}		professeur{NC|mod}		Causation/
+
+
+------->  contacter~secrétariat{VINF~NC|root~mod}		responsable{NC|mod}		an{NC|mod}		Causation/
+
+
+------->  contacter~secrétariat{VINF~NC|root~mod}		responsable{NC|mod}		â¬{NC|mod}		Causation/
+
+
+------->  voilà~faire{V~VINF|root~obj}		responsable{NC|obj}		expliquer{V|mod_rel}		Causation/
+
+
+------->  magasin~vitrine~interactif{NC~NC~ADJ|root~mod~mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  être~tuer{VPP~VPP|root~mod}		responsable{NC|suj}		CRP{NPP|mod}		Causation/
+
+
+------->  être~tuer{VPP~VPP|root~mod}		responsable{NC|suj}		Ameur{NPP|mod}		Causation/
+
+
+------->  féliciter~modèle~différent{V~NC~ADJ|root~mod~mod}		responsable{NC|mod}		Gérard{NPP|mod}		Causation/
+
+
+------->  féliciter~modèle~différent{V~NC~ADJ|root~mod~mod}		responsable{NC|mod}		Brunel{NPP|mod}		Causation/
+
+
+------->  féliciter~modèle~différent{V~NC~ADJ|root~mod~mod}		responsable{NC|mod}		an{NC|mod}		Causation/
+
+
+------->  être~responsable{VPP~NC|root~obj}		responsable{NC|suj}		dire{VPP|mod}		Causation/
+
+
+------->  calculer~p{VPP~ADV|root~mod}		déterminant{NC|obj}		coût{NC|mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  communication~information{NC~NC|root~mod}		responsable{NC|mod}		Préfecture{NPP|mod}		Causation/
+
+
+------->  communication~information{NC~NC|root~mod}		responsable{NC|mod}		DSDS{NPP|mod}		Causation/
+
+
+------->  Magedouline~ne{NPP~ADV|mod~mod}		responsable{NC|mod}		Marketing{NPP|mod}		Causation/
+
+
+------->  effectuer~année{V~NC|root~mod}		responsable{NC|obj}		Cécile{NPP|mod}		Causation/
+
+
+------->  effectuer~année{V~NC|root~mod}		responsable{NC|obj}		Leclair{NPP|mod}		Causation/
+
+
+------->  effectuer~année{V~NC|root~mod}		responsable{NC|obj}		pédagogie{NC|mod}		Causation/
+
+
+------->  agence~être~Éducation{NC~V~NC|suj~root~mod}		responsable{ADJ|ats}		dispositif{NC|dep}		Causation/
+
+
+------->  rassembler~intellectuel{VPP~NC|obj~mod}		responsable{NC|mod}		venir{VPP|mod}		Causation/
+
+
+------->  coordination~désigner{NC~VPP|suj~root}		responsable{ADJ|obj}		charger{VPP|dep}		Causation/
+
+
+------->  postuler~titre{VPR~NC|dep_coord~obj}		responsable{NC|obj}		CPN03{NC|mod}		Causation/
+
+
+------->  être{V|mod_rel}		responsable{ADJ|ats}		E-mail{NPP|mod}		Causation/
+
+
+------->  certain{ADJ|obj}		déterminant{NC|dep}		détailler{VPP|mod}		Causation/FR_Contingency-Objective_influence/
+
+
+------->  former~système~électronique{V~NC~ADJ|root~obj~mod}		responsable{NC|mod}		Johan{NPP|mod}		Causation/
+
+
+------->  former~système~électronique{V~NC~ADJ|root~obj~mod}		responsable{NC|mod}		Moulin{NPP|mod}		Causation/
+
+
+------->  former~système~électronique{V~NC~ADJ|root~obj~mod}		responsable{NC|mod}		johan.moulin@u-psud.fr{NPP|mod}		Causation/
+
+
+------->  former~système~électronique{V~NC~ADJ|root~obj~mod}		responsable{NC|mod}		Tél.{NPP|mod}		Causation/
+
+
+------->  former~système~électronique{V~NC~ADJ|root~obj~mod}		responsable{NC|mod}		secrétariat~pédagogique{NC~ADJ|mod~mod}		Causation/
+
+
+------->  former~système~électronique{V~NC~ADJ|root~obj~mod}		responsable{NC|mod}		site{NC|mod}		Causation/
+
+
+------->  former~système~électronique{V~NC~ADJ|root~obj~mod}		responsable{NC|mod}		IUT{NPP|mod}		Causation/
+
+
+------->  former~système~électronique{V~NC~ADJ|root~obj~mod}		responsable{NC|mod}		avenue{NC|mod}		Causation/
+
+
+------->  former~système~électronique{V~NC~ADJ|root~obj~mod}		responsable{NC|mod}		rue{NC|mod}		Causation/
+
+
+------->  être{V|mod}		responsable{NC|suj}		système~être{NC~V|suj~mod_rel}		Causation/
+
+
+------->  établissement{NC|obj}		responsable{NC|mod}		sécurité{NC|mod}		Causation/
+
+
+------->  évaluation~analyse{NC~NC|suj~mod}		responsable{NC|mod}		Marie{NPP|mod}		Causation/
+
+
+------->  évaluation~analyse{NC~NC|suj~mod}		responsable{NC|mod}		Jeanne{NPP|mod}		Causation/
+
+
+------->  évaluation~analyse{NC~NC|suj~mod}		responsable{NC|mod}		Perrin{NPP|mod}		Causation/
+
+
+------->  inspecteur~être~directeur{NC~V~NC|suj~root~mod}		responsable{ADJ|ats}		parcours{NC|dep}		Causation/
+
+
+------->  correspondre~d'adapter~caractéristique{V~VINF~NC|root~obj~obj}		responsable{NC|suj}		L'Electronique{NPP|mod}		Causation/
+
+
+------->  rassembler~méthode{V~NC|root~obj}		responsable{NC|mod}		science~récent{NC~ADJ|mod~mod}		Causation/
+
+
+------->  être~l'ensemble{V~ADV|root~mod}		responsable{NC|suj}		L'Informatique{NPP|mod}		Causation/
+
+
+------->  être~l'ensemble{V~ADV|root~mod}		responsable{NC|suj}		vecteur~industriel{NC~ADJ|mod~mod}		Causation/
+
+
+------->  être~l'ensemble{V~ADV|root~mod}		responsable{NC|suj}		Informatique{NPP|mod}		Causation/
+
+
+------->  assurer~savoir-faire{V~NC|root~obj}		responsable{NC|obj}		avoir~repreneur{V~NC|mod_rel~obj}		Causation/
+
+
+------->  direction-cmppbretenoux@wanadoo.fr~Docteur{NPP~NC|mod~mod}		responsable{NC|mod}		téléphone{NC|mod}		Causation/
+
+
+------->  Jean-Paul{NPP|suj}		responsable{NC|mod}		embarquer{VPP|mod}		Causation/
+
+
+------->  Stéphane{NPP|obj}		responsable{NC|mod}		embarquer{VPP|mod}		Causation/
+
+
+------->  société~général{NC~ADJ|dep~mod}		responsable{NC|mod}		Moyen-Orient{NPP|mod}		Causation/
+
+
+------->  Maxauto~avenue{NPP~NC|suj~mod}		responsable{NC|mod}		ressource~humain{NC~ADJ|mod~mod}		Causation/
+
+
+------->  Maxauto~avenue{NPP~NC|suj~mod}		responsable{NC|mod}		ressource~humain{NC~ADJ|mod~mod}		Causation/
+
+
+------->  entrer~ne{VPP~ADV|mod~mod}		responsable{NC|suj}		fabrique~énigmatique{NC~ADJ|mod~mod}		Causation/
+
+
+------->  soutien~rapport{NC~NC|mod~obj}		responsable{NC|mod}		CGT{NPP|mod}		Causation/
+
+
+------->  contredire~homme~syndiquer{VINF~NC~VPP|obj~obj~mod}		responsable{NC|obj}		vouloir~pas{V~ADV|mod_rel~mod}		Causation/
+
+
+------->  rencontrer{VINF|obj}		responsable{NC|obj}		François{NPP|mod}		Causation/
+
+
+------->  rencontrer{VINF|obj}		responsable{NC|obj}		Legault{NPP|mod}		Causation/
+
+
+------->  rencontrer{VINF|obj}		responsable{NC|obj}		désolidariser~publiquement{VPP~ADV|mod_rel~mod}		Causation/
+
+
+------->  profiter{VPP|root}		responsable{NC|suj}		prétexter{VPR|mod}		Causation/
+
+
+------->  profiter{VPP|root}		responsable{NC|suj}		questionnaire{NC|mod}		Causation/
+
+
+------->  société~général{NC~ADJ|dep~mod}		responsable{NC|mod}		pays{NC|mod}		Causation/
+
+
+------->  société~général{NC~ADJ|dep~mod}		responsable{NC|mod}		pays{NC|mod}		Causation/
+
+
+------->  société~général{NC~ADJ|dep~mod}		responsable{NC|mod}		pays{NC|mod}		Causation/
+
+
+------->  réunir~d'animations{V~ADV|root~mod}		responsable{NC|suj}		venir{VPP|mod}		Causation/
+
+
+------->  confirmer{V|aux_pass}		responsable{NC|suj}		Jacky{NPP|mod}		Causation/
+
+
+------->  exposer{V|dep_coord}		responsable{NC|suj}		Macif{NPP|mod}		Causation/
+
+
+------->  exercer~mission{V~NC|root~obj}		responsable{NC|suj}		Préfet{NPP|mod}		Causation/
+
+
+------->  exercer~fonction~commercial{VPP~NC~ADJ|root~obj~mod}		responsable{NC|mod}		animation{NC|mod}		Causation/
+
+
+------->  exercer~fonction~commercial{VPP~NC~ADJ|root~obj~mod}		responsable{NC|mod}		Corinne{NPP|mod}		Causation/
+
+
+------->  exercer~fonction~commercial{VPP~NC~ADJ|root~obj~mod}		responsable{NC|mod}		HABART{NPP|mod}		Causation/
+
+
+------->  exercer~fonction~commercial{VPP~NC~ADJ|root~obj~mod}		responsable{NC|mod}		an{NC|mod}		Causation/
+
+
+------->  savoir~choisir~partenaire{V~VINF~NC|root~obj~obj}		responsable{NC|mod}		société{NC|mod}		Causation/
+
+
+------->  confirmer~volonté~politique{VPP~NC~ADJ|root~obj~mod}		responsable{NC|suj}		directeur~général{NC~ADJ|mod~mod}		Causation/
+
+
+------->  confirmer~volonté~politique{VPP~NC~ADJ|root~obj~mod}		responsable{NC|suj}		finance{NC|mod}		Causation/
+
+
+------->  confirmer~volonté~politique{VPP~NC~ADJ|root~obj~mod}		responsable{NC|suj}		Pierre-Franck{NPP|mod}		Causation/
+
+
+------->  an~directeur{NC~NC|root~mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  an~directeur{NC~NC|root~mod}		responsable{NC|mod}		Marianne{NPP|mod}		Causation/
+
+
+------->  an~directeur{NC~NC|root~mod}		responsable{NC|mod}		Genton{NPP|mod}		Causation/
+
+
+------->  société~général{NC~ADJ|dep~mod}		responsable{NC|mod}		Moyen-Orient{NPP|mod}		Causation/
+
+
+------->  Maxauto~avenue{NPP~NC|suj~mod}		responsable{NC|mod}		ressource~humain{NC~ADJ|mod~mod}		Causation/
+
+
+------->  Dhaou{NPP|suj}		responsable{NC|mod}		Réussir{NPP|mod}		Causation/
+
+
+------->  rechercher{V|root}		responsable{NC|obj}		qualité{NC|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		Praticien{NPP|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		responsable~ne{NC~ADV|mod~mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		directeur{NC|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		trice{NC|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		directeur{NC|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		trice{NC|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		Praticien{NPP|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		responsable~ne{NC~ADV|mod~mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		directeur{NC|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		trice{NC|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		directeur{NC|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		trice{NC|mod}		Causation/
+
+
+------->  apporter~clé~théorique{V~NC~ADJ|root~obj~mod}		responsable{NC|suj}		professeur{NC|mod}		Causation/
+
+
+------->  apporter~clé~théorique{V~NC~ADJ|root~obj~mod}		responsable{NC|suj}		Christian{NPP|mod}		Causation/
+
+
+------->  apporter~clé~théorique{V~NC~ADJ|root~obj~mod}		responsable{NC|suj}		Fraboul{NPP|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		Praticien{NPP|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		responsable~ne{NC~ADV|mod~mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		directeur{NC|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		trice{NC|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		directeur{NC|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		trice{NC|mod}		Causation/
+
+
+------->  confier{V|root}		responsable{NC|suj}		Monsieur{NC|mod}		Causation/
+
+
+------->  Frédéric{NPP|obj}		responsable{NC|mod}		bureau{NC|mod}		Causation/
+
+
+------->  base{NC|mod}		responsable{NC|mod}		Evelyne{NPP|mod}		Causation/
+
+
+------->  base{NC|mod}		responsable{NC|mod}		GEHIN{NPP|mod}		Causation/
+
+
+------->  base{NC|mod}		responsable{NC|mod}		Pré{NPP|mod}		Causation/
+
+
+------->  base{NC|mod}		responsable{NC|mod}		requérir{VPP|mod}		Causation/
+
+
+------->  aérosol~I{NC~ADJ|obj~mod}		responsable{NC|mod}		Denis{NPP|mod}		Causation/
+
+
+------->  aérosol~I{NC~ADJ|obj~mod}		responsable{NC|mod}		BOULAUD{NPP|mod}		Causation/
+
+
+------->  aérosol~I{NC~ADJ|obj~mod}		responsable{NC|mod}		Pré{NPP|mod}		Causation/
+
+
+------->  aérosol~I{NC~ADJ|obj~mod}		responsable{NC|mod}		requérir{VPP|mod}		Causation/
+
+
+------->  aérosol{NC|obj}		responsable{NC|mod}		Martin{NPP|mod}		Causation/
+
+
+------->  aérosol{NC|obj}		responsable{NC|mod}		SCHWELL{NPP|mod}		Causation/
+
+
+------->  aérosol{NC|obj}		responsable{NC|mod}		Parcours{NPP|mod}		Causation/
+
+
+------->  fonctionnement{NC|mod}		responsable{NC|mod}		Jean{NPP|mod}		Causation/
+
+
+------->  fonctionnement{NC|mod}		responsable{NC|mod}		Paul{NPP|mod}		Causation/
+
+
+------->  fonctionnement{NC|mod}		responsable{NC|mod}		QUISEFIT{NPP|mod}		Causation/
+
+
+------->  fonctionnement{NC|mod}		responsable{NC|mod}		Pré{NPP|mod}		Causation/
+
+
+------->  fonctionnement{NC|mod}		responsable{NC|mod}		requérir{VPP|mod}		Causation/
+
+
+------->  poids~requérir{NC~VPP|obj~mod}		responsable{NC|mod}		Roselyne{NPP|mod}		Causation/
+
+
+------->  poids~requérir{NC~VPP|obj~mod}		responsable{NC|mod}		FERRARI{NPP|mod}		Causation/
+
+
+------->  aéraulique~interne{NC~ADJ|obj~mod}		responsable{NC|mod}		Sébastien{NPP|mod}		Causation/
+
+
+------->  aéraulique~interne{NC~ADJ|obj~mod}		responsable{NC|mod}		DUPRAT{NPP|mod}		Causation/
+
+
+------->  JP{NPP|mod}		responsable{NC|mod}		JP{NPP|mod}		Causation/
+
+
+------->  JP{NPP|mod}		responsable{NC|mod}		QUISEFIT{NPP|mod}		Causation/
+
+
+------->  JP{NPP|mod}		responsable{NC|mod}		Pré{NPP|mod}		Causation/
+
+
+------->  JP{NPP|mod}		responsable{NC|mod}		requérir{VPP|mod}		Causation/
+
+
+------->  risque{NC|obj}		responsable{NC|mod}		ILIOU{NPP|mod}		Causation/
+
+
+------->  risque{NC|obj}		responsable{NC|mod}		FERRARI{NPP|mod}		Causation/
+
+
+------->  risque{NC|obj}		responsable{NC|mod}		Pré{NPP|mod}		Causation/
+
+
+------->  risque{NC|obj}		responsable{NC|mod}		requérir{VPP|mod}		Causation/
+
+
+------->  avancer{VPP|mod}		responsable{NC|mod}		Evelyne{NPP|mod}		Causation/
+
+
+------->  avancer{VPP|mod}		responsable{NC|mod}		GEHIN{NPP|mod}		Causation/
+
+
+------->  avancer{VPP|mod}		responsable{NC|mod}		Pré{NPP|mod}		Causation/
+
+
+------->  avancer{VPP|mod}		responsable{NC|mod}		requérir{VPP|mod}		Causation/
+
+
+------->  avancer{VPP|mod}		responsable{NC|mod}		Denis{NPP|mod}		Causation/
+
+
+------->  avancer{VPP|mod}		responsable{NC|mod}		BOULAUD{NPP|mod}		Causation/
+
+
+------->  avancer{VPP|mod}		responsable{NC|mod}		Pré{NPP|mod}		Causation/
+
+
+------->  avancer{VPP|mod}		responsable{NC|mod}		requérir{VPP|mod}		Causation/
+
+
+------->  aérosol~confinement{NC~NC|obj~mod}		responsable{NC|mod}		J.C.{NPP|mod}		Causation/
+
+
+------->  aérosol~confinement{NC~NC|obj~mod}		responsable{NC|mod}		LABORDE{NPP|mod}		Causation/
+
+
+------->  aérosol~confinement{NC~NC|obj~mod}		responsable{NC|mod}		:_D{NPP|mod}		Causation/
+
+
+------->  industrie{NC|obj}		responsable{NC|mod}		qualité{NC|mod}		Causation/
+
+
+------->  industrie{NC|obj}		responsable{NC|mod}		qualité{NC|mod}		Causation/
+
+
+------->  Alain{NPP|obj}		responsable{NC|mod}		PS{NPP|mod}		Causation/
+
+
+------->  développement~service~général{NC~NC~ADJ|obj~mod~mod}		responsable{NC|mod}		Technicien{NPP|mod}		Causation/
+
+
+------->  élire{VPR|obj}		responsable{NC|obj}		porteur{NC|mod}		Causation/
+
+
+------->  carré{NPP|mod}		responsable{NC|mod}		entreprendre{VPP|mod}		Causation/
+
+
+------->  mobiliser{VINF|obj}		responsable{NC|obj}		bénévole{NC|mod}		Causation/
+
+
+------->  mobiliser{VINF|obj}		responsable{NC|obj}		bénévole{NC|mod}		Causation/
+
+
+------->  être{V|mod_rel}		responsable{NC|ats}		faute{NC|mod}		Causation/
+
+
+------->  manager~table{NC~NC|root~mod}		responsable{NC|mod}		entreprendre~directeur{VPP~NC|mod~mod}		Causation/
+
+
+------->  être~·{V~ADV|suj~mod}		responsable{NC|mod}		Backbone{NPP|mod}		Causation/
+
+
+------->  être~·{V~ADV|suj~mod}		responsable{NC|mod}		IP{NPP|mod}		Causation/
+
+
+------->  rencontrer~parcours{V~NC|root~obj}		responsable{NC|obj}		EFREI~robotique{NPP~ADJ|mod~mod}		Causation/
+
+
+------->  rencontrer~parcours{V~NC|root~obj}		responsable{NC|obj}		participer{V|mod_rel}		Causation/
+
+
+------->  être~responsable{V~ADJ|root~ats}		responsable{NC|suj}		tuer{VPP|mod}		Causation/
+
+
+------->  être~responsable{V~ADJ|root~ats}		responsable{NC|suj}		Monde.fr{NC|mod}		Causation/
+
+
+------->  être~responsable{V~ADJ|root~ats}		responsable{NC|suj}		Abou{NPP|mod}		Causation/
+
+
+------->  être~responsable{V~ADJ|root~ats}		responsable{NC|suj}		Laith{NPP|mod}		Causation/
+
+
+------->  être~responsable{V~ADJ|root~ats}		responsable{NC|suj}		Al-Libi{NPP|mod}		Causation/
+
+
+------->  être~notamment{V~ADV|root~mod}		responsable{ADJ|ats}		long{NC|dep}		Causation/
+
+
+------->  DRH~direction~général{NC~NC~ADJ|obj~mod~mod}		responsable{NC|mod}		membre{NC|mod}		Causation/
+
+
+------->  exprimer{V|root}		responsable{NC|suj}		autoriser~non{VPP~ADV|mod~mod}		Causation/
+
+
+------->  fait{NC|suj}		responsable{NC|mod}		fait~tuer{NC~VPP|suj~mod}		Causation/
+
+
+------->  rencontrer{VINF|obj}		responsable{NC|obj}		Kiabi{NPP|mod}		Causation/
+
+
+------->  Xavier~fax{NPP~NC|mod~mod}		responsable{NC|mod}		communication{NC|mod}		Causation/
+
+
+------->  E{NC|suj}		responsable{NC|mod}		MS{NPP|mod}		Causation/
+
+
+------->  E{NC|suj}		responsable{NC|mod}		Systèmes{NPP|mod}		Causation/
+
+
+------->  E{NC|suj}		responsable{NC|mod}		embarquer{VPP|mod}		Causation/
+
+
+------->  dispense~animateur{NC~NC|root~mod}		responsable{NC|mod}		qualité{NC|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		Praticien{NPP|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		responsable~ne{NC~ADV|mod~mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		directeur{NC|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		trice{NC|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		directeur{NC|mod}		Causation/
+
+
+------->  secteur{NC|mod}		responsable{NC|mod}		trice{NC|mod}		Causation/
+
+
+------->  entraîner~l'impunité{V~ADV|mod_rel~mod}		responsable{NC|obj}		voir~titre{V~NC|mod_rel~obj}		Causation/
+
+
+------->  être~aider~entreprise{V~VINF~NC|root~mod~obj}		responsable{NC|mod}		Fabrice{NPP|mod}		Causation/
+
+
+------->  être~aider~entreprise{V~VINF~NC|root~mod~obj}		responsable{NC|mod}		Frédéric{NPP|mod}		Causation/
+
+
+------->  expliquer{VPP|root}		responsable{NC|mod}		Bertrand{NPP|mod}		Causation/
+
+
+------->  faire~surréagir{VINF~ADV|obj~mod}		responsable{NC|obj}		tchadien~soucieux{NC~ADJ|mod~mod}		Causation/
+
+
+------->  persister{V|root}		responsable{NC|suj}		États-Unis_d'Amérique{NPP|mod}		Causation/
+
+
+------->  développement~service~général{NC~NC~ADJ|obj~mod~mod}		responsable{NC|mod}		Technicien{NPP|mod}		Causation/
+
+
+------->  {V|root}		responsable{NC|obj}		Diplômes{NPP|mod}		Causation/
+
+
+------->  {NC|root}		responsable{NC|mod}		accompagnement~scolaire{NC~ADJ|mod~mod}		Causation/
+
+
+------->  ~A{NC~NC|root~mod}		responsable{NC|mod}		Centre{NPP|mod}		Causation/
+
+
+------->  ~A{NC~NC|root~mod}		responsable{NC|mod}		ressource{NC|mod}		Causation/
+
+
+------->  Rivière~stage{NPP~NC|obj~mod}		responsable{NC|mod}		reconnaître~Établissement{VPP~ADV|mod~mod}		Causation/
+
+
+------->  valider~prix{VINF~NC|obj~obj}		déterminant{ADJ|obj}		prix{NC|suj}		Causation/FR_Contingency-Objective_influence/
+
+

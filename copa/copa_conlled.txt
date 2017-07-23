@@ -1,0 +1,1315 @@
+1	Mon	son	D	DET	n=s|s=poss	1011110	2	det	_	_
+2	corps	corps	N	NC	g=m|s=c	0011111	3	suj	_	_
+3	projetait	projeter	V	V	m=ind|n=s|p=3|t=impft	1101001	0	root	_	_
+4	une	un	D	DET	g=f|n=s|s=ind	10110	5	det	_	_
+5	ombre	ombre	N	NC	n=s|s=c	0011100	3	obj	_	_
+6	sur	sur	P	P	_	1100111	3	mod	_	_
+7	la	le	D	DET	g=f|n=s|s=def	100	8	det	_	_
+8	pelouse	pelouse	N	NC	g=f|n=s|s=c	0011100	6	obj	_	_
+9	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	soleil	soleil	N	NC	g=m|n=s|s=c	0011111	4	suj	_	_
+3	se	se	CL	CLR	p=3|s=refl	1101100	4	aff	_	_
+4	levait	lever	V	V	m=ind|n=s|p=3|t=impft	_	0	root	_	_
+5	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	pelouse	pelouse	N	NC	g=f|n=s|s=c	0011100	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	été	être	V	VPP	m=part|t=past	1100011	0	root	_	_
+5	tondue	tondre	V	VPP	g=f|m=part|n=s|t=past	_	4	mod	_	_
+6	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	femme	femme	N	NC	g=f|n=s|s=c	0010100	3	suj	_	_
+3	tolérait	tolérer	V	V	m=ind|n=s|p=3|t=impft	_	0	root	_	_
+4	le	le	D	DET	g=m|n=s|s=def	100	5	det	_	_
+5	comportement	comportement	N	NC	g=m|n=s|s=c	0011111	3	obj	_	_
+6	difficile	difficile	A	ADJ	n=s|s=qual	0100100	5	mod	_	_
+7	de	de	P	P	_	11110	5	dep	_	_
+8	son	son	D	DET	n=s|s=poss	1011110	9	det	_	_
+9	amie	amie	N	NC	g=f|n=s|s=c	0010100	7	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	femme	femme	N	NC	g=f|n=s|s=c	0010100	3	suj	_	_
+3	savait	savoir	V	V	m=ind|n=s|p=3|t=impft	1101000	0	root	_	_
+4	que	que	C	CS	s=s	1100101	3	obj	_	_
+5	son	son	D	DET	n=s|s=poss	1011110	6	det	_	_
+6	amie	amie	N	NC	g=f|n=s|s=c	0010100	7	suj	_	_
+7	traversait	traverser	V	V	m=ind|n=s|p=3|t=impft	1101001	4	obj	_	_
+8	une	un	D	DET	g=f|n=s|s=ind	10110	9	det	_	_
+9	période	période	N	NC	n=s|s=c	0011110	7	obj	_	_
+10	difficile	difficile	A	ADJ	n=s|s=qual	0100100	9	mod	_	_
+11	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	femme	femme	N	NC	g=f|n=s|s=c	0010100	3	suj	_	_
+3	pensait	penser	V	V	m=ind|n=s|p=3|t=impft	1101000	0	root	_	_
+4	que	que	C	CS	s=s	1100101	3	obj	_	_
+5	son	son	D	DET	n=s|s=poss	1011110	6	det	_	_
+6	amie	amie	N	NC	g=f|n=s|s=c	0010100	7	suj	_	_
+7	profitait	profiter	V	V	m=ind|n=s|p=3|t=impft	1101001	4	obj	_	_
+8	de	de	P	P	_	11110	7	de_obj	_	_
+9	sa	son	D	DET	g=f|n=s|s=poss	1011111	10	det	_	_
+10	gentillesse	gentillesse	N	NC	g=f|n=s|s=c	0011100	8	obj	_	_
+11	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Les	le	D	DET	n=p|s=def	100	2	det	_	_
+2	femmes	femme	N	NC	g=f|n=p|s=c	0010100	4	suj	_	_
+3	se	se	CL	CLR	p=3|s=refl	1101100	4	aff	_	_
+4	rencontrèrent	rencontrer	V	V	m=ind|n=p|p=3|t=past	1101001	0	root	_	_
+5	au	à	P+D	P+D	s=def	1111111	4	mod	_	_
+6	café	café	N	NC	g=m|n=s|s=c	0011011	5	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	café	café	N	NC	g=m|n=s|s=c	0011011	4	suj	_	_
+3	avait	avoir	V	V	m=ind|n=s|p=3|t=impft	1101010	4	aux_tps	_	_
+4	réouvert	réouvrir	V	VPP	g=m|m=part|n=s|t=past	_	0	root	_	_
+5	à	à	P	P	_	1100110	4	mod	_	_
+6	un	un	D	DET	g=m|n=s|s=ind	10110	8	det	_	_
+7	autre	autre	A	ADJ	n=s|s=ind	0000110	8	mod	_	_
+8	endroit	endroit	N	NC	g=m|n=s|s=c	0011110	5	obj	_	_
+9	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Elles	cln	CL	CLS	s=suj	1101110	2	suj	_	_
+2	voulaient	vouloir	V	V	m=ind|n=p|p=3|t=impft	1101000	0	root	_	_
+3	se	se	CL	CLR	p=3|s=refl	1101100	4	aff	_	_
+4	donner	donner	V	VINF	m=inf	1100000	2	obj	_	_
+5	de	de	P	P	_	11110	4	mod	_	_
+6	leurs	son	D	DET	n=p|s=poss	1011110	7	det	_	_
+7	nouvelles	nouveau	A	ADJ	g=f|n=p|s=qual	0000010	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	coureuse	coureur	N	NC	g=f|n=s|s=c	0010100	3	suj	_	_
+3	portait	porter	V	V	m=ind|n=s|p=3|t=impft	1101001	0	root	_	_
+4	un	un	D	DET	g=m|n=s|s=ind	10110	5	det	_	_
+5	short	short	N	NC	g=m|n=s|s=c	_	3	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	météo	météo	N	NC	g=f|n=s|s=c	0010011	3	suj	_	_
+3	prévoyait	prévoir	V	V	m=ind|n=s|p=3|t=impft	1101001	0	root	_	_
+4	des	de	D	DET	_	1111110	5	det	_	_
+5	températures	température	N	NC	g=f|n=p|s=c	0011100	3	obj	_	_
+6	élevées	élever	A	ADJ	g=f|m=part|n=p|s=qual|t=past	0100100	5	mod	_	_
+7	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101111	2	suj	_	_
+2	prévoyait	prévoir	V	V	m=ind|n=s|p=3|t=impft	1101001	0	root	_	_
+3	de	de	P	P	_	11110	2	de_obj	_	_
+4	courir	courir	V	VINF	m=inf	1100000	3	obj	_	_
+5	le	le	D	DET	g=m|n=s|s=def	100	6	det	_	_
+6	long	long	N	NC	g=m|n=s|s=c	0100100	4	obj	_	_
+7	de	de	P	P	_	11110	6	dep	_	_
+8	la	le	D	DET	g=f|n=s|s=def	100	9	det	_	_
+9	plage	plage	N	NC	g=f|n=s|s=c	0011100	7	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	Les	le	D	DET	n=p|s=def	100	2	det	_	_
+2	invités	inviter	V	VPP	g=m|m=part|n=p|t=past	1100011	7	suj	_	_
+3	de	de	P	P	_	11110	2	dep	_	_
+4	la	le	D	DET	g=f|n=s|s=def	100	5	det	_	_
+5	fête	fête	N	NC	g=f|n=s|s=c	0010100	3	obj	_	_
+6	se	se	CL	CLR	p=3|s=refl	1101100	7	aff	_	_
+7	cachèrent	cacher	V	V	m=ind|n=p|p=3|t=past	1101000	0	root	_	_
+8	derrière	derrière	P	P	_	1100111	7	mod	_	_
+9	le	le	D	DET	g=m|n=s|s=def	100	10	det	_	_
+10	canapé	canapé	N	NC	g=m|n=s|s=c	_	8	obj	_	_
+11	.	.	PONCT	PONCT	s=s	_	7	ponct	_	_
+
+1	C'	cln	CL	CLS	s=suj	1101111	2	suj	_	_
+2	était	être	V	V	m=ind|n=s|p=3|t=impft	1101011	0	root	_	_
+3	une	un	D	DET	g=f|n=s|s=ind	10110	4	det	_	_
+4	fête	fête	N	NC	g=f|n=s|s=c	0010100	2	obj	_	_
+5	surprise	surprise	N	NC	g=f|n=s|s=c	0011100	4	mod	_	_
+6	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	C'	cln	CL	CLS	s=suj	1101111	2	suj	_	_
+2	était	être	V	V	m=ind|n=s|p=3|t=impft	1101011	0	root	_	_
+3	une	un	D	DET	g=f|n=s|s=ind	10110	4	det	_	_
+4	fête	fête	N	NC	g=f|n=s|s=c	0010100	2	obj	_	_
+5	d'	de	P	P	_	11110	4	dep	_	_
+6	anniversaire	anniversaire	N	NC	g=m|n=s|s=c	0011110	5	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	politicien	politicien	N	NC	g=m|n=s|s=c	_	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	perdu	perdre	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	l'	le	D	DET	n=s|s=def	100	6	det	_	_
+6	élection	élection	N	NC	g=f|n=s|s=c	0011101	4	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	fait	faire	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	des	de	D	DET	_	1111110	5	det	_	_
+5	publicités	publicité	N	NC	g=f|n=p|s=c	0101111	3	obj	_	_
+6	de	de	P	P	_	11110	5	dep	_	_
+7	campagne	campagne	N	NC	g=f|n=s|s=c	0011100	6	obj	_	_
+8	négatives	négatif	A	ADJ	g=f|n=p|s=qual	0100101	5	mod	_	_
+9	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Personne	personne	PRO	PRO	n=s|s=neg	0011110	4	suj	_	_
+2	n'	ne	ADV	ADV	s=neg	1101101	4	mod	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	voté	voter	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	pour	pour	P	P	_	1100111	4	mod	_	_
+6	lui	lui	PRO	PRO	g=m|n=s|s=pers	1101110	5	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	tâche	tâche	N	NC	g=f|n=s|s=c	0011100	3	suj	_	_
+3	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	0	root	_	_
+4	partie	partie	N	NC	g=f|n=s|s=c	0011111	3	obj	_	_
+5	de	de	P	P	_	11110	4	dep	_	_
+6	la	le	D	DET	g=f|n=s|s=def	100	7	det	_	_
+7	chemise	chemise	N	NC	g=f|n=s|s=c	0011100	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	J'	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	1101010	3	aux_tps	_	_
+3	rapiécé	rapiécer	V	VPP	g=m|m=part|n=s|t=past	_	0	root	_	_
+4	la	le	D	DET	g=f|n=s|s=def	100	5	det	_	_
+5	chemise	chemise	N	NC	g=f|n=s|s=c	0011100	3	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	J'	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	1101010	3	aux_tps	_	_
+3	passé	passer	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	la	le	D	DET	g=f|n=s|s=def	100	5	det	_	_
+5	chemise	chemise	N	NC	g=f|n=s|s=c	0011100	3	obj	_	_
+6	à	à	P	P	_	1100110	3	mod	_	_
+7	la	le	D	DET	g=f|n=s|s=def	100	8	det	_	_
+8	javel	javel	N	NC	g=f|n=s|s=c	_	6	obj	_	_
+9	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	L'	le	D	DET	n=s|s=def	100	2	det	_	_
+2	homme	homme	N	NC	g=m|n=s|s=c	0010100	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	eu	avoir	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	un	un	D	DET	g=m|n=s|s=ind	10110	6	det	_	_
+6	rabais	rabais	N	NC	g=m|s=c	_	4	obj	_	_
+7	sur	sur	P	P	_	1100111	6	dep	_	_
+8	ses	son	D	DET	n=p|s=poss	1011110	9	det	_	_
+9	courses	course	N	NC	g=f|n=p|s=c	0011100	7	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	salué	saluer	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	le	le	D	DET	g=m|n=s|s=def	100	5	det	_	_
+5	caissier	caissier	N	NC	g=m|n=s|s=c	0010101	3	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	utilisé	utiliser	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	un	un	D	DET	g=m|n=s|s=ind	10110	5	det	_	_
+5	coupon	coupon	N	NC	g=m|n=s|s=c	_	3	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	médecin	médecin	N	NC	g=m|n=s|s=c	0101111	5	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	5	aux_tps	_	_
+4	mal	mal	ADV	ADV	_	1100011	5	mod	_	_
+5	diagnostiqué	diagnostiquer	V	VPP	g=m|m=part|n=s|t=past	_	0	root	_	_
+6	le	le	D	DET	g=m|n=s|s=def	100	7	det	_	_
+7	patient	patient	N	NC	g=m|n=s|s=c	0010100	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	5	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	patient	patient	N	NC	g=m|n=s|s=c	0010100	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	fait	faire	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	un	un	D	DET	g=m|n=s|s=ind	10110	6	det	_	_
+6	procès	procès	N	NC	g=m|s=c	0011111	4	obj	_	_
+7	au	à	P+D	P+D	s=def	1111111	4	mod	_	_
+8	médecin	médecin	N	NC	g=m|n=s|s=c	0101111	7	obj	_	_
+9	pour	pour	P	P	_	1100111	4	mod	_	_
+10	faute	faute	N	NC	g=f|n=s|s=c	0011101	9	obj	_	_
+11	professionnelle	professionnel	A	ADJ	g=f|n=s|s=qual	0100101	10	mod	_	_
+12	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	patient	patient	N	NC	g=m|n=s|s=c	0010100	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	dévoilé	dévoiler	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	des	de	D	DET	_	1111110	6	det	_	_
+6	informations	information	N	NC	g=f|n=p|s=c	0011011	4	obj	_	_
+7	confidentielles	confidentiel	A	ADJ	g=f|n=p|s=qual	0100100	6	mod	_	_
+8	au	à	P+D	P+D	s=def	1111111	6	dep	_	_
+9	médecin	médecin	N	NC	g=m|n=s|s=c	0101111	8	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	The	The	ET	ET	_	1101111	3	dep	_	_
+2	customer	customer	ET	ET	_	_	3	dep	_	_
+3	filed	filed	ET	ET	_	_	9	dep	_	_
+4	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	9	dep	_	_
+5	complaint	complaint	ET	ET	_	_	9	dep	_	_
+6	with	with	ET	ET	_	_	9	dep	_	_
+7	the	the	ET	ET	_	0010101	9	dep	_	_
+8	store	store	ET	ET	_	_	9	dep	_	_
+9	manager	manager	N	NC	g=m|n=s|s=c	0010101	0	root	_	_
+10	.	.	PONCT	PONCT	s=s	_	9	ponct	_	_
+
+1	The	The	ET	ET	_	0010101	6	dep	_	_
+2	sales	sales	ET	ET	_	0100100	6	dep	_	_
+3	associate	associate	ET	ET	_	_	6	dep	_	_
+4	undercharged	undercharged	ET	ET	_	_	6	dep	_	_
+5	the	the	ET	ET	_	0010101	6	dep	_	_
+6	customer	customer	ET	ET	_	_	0	root	_	_
+7	.	.	PONCT	PONCT	s=s	_	6	ponct	_	_
+
+1	The	The	ET	ET	_	0010101	0	root	_	_
+2	sales	sale	A	ADJ	n=p|s=qual	0100100	4	mod	_	_
+3	associate	associat	A	ADJ	s=qual	_	4	mod	_	_
+4	acted	acted	N	NC	s=c	_	0	root	_	_
+5	rude	rude	A	ADJ	n=s|s=qual	0100100	4	mod	_	_
+6	to	to	ET	ET	_	_	8	dep	_	_
+7	the	the	ET	ET	_	0010101	8	dep	_	_
+8	customer	customer	ET	ET	_	_	4	dep	_	_
+9	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	femme	femme	N	NC	g=f|n=s|s=c	0010100	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	réparé	réparer	V	VPP	g=m|m=part|n=s|t=past	_	0	root	_	_
+5	le	le	D	DET	g=m|n=s|s=def	100	6	det	_	_
+6	robinet	robinet	N	NC	g=m|n=s|s=c	0010111	4	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	robinet	robinet	N	NC	g=m|n=s|s=c	0010111	3	suj	_	_
+3	fuyait	fuir	V	V	m=ind|n=s|p=3|t=impft	_	0	root	_	_
+4	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	robinet	robinet	N	NC	g=m|n=s|s=c	0010111	3	suj	_	_
+3	était	être	V	V	m=ind|n=s|p=3|t=impft	1101011	0	root	_	_
+4	fermé	fermer	V	VPP	g=m|m=part|n=s|t=past	1100011	3	mod	_	_
+5	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	3	det	_	_
+2	vieille	vieux	A	ADJ	g=f|n=s|s=qual	0000111	3	mod	_	_
+3	dame	dame	N	NC	g=f|n=s|s=c	0101111	5	suj	_	_
+4	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	5	aux_tps	_	_
+5	eu	avoir	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+6	un	un	D	DET	g=m|n=s|s=ind	10110	7	det	_	_
+7	infarctus	infarctus	N	NC	g=m|s=c	_	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	5	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	fille	fille	N	NC	g=f|n=s|s=c	0010100	8	suj	_	_
+3	de	de	P	P	_	11110	2	dep	_	_
+4	la	le	D	DET	g=f|n=s|s=def	100	6	det	_	_
+5	vieille	vieux	A	ADJ	g=f|n=s|s=qual	0000111	6	mod	_	_
+6	dame	dame	N	NC	g=f|n=s|s=c	0101111	3	obj	_	_
+7	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	8	aux_tps	_	_
+8	venue	venir	V	VPP	g=f|m=part|n=s|t=past	1100011	0	root	_	_
+9	nettoyer	nettoyer	V	VINF	m=inf	1100000	8	obj	_	_
+10	sa	son	D	DET	g=f|n=s|s=poss	1011111	11	det	_	_
+11	maison	maison	N	NC	g=f|n=s|s=c	0010010	9	obj	_	_
+12	.	.	PONCT	PONCT	s=s	_	8	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	fille	fille	N	NC	g=f|n=s|s=c	0010100	8	suj	_	_
+3	de	de	P	P	_	11110	2	dep	_	_
+4	la	le	D	DET	g=f|n=s|s=def	100	6	det	_	_
+5	vieille	vieux	A	ADJ	g=f|n=s|s=qual	0000111	6	mod	_	_
+6	dame	dame	N	NC	g=f|n=s|s=c	0101111	3	obj	_	_
+7	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	8	aux_tps	_	_
+8	emménagé	emménager	V	VPP	g=m|m=part|n=s|t=past	_	0	root	_	_
+9	pour	pour	P	P	_	1100111	8	mod	_	_
+10	s'	se	CL	CLR	p=3|s=refl	1101100	11	obj	_	_
+11	occuper	occuper	V	VINF	m=inf	1100001	9	obj	_	_
+12	d'	de	P	P	_	11110	11	de_obj	_	_
+13	elle	lui	PRO	PRO	g=f|n=s|s=pers	1101110	12	obj	_	_
+14	.	.	PONCT	PONCT	s=s	_	8	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	mare	mare	N	NC	g=f|n=s|s=c	_	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	gelé	geler	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	pendant	pendant	P	P	_	1100111	4	mod	_	_
+6	l'	le	D	DET	n=s|s=def	100	7	det	_	_
+7	hiver	hiver	N	NC	g=m|n=s|s=c	0011011	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Les	le	D	DET	n=p|s=def	100	2	det	_	_
+2	gens	gens	N	NC	g=m|n=p|s=c	0010100	4	suj	_	_
+3	ont	avoir	V	V	m=ind|n=p|p=3|t=pst	1101010	4	aux_tps	_	_
+4	fait	faire	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	du	de	D	DET	_	1111111	0	root	_	_
+6	patin	patin	N	NC	g=m|n=s|s=c	_	5	obj	_	_
+7	sur	sur	P	P	_	1100111	6	dep	_	_
+8	la	le	D	DET	g=f|n=s|s=def	100	9	det	_	_
+9	mare	mare	N	NC	g=f|n=s|s=c	_	7	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	5	ponct	_	_
+
+1	Les	le	D	DET	n=p|s=def	100	2	det	_	_
+2	gens	gens	N	NC	g=m|n=p|s=c	0010100	4	suj	_	_
+3	ont	avoir	V	V	m=ind|n=p|p=3|t=pst	1101010	4	aux_tps	_	_
+4	apporté	apporter	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	des	de	D	DET	_	1111110	6	det	_	_
+6	bateaux	bateau	N	NC	g=m|n=p|s=c	0011111	4	obj	_	_
+7	sur	sur	P	P	_	1100111	4	mod	_	_
+8	la	le	D	DET	g=f|n=s|s=def	100	9	det	_	_
+9	mare	mare	N	NC	g=f|n=s|s=c	_	7	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	délinquant	délinquant	N	NC	g=m|n=s|s=c	0010101	0	root	_	_
+3	à	à	P	P	_	1100110	2	dep	_	_
+4	violé	violer	V	VPP	g=m|m=part|n=s|t=past	_	3	obj	_	_
+5	sa	son	D	DET	g=f|n=s|s=poss	1011111	6	det	_	_
+6	probation	probation	N	NC	g=f|n=s|s=c	_	4	mod	_	_
+7	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	été	être	V	VPP	m=part|t=past	1100011	0	root	_	_
+4	envoyé	envoyer	V	VPP	g=m|m=part|n=s|t=past	1100011	3	mod	_	_
+5	en	en	P	P	p=3	111110	4	mod	_	_
+6	prison	prison	N	NC	g=f|n=s|s=c	0011001	5	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	volé	voler	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	de	de	P	P	_	11110	3	de_obj	_	_
+5	l'	le	D	DET	n=s|s=def	100	6	det	_	_
+6	argent	argent	N	NC	g=m|n=s|s=c	0011011	4	obj	_	_
+7	de	de	P	P	_	11110	6	dep	_	_
+8	l'	le	D	DET	n=s|s=def	100	9	det	_	_
+9	église	église	N	NC	g=f|n=s|s=c	0010010	7	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	J'	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	1101010	3	aux_tps	_	_
+3	arrosé	arroser	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	mon	son	D	DET	n=s|s=poss	1011110	5	det	_	_
+5	ami	ami	N	NC	g=m|n=s|s=c	0010100	3	obj	_	_
+6	qui	qui	PRO	PROREL	s=rel	1101101	7	suj	_	_
+7	dormait	dormir	V	V	m=ind|n=s|p=3|t=impft	1101001	5	mod_rel	_	_
+8	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Mon	son	D	DET	n=s|s=poss	1011110	2	det	_	_
+2	ami	ami	N	NC	g=m|n=s|s=c	0010100	4	suj	_	_
+3	s'	se	CL	CLR	p=3|s=refl	1101100	4	aff	_	_
+4	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	0	root	_	_
+5	réveillé	réveiller	V	VPP	g=m|m=part|n=s|t=past	1100011	4	ats	_	_
+6	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Mon	son	D	DET	n=s|s=poss	1011110	2	det	_	_
+2	ami	ami	N	NC	g=m|n=s|s=c	0010100	3	suj	_	_
+3	ronflait	ronfler	V	V	m=ind|n=s|p=3|t=impft	_	0	root	_	_
+4	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	fille	fille	N	NC	g=f|n=s|s=c	0010100	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	eu	avoir	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	un	un	D	DET	g=m|n=s|s=ind	10110	6	det	_	_
+6	cri	cri	N	NC	g=m|n=s|s=c	0011111	4	obj	_	_
+7	de	de	P	P	_	11110	6	dep	_	_
+8	surprise	surprise	N	NC	g=f|n=s|s=c	0011100	7	obj	_	_
+9	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Son	son	D	DET	n=s|s=poss	1011110	2	det	_	_
+2	ami	ami	N	NC	g=m|n=s|s=c	0010100	5	suj	_	_
+3	lui	cld	CL	CLO	n=s|s=obj	1101110	5	a_obj	_	_
+4	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	5	aux_tps	_	_
+5	mis	mettre	V	VPP	g=m|m=part|t=past	1100011	0	root	_	_
+6	un	un	D	DET	g=m|n=s|s=ind	10110	7	det	_	_
+7	cube	cube	N	NC	g=m|n=s|s=c	0101111	5	obj	_	_
+8	de	de	P	P	_	11110	7	dep	_	_
+9	glace	glace	N	NC	g=f|n=s|s=c	0011011	8	obj	_	_
+10	dans	dans	P	P	_	1100111	5	mod	_	_
+11	le	le	D	DET	g=m|n=s|s=def	100	12	det	_	_
+12	dos	dos	N	NC	g=m|s=c	0011111	10	obj	_	_
+13	.	.	PONCT	PONCT	s=s	_	5	ponct	_	_
+
+1	Son	son	D	DET	n=s|s=poss	1011110	2	det	_	_
+2	ami	ami	N	NC	g=m|n=s|s=c	0010100	5	suj	_	_
+3	lui	cld	CL	CLO	n=s|s=obj	1101110	5	a_obj	_	_
+4	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	5	aux_tps	_	_
+5	mis	mettre	V	VPP	g=m|m=part|t=past	1100011	0	root	_	_
+6	une	un	D	DET	g=f|n=s|s=ind	10110	8	det	_	_
+7	petite	petit	A	ADJ	g=f|n=s|s=qual	0000100	8	mod	_	_
+8	tape	tape	N	NC	g=f|n=s|s=c	_	5	obj	_	_
+9	dans	dans	P	P	_	1100111	5	mod	_	_
+10	le	le	D	DET	g=m|n=s|s=def	100	11	det	_	_
+11	dos	dos	N	NC	g=m|s=c	0011111	9	obj	_	_
+12	.	.	PONCT	PONCT	s=s	_	5	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	chemise	chemise	N	NC	g=f|n=s|s=c	0011100	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	rétréci	rétrécir	V	VPP	g=m|m=part|n=s|t=past	_	0	root	_	_
+5	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	J'	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	1101010	3	aux_tps	_	_
+3	mis	mettre	V	VPP	g=m|m=part|t=past	1100011	0	root	_	_
+4	de	de	P	P	_	11110	3	de_obj	_	_
+5	la	le	D	DET	g=f|n=s|s=def	100	6	det	_	_
+6	javelle	javelle	N	NC	g=f|n=s|s=c	_	4	obj	_	_
+7	dessus	dessus	ADV	ADV	_	0011111	6	mod	_	_
+8	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Je	cln	CL	CLS	s=suj	1101110	4	suj	_	_
+2	l'	cla	CL	CLO	g=m|n=s|s=obj	100	4	obj	_	_
+3	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	1101010	4	aux_tps	_	_
+4	mise	mettre	V	VPP	g=f|m=part|n=s|t=past	1100011	0	root	_	_
+5	dans	dans	P	P	_	1100111	4	mod	_	_
+6	le	le	D	DET	g=m|n=s|s=def	100	7	det	_	_
+7	séchoir	séchoir	N	NC	g=m|n=s|s=c	_	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Dehors	dehors	ADV	ADV	_	1100101	3	mod	_	_
+2	il	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+3	commença	commencer	V	V	m=ind|n=s|p=3|t=past	1101001	0	root	_	_
+4	à	à	P	P	_	1100110	3	mod	_	_
+5	faire	faire	V	VINF	m=inf	1100001	4	obj	_	_
+6	sombre	sombre	A	ADJ	n=s|s=qual	0100100	5	mod	_	_
+7	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Des	de	D	DET	_	1111110	2	det	_	_
+2	flocons	flocon	N	NC	g=m|n=p|s=c	_	0	root	_	_
+3	de	de	P	P	_	11110	2	dep	_	_
+4	neige	neige	N	NC	g=f|n=s|s=c	0011011	3	obj	_	_
+5	commençèrent	commençèrent	ADV	ADV	_	_	4	mod	_	_
+6	à	à	P	P	_	1100110	2	dep	_	_
+7	tomber	tomber	V	VINF	m=inf	1100000	6	obj	_	_
+8	du	de	P+D	P+D	s=def	1111111	7	de_obj	_	_
+9	ciel	ciel	N	NC	g=m|n=s|s=c	0011111	8	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	lune	lune	N	NC	g=f|n=s|s=c	0011011	3	suj	_	_
+3	devint	devenir	V	V	m=ind|n=s|p=3|t=past	1101011	0	root	_	_
+4	visible	visible	A	ADJ	n=s|s=qual	1100011	3	ats	_	_
+5	dans	dans	P	P	_	1100111	3	mod	_	_
+6	le	le	D	DET	g=m|n=s|s=def	100	7	det	_	_
+7	ciel	ciel	N	NC	g=m|n=s|s=c	0011111	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Je	cln	CL	CLS	s=suj	1101110	2	suj	_	_
+2	raccrochai	raccrocher	V	V	m=ind|n=s|p=1|t=past	_	0	root	_	_
+3	le	le	D	DET	g=m|n=s|s=def	100	4	det	_	_
+4	téléphone	téléphone	N	NC	g=m|n=s|s=c	0011111	2	obj	_	_
+5	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	L'	le	D	DET	n=s|s=def	100	2	det	_	_
+2	interlocuteur	interlocuteur	N	NC	g=m|n=s|s=c	0010100	4	suj	_	_
+3	me	clad	CL	CLO	s=obj	1101101	4	a_obj	_	_
+4	dit	dire	V	V	m=ind|n=s|p=3|t=pst	1101001	0	root	_	_
+5	au	à	P+D	P+D	s=def	1111111	4	mod	_	_
+6	revoir	revoir	V	VINF	m=inf	1100000	5	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	L'	le	D	DET	n=s|s=def	100	2	det	_	_
+2	interlocuteur	interlocuteur	N	NC	g=m|n=s|s=c	0010100	4	suj	_	_
+3	me	clad	CL	CLO	s=obj	1101101	4	a_obj	_	_
+4	donna	donner	V	V	m=ind|n=s|p=3|t=past	1101001	0	root	_	_
+5	son	son	D	DET	n=s|s=poss	1011110	6	det	_	_
+6	nom	nom	N	NC	g=m|n=s|s=c	0011111	4	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	bague	bague	N	NC	g=f|n=s|s=c	_	7	suj	_	_
+3	de	de	P	P	_	11110	2	dep	_	_
+4	la	le	D	DET	g=f|n=s|s=def	100	5	det	_	_
+5	femme	femme	N	NC	g=f|n=s|s=c	0010100	3	obj	_	_
+6	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	7	aux_tps	_	_
+7	glissé	glisser	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+8	dans	dans	P	P	_	1100111	7	mod	_	_
+9	la	le	D	DET	g=f|n=s|s=def	100	10	det	_	_
+10	douche	douche	N	NC	g=f|n=s|s=c	0011101	8	obj	_	_
+11	.	.	PONCT	PONCT	s=s	_	7	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	femme	femme	N	NC	g=f|n=s|s=c	0010100	3	suj	_	_
+3	polissait	polir	V	V	m=ind|n=s|p=3|t=impft	_	0	root	_	_
+4	la	le	D	DET	g=f|n=s|s=def	100	5	det	_	_
+5	bague	bague	N	NC	g=f|n=s|s=c	_	3	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	bague	bague	N	NC	g=f|n=s|s=c	_	4	suj	_	_
+3	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	4	aux_tps	_	_
+4	tombé	tomber	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	dans	dans	P	P	_	1100111	4	mod	_	_
+6	la	le	D	DET	g=f|n=s|s=def	100	7	det	_	_
+7	bonde	bonde	N	NC	g=f|n=s|s=c	_	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	3	det	_	_
+2	petite	petit	A	ADJ	g=f|n=s|s=qual	0000100	3	mod	_	_
+3	fille	fille	N	NC	g=f|n=s|s=c	0010100	5	suj	_	_
+4	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	5	aux_tps	_	_
+5	gagné	gagner	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+6	un	un	D	DET	g=m|n=s|s=ind	10110	7	det	_	_
+7	trophée	trophée	N	NC	g=m|n=s|s=c	0010110	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	5	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	gagné	gagner	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	un	un	D	DET	g=m|n=s|s=ind	10110	5	det	_	_
+5	concours	concours	N	NC	g=m|s=c	0010110	3	obj	_	_
+6	de	de	P	P	_	11110	5	dep	_	_
+7	dictée	dictée	N	NC	g=f|n=s|s=c	0011100	6	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	s'	se	CL	CLR	p=3|s=refl	1101100	3	aff	_	_
+3	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	0	root	_	_
+4	fait	faire	V	VPP	g=m|m=part|n=s|t=past	1100011	3	mod	_	_
+5	un	un	D	DET	g=m|n=s|s=ind	10110	7	det	_	_
+6	nouvel	nouveau	A	ADJ	g=m|n=s|s=qual	0000111	7	mod	_	_
+7	ami	ami	N	NC	g=m|n=s|s=c	0010100	3	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	L'	le	D	DET	n=s|s=def	100	2	det	_	_
+2	escorte	escorte	N	NC	g=f|n=s|s=c	_	6	suj	_	_
+3	de	de	P	P	_	11110	2	dep	_	_
+4	la	le	D	DET	g=f|n=s|s=def	100	5	det	_	_
+5	femme	femme	N	NC	g=f|n=s|s=c	0010100	3	obj	_	_
+6	voulait	vouloir	V	V	m=ind|n=s|p=3|t=impft	1101000	0	root	_	_
+7	avoir	avoir	V	VINF	m=inf	1100001	6	obj	_	_
+8	l'	le	D	DET	n=s|s=def	100	9	det	_	_
+9	air	air	N	NC	g=m|n=s|s=c	0011010	7	obj	_	_
+10	d'	de	P	P	_	11110	9	dep	_	_
+11	un	un	D	DET	g=m|n=s|s=ind	10110	12	det	_	_
+12	gentleman	gentleman	N	NC	g=m|n=s|s=c	0100111	10	obj	_	_
+13	.	.	PONCT	PONCT	s=s	_	6	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	4	suj	_	_
+2	lui	cld	CL	CLO	n=s|s=obj	1101110	4	a_obj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	ouvert	ouvrir	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	la	le	D	DET	g=f|n=s|s=def	100	6	det	_	_
+6	porte	porte	N	NC	g=f|n=s|s=c	0011111	4	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	4	suj	_	_
+2	lui	cld	CL	CLO	n=s|s=obj	1101110	4	a_obj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	demandé	demander	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	si	si	C	CS	s=s	1100101	4	mod	_	_
+6	elle	cln	CL	CLS	s=suj	1101110	7	suj	_	_
+7	aimait	aimer	V	V	m=ind|n=s|p=3|t=impft	1101000	5	obj	_	_
+8	les	le	D	DET	n=p|s=def	100	9	det	_	_
+9	sushi	sushi	N	NC	g=m|n=s|s=c	_	7	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	champ	champagne	N	NC	g=m|n=s|s=c	0011111	3	suj	_	_
+3	avait	avoir	V	V	m=ind|n=s|p=3|t=impft	1101010	0	root	_	_
+4	besoin	besoin	N	NC	g=m|n=s|s=c	0011111	3	obj	_	_
+5	d'	de	P	P	_	11110	4	dep	_	_
+6	irrigation	irrigation	N	NC	g=f|n=s|s=c	_	5	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Un	un	D	DET	g=m|n=s|s=ind	10110	2	det	_	_
+2	canal	canal	N	NC	g=m|n=s|s=c	0011111	5	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	5	aux_tps	_	_
+4	été	être	V	VPP	m=part|t=past	1100011	5	aux_pass	_	_
+5	construit	construire	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+6	.	.	PONCT	PONCT	s=s	_	5	ponct	_	_
+
+1	Une	un	D	DET	g=f|n=s|s=ind	10110	2	det	_	_
+2	inondation	inondation	N	NC	g=f|n=s|s=c	0011100	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	eu	avoir	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	lieu	lieu	N	NC	g=m|n=s|s=c	0100110	4	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	L'	le	D	DET	n=s|s=def	100	2	det	_	_
+2	hotesse	hotesse	N	NC	s=c	_	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	annulé	annuler	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	la	le	D	DET	g=f|n=s|s=def	100	6	det	_	_
+6	fête	fête	N	NC	g=f|n=s|s=c	0010100	4	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	2	suj	_	_
+2	était	être	V	V	m=ind|n=s|p=3|t=impft	1101011	0	root	_	_
+3	certaine	certain	A	ADJ	g=f|n=s|s=qual	0000101	2	ats	_	_
+4	d'	de	P	P	_	11110	2	obj	_	_
+5	avoir	avoir	V	VINF	m=inf	1100001	4	obj	_	_
+6	la	le	D	DET	g=f|n=s|s=def	100	7	det	_	_
+7	grippe	grippe	N	NC	g=f|n=s|s=c	_	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	2	suj	_	_
+2	avait	avoir	V	V	m=ind|n=s|p=3|t=impft	1101010	0	root	_	_
+3	peur	peur	N	NC	g=f|n=s|s=c	0011111	2	obj	_	_
+4	d'	de	P	P	_	11110	2	mod	_	_
+5	attrapper	attrapper	V	VINF	m=inf	_	4	obj	_	_
+6	la	le	D	DET	g=f|n=s|s=def	100	7	det	_	_
+7	grippe	grippe	N	NC	g=f|n=s|s=c	_	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	femme	femme	N	NC	g=f|n=s|s=c	0010100	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	donné	donner	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	son	son	D	DET	n=s|s=poss	1011110	6	det	_	_
+6	numéro	numéro	N	NC	g=m|n=s|s=c	0101110	4	obj	_	_
+7	de	de	P	P	_	11110	6	dep	_	_
+8	téléphone	téléphone	N	NC	g=m|n=s|s=c	0011111	7	obj	_	_
+9	à	à	P	P	_	1100110	4	mod	_	_
+10	l'	le	D	DET	n=s|s=def	100	11	det	_	_
+11	homme	homme	N	NC	g=m|n=s|s=c	0010100	9	obj	_	_
+12	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	était	être	V	V	m=ind|n=s|p=3|t=impft	1101011	3	aux_pass	_	_
+3	attiré	attirer	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	par	par	P	P	_	1100111	3	p_obj	_	_
+5	lui	lui	PRO	PRO	g=m|n=s|s=pers	1101110	4	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	lui	cld	CL	CLO	n=s|s=obj	1101110	3	a_obj	_	_
+3	répugnait	répugner	V	V	m=ind|n=s|p=3|t=impft	_	0	root	_	_
+4	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	parachutiste	parachutiste	N	NC	n=s|s=c	0010101	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	plané	planer	V	VPP	g=m|m=part|n=s|t=past	_	0	root	_	_
+5	jusqu'_au	jusqu'au	P	P	_	0101110	4	mod	_	_
+6	sol	sol	N	NC	g=m|n=p|s=c	0011011	5	obj	_	_
+7	en	en	P	P	p=3	111110	4	mod	_	_
+8	toute	tout	D	DET	g=f|n=s|s=ind	1100101	9	mod	_	_
+9	sécurité	sécurité	N	NC	g=f|n=s|s=c	0011011	7	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	ouvert	ouvrir	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	son	son	D	DET	n=s|s=poss	1011110	5	det	_	_
+5	parachute	parachute	N	NC	g=m|n=s|s=c	_	3	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	sauté	sauter	V	VPP	g=m|m=part|n=s|t=past	1100010	0	root	_	_
+4	de	de	P	P	_	11110	3	de_obj	_	_
+5	l'	le	D	DET	n=s|s=def	100	6	det	_	_
+6	avion	avion	N	NC	g=m|n=s|s=c	0011111	4	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	bébé	bébé	N	NC	g=m|n=s|s=c	0011011	3	suj	_	_
+3	devenait	devenir	V	V	m=ind|n=s|p=3|t=impft	1101011	0	root	_	_
+4	de	un	D	DET	n=p|s=ind	11110	6	det	_	_
+5	mauvaise	mauvais	A	ADJ	g=f|n=s|s=qual	0000111	6	mod	_	_
+6	humeur	humeur	N	NC	g=f|n=s|s=c	0100101	3	ats	_	_
+7	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Sa	son	D	DET	g=f|n=s|s=poss	1011111	2	det	_	_
+2	mère	mère	N	NC	g=f|n=s|s=c	0011100	6	suj	_	_
+3	lui	cld	CL	CLO	n=s|s=obj	1101110	6	a_obj	_	_
+4	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	6	aux_tps	_	_
+5	fait	faire	V	VPP	g=m|m=part|n=s|t=past	1100011	6	aux_caus	_	_
+6	faire	faire	V	VINF	m=inf	1100001	0	root	_	_
+7	une	un	D	DET	g=f|n=s|s=ind	10110	8	det	_	_
+8	sieste	sieste	N	NC	g=f|n=s|s=c	_	6	obj	_	_
+9	.	.	PONCT	PONCT	s=s	_	6	ponct	_	_
+
+1	Sa	son	D	DET	g=f|n=s|s=poss	1011111	2	det	_	_
+2	mère	mère	N	NC	g=f|n=s|s=c	0011100	5	suj	_	_
+3	lui	cld	CL	CLO	n=s|s=obj	1101110	5	a_obj	_	_
+4	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	5	aux_tps	_	_
+5	fait	faire	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+6	des	de	D	DET	_	1111110	7	det	_	_
+7	couettes	couette	N	NC	g=f|n=p|s=c	_	5	obj	_	_
+8	avec	avec	P	P	_	1100111	5	mod	_	_
+9	ses	son	D	DET	n=p|s=poss	1011110	10	det	_	_
+10	cheveux	cheveux	N	NC	g=m|n=p|s=c	0011011	8	obj	_	_
+11	.	.	PONCT	PONCT	s=s	_	5	ponct	_	_
+
+1	L'	le	D	DET	n=s|s=def	100	2	det	_	_
+2	enfant	enfant	N	NC	n=s|s=c	0010100	5	suj	_	_
+3	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	5	aux_tps	_	_
+4	devenu	devenir	V	VPP	g=m|m=part|n=s|t=past	1100011	5	aux_pass	_	_
+5	immunisé	immuniser	V	VPP	g=m|m=part|n=s|t=past	_	0	root	_	_
+6	à	à	P	P	_	1100110	5	mod	_	_
+7	la	le	D	DET	g=f|n=s|s=def	100	8	det	_	_
+8	maladie	maladie	N	NC	g=f|n=s|s=c	0011100	6	obj	_	_
+9	.	.	PONCT	PONCT	s=s	_	5	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	évité	éviter	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	l'	le	D	DET	n=s|s=def	100	5	det	_	_
+5	exposition	exposition	N	NC	g=f|n=s|s=c	0011101	3	obj	_	_
+6	à	à	P	P	_	1100110	3	mod	_	_
+7	la	le	D	DET	g=f|n=s|s=def	100	8	det	_	_
+8	maladie	maladie	N	NC	g=f|n=s|s=c	0011100	6	obj	_	_
+9	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	reçu	recevoir	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	un	un	D	DET	g=m|n=s|s=ind	10110	5	det	_	_
+5	vaccin	vaccin	N	NC	g=m|n=s|s=c	_	3	obj	_	_
+6	contre	contre	P	P	_	1100111	5	dep	_	_
+7	la	le	D	DET	g=f|n=s|s=def	100	8	det	_	_
+8	maladie	maladie	N	NC	g=f|n=s|s=c	0011100	6	obj	_	_
+9	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	jus	jus	N	NC	g=m|s=c	0010101	6	suj	_	_
+3	de	de	P	P	_	11110	2	dep	_	_
+4	raisin	raisin	N	NC	g=m|n=s|s=c	0011011	3	obj	_	_
+5	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	6	aux_tps	_	_
+6	fermenté	fermenter	V	VPP	g=m|m=part|n=s|t=past	_	0	root	_	_
+7	.	.	PONCT	PONCT	s=s	_	6	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	jus	jus	N	NC	g=m|s=c	0010101	4	suj	_	_
+3	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	4	aux_tps	_	_
+4	devenu	devenir	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	du	de	P+D	P+D	s=def	1111111	4	mod	_	_
+6	vin	vin	N	NC	g=m|n=s|s=c	0011111	5	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	jus	jus	N	NC	g=m|s=c	0010101	4	suj	_	_
+3	s'	se	CL	CLR	p=3|s=refl	1101100	4	aff	_	_
+4	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	0	root	_	_
+5	évaporé	évaporer	V	VPP	g=m|m=part|n=s|t=past	_	4	ats	_	_
+6	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	débat	débat	N	NC	g=m|n=s|s=c	0011101	7	suj	_	_
+3	entre	entre	P	P	_	1100111	2	dep	_	_
+4	les	le	D	DET	n=p|s=def	100	5	det	_	_
+5	amis	ami	N	NC	g=m|n=p|s=c	0010100	3	obj	_	_
+6	s'	se	CL	CLR	p=3|s=refl	1101100	7	aff	_	_
+7	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	0	root	_	_
+8	prolongé	prolonger	V	VPP	g=m|m=part|n=s|t=past	1100011	7	mod	_	_
+9	de	de	P	P	_	11110	7	de_obj	_	_
+10	façon	façon	N	NC	g=f|n=s|s=c	0011111	9	obj	_	_
+11	interminable	interminable	A	ADJ	n=s|s=qual	_	10	mod	_	_
+12	.	.	PONCT	PONCT	s=s	_	7	ponct	_	_
+
+1	Les	le	D	DET	n=p|s=def	100	2	det	_	_
+2	amis	ami	N	NC	g=m|n=p|s=c	0010100	4	suj	_	_
+3	se	se	CL	CLR	p=3|s=refl	1101100	4	aff	_	_
+4	sont	être	V	V	m=ind|n=p|p=3|t=pst	1101011	0	root	_	_
+5	mis	mettre	V	VPP	g=m|m=part|t=past	1100011	4	mod	_	_
+6	d'_accord	d'accord	ADV	ADV	_	1100011	4	mod	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Les	le	D	DET	n=p|s=def	100	2	det	_	_
+2	amis	ami	N	NC	g=m|n=p|s=c	0010100	4	suj	_	_
+3	ont	avoir	V	V	m=ind|n=p|p=3|t=pst	1101010	4	aux_tps	_	_
+4	coupé	coupé	N	NC	g=m|n=s|s=c	1100011	0	root	_	_
+5	les	le	D	DET	n=p|s=def	100	6	det	_	_
+6	cheveux	cheveux	N	NC	g=m|n=p|s=c	0011011	4	obj	_	_
+7	en	en	P	P	p=3	111110	6	dep	_	_
+8	quatre	quatre	N	NC	g=m|s=card	1010110	7	obj	_	_
+9	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	femme	femme	N	NC	g=f|n=s|s=c	0010100	3	suj	_	_
+3	chantait	chanter	V	V	m=ind|n=s|p=3|t=impft	1101001	0	root	_	_
+4	pour	pour	P	P	_	1100111	3	mod	_	_
+5	elle-même	lui-même	PRO	PRO	_	1100101	4	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	2	suj	_	_
+2	était	être	V	V	m=ind|n=s|p=3|t=impft	1101011	0	root	_	_
+3	nerveuse	nerveux	A	ADJ	g=f|n=s|s=qual	_	2	ats	_	_
+4	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	2	suj	_	_
+2	était	être	V	V	m=ind|n=s|p=3|t=impft	1101011	0	root	_	_
+3	de	de	P	P	_	11110	2	de_obj	_	_
+4	bonne	bon	A	ADJ	g=f|n=s|s=qual	0000011	5	mod	_	_
+5	humeur	humeur	N	NC	g=f|n=s|s=c	0100101	3	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	L'	le	D	DET	n=s|s=def	100	2	det	_	_
+2	homme	homme	N	NC	g=m|n=s|s=c	0010100	3	suj	_	_
+3	détestait	détester	V	V	m=ind|n=s|p=3|t=impft	_	0	root	_	_
+4	sa	son	D	DET	g=f|n=s|s=poss	1011111	6	det	_	_
+5	nouvelle	nouveau	A	ADJ	g=f|n=s|s=qual	0000010	6	mod	_	_
+6	coiffure	coiffure	N	NC	g=f|n=s|s=c	0011011	3	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	2	suj	_	_
+2	portait	porter	V	V	m=ind|n=s|p=3|t=impft	1101001	0	root	_	_
+3	un	un	D	DET	g=m|n=s|s=ind	10110	4	det	_	_
+4	chapeau	chapeau	N	NC	g=m|n=s|s=c	0011111	2	obj	_	_
+5	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	se	se	CL	CLR	p=3|s=refl	1101100	3	aff	_	_
+3	laissa	laisser	V	V	m=ind|n=s|p=3|t=past	1101000	0	root	_	_
+4	pousser	pousser	V	VINF	m=inf	1100000	3	obj	_	_
+5	la	le	D	DET	g=f|n=s|s=def	100	6	det	_	_
+6	barbe	barbe	N	NC	n=s|s=c	0011101	4	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Les	le	D	DET	n=p|s=def	100	2	det	_	_
+2	policiers	policier	N	NC	g=m|n=p|s=c	0010100	4	suj	_	_
+3	ont	avoir	V	V	m=ind|n=p|p=3|t=pst	1101010	4	aux_tps	_	_
+4	visé	viser	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	le	le	D	DET	g=m|n=s|s=def	100	6	det	_	_
+6	figutif	figutif	N	NC	s=c	_	4	obj	_	_
+7	avec	avec	P	P	_	1100111	4	mod	_	_
+8	leurs	son	D	DET	n=p|s=poss	1011110	9	det	_	_
+9	armes	arme	N	NC	g=f|n=p|s=c	0011100	7	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	fugitif	fugitif	N	NC	g=f|n=s|s=c	_	4	suj	_	_
+3	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	4	aux_tps	_	_
+4	tombé	tomber	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	au	à	P+D	P+D	s=def	1111111	4	mod	_	_
+6	sol	sol	N	NC	g=m|n=p|s=c	0011011	5	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	fugitif	fugitif	N	NC	g=f|n=s|s=c	_	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	lâché	lâcher	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	son	son	D	DET	n=s|s=poss	1011110	6	det	_	_
+6	pistolet	pistolet	N	NC	g=m|n=s|s=c	0011111	4	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	patient	patient	N	NC	g=m|n=s|s=c	0010100	3	suj	_	_
+3	était	être	V	V	m=ind|n=s|p=3|t=impft	1101011	0	root	_	_
+4	déshydraté	déshydrater	V	VPP	g=m|m=part|n=s|t=past	_	3	mod	_	_
+5	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	L'	le	D	DET	n=s|s=def	100	2	det	_	_
+2	infirmière	infirmier	N	NC	g=f|n=s|s=c	0101111	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	testé	tester	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	ses	son	D	DET	n=p|s=poss	1011110	6	det	_	_
+6	réflexes	réflexe	N	NC	g=m|n=p|s=c	0011111	4	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	L'	le	D	DET	n=s|s=def	100	2	det	_	_
+2	infirmière	infirmier	A	ADJ	g=f|n=s|s=qual	0101111	5	suj	_	_
+3	lui	cld	CL	CLO	n=s|s=obj	1101110	5	a_obj	_	_
+4	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	5	aux_tps	_	_
+5	mis	mettre	V	VPP	g=m|m=part|t=past	1100011	0	root	_	_
+6	une	un	D	DET	g=f|n=s|s=ind	10110	7	det	_	_
+7	intraveineuse	intraveineux	A	ADJ	g=f|n=s|s=qual	_	5	ats	_	_
+8	.	.	PONCT	PONCT	s=s	_	5	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	fille	fille	N	NC	g=f|n=s|s=c	0010100	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	trouvé	trouver	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	la	le	D	DET	g=f|n=s|s=def	100	6	det	_	_
+6	pièce	pièce	N	NC	g=f|n=s|s=c	0011111	4	obj	_	_
+7	manquante	manquant	A	ADJ	s=qual	1101001	6	mod	_	_
+8	du	de	P+D	P+D	s=def	1111111	6	dep	_	_
+9	puzzle	puzzle	N	NC	g=m|n=s|s=c	0011111	8	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	terminé	terminer	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	le	le	D	DET	g=m|n=s|s=def	100	5	det	_	_
+5	puzzle	puzzle	N	NC	g=m|n=s|s=c	0011111	3	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	défait	défaire	V	VPP	g=m|m=part|n=s|t=past	_	0	root	_	_
+4	le	le	D	DET	g=m|n=s|s=def	100	5	det	_	_
+5	puzzle	puzzle	N	NC	g=m|n=s|s=c	0011111	3	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	L'	le	D	DET	n=s|s=def	100	2	det	_	_
+2	homme	homme	N	NC	g=m|n=s|s=c	0010100	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	sauté	sauter	V	VPP	g=m|m=part|n=s|t=past	1100010	0	root	_	_
+5	du	de	P+D	P+D	s=def	1111111	0	root	_	_
+6	lit	lit	N	NC	g=m|n=s|s=c	0011111	5	obj	_	_
+7	précipitamment	précipitamment	ADV	ADV	_	_	6	mod	_	_
+8	.	.	PONCT	PONCT	s=s	_	5	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	2	suj	_	_
+2	voulait	vouloir	V	V	m=ind|n=s|p=3|t=impft	1101000	0	root	_	_
+3	éteindre	éteindre	V	VINF	m=inf	1100000	2	obj	_	_
+4	le	le	D	DET	g=m|n=s|s=def	100	5	det	_	_
+5	réveil	réveil	N	NC	g=m|n=s|s=c	0011111	3	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	2	suj	_	_
+2	voulait	vouloir	V	V	m=ind|n=s|p=3|t=impft	1101000	0	root	_	_
+3	repasser	repasser	V	VINF	m=inf	1100000	2	obj	_	_
+4	son	son	D	DET	n=s|s=poss	1011110	5	det	_	_
+5	pantalon	pantalon	N	NC	g=m|n=s|s=c	0011011	3	obj	_	_
+6	avant_de	avant_de	P	P	_	1100111	3	mod	_	_
+7	partir	partir	V	VINF	m=inf	1100000	6	obj	_	_
+8	au	à	P+D	P+D	s=def	1111111	7	mod	_	_
+9	travail	travail	N	NC	g=m|n=s|s=c	0011111	8	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	Les	le	D	DET	n=p|s=def	100	2	det	_	_
+2	papiers	papiers	N	NC	g=m|n=p|s=c	0011011	3	suj	_	_
+3	étaient	étayer	V	V	m=ind|n=p|p=3|t=pst	1101011	0	root	_	_
+4	en	en	P	P	p=3	111110	3	mod	_	_
+5	désordre	désordre	N	NC	g=m|n=s|s=c	_	4	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Je	cln	CL	CLS	s=suj	1101110	4	suj	_	_
+2	les	cla	CL	CLO	n=p|s=obj	100	4	obj	_	_
+3	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	1101010	4	aux_tps	_	_
+4	photocopiés	photocopier	V	VPP	g=m|m=part|n=p|t=past	_	0	root	_	_
+5	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Je	cln	CL	CLS	s=suj	1101110	4	suj	_	_
+2	les	cla	CL	CLO	n=p|s=obj	100	4	obj	_	_
+3	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	1101010	4	aux_tps	_	_
+4	rangés	ranger	V	VPP	g=m|m=part|n=p|t=past	1100011	0	root	_	_
+5	alphabétiquement	alphabétiquement	ADV	ADV	_	_	4	mod	_	_
+6	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	femme	femme	N	NC	g=f|n=s|s=c	0010100	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	gagné	gagner	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	à	à	P	P	_	1100110	4	mod	_	_
+6	la	le	D	DET	g=f|n=s|s=def	100	7	det	_	_
+7	loterie	loterie	N	NC	g=f|n=s|s=c	0011101	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	acheté	acheter	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	un	un	D	DET	g=m|n=s|s=ind	10110	5	det	_	_
+5	yacht	yacht	N	NC	g=m|n=s|s=c	_	3	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	rejoint	rejoindre	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	une	un	D	DET	g=f|n=s|s=ind	10110	5	det	_	_
+5	paroisse	paroisse	N	NC	g=f|n=s|s=c	0011101	3	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	couturière	couturière	N	NC	g=f|n=s|s=c	_	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	poussé	pousser	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	l'	le	D	DET	n=s|s=def	100	6	det	_	_
+6	aiguille	aiguille	N	NC	g=f|n=s|s=c	0011010	4	obj	_	_
+7	dans	dans	P	P	_	1100111	4	mod	_	_
+8	le	le	D	DET	g=m|n=s|s=def	100	9	det	_	_
+9	tissu	tissu	N	NC	g=m|n=s|s=c	0011011	7	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	fil	fil	N	NC	g=m|n=s|s=c	0011111	4	suj	_	_
+3	s'	se	CL	CLR	p=3|s=refl	1101100	4	aff	_	_
+4	enroula	enrouler	V	V	m=ind|n=s|p=3|t=past	_	0	root	_	_
+5	autour_de	autour_de	P	P	_	1100111	4	mod	_	_
+6	l'	le	D	DET	n=s|s=def	100	7	det	_	_
+7	aiguille	aiguille	N	NC	g=f|n=s|s=c	0011010	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	fil	fil	N	NC	g=m|n=s|s=c	0011111	3	suj	_	_
+3	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	0	root	_	_
+4	passé	passer	V	VPP	g=m|m=part|n=s|t=past	1100011	3	mod	_	_
+5	à_travers	à_travers	P	P	_	1100111	4	mod	_	_
+6	le	le	D	DET	g=m|n=s|s=def	100	7	det	_	_
+7	tissu	tissu	N	NC	g=m|n=s|s=c	0011011	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	femme	femme	N	NC	g=f|n=s|s=c	0010100	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	engagé	engager	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	un	un	D	DET	g=m|n=s|s=ind	10110	6	det	_	_
+6	avocat	avocat	N	NC	g=m|n=s|s=c	0010101	4	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	décidé	décider	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	de	de	P	P	_	11110	3	de_obj	_	_
+5	poursuivre	poursuivre	V	VINF	m=inf	1100000	4	obj	_	_
+6	son	son	D	DET	n=s|s=poss	1011110	7	det	_	_
+7	employeur	employeur	N	NC	g=m|n=s|s=c	0010100	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	décidé	décider	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	de	de	P	P	_	11110	3	obj	_	_
+5	se	se	CL	CLR	p=3|s=refl	1101100	6	aff	_	_
+6	présenter	présenter	V	VINF	m=inf	1100000	4	obj	_	_
+7	aux	à	P+D	P+D	s=def	1111111	6	a_obj	_	_
+8	élections	élection	N	NC	g=f|n=p|s=c	0011101	7	obj	_	_
+9	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	locataire	locataire	N	NC	n=s|s=c	0010101	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	perdu	perdre	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	les	le	D	DET	n=p|s=def	100	6	det	_	_
+6	clefs	clef	N	NC	g=f|n=p|s=c	0010101	4	obj	_	_
+7	de	de	P	P	_	11110	6	dep	_	_
+8	son	son	D	DET	n=s|s=poss	1011110	9	det	_	_
+9	appartement	appartement	N	NC	g=m|n=s|s=c	0011111	7	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Son	son	D	DET	n=s|s=poss	1011110	2	det	_	_
+2	propriétaire	propriétaire	N	NC	n=s|s=c	0010101	0	root	_	_
+3	à	à	P	P	_	1100110	2	dep	_	_
+4	ouvert	ouvrir	V	VPP	g=m|m=part|n=s|t=past	1100011	3	obj	_	_
+5	la	le	D	DET	g=f|n=s|s=def	100	6	det	_	_
+6	porte	porte	N	NC	g=f|n=s|s=c	0011111	4	mod	_	_
+7	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	Son	son	D	DET	n=s|s=poss	1011110	2	det	_	_
+2	propriétaire	propriétaire	N	NC	n=s|s=c	0010101	0	root	_	_
+3	à	à	P	P	_	1100110	2	dep	_	_
+4	réparé	réparer	V	VPP	g=m|m=part|n=s|t=past	_	3	obj	_	_
+5	la	le	D	DET	g=f|n=s|s=def	100	6	det	_	_
+6	porte	porte	N	NC	g=f|n=s|s=c	0011111	4	mod	_	_
+7	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	Ma	son	D	DET	g=f|n=s|s=poss	1011111	2	det	_	_
+2	chanson	chanson	N	NC	g=f|n=s|s=c	0011100	5	suj	_	_
+3	favorite	favori	A	ADJ	g=f|n=s|s=qual	0100101	2	mod	_	_
+4	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	5	aux_pass	_	_
+5	passée	passer	V	VPP	g=f|m=part|n=s|t=past	0100101	0	root	_	_
+6	à	à	P	P	_	1100110	5	mod	_	_
+7	la	le	D	DET	g=f|n=s|s=def	100	8	det	_	_
+8	radio	radio	N	NC	n=s|s=c	0011100	6	obj	_	_
+9	.	.	PONCT	PONCT	s=s	_	5	ponct	_	_
+
+1	Je	cln	CL	CLS	s=suj	1101110	4	suj	_	_
+2	me	clad	CL	CLO	s=obj	1101101	4	a_obj	_	_
+3	suis	suivre	V	V	m=ind|n=s|p=2|t=pst	1101000	4	aux_pass	_	_
+4	bouché	boucher	V	VPP	g=m|m=part|n=s|t=past	_	0	root	_	_
+5	les	le	D	DET	n=p|s=def	100	6	det	_	_
+6	oreilles	oreille	N	NC	g=f|n=p|s=c	0011111	4	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	J'	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	1101010	3	aux_tps	_	_
+3	chanté	chanter	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	avec	avec	P	P	_	1100111	3	mod	_	_
+5	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	responsable	responsable	N	NC	n=s|s=c	0010101	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	décidé	décider	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	de	de	P	P	_	11110	4	de_obj	_	_
+6	ne_pas	ne_pas	ADV	ADV	_	1100001	7	mod	_	_
+7	recruter	recruter	V	VINF	m=inf	1100000	5	obj	_	_
+8	le	le	D	DET	g=m|n=s|s=def	100	9	det	_	_
+9	candidat	candidat	N	NC	g=m|n=s|s=c	0010101	7	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	candidat	candidat	N	NC	g=m|n=s|s=c	0010101	6	suj	_	_
+3	n'	ne	ADV	ADV	s=neg	1101101	6	mod	_	_
+4	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	6	aux_tps	_	_
+5	pas	pas	ADV	ADV	s=neg	1100010	6	mod	_	_
+6	passé	passer	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+7	la	le	D	DET	g=f|n=s|s=def	100	8	det	_	_
+8	vérification	vérification	N	NC	g=f|n=s|s=c	0011100	6	obj	_	_
+9	de	de	P	P	_	11110	8	dep	_	_
+10	son	son	D	DET	n=s|s=poss	1011110	11	det	_	_
+11	dossier	dossier	N	NC	g=m|n=s|s=c	0011111	9	obj	_	_
+12	.	.	PONCT	PONCT	s=s	_	6	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	candidat	candidat	N	NC	g=m|n=s|s=c	0010101	3	suj	_	_
+3	avait	avoir	V	V	m=ind|n=s|p=3|t=impft	1101010	0	root	_	_
+4	de	de	P	P	_	11110	3	de_obj	_	_
+5	l'	le	D	DET	n=s|s=def	100	6	det	_	_
+6	expérience	expérience	N	NC	g=f|n=s|s=c	0011100	4	obj	_	_
+7	pour	pour	P	P	_	1100111	6	dep	_	_
+8	cet	ce	D	DET	g=m|n=s|s=dem	1011100	9	det	_	_
+9	emploi	emploi	N	NC	g=m|n=s|s=c	0011100	7	obj	_	_
+10	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	L'	le	D	DET	n=s|s=def	100	2	det	_	_
+2	œil	œil	N	NC	g=m|n=s|s=c	0011111	7	suj	_	_
+3	de	de	P	P	_	11110	2	dep	_	_
+4	l'	le	D	DET	n=s|s=def	100	5	det	_	_
+5	homme	homme	N	NC	g=m|n=s|s=c	0010100	3	obj	_	_
+6	s'	se	CL	CLR	p=3|s=refl	1101100	7	aff	_	_
+7	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	0	root	_	_
+8	infecté	infecter	V	VPP	g=m|m=part|n=s|t=past	_	7	ats	_	_
+9	.	.	PONCT	PONCT	s=s	_	7	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	3	aux_tps	_	_
+3	devenu	devenir	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	aveugle	aveugle	A	ADJ	n=s|s=qual	0010101	3	ats	_	_
+5	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	mis	mettre	V	VPP	g=m|m=part|t=past	1100011	0	root	_	_
+4	des	de	D	DET	_	1111110	5	det	_	_
+5	lunettes	lunette	N	NC	g=f|n=p|s=c	0011011	3	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	L'	le	D	DET	n=s|s=def	100	2	det	_	_
+2	oiseau	oiseau	N	NC	g=m|n=s|s=c	0011011	4	suj	_	_
+3	ne	ne	ADV	ADV	s=neg	1101101	4	mod	_	_
+4	pouvait	pouvoir	V	V	m=ind|n=s|p=3|t=impft	1101000	0	root	_	_
+5	pas	pas	ADV	ADV	s=neg	1100010	4	mod	_	_
+6	voler	voler	V	VINF	m=inf	1100000	4	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	émigré	émigrer	V	VPP	g=m|m=part|n=s|t=past	_	0	root	_	_
+4	pour	pour	P	P	_	1100111	3	mod	_	_
+5	l'	le	D	DET	n=s|s=def	100	6	det	_	_
+6	hiver	hiver	N	NC	g=m|n=s|s=c	0011011	4	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	s'	se	CL	CLR	p=3|s=refl	1101100	3	aff	_	_
+3	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	0	root	_	_
+4	blessé	blesser	A	ADJ	g=m|m=part|n=s|s=qual|t=past	0010101	3	ats	_	_
+5	à	à	P	P	_	1100110	3	mod	_	_
+6	l'	le	D	DET	n=s|s=def	100	7	det	_	_
+7	aile	aile	N	NC	g=f|n=s|s=c	0011110	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	fille	fille	N	NC	g=f|n=s|s=c	0010100	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	fait	faire	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	un	un	D	DET	g=m|n=s|s=ind	10110	6	det	_	_
+6	voeu	voeu	N	NC	g=m|n=s|s=c	0100110	4	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	vu	voir	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	un	un	D	DET	g=m|n=s|s=ind	10110	5	det	_	_
+5	chat	chat	N	NC	g=m|n=s|s=c	0011011	3	obj	_	_
+6	noir	noir	A	ADJ	g=m|n=s|s=qual	0100101	5	mod	_	_
+7	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	3	aux_tps	_	_
+3	vu	voir	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+4	une	un	D	DET	g=f|n=s|s=ind	10110	5	det	_	_
+5	étoile	étoile	N	NC	g=f|n=s|s=c	0010100	3	obj	_	_
+6	filante	filant	A	ADJ	g=f|n=s|s=qual	_	5	mod	_	_
+7	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	La	le	D	DET	g=f|n=s|s=def	100	2	det	_	_
+2	femme	femme	N	NC	g=f|n=s|s=c	0010100	3	suj	_	_
+3	frissonait	frissonait	V	V	m=ind	_	0	root	_	_
+4	en	en	P	P	p=3	111110	3	mod	_	_
+5	sortant	sortir	V	VPR	m=part|t=pst	0100101	4	obj	_	_
+6	de	de	P	P	_	11110	5	de_obj	_	_
+7	la	le	D	DET	g=f|n=s|s=def	100	8	det	_	_
+8	piscine	piscine	N	NC	g=f|n=s|s=c	0101111	6	obj	_	_
+9	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	s'	se	CL	CLR	p=3|s=refl	1101100	3	aff	_	_
+3	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	0	root	_	_
+4	enveloppée	envelopper	V	VPP	g=f|m=part|n=s|t=past	_	3	ats	_	_
+5	dans	dans	P	P	_	1100111	4	mod	_	_
+6	une	un	D	DET	g=f|n=s|s=ind	10110	7	det	_	_
+7	serviette	serviette	N	NC	g=f|n=s|s=c	_	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Elle	cln	CL	CLS	s=suj	1101110	3	suj	_	_
+2	s'	se	CL	CLR	p=3|s=refl	1101100	3	aff	_	_
+3	est	être	V	V	m=ind|n=s|p=3|t=pst	1101011	0	root	_	_
+4	servie	servir	V	VPP	g=f|m=part|n=s|t=past	1100011	3	mod	_	_
+5	une	un	D	DET	g=f|n=s|s=ind	10110	6	det	_	_
+6	limonade	limonade	N	NC	g=f|n=s|s=c	_	3	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	L'	le	D	DET	n=s|s=def	100	2	det	_	_
+2	infirmière	infirmier	N	NC	g=f|n=s|s=c	0101111	3	suj	_	_
+3	prépara	préparer	V	V	m=ind|n=s|p=3|t=past	1101001	0	root	_	_
+4	la	le	D	DET	g=f|n=s|s=def	100	5	det	_	_
+5	seringue	seringue	N	NC	g=f|n=s|s=c	_	3	obj	_	_
+6	pour	pour	P	P	_	1100111	3	mod	_	_
+7	l'	le	D	DET	n=s|s=def	100	8	det	_	_
+8	injection	injection	N	NC	g=f|n=s|s=c	_	6	obj	_	_
+9	du	de	P+D	P+D	s=def	1111111	8	dep	_	_
+10	patient	patient	N	NC	g=m|n=s|s=c	0010100	9	obj	_	_
+11	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	patient	patient	N	NC	g=m|n=s|s=c	0010100	3	suj	_	_
+3	saigna	saigner	V	V	m=ind|n=s|p=3|t=past	_	0	root	_	_
+4	.	.	PONCT	PONCT	s=s	_	3	ponct	_	_
+
+1	Le	le	D	DET	g=m|n=s|s=def	100	2	det	_	_
+2	patient	patient	N	NC	g=m|n=s|s=c	0010100	4	suj	_	_
+3	se	se	CL	CLR	p=3|s=refl	1101100	4	aff	_	_
+4	tendit	tendre	V	V	m=ind|n=s|p=3|t=past	1101001	0	root	_	_
+5	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	L'	le	D	DET	n=s|s=def	100	2	det	_	_
+2	homme	homme	N	NC	g=m|n=s|s=c	0010100	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1101010	4	aux_tps	_	_
+4	jeté	jeter	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	le	le	D	DET	g=m|n=s|s=def	100	6	det	_	_
+6	pain	pain	N	NC	g=m|n=s|s=c	0011111	4	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	2	suj	_	_
+2	était	être	V	V	m=ind|n=s|p=3|t=impft	1101011	0	root	_	_
+3	frais	frais	A	ADJ	g=m|s=qual	0010100	2	ats	_	_
+4	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	Il	cln	CL	CLS	s=suj	1101110	2	suj	_	_
+2	était	être	V	V	m=ind|n=s|p=3|t=impft	1101011	0	root	_	_
+3	dur	dur	A	ADJ	g=m|n=s|s=qual	0100100	2	ats	_	_
+4	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	Les	le	D	DET	n=p|s=def	100	2	det	_	_
+2	enfants	enfant	N	NC	n=p|s=c	0010100	4	suj	_	_
+3	ont	avoir	V	V	m=ind|n=p|p=3|t=pst	1101010	4	aux_tps	_	_
+4	renversé	renverser	V	VPP	g=m|m=part|n=s|t=past	1100011	0	root	_	_
+5	une	un	D	DET	g=f|n=s|s=ind	10110	6	det	_	_
+6	lampe	lampe	N	NC	g=f|n=s|s=c	0011101	4	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	4	ponct	_	_
+
+1	Ils	cln	CL	CLS	s=suj	1101110	2	suj	_	_
+2	faisaient	faire	V	V	m=ind|n=p|p=3|t=impft	1101001	0	root	_	_
+3	une	un	D	DET	g=f|n=s|s=ind	10110	4	det	_	_
+4	bataille	bataille	N	NC	g=f|n=s|s=c	0011100	2	obj	_	_
+5	d'	de	P	P	_	11110	4	dep	_	_
+6	oreillers	oreiller	N	NC	g=m|n=p|s=c	_	5	obj	_	_
+7	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+
+1	Ils	cln	CL	CLS	s=suj	1101110	2	suj	_	_
+2	sautaient	sauter	V	V	m=ind|n=p|p=3|t=impft	_	0	root	_	_
+3	sur	sur	P	P	_	1100111	2	mod	_	_
+4	le	le	D	DET	g=m|n=s|s=def	100	5	det	_	_
+5	lit	lit	N	NC	g=m|n=s|s=c	0011111	3	obj	_	_
+6	.	.	PONCT	PONCT	s=s	_	2	ponct	_	_
+

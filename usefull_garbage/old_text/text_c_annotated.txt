@@ -1,0 +1,4186 @@
+1|48) - si vous n' avez pas de login et de mot de passe( car vous n' êtes pas étudiants INSA par_exemple), ou si le votre ne marche pas( c' est qu' on a mal noté votre nom dans la base de donnée de l' amicale) alors contactez le webmaster de l' amicale: webmaster@amicale-insat.fr rp@amicale-insat.fr la com' RP Inventaires Leclerc par vip, le 15/05/2007 Evitez de vous inscrire sur plusieurs sessions des inventaires s' il vous plaît. 
+1	-	-	PONCT	PONCT	s=w	34	ponct	_	_
+2	si	si	C	CS	s=s|marker=349|marker=349	34	mod	_	_
+3	vous	cln	CL	CLS	s=suj	5	suj	_	_
+4	n'	ne	ADV	ADV	s=neg	5	mod	_	_
+5	avez	avoir	V	V	m=ind|n=p|p=2|t=pst	2	obj	_	_
+6	pas	pas	ADV	ADV	s=neg	5	mod	_	_
+7	de	de	P	P	_	5	de_obj	_	_
+8	login	login	N	NC	s=c	7	obj	_	_
+9	et	et	C	CC	s=c	7	coord	_	_
+10	de	de	P	P	_	9	dep_coord	_	_
+11	mot	mot	N	NC	g=m|n=s|s=c	10	obj	_	_
+12	de	de	P	P	_	11	dep	_	_
+13	passe	passe	N	NC	n=s|s=c	12	obj	_	_
+14	(	(	PONCT	PONCT	s=w	2	ponct	_	_
+15	car	car	C	CC	s=c|marker=68	2	coord	_	_
+16	vous	cln	CL	CLS	s=suj	18	suj	_	_
+17	n'	ne	ADV	ADV	s=neg	18	mod	_	_
+18	êtes	être	V	V	m=ind|n=p|p=2|t=pst	15	dep_coord	_	_
+19	pas	pas	ADV	ADV	s=neg	18	mod	_	_
+20	étudiants	étudiant	A	ADJ	g=m|n=p|s=qual	18	ats	_	_
+21	INSA	INSA	N	NPP	s=p	18	obj	_	_
+22	par_exemple	par_exemple	ADV	ADV	_|marker=37	18	mod	_	_
+23	)	)	PONCT	PONCT	s=w	18	ponct	_	_
+24	,	,	PONCT	PONCT	s=w	18	ponct	_	_
+25	ou	ou	C	CC	s=c	2	coord	_	_
+26	si	si	C	CS	s=s	25	dep_coord	_	_
+27	le	le	D	DET	g=m|n=s|s=def	30	obj	_	_
+28	votre	son	D	DET	n=s|s=poss	30	suj	_	_
+29	ne	ne	ADV	ADV	s=neg	30	mod	_	_
+30	marche	marcher	V	V	m=ind|n=s|p=3|t=pst	26	obj	_	_
+31	pas	pas	ADV	ADV	s=neg	30	mod	_	_
+32	(	(	PONCT	PONCT	s=w	30	ponct	_	_
+33	c'	cln	CL	CLS	s=suj	34	suj	_	_
+34	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+35	qu'	que	C	CS	s=s	34	ats	_	_
+36	on	cln	CL	CLS	s=suj	39	suj	_	_
+37	a	avoir	V	V	m=ind|n=s|p=3|t=pst	39	aux_tps	_	_
+38	mal	mal	ADV	ADV	_	39	mod	_	_
+39	noté	noter	V	VPP	g=m|m=part|n=s|t=past	35	obj	_	_
+40	votre	son	D	DET	n=s|s=poss	41	det	_	_
+41	nom	nom	N	NC	g=m|n=s|s=c	39	obj	_	_
+42	dans	dans	P	P	_	39	mod	_	_
+43	la	le	D	DET	g=f|n=s|s=def	44	det	_	_
+44	base	base	N	NC	g=f|n=s|s=c	42	obj	_	_
+45	de	de	P	P	_	44	dep	_	_
+46	donnée	donner	V	VPP	g=f|m=part|n=s|t=past	45	obj	_	_
+47	de	de	P	P	_	46	de_obj	_	_
+48	l'	le	D	DET	n=s|s=def	49	det	_	_
+49	amicale	amical	A	ADJ	g=f|n=s|s=qual	47	obj	_	_
+50	)	)	PONCT	PONCT	s=w	39	ponct	_	_
+51	alors	alors	ADV	ADV	_|marker=7	39	mod	_	_
+52	contactez	contacter	V	V	m=ind|n=p|p=2|t=pst	34	mod	_	_
+53	le	le	D	DET	g=m|n=s|s=def	54	det	_	_
+54	webmaster	webmaster	N	NC	s=c	52	suj	_	_
+55	de	de	P	P	_	54	dep	_	_
+56	l'	le	D	DET	n=s|s=def	57	det	_	_
+57	amicale	amical	A	ADJ	g=f|n=s|s=qual	55	obj	_	_
+58	:	:	PONCT	PONCT	s=w	34	ponct	_	_
+59	webmaster@amicale-insat.fr	webmaster@amicale-insat.fr	N	NPP	s=p	34	mod	_	_
+60	rp@amicale-insat.fr	rp@amicale-insat.fr	N	NPP	s=p	34	ats	_	_
+61	la	le	D	DET	g=f|n=s|s=def	62	det	_	_
+62	com	com	N	NC	s=c	84	suj	_	_
+63	'	'	PONCT	PONCT	s=w	62	ponct	_	_
+64	RP	RP	N	NC	s=c	62	mod	_	_
+65	Inventaires	Inventaire	A	ADJ	s=qual	64	mod	_	_
+66	Leclerc	Leclerc	N	NPP	s=p	64	mod	_	_
+67	par	par	P	P	_	62	dep	_	_
+68	vip	vip	N	NC	s=c	67	obj	_	_
+69	,	,	PONCT	PONCT	s=w	84	ponct	_	_
+70	le	le	D	DET	g=m|n=s|s=def	71	det	_	_
+71	15/05/2007	15/05/2007	N	NC	s=card	84	suj	_	_
+72	Evitez	Evitez	N	NPP	s=p	71	mod	_	_
+73	de	de	P	P	_	71	dep	_	_
+74	vous	clad	CL	CLO	s=obj	75	obj	_	_
+75	inscrire	inscrire	V	VINF	m=inf	73	obj	_	_
+76	sur	sur	P	P	_	75	mod	_	_
+77	plusieurs	plusieurs	D	DET	n=p	78	det	_	_
+78	sessions	session	N	NC	g=f|n=p|s=c	76	obj	_	_
+79	des	de	P+D	P+D	s=def	78	dep	_	_
+80	inventaires	inventaire	N	NC	g=m|n=p|s=c	79	obj	_	_
+81	s'	se	CL	CLR	p=3|s=refl	84	aff	_	_
+82	il	cln	CL	CLS	s=suj	84	suj	_	_
+83	vous	clad	CL	CLO	s=obj	84	a_obj	_	_
+84	plaît	plaire	V	V	m=ind|n=s|p=3|t=pst	34	mod	_	_
+85	.	.	PONCT	PONCT	s=s	34	ponct	_	_
+
+Parents' sons: [5, 14, 15, 25]	Children's sons: [16, 17, 19, 20, 21, 22, 23, 24]
+
+xxxxxxx>  si~pas{CS~ADV|mod~mod}		car{CC|coord}		être~par_exemple{V~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [5, 14, 15, 25]	Children's sons: [16, 17, 19, 20, 21, 22, 23, 24]
+
+xxxxxxx>  si~pas{CS~ADV|mod~mod}		car{CC|coord}		être~par_exemple{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [5, 14, 15, 25]	Children's sons: [16, 17, 19, 20, 21, 22, 23, 24]
+
+xxxxxxx>  si~pas{CS~ADV|mod~mod}		car{CC|coord}		être~par_exemple{V~ADV|dep_coord~mod}		Evidence
+
+
+2|87) Si votre commentaire appelle une réponse d' intérêt général, vous trouverez celle-ci sur la page des" questions et réponses", que je vous conseille de lire avant_de poser votre question, car la réponse s' y trouve peut-être déjà, et vous pouvez aussi aller sur la page" plan du site" et utiliser le moteur de recherche. 
+1	Si	si	C	CS	s=s	12	mod	_	_
+2	votre	son	D	DET	n=s|s=poss	3	det	_	_
+3	commentaire	commentaire	N	NC	g=m|n=s|s=c	4	suj	_	_
+4	appelle	appeler	V	V	m=ind|n=s|p=3|t=pst	1	obj	_	_
+5	une	un	D	DET	g=f|n=s|s=ind	6	det	_	_
+6	réponse	réponse	N	NC	g=f|n=s|s=c	4	obj	_	_
+7	d'	de	P	P	_	6	dep	_	_
+8	intérêt	intérêt	N	NC	g=m|n=s|s=c	7	obj	_	_
+9	général	général	A	ADJ	g=m|n=s|s=qual	8	mod	_	_
+10	,	,	PONCT	PONCT	s=w	12	ponct	_	_
+11	vous	cln	CL	CLS	s=suj	12	suj	_	_
+12	trouverez	trouver	V	V	m=ind|n=p|p=2|t=fut	0	root	_	_
+13	celle-ci	celui-ci	PRO	PRO	g=f|n=s|s=dem	12	mod	_	_
+14	sur	sur	P	P	_	12	mod	_	_
+15	la	le	D	DET	g=f|n=s|s=def	16	det	_	_
+16	page	page	N	NC	n=s|s=c	14	obj	_	_
+17	des	de	P+D	P+D	s=def	16	dep	_	_
+18	"	"	PONCT	PONCT	s=w	19	ponct	_	_
+19	questions	question	N	NC	g=f|n=p|s=c	17	obj	_	_
+20	et	et	C	CC	s=c	19	coord	_	_
+21	réponses	réponse	N	NC	g=f|n=p|s=c	20	dep_coord	_	_
+22	"	"	PONCT	PONCT	s=w	12	ponct	_	_
+23	,	,	PONCT	PONCT	s=w	12	ponct	_	_
+24	que	que	C	CS	s=s	12	obj	_	_
+25	je	cln	CL	CLS	s=suj	27	suj	_	_
+26	vous	clad	CL	CLO	s=obj	27	aff	_	_
+27	conseille	conseiller	V	V	m=ind|n=s|p=3|t=pst	24	obj	_	_
+28	de	de	P	P	_	27	obj	_	_
+29	lire	lire	V	VINF	m=inf	28	obj	_	_
+30	avant_de	avant_de	P	P	_|marker=110	27	mod	_	_
+31	poser	poser	V	VINF	m=inf	30	obj	_	_
+32	votre	son	D	DET	n=s|s=poss	33	det	_	_
+33	question	question	N	NC	g=f|n=s|s=c	31	obj	_	_
+34	,	,	PONCT	PONCT	s=w	12	ponct	_	_
+35	car	car	C	CC	s=c|marker=68	12	coord	_	_
+36	la	le	D	DET	g=f|n=s|s=def	37	det	_	_
+37	réponse	réponse	N	NC	g=f|n=s|s=c	40	suj	_	_
+38	s'	se	CL	CLR	p=3|s=refl	40	aff	_	_
+39	y	y	CL	CLO	p=3|s=obj	40	aff	_	_
+40	trouve	trouver	V	V	m=ind|n=s|p=3|t=pst	35	dep_coord	_	_
+41	peut-être	peut-être	ADV	ADV	_	40	mod	_	_
+42	déjà	déjà	ADV	ADV	_	40	mod	_	_
+43	,	,	PONCT	PONCT	s=w	40	ponct	_	_
+44	et	et	C	CC	s=c	40	coord	_	_
+45	vous	cln	CL	CLS	s=suj	46	suj	_	_
+46	pouvez	pouvoir	V	V	m=ind|n=p|p=2|t=pst	44	dep_coord	_	_
+47	aussi	aussi	ADV	ADV	_|marker=208	46	mod	_	_
+48	aller	aller	V	VINF	m=inf	46	obj	_	_
+49	sur	sur	P	P	_	48	mod	_	_
+50	la	le	D	DET	g=f|n=s|s=def	51	det	_	_
+51	page	page	N	NC	n=s|s=c	49	obj	_	_
+52	"	"	PONCT	PONCT	s=w	51	ponct	_	_
+53	plan	plan	N	NC	g=m|n=s|s=c	51	mod	_	_
+54	du	de	P+D	P+D	s=def	53	dep	_	_
+55	site	site	N	NC	g=m|n=s|s=c	54	obj	_	_
+56	"	"	PONCT	PONCT	s=w	51	ponct	_	_
+57	et	et	C	CC	s=c	48	coord	_	_
+58	utiliser	utiliser	V	VINF	m=inf	57	dep_coord	_	_
+59	le	le	D	DET	g=m|n=s|s=def	60	det	_	_
+60	moteur	moteur	N	NC	g=m|n=s|s=c	58	obj	_	_
+61	de	de	P	P	_	60	dep	_	_
+62	recherche	recherche	N	NC	g=f|n=s|s=c	61	obj	_	_
+63	.	.	PONCT	PONCT	s=s	12	ponct	_	_
+
+Parents' sons: [1, 10, 11, 13, 14, 22, 23, 24, 34, 35, 63]	Children's sons: [37, 38, 39, 41, 42, 43, 44]
+
+------->  trouver{V|root}		car{CC|coord}		trouver~déjà{V~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [1, 10, 11, 13, 14, 22, 23, 24, 34, 35, 63]	Children's sons: [37, 38, 39, 41, 42, 43, 44]
+
+------->  trouver{V|root}		car{CC|coord}		trouver~déjà{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 10, 11, 13, 14, 22, 23, 24, 34, 35, 63]	Children's sons: [37, 38, 39, 41, 42, 43, 44]
+
+------->  trouver{V|root}		car{CC|coord}		trouver~déjà{V~ADV|dep_coord~mod}		Evidence
+
+
+3|106) Un_peu_plus tard, des dizaines d'_autres immigrés sont amenés aux urgences car un incendie s' est déclaré dans l' atelier clandestin où ils travaillaient. 
+1	Un_peu_plus	un_peu_plus	ADV	ADV	_	2	mod	_	_
+2	tard	tard	ADV	ADV	_	9	mod	_	_
+3	,	,	PONCT	PONCT	s=w	9	ponct	_	_
+4	des	de	D	DET	_	5	det	_	_
+5	dizaines	dizaine	N	NC	g=f|n=p|s=c	9	suj	_	_
+6	d'_autres	d'autres	D	DET	_	7	det	_	_
+7	immigrés	immigré	N	NC	g=m|n=p|s=c	5	mod	_	_
+8	sont	être	V	V	m=ind|n=p|p=3|t=pst	9	aux_pass	_	_
+9	amenés	amener	V	VPP	g=m|m=part|n=p|t=past	0	root	_	_
+10	aux	à	P+D	P+D	s=def	9	a_obj	_	_
+11	urgences	urgence	N	NC	g=f|n=p|s=c	10	obj	_	_
+12	car	car	C	CC	s=c|marker=68	9	coord	_	_
+13	un	un	D	DET	g=m|n=s|s=ind	14	det	_	_
+14	incendie	incendie	N	NC	g=m|n=s|s=c	17	suj	_	_
+15	s'	se	CL	CLR	p=3|s=refl	17	aff	_	_
+16	est	être	V	V	m=ind|n=s|p=3|t=pst	17	aux_tps	_	_
+17	déclaré	déclarer	V	VPP	g=m|m=part|n=s|t=past	12	dep_coord	_	_
+18	dans	dans	P	P	_	17	mod	_	_
+19	l'	le	D	DET	n=s|s=def	20	det	_	_
+20	atelier	atelier	N	NC	g=m|n=s|s=c	18	obj	_	_
+21	clandestin	clandestin	A	ADJ	g=m|n=s|s=qual	20	mod	_	_
+22	où	où	PRO	PROREL	s=rel	24	obj	_	_
+23	ils	cln	CL	CLS	s=suj	24	suj	_	_
+24	travaillaient	travailler	V	V	m=ind|n=p|p=3|t=impft	20	mod_rel	_	_
+25	.	.	PONCT	PONCT	s=s	9	ponct	_	_
+
+Parents' sons: [2, 3, 5, 8, 10, 12, 25]	Children's sons: [14, 15, 16, 18]
+
+------->  dizaine~amener~immigré{NC~VPP~NC|suj~root~mod}		car{CC|coord}		incendie~déclarer{NC~VPP|suj~dep_coord}		Causation
+
+
+Parents' sons: [2, 3, 5, 8, 10, 12, 25]	Children's sons: [14, 15, 16, 18]
+
+------->  dizaine~amener~immigré{NC~VPP~NC|suj~root~mod}		car{CC|coord}		incendie~déclarer{NC~VPP|suj~dep_coord}		FR_Cause_enunciation
+
+
+Parents' sons: [2, 3, 5, 8, 10, 12, 25]	Children's sons: [14, 15, 16, 18]
+
+------->  dizaine~amener~immigré{NC~VPP~NC|suj~root~mod}		car{CC|coord}		incendie~déclarer{NC~VPP|suj~dep_coord}		Evidence
+
+
+4|180) Ce dernier produit est à utiliser avec modération car il attaque les élastiques à la longue. 
+1	Ce	ce	D	DET	g=m|n=s|s=dem	3	det	_	_
+2	dernier	dernier	A	ADJ	g=m|n=s|s=ord	3	mod	_	_
+3	produit	produit	N	NC	g=m|n=s|s=c	4	suj	_	_
+4	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+5	à	à	P	P	_	4	ats	_	_
+6	utiliser	utiliser	V	VINF	m=inf	5	obj	_	_
+7	avec	avec	P	P	_	6	mod	_	_
+8	modération	modération	N	NC	g=f|n=s|s=c	7	obj	_	_
+9	car	car	C	CC	s=c|marker=68	4	coord	_	_
+10	il	cln	CL	CLS	s=suj	11	suj	_	_
+11	attaque	attaquer	V	V	m=ind|n=s|p=3|t=pst	9	dep_coord	_	_
+12	les	le	D	DET	n=p|s=def	13	det	_	_
+13	élastiques	élastique	N	NC	g=m|n=p|s=c	11	obj	_	_
+14	à	à	P	P	_	11	mod	_	_
+15	la	le	D	DET	g=f|n=s|s=def	16	det	_	_
+16	longue	long	A	ADJ	g=f|n=s|s=qual	14	obj	_	_
+17	.	.	PONCT	PONCT	s=s	4	ponct	_	_
+
+Parents' sons: [3, 5, 9, 17]	Children's sons: [10, 13, 14]
+
+------->  produit~être~dernier{NC~V~ADJ|suj~root~mod}		car{CC|coord}		attaquer~élastique{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [3, 5, 9, 17]	Children's sons: [10, 13, 14]
+
+------->  produit~être~dernier{NC~V~ADJ|suj~root~mod}		car{CC|coord}		attaquer~élastique{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [3, 5, 9, 17]	Children's sons: [10, 13, 14]
+
+------->  produit~être~dernier{NC~V~ADJ|suj~root~mod}		car{CC|coord}		attaquer~élastique{V~NC|dep_coord~obj}		Evidence
+
+
+5|199) Les types de couches ont des durées de séchage différente, à savoir que les TE1 intégrales sèchent relativement plus longtemps que les couches traditionnelles alors_que pour les TE1 à poche, une ½ journée peut suffire selon la température ambiante, car ces couches ne sont pas confectionnés en tissu absorbant( PUL + polaire en règle générale). 
+1	Les	le	D	DET	n=p|s=def	2	det	_	_
+2	types	type	N	NC	g=m|n=p|s=c	5	suj	_	_
+3	de	de	P	P	_	2	dep	_	_
+4	couches	couche	N	NC	g=f|n=p|s=c	3	obj	_	_
+5	ont	avoir	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+6	des	de	D	DET	_	7	det	_	_
+7	durées	durée	N	NC	g=f|n=p|s=c	5	obj	_	_
+8	de	de	P	P	_	7	dep	_	_
+9	séchage	séchage	N	NC	g=m|n=s|s=c	8	obj	_	_
+10	différente	différent	A	ADJ	g=f|n=s|s=qual	9	mod	_	_
+11	,	,	PONCT	PONCT	s=w	5	ponct	_	_
+12	à	à	P	P	_	5	mod	_	_
+13	savoir	savoir	V	VINF	m=inf	12	obj	_	_
+14	que	que	C	CS	s=s	13	obj	_	_
+15	les	le	D	DET	n=p|s=def	16	det	_	_
+16	TE1	TE1	N	NC	s=c	18	suj	_	_
+17	intégrales	intégral	A	ADJ	g=f|n=p|s=qual	16	mod	_	_
+18	sèchent	sécher	V	V	m=ind|n=p|p=3|t=pst	14	obj	_	_
+19	relativement	relativement	ADV	ADV	_	21	mod	_	_
+20	plus	plus	ADV	ADV	s=neg	21	mod	_	_
+21	longtemps	longtemps	ADV	ADV	_	18	mod	_	_
+22	que	que	C	CS	s=s	21	dep	_	_
+23	les	le	D	DET	n=p|s=def	24	det	_	_
+24	couches	couche	N	NC	g=f|n=p|s=c	22	obj	_	_
+25	traditionnelles	traditionnel	A	ADJ	g=f|n=p|s=qual	24	mod	_	_
+26	alors_que	alors_que	C	CS	s=s|marker=5	18	mod	_	_
+27	pour	pour	P	P	_	18	mod	_	_
+28	les	le	D	DET	n=p|s=def	29	det	_	_
+29	TE1	TE1	N	NC	s=c	27	obj	_	_
+30	à	à	P	P	_	18	mod	_	_
+31	poche	poche	N	NC	n=s|s=c	30	obj	_	_
+32	,	,	PONCT	PONCT	s=w	18	ponct	_	_
+33	une	un	D	DET	g=f|n=s|s=ind	34	det	_	_
+34	½	demi	N	NC	g=m|n=s|s=c	18	mod	_	_
+35	journée	journée	N	NC	g=f|n=s|s=c	34	mod	_	_
+36	peut	pouvoir	V	V	m=ind|n=s|p=3|t=pst	13	dep	_	_
+37	suffire	suffire	V	VINF	m=inf	13	obj	_	_
+38	selon	selon	P	P	_|marker=199	37	mod	_	_
+39	la	le	D	DET	g=f|n=s|s=def	40	det	_	_
+40	température	température	N	NC	g=f|n=s|s=c	38	obj	_	_
+41	ambiante	ambiant	A	ADJ	g=f|n=s|s=qual	40	mod	_	_
+42	,	,	PONCT	PONCT	s=w	5	ponct	_	_
+43	car	car	C	CC	s=c|marker=68	5	coord	_	_
+44	ces	ce	D	DET	n=p|s=dem	45	det	_	_
+45	couches	couche	N	NC	g=f|n=p|s=c	49	suj	_	_
+46	ne	ne	ADV	ADV	s=neg	49	mod	_	_
+47	sont	être	V	V	m=ind|n=p|p=3|t=pst	49	aux_pass	_	_
+48	pas	pas	ADV	ADV	s=neg	49	mod	_	_
+49	confectionnés	confectionner	V	VPP	g=m|m=part|n=p|t=past	43	dep_coord	_	_
+50	en	en	P	P	p=3	49	mod	_	_
+51	tissu	tissu	N	NC	g=m|n=s|s=c	50	obj	_	_
+52	absorbant	absorbant	A	ADJ	g=m|n=s|s=qual	51	mod	_	_
+53	(	(	PONCT	PONCT	s=w	51	ponct	_	_
+54	PUL	PUL	N	NC	s=c	51	mod	_	_
+55	+	plus	ADV	ADV	s=neg	56	mod	_	_
+56	polaire	polaire	A	ADJ	n=s|s=qual	54	mod	_	_
+57	en	en	P	P	p=3	49	mod	_	_
+58	règle	règle	N	NC	g=f|n=s|s=c	57	obj	_	_
+59	générale	général	A	ADJ	g=f|n=s|s=qual	58	mod	_	_
+60	)	)	PONCT	PONCT	s=w	49	ponct	_	_
+61	.	.	PONCT	PONCT	s=s	5	ponct	_	_
+
+Parents' sons: [2, 7, 11, 12, 42, 43, 61]	Children's sons: [45, 46, 47, 48, 50, 57, 60]
+
+------->  avoir~durée{V~NC|root~obj}		car{CC|coord}		confectionner~pas{VPP~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [2, 7, 11, 12, 42, 43, 61]	Children's sons: [45, 46, 47, 48, 50, 57, 60]
+
+------->  avoir~durée{V~NC|root~obj}		car{CC|coord}		confectionner~pas{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [2, 7, 11, 12, 42, 43, 61]	Children's sons: [45, 46, 47, 48, 50, 57, 60]
+
+------->  avoir~durée{V~NC|root~obj}		car{CC|coord}		confectionner~pas{VPP~ADV|dep_coord~mod}		Evidence
+
+
+6|226) Au final, la R19 16s est une voiture équilibrée, confortable et fiable, et abordable à l' achat car moins prisée que sa petite soeur( la Clio 16s) compensant son manque de puissance( relatif) par un comportement routier irréprochable, qui la rend difficile à classer: pas tout_à_fait une GTI et pas tout_à_fait une GT 
+1	Au	à	P+D	P+D	s=def	7	mod	_	_
+2	final	final	A	ADJ	g=m|n=s|s=qual	1	obj	_	_
+3	,	,	PONCT	PONCT	s=w	7	ponct	_	_
+4	la	le	D	DET	g=f|n=s|s=def	5	det	_	_
+5	R19	R19	N	NC	s=c	7	suj	_	_
+6	16s	16s	A	ADJ	s=qual	5	mod	_	_
+7	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+8	une	un	D	DET	g=f|n=s|s=ind	9	det	_	_
+9	voiture	voiture	N	NC	g=f|n=s|s=c	7	ats	_	_
+10	équilibrée	équilibrer	A	ADJ	g=f|m=part|n=s|s=qual|t=past	9	mod	_	_
+11	,	,	PONCT	PONCT	s=w	9	ponct	_	_
+12	confortable	confortable	A	ADJ	n=s|s=qual	9	mod	_	_
+13	et	et	C	CC	s=c	12	coord	_	_
+14	fiable	fiable	A	ADJ	n=s|s=qual	13	dep_coord	_	_
+15	,	,	PONCT	PONCT	s=w	7	ponct	_	_
+16	et	et	C	CC	s=c	7	coord	_	_
+17	abordable	abordable	A	ADJ	n=s|s=qual	16	dep_coord	_	_
+18	à	à	P	P	_	16	dep_coord	_	_
+19	l'	le	D	DET	n=s|s=def	20	det	_	_
+20	achat	achat	N	NC	g=m|n=s|s=c	18	obj	_	_
+21	car	car	C	CC	s=c|marker=68	7	coord	_	_
+22	moins	moins	ADV	ADV	_	23	mod	_	_
+23	prisée	priser	V	VPP	g=f|m=part|n=s|t=past	21	dep_coord	_	_
+24	que	que	C	CS	s=s	23	dep	_	_
+25	sa	son	D	DET	g=f|n=s|s=poss	27	det	_	_
+26	petite	petit	A	ADJ	g=f|n=s|s=qual	27	mod	_	_
+27	soeur	soeur	N	NC	g=f|n=s|s=c	33	suj	_	_
+28	(	(	PONCT	PONCT	s=w	27	ponct	_	_
+29	la	le	D	DET	g=f|n=s|s=def	30	det	_	_
+30	Clio	Clio	N	NPP	g=f|n=s|s=p	27	mod	_	_
+31	16s	16s	A	ADJ	s=qual	30	mod	_	_
+32	)	)	PONCT	PONCT	s=w	30	ponct	_	_
+33	compensant	compenser	V	VPR	m=part|t=pst	24	obj	_	_
+34	son	son	D	DET	n=s|s=poss	35	det	_	_
+35	manque	manque	N	NC	n=s|s=c	33	obj	_	_
+36	de	de	P	P	_	35	dep	_	_
+37	puissance	puissance	N	NC	g=f|n=s|s=c	36	obj	_	_
+38	(	(	PONCT	PONCT	s=w	35	ponct	_	_
+39	relatif	relatif	A	ADJ	g=m|n=s|s=qual	35	mod	_	_
+40	)	)	PONCT	PONCT	s=w	35	ponct	_	_
+41	par	par	P	P	_	35	dep	_	_
+42	un	un	D	DET	g=m|n=s|s=ind	43	det	_	_
+43	comportement	comportement	N	NC	g=m|n=s|s=c	41	obj	_	_
+44	routier	routier	A	ADJ	g=m|n=s|s=qual	43	mod	_	_
+45	irréprochable	irréprochable	A	ADJ	n=s|s=qual	43	mod	_	_
+46	,	,	PONCT	PONCT	s=w	43	ponct	_	_
+47	qui	qui	PRO	PROREL	s=rel	49	suj	_	_
+48	la	cla	CL	CLO	g=f|n=s|s=obj	49	obj	_	_
+49	rend	rendre	V	V	m=ind|n=s|p=3|t=pst	43	mod_rel	_	_
+50	difficile	difficile	A	ADJ	n=s|s=qual	49	ats	_	_
+51	à	à	P	P	_	49	mod	_	_
+52	classer	classer	V	VINF	m=inf	51	obj	_	_
+53	:	:	PONCT	PONCT	s=w	7	ponct	_	_
+54	pas	pas	ADV	ADV	s=neg	55	mod	_	_
+55	tout_à_fait	tout_à_fait	ADV	ADV	_	7	mod	_	_
+56	une	un	D	DET	g=f|n=s|s=ind	57	det	_	_
+57	GTI	GTI	N	NC	s=c	7	ats	_	_
+58	et	et	C	CC	s=c	57	coord	_	_
+59	pas	pas	ADV	ADV	s=neg	60	mod	_	_
+60	tout_à_fait	tout_à_fait	ADV	ADV	_	58	mod	_	_
+61	une	un	D	DET	g=f|n=s|s=ind	62	det	_	_
+62	GT	GT	N	NPP	s=p	58	dep_coord	_	_
+
+Parents' sons: [1, 3, 5, 9, 15, 16, 21, 53, 55, 57]	Children's sons: [22, 24]
+
+------->  être~voiture~confortable{V~NC~ADJ|root~ats~mod}		car{CC|coord}		priser~moins{VPP~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [1, 3, 5, 9, 15, 16, 21, 53, 55, 57]	Children's sons: [22, 24]
+
+------->  être~voiture~confortable{V~NC~ADJ|root~ats~mod}		car{CC|coord}		priser~moins{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 3, 5, 9, 15, 16, 21, 53, 55, 57]	Children's sons: [22, 24]
+
+------->  être~voiture~confortable{V~NC~ADJ|root~ats~mod}		car{CC|coord}		priser~moins{VPP~ADV|dep_coord~mod}		Evidence
+
+
+7|266) La séance de kiné de ce matin à fait plus_ou_moins de bien, je n' ai eu que séance de massage sans exercices car j' avais des douleurs musculaires. 
+1	La	le	D	DET	g=f|n=s|s=def	2	det	_	_
+2	séance	séance	N	NC	g=f|n=s|s=c	0	root	_	_
+3	de	de	P	P	_	2	dep	_	_
+4	kiné	kinésithérapeute	N	NC	n=s|s=c	3	obj	_	_
+5	de	de	P	P	_	4	dep	_	_
+6	ce	ce	D	DET	g=m|n=s|s=dem	7	det	_	_
+7	matin	matin	N	NC	g=m|n=s|s=c	5	obj	_	_
+8	à	à	P	P	_	2	dep	_	_
+9	fait	fait	N	NC	g=m|n=s|s=c	8	obj	_	_
+10	plus_ou_moins	plus_ou_moins	ADV	ADV	_	17	mod	_	_
+11	de	de	P	P	_	17	mod	_	_
+12	bien	bien	ADV	ADV	_	11	obj	_	_
+13	,	,	PONCT	PONCT	s=w	17	ponct	_	_
+14	je	cln	CL	CLS	s=suj	17	suj	_	_
+15	n'	ne	ADV	ADV	s=neg	17	mod	_	_
+16	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	17	aux_tps	_	_
+17	eu	avoir	V	VPP	g=m|m=part|n=s|t=past	2	mod	_	_
+18	que	que	ADV	ADV	_	17	mod	_	_
+19	séance	séance	N	NC	g=f|n=s|s=c	17	obj	_	_
+20	de	de	P	P	_	19	dep	_	_
+21	massage	massage	N	NC	g=m|n=s|s=c	20	obj	_	_
+22	sans	sans	P	P	_|marker=352	17	mod	_	_
+23	exercices	exercice	N	NC	g=m|n=p|s=c	22	obj	_	_
+24	car	car	C	CC	s=c|marker=68	17	coord	_	_
+25	j'	cln	CL	CLS	s=suj	26	suj	_	_
+26	avais	avoir	V	V	m=ind|n=s|p=2|t=impft	24	dep_coord	_	_
+27	des	de	D	DET	_	28	det	_	_
+28	douleurs	douleur	N	NC	g=f|n=p|s=c	26	obj	_	_
+29	musculaires	musculaire	A	ADJ	n=p|s=qual	28	mod	_	_
+30	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [10, 11, 13, 14, 15, 16, 18, 19, 22, 24]	Children's sons: [25, 28]
+
+------->  avoir~séance{VPP~NC|mod~obj}		car{CC|coord}		avoir~douleur{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [10, 11, 13, 14, 15, 16, 18, 19, 22, 24]	Children's sons: [25, 28]
+
+------->  avoir~séance{VPP~NC|mod~obj}		car{CC|coord}		avoir~douleur{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [10, 11, 13, 14, 15, 16, 18, 19, 22, 24]	Children's sons: [25, 28]
+
+------->  avoir~séance{VPP~NC|mod~obj}		car{CC|coord}		avoir~douleur{V~NC|dep_coord~obj}		Evidence
+
+
+8|305) autre question: je travaille en_particulier sur l' information et la communication dans ce lycée car sa taille et sa structure( pour aller au 2ème étage à_partir_du rez-de-chaussée, il faut d'_abord en descendre un, passer par des couloirs interminable avant_de remonter au rez de chaussée, de ressortir pour passer par une autre porte et monter ces deux fameux étages... 
+1	autre	autre	A	ADJ	n=s|s=ind	2	mod	_	_
+2	question	question	N	NC	g=f|n=s|s=c	5	mod	_	_
+3	:	:	PONCT	PONCT	s=w	5	ponct	_	_
+4	je	cln	CL	CLS	s=suj	5	suj	_	_
+5	travaille	travailler	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+6	en_particulier	en_particulier	ADV	ADV	_|marker=82	5	mod	_	_
+7	sur	sur	P	P	_	5	mod	_	_
+8	l'	le	D	DET	n=s|s=def	9	det	_	_
+9	information	information	N	NC	g=f|n=s|s=c	7	obj	_	_
+10	et	et	C	CC	s=c	5	coord	_	_
+11	la	le	D	DET	g=f|n=s|s=def	12	det	_	_
+12	communication	communication	N	NC	g=f|n=s|s=c	32	suj	_	_
+13	dans	dans	P	P	_	12	dep	_	_
+14	ce	ce	D	DET	g=m|n=s|s=dem	15	det	_	_
+15	lycée	lycée	N	NC	g=m|n=s|s=c	13	obj	_	_
+16	car	car	C	CC	s=c|marker=68	12	coord	_	_
+17	sa	son	D	DET	g=f|n=s|s=poss	18	det	_	_
+18	taille	taille	N	NC	g=f|n=s|s=c	16	dep_coord	_	_
+19	et	et	C	CC	s=c	18	coord	_	_
+20	sa	son	D	DET	g=f|n=s|s=poss	21	det	_	_
+21	structure	structure	N	NC	g=f|n=s|s=c	19	dep_coord	_	_
+22	(	(	PONCT	PONCT	s=w	12	ponct	_	_
+23	pour	pour	P	P	_	12	dep	_	_
+24	aller	aller	V	VINF	m=inf	23	obj	_	_
+25	au	à	P+D	P+D	s=def	24	mod	_	_
+26	2ème	2ème	A	ADJ	s=qual	27	mod	_	_
+27	étage	étage	N	NC	g=m|n=s|s=c	25	obj	_	_
+28	à_partir_du	à_partir_de	P	P	_	27	dep	_	_
+29	rez-de-chaussée	rez-de-chaussée	N	NC	g=m|s=c	28	obj	_	_
+30	,	,	PONCT	PONCT	s=w	32	ponct	_	_
+31	il	cln	CL	CLS	s=suj	32	suj	_	_
+32	faut	falloir	V	V	m=ind|n=s|p=3|t=pst	10	dep_coord	_	_
+33	d'_abord	d'abord	ADV	ADV	_	32	mod	_	_
+34	en	en	CL	CLO	p=3|s=obj	35	aff	_	_
+35	descendre	descendre	V	VINF	m=inf	32	obj	_	_
+36	un	un	PRO	PRO	g=m|n=s|s=ind	35	obj	_	_
+37	,	,	PONCT	PONCT	s=w	32	ponct	_	_
+38	passer	passer	V	VINF	m=inf	32	obj	_	_
+39	par	par	P	P	_	38	p_obj	_	_
+40	des	de	D	DET	_	41	det	_	_
+41	couloirs	couloir	N	NC	g=m|n=p|s=c	39	obj	_	_
+42	interminable	interminable	A	ADJ	n=s|s=qual	41	mod	_	_
+43	avant_de	avant_de	P	P	_|marker=110	32	mod	_	_
+44	remonter	remonter	V	VINF	m=inf	43	obj	_	_
+45	au	à	P+D	P+D	s=def	44	mod	_	_
+46	rez	rez	N	NC	g=m|s=c	45	obj	_	_
+47	de	de	P	P	_	46	dep	_	_
+48	chaussée	chaussée	N	NC	g=f|n=s|s=c	47	obj	_	_
+49	,	,	PONCT	PONCT	s=w	44	ponct	_	_
+50	de	de	P	P	_	44	mod	_	_
+51	ressortir	ressortir	V	VINF	m=inf	50	obj	_	_
+52	pour	pour	P	P	_	51	mod	_	_
+53	passer	passer	V	VINF	m=inf	52	obj	_	_
+54	par	par	P	P	_	53	mod	_	_
+55	une	un	D	DET	g=f|n=s|s=ind	57	det	_	_
+56	autre	autre	A	ADJ	n=s|s=ind	57	mod	_	_
+57	porte	porte	N	NC	g=f|n=s|s=c	54	obj	_	_
+58	et	et	C	CC	s=c	53	coord	_	_
+59	monter	monter	V	VINF	m=inf	58	dep_coord	_	_
+60	ces	ce	D	DET	n=p|s=dem	63	det	_	_
+61	deux	deux	N	NC	g=m|s=card	63	mod	_	_
+62	fameux	fameux	A	ADJ	g=m|s=qual	63	mod	_	_
+63	étages	étage	N	NC	g=m|n=p|s=c	59	obj	_	_
+64	...	...	PONCT	PONCT	s=s	5	ponct	_	_
+
+Parents' sons: [11, 13, 16, 22, 23]	Children's sons: [17, 19]
+
+------->  communication{NC|suj}		car{CC|coord}		taille{NC|dep_coord}		Causation
+
+
+Parents' sons: [11, 13, 16, 22, 23]	Children's sons: [17, 19]
+
+------->  communication{NC|suj}		car{CC|coord}		taille{NC|dep_coord}		FR_Cause_enunciation
+
+
+Parents' sons: [11, 13, 16, 22, 23]	Children's sons: [17, 19]
+
+------->  communication{NC|suj}		car{CC|coord}		taille{NC|dep_coord}		Evidence
+
+
+9|309) merci ali de toutes tes lumières, n' hésite pas à m' envoyer par mail toutes les infos( textes) dont tu disposes à mon adresse mail, car il faut croire que même le facteur a peur d' entrer! 
+1	merci	merci	N	NC	g=m|n=s|s=c	9	mod	_	_
+2	ali	ali	A	ADJ	s=qual	1	mod	_	_
+3	de	de	P	P	_	1	dep	_	_
+4	toutes	tout	A	ADJ	g=f|n=p|s=ind	6	mod	_	_
+5	tes	son	D	DET	n=p|s=poss	6	det	_	_
+6	lumières	lumière	N	NC	g=f|n=p|s=c	3	obj	_	_
+7	,	,	PONCT	PONCT	s=w	9	ponct	_	_
+8	n'	ne	ADV	ADV	s=neg	9	mod	_	_
+9	hésite	hésiter	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+10	pas	pas	ADV	ADV	s=neg	9	mod	_	_
+11	à	à	P	P	_	9	mod	_	_
+12	m'	cla	CL	CLO	n=s|s=obj	13	obj	_	_
+13	envoyer	envoyer	V	VINF	m=inf	11	obj	_	_
+14	par	par	P	P	_	13	mod	_	_
+15	mail	mail	N	NC	g=m|n=s|s=c	14	obj	_	_
+16	toutes	tout	A	ADJ	g=f|n=p|s=ind	18	mod	_	_
+17	les	le	D	DET	n=p|s=def	18	det	_	_
+18	infos	info	N	NC	g=f|n=p|s=c	13	obj	_	_
+19	(	(	PONCT	PONCT	s=w	18	ponct	_	_
+20	textes	texte	N	NC	g=m|n=p|s=c	18	mod	_	_
+21	)	)	PONCT	PONCT	s=w	18	ponct	_	_
+22	dont	dont	PRO	PROREL	s=rel	23	de_obj	_	_
+23	tu	taire	V	VPP	g=m|m=part|n=s|t=past	18	mod_rel	_	_
+24	disposes	dispos	A	ADJ	g=f|n=p|s=qual	23	ats	_	_
+25	à	à	P	P	_	23	mod	_	_
+26	mon	son	D	DET	n=s|s=poss	27	det	_	_
+27	adresse	adresse	N	NC	g=f|n=s|s=c	25	obj	_	_
+28	mail	mail	N	NC	g=m|n=s|s=c	27	mod	_	_
+29	,	,	PONCT	PONCT	s=w	9	ponct	_	_
+30	car	car	C	CC	s=c|marker=68	9	coord	_	_
+31	il	cln	CL	CLS	s=suj	32	suj	_	_
+32	faut	falloir	V	V	m=ind|n=s|p=3|t=pst	30	dep_coord	_	_
+33	croire	croire	V	VINF	m=inf	32	obj	_	_
+34	que	que	C	CS	s=s	33	obj	_	_
+35	même	même	ADV	ADV	_	38	mod	_	_
+36	le	le	D	DET	g=m|n=s|s=def	37	det	_	_
+37	facteur	facteur	N	NC	g=m|n=s|s=c	38	suj	_	_
+38	a	avoir	V	V	m=ind|n=s|p=3|t=pst	34	obj	_	_
+39	peur	peur	N	NC	g=f|n=s|s=c	38	obj	_	_
+40	d'	de	P	P	_	38	mod	_	_
+41	entrer	entrer	V	VINF	m=inf	40	obj	_	_
+42	!	!	PONCT	PONCT	s=s	9	ponct	_	_
+
+Parents' sons: [1, 7, 8, 10, 11, 29, 30, 42]	Children's sons: [31, 33]
+
+------->  hésiter~pas{V~ADV|root~mod}		car{CC|coord}		falloir~croire{V~VINF|dep_coord~obj}		Causation
+
+
+Parents' sons: [1, 7, 8, 10, 11, 29, 30, 42]	Children's sons: [31, 33]
+
+------->  hésiter~pas{V~ADV|root~mod}		car{CC|coord}		falloir~croire{V~VINF|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 7, 8, 10, 11, 29, 30, 42]	Children's sons: [31, 33]
+
+------->  hésiter~pas{V~ADV|root~mod}		car{CC|coord}		falloir~croire{V~VINF|dep_coord~obj}		Evidence
+
+
+10|312) pour ce qui est de cette fameuse réunion du 8, je pense que je ne pourrai pas y être, car ma co- driver ne semble pas décidée, et moi pas permis de conduire et lycée pas vouloir payer train! 
+1	pour	pour	P	P	_	13	mod	_	_
+2	ce	ce	PRO	PRO	_	1	obj	_	_
+3	qui	qui	PRO	PROREL	s=rel	4	suj	_	_
+4	est	être	V	V	m=ind|n=s|p=3|t=pst	2	mod_rel	_	_
+5	de	de	P	P	_	4	ats	_	_
+6	cette	ce	D	DET	g=f|n=s|s=dem	8	det	_	_
+7	fameuse	fameux	A	ADJ	g=f|n=s|s=qual	8	mod	_	_
+8	réunion	réunion	N	NC	g=f|n=s|s=c	5	obj	_	_
+9	du	de	P+D	P+D	s=def	8	dep	_	_
+10	8	8	N	NC	s=card	9	obj	_	_
+11	,	,	PONCT	PONCT	s=w	13	ponct	_	_
+12	je	cln	CL	CLS	s=suj	13	suj	_	_
+13	pense	penser	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+14	que	que	C	CS	s=s	13	obj	_	_
+15	je	cln	CL	CLS	s=suj	17	suj	_	_
+16	ne	ne	ADV	ADV	s=neg	17	mod	_	_
+17	pourrai	pouvoir	V	V	m=ind|n=s|p=1|t=fut	14	obj	_	_
+18	pas	pas	ADV	ADV	s=neg	17	mod	_	_
+19	y	y	CL	CLO	p=3|s=obj	20	aff	_	_
+20	être	être	V	VINF	m=inf	17	obj	_	_
+21	,	,	PONCT	PONCT	s=w	13	ponct	_	_
+22	car	car	C	CC	s=c|marker=68	13	coord	_	_
+23	ma	son	D	DET	g=f|n=s|s=poss	25	det	_	_
+24	co-	co-	PREF	PREF	_	25	mod	_	_
+25	driver	driver	N	NC	g=m|n=s|s=c	29	suj	_	_
+26	ne	ne	ADV	ADV	s=neg	29	mod	_	_
+27	semble	sembler	V	V	m=ind|n=s|p=3|t=pst	29	aux_tps	_	_
+28	pas	pas	ADV	ADV	s=neg	29	mod	_	_
+29	décidée	décider	V	VPP	g=f|m=part|n=s|t=past	22	dep_coord	_	_
+30	,	,	PONCT	PONCT	s=w	29	ponct	_	_
+31	et	et	C	CC	s=c	29	coord	_	_
+32	moi	lui	PRO	PRO	n=s|s=pers	34	det	_	_
+33	pas	pas	ADV	ADV	s=neg	34	mod	_	_
+34	permis	permettre	V	VPP	g=m|m=part|t=past	31	dep_coord	_	_
+35	de	de	P	P	_	29	mod	_	_
+36	conduire	conduire	V	VINF	m=inf	35	obj	_	_
+37	et	et	C	CC	s=c	35	coord	_	_
+38	lycée	lycée	N	NC	g=m|n=s|s=c	37	dep_coord	_	_
+39	pas	pas	ADV	ADV	s=neg	37	mod	_	_
+40	vouloir	vouloir	V	VINF	m=inf	37	dep_coord	_	_
+41	payer	payer	V	VINF	m=inf	40	obj	_	_
+42	train	train	N	NC	g=m|n=s|s=c	41	obj	_	_
+43	!	!	PONCT	PONCT	s=s	13	ponct	_	_
+
+Parents' sons: [1, 11, 12, 14, 21, 22, 43]	Children's sons: [25, 26, 27, 28, 30, 31, 35]
+
+------->  penser{V|root}		car{CC|coord}		décider~pas{VPP~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [1, 11, 12, 14, 21, 22, 43]	Children's sons: [25, 26, 27, 28, 30, 31, 35]
+
+------->  penser{V|root}		car{CC|coord}		décider~pas{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 11, 12, 14, 21, 22, 43]	Children's sons: [25, 26, 27, 28, 30, 31, 35]
+
+------->  penser{V|root}		car{CC|coord}		décider~pas{VPP~ADV|dep_coord~mod}		Evidence
+
+
+11|371) - Car il est évident qu' il faudra bien adapter les institutions de l' Union. 
+1	-	-	PONCT	PONCT	s=w	2	ponct	_	_
+2	Car	car	C	CC	s=c|marker=68	0	root	_	_
+3	il	cln	CL	CLS	s=suj	4	suj	_	_
+4	est	être	V	V	m=ind|n=s|p=3|t=pst	2	dep_coord	_	_
+5	évident	évident	A	ADJ	g=m|n=s|s=qual	4	ats	_	_
+6	qu'	que	C	CS	s=s	4	mod	_	_
+7	il	cln	CL	CLS	s=suj	8	suj	_	_
+8	faudra	falloir	V	V	m=ind|n=s|p=3|t=fut	6	obj	_	_
+9	bien	bien	ADV	ADV	_	8	mod	_	_
+10	adapter	adapter	V	VINF	m=inf	8	obj	_	_
+11	les	le	D	DET	n=p|s=def	12	det	_	_
+12	institutions	institution	N	NC	g=f|n=p|s=c	10	obj	_	_
+13	de	de	P	P	_	12	dep	_	_
+14	l'	le	D	DET	n=s|s=def	15	det	_	_
+15	Union	Union	N	NPP	s=p	13	obj	_	_
+16	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+12|383) Car si les trois premiers jours sont réservés aux professionnels, dès le 25 novembre, le grand public est invité à découvrir le travail des créateurs du monde entier, qui se sont donnés rendez-vous dans la ville. 
+1	Car	car	C	CC	s=c	0	root	_	_
+2	si	si	C	CS	s=s|marker=349	21	mod	_	_
+3	les	le	D	DET	n=p|s=def	6	det	_	_
+4	trois	trois	A	ADJ	s=card	6	mod	_	_
+5	premiers	premier	A	ADJ	g=m|n=p|s=ord	6	mod	_	_
+6	jours	jours	N	NC	g=m|n=p|s=c	8	suj	_	_
+7	sont	être	V	V	m=ind|n=p|p=3|t=pst	8	aux_pass	_	_
+8	réservés	réserver	V	VPP	g=m|m=part|n=p|t=past	2	obj	_	_
+9	aux	à	P+D	P+D	s=def	8	a_obj	_	_
+10	professionnels	professionnel	N	NC	g=m|n=p|s=c	9	obj	_	_
+11	,	,	PONCT	PONCT	s=w	8	ponct	_	_
+12	dès	dès	P	P	_	8	mod	_	_
+13	le	le	D	DET	g=m|n=s|s=def	15	det	_	_
+14	25	25	A	ADJ	s=card	15	mod	_	_
+15	novembre	novembre	N	NC	g=m|n=s|s=c	12	obj	_	_
+16	,	,	PONCT	PONCT	s=w	8	ponct	_	_
+17	le	le	D	DET	g=m|n=s|s=def	19	det	_	_
+18	grand	grand	A	ADJ	g=m|n=s|s=qual	19	mod	_	_
+19	public	public	N	NC	g=m|n=s|s=c	21	suj	_	_
+20	est	être	V	V	m=ind|n=s|p=3|t=pst	21	aux_pass	_	_
+21	invité	inviter	V	VPP	g=m|m=part|n=s|t=past	1	dep_coord	_	_
+22	à	à	P	P	_	21	mod	_	_
+23	découvrir	découvrir	V	VINF	m=inf	22	obj	_	_
+24	le	le	D	DET	g=m|n=s|s=def	25	det	_	_
+25	travail	travail	N	NC	g=m|n=s|s=c	23	obj	_	_
+26	des	de	P+D	P+D	s=def	25	dep	_	_
+27	créateurs	créateur	N	NC	g=f|n=p|s=c	26	obj	_	_
+28	du	de	P+D	P+D	s=def	27	dep	_	_
+29	monde	monde	N	NC	g=m|n=s|s=c	28	obj	_	_
+30	entier	entier	A	ADJ	g=m|n=s|s=qual	29	mod	_	_
+31	,	,	PONCT	PONCT	s=w	25	ponct	_	_
+32	qui	qui	PRO	PROREL	s=rel	35	suj	_	_
+33	se	se	CL	CLR	p=3|s=refl	35	aff	_	_
+34	sont	être	V	V	m=ind|n=p|p=3|t=pst	35	aux_tps	_	_
+35	donnés	donner	V	VPP	g=m|m=part|n=p|t=past	25	mod_rel	_	_
+36	rendez-vous	rendez-vous	N	NC	g=m|s=c	35	obj	_	_
+37	dans	dans	P	P	_	35	mod	_	_
+38	la	le	D	DET	g=f|n=s|s=def	39	det	_	_
+39	ville	ville	N	NC	g=f|n=s|s=c	37	obj	_	_
+40	.	.	PONCT	PONCT	s=s	21	ponct	_	_
+
+13|390) Je comptes l' emmener cette année sur circuit, car une sortie de route l' année dernière m' a fait comprendre qu' il est bien dangereux de chatouiller les limites sur route ouverte. 
+1	Je	cln	CL	CLS	s=suj	2	suj	_	_
+2	comptes	comptes	N	NC	g=m|n=p|s=c	0	root	_	_
+3	l'	cla	CL	CLO	g=m|n=s|s=obj	4	obj	_	_
+4	emmener	emmener	V	VINF	m=inf	2	dep	_	_
+5	cette	ce	D	DET	g=f|n=s|s=dem	6	det	_	_
+6	année	année	N	NC	g=f|n=s|s=c	4	obj	_	_
+7	sur	sur	P	P	_	6	dep	_	_
+8	circuit	circuit	N	NC	g=m|n=s|s=c	7	obj	_	_
+9	,	,	PONCT	PONCT	s=w	2	ponct	_	_
+10	car	car	C	CC	s=c|marker=68	2	coord	_	_
+11	une	un	D	DET	g=f|n=s|s=ind	12	det	_	_
+12	sortie	sortie	N	NC	g=f|n=s|s=c	10	dep_coord	_	_
+13	de	de	P	P	_	12	dep	_	_
+14	route	route	N	NC	g=f|n=s|s=c	13	obj	_	_
+15	l'	le	D	DET	n=s|s=def	16	det	_	_
+16	année	année	N	NC	g=f|n=s|s=c	21	suj	_	_
+17	dernière	dernier	A	ADJ	g=f|n=s|s=ord	16	mod	_	_
+18	m'	cla	CL	CLO	n=s|s=obj	21	obj	_	_
+19	a	avoir	V	V	m=ind|n=s|p=3|t=pst	21	aux_tps	_	_
+20	fait	faire	V	VPP	g=m|m=part|n=s|t=past	21	aux_caus	_	_
+21	comprendre	comprendre	V	VINF	m=inf	2	dep	_	_
+22	qu'	que	C	CS	s=s	21	obj	_	_
+23	il	cln	CL	CLS	s=suj	24	suj	_	_
+24	est	être	V	V	m=ind|n=s|p=3|t=pst	22	obj	_	_
+25	bien	bien	ADV	ADV	_	24	mod	_	_
+26	dangereux	dangereux	A	ADJ	g=m|s=qual	24	ats	_	_
+27	de	de	P	P	_	24	obj	_	_
+28	chatouiller	chatouiller	V	VINF	m=inf	27	obj	_	_
+29	les	le	D	DET	n=p|s=def	30	det	_	_
+30	limites	limite	N	NC	g=f|n=p|s=c	28	obj	_	_
+31	sur	sur	P	P	_	28	mod	_	_
+32	route	route	N	NC	g=f|n=s|s=c	31	obj	_	_
+33	ouverte	ouvert	A	ADJ	g=f|n=s|s=qual	32	mod	_	_
+34	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [1, 4, 9, 10, 21, 34]	Children's sons: [11, 13]
+
+------->  comptes{NC|root}		car{CC|coord}		sortie{NC|dep_coord}		Causation
+
+
+Parents' sons: [1, 4, 9, 10, 21, 34]	Children's sons: [11, 13]
+
+------->  comptes{NC|root}		car{CC|coord}		sortie{NC|dep_coord}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 4, 9, 10, 21, 34]	Children's sons: [11, 13]
+
+------->  comptes{NC|root}		car{CC|coord}		sortie{NC|dep_coord}		Evidence
+
+
+14|407) La forme et la position du front varie avec les nages: plus dur à gérer dans les nages symétriques( Brasse et Papillon), car elle se forme plus fortement en cycle de propulsion, et diminue en cycle de retour des bras. 
+1	La	le	D	DET	g=f|n=s|s=def	2	det	_	_
+2	forme	forme	N	NC	g=f|n=s|s=c	8	suj	_	_
+3	et	et	C	CC	s=c	2	coord	_	_
+4	la	le	D	DET	g=f|n=s|s=def	5	det	_	_
+5	position	position	N	NC	g=f|n=s|s=c	3	dep_coord	_	_
+6	du	de	P+D	P+D	s=def	5	dep	_	_
+7	front	front	N	NC	g=m|n=s|s=c	6	obj	_	_
+8	varie	varier	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+9	avec	avec	P	P	_	8	mod	_	_
+10	les	le	D	DET	n=p|s=def	11	det	_	_
+11	nages	nage	N	NC	g=f|n=p|s=c	9	obj	_	_
+12	:	:	PONCT	PONCT	s=w	8	ponct	_	_
+13	plus	plus	ADV	ADV	s=neg	14	mod	_	_
+14	dur	dur	A	ADJ	g=m|n=s|s=qual	8	ats	_	_
+15	à	à	P	P	_	8	mod	_	_
+16	gérer	gérer	V	VINF	m=inf	15	obj	_	_
+17	dans	dans	P	P	_	16	mod	_	_
+18	les	le	D	DET	n=p|s=def	19	det	_	_
+19	nages	nage	N	NC	g=f|n=p|s=c	17	obj	_	_
+20	symétriques	symétrique	A	ADJ	n=p|s=qual	19	mod	_	_
+21	(	(	PONCT	PONCT	s=w	19	ponct	_	_
+22	Brasse	Brasse	N	NPP	s=p	19	mod	_	_
+23	et	et	C	CC	s=c	22	coord	_	_
+24	Papillon	Papillon	N	NPP	s=p	23	dep_coord	_	_
+25	)	)	PONCT	PONCT	s=w	19	ponct	_	_
+26	,	,	PONCT	PONCT	s=w	8	ponct	_	_
+27	car	car	C	CC	s=c|marker=68	8	coord	_	_
+28	elle	cln	CL	CLS	s=suj	30	suj	_	_
+29	se	se	CL	CLR	p=3|s=refl	30	aff	_	_
+30	forme	former	V	V	m=ind|n=s|p=3|t=pst	27	dep_coord	_	_
+31	plus	plus	ADV	ADV	s=neg	32	mod	_	_
+32	fortement	fortement	ADV	ADV	_	30	mod	_	_
+33	en	en	P	P	p=3	30	mod	_	_
+34	cycle	cycle	N	NC	g=m|n=s|s=c	33	obj	_	_
+35	de	de	P	P	_	34	dep	_	_
+36	propulsion	propulsion	N	NC	g=f|n=s|s=c	35	obj	_	_
+37	,	,	PONCT	PONCT	s=w	30	ponct	_	_
+38	et	et	C	CC	s=c	30	coord	_	_
+39	diminue	diminuer	V	V	m=ind|n=s|p=3|t=pst	38	dep_coord	_	_
+40	en	en	P	P	p=3	39	mod	_	_
+41	cycle	cycle	N	NC	g=m|n=s|s=c	40	obj	_	_
+42	de	de	P	P	_	41	dep	_	_
+43	retour	retour	N	NC	g=m|n=s|s=c	42	obj	_	_
+44	des	de	P+D	P+D	s=def	43	dep	_	_
+45	bras	bras	N	NC	g=m|s=c	44	obj	_	_
+46	.	.	PONCT	PONCT	s=s	8	ponct	_	_
+
+Parents' sons: [2, 9, 12, 14, 15, 26, 27, 46]	Children's sons: [28, 29, 32, 33, 37, 38]
+
+------->  varier~dur~plus{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		former~fortement{V~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [2, 9, 12, 14, 15, 26, 27, 46]	Children's sons: [28, 29, 32, 33, 37, 38]
+
+------->  varier~dur~plus{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		former~fortement{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [2, 9, 12, 14, 15, 26, 27, 46]	Children's sons: [28, 29, 32, 33, 37, 38]
+
+------->  varier~dur~plus{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		former~fortement{V~ADV|dep_coord~mod}		Evidence
+
+
+15|409) Suivant les nages, la pénétration est toujours horizontale( ex. en Papillon ou en Brasse, car les épaules sont stables), ou_bien vrillante( ex. en Crawl ou en Dos, car elle suit les mouvements de rotation des épaules). 
+1	Suivant	suivre	V	VPR	m=part|t=pst	7	mod	_	_
+2	les	le	D	DET	n=p|s=def	3	det	_	_
+3	nages	nage	N	NC	g=f|n=p|s=c	1	obj	_	_
+4	,	,	PONCT	PONCT	s=w	7	ponct	_	_
+5	la	le	D	DET	g=f|n=s|s=def	6	det	_	_
+6	pénétration	pénétration	N	NC	g=f|n=s|s=c	7	suj	_	_
+7	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+8	toujours	toujours	ADV	ADV	_	7	mod	_	_
+9	horizontale	horizontal	A	ADJ	g=f|n=s|s=qual	7	ats	_	_
+10	(	(	PONCT	PONCT	s=w	7	ponct	_	_
+11	ex.	ex.	ADV	ADV	_	7	mod	_	_
+12	en	en	P	P	p=3	7	mod	_	_
+13	Papillon	Papillon	N	NPP	s=p	12	obj	_	_
+14	ou	ou	C	CC	s=c	12	coord	_	_
+15	en	en	P	P	p=3	14	dep_coord	_	_
+16	Brasse	Brasse	N	NPP	s=p	15	obj	_	_
+17	,	,	PONCT	PONCT	s=w	7	ponct	_	_
+18	car	car	C	CC	s=c|marker=68|marker=68	7	coord	_	_
+19	les	le	D	DET	n=p|s=def	20	det	_	_
+20	épaules	épaule	N	NC	g=f|n=p|s=c	21	suj	_	_
+21	sont	être	V	V	m=ind|n=p|p=3|t=pst	18	dep_coord	_	_
+22	stables	stable	A	ADJ	n=p|s=qual	21	ats	_	_
+23	)	)	PONCT	PONCT	s=w	21	ponct	_	_
+24	,	,	PONCT	PONCT	s=w	21	ponct	_	_
+25	ou_bien	ou_bien	C	CC	s=c|marker=44	21	coord	_	_
+26	vrillante	vrillant	A	ADJ	s=qual	25	dep_coord	_	_
+27	(	(	PONCT	PONCT	s=w	21	ponct	_	_
+28	ex.	ex.	ADV	ADV	_	21	mod	_	_
+29	en	en	P	P	p=3	21	mod	_	_
+30	Crawl	Crawl	N	NPP	s=p	29	obj	_	_
+31	ou	ou	C	CC	s=c	29	coord	_	_
+32	en	en	P	P	p=3	31	dep_coord	_	_
+33	Dos	Dos	N	NPP	s=p	32	obj	_	_
+34	,	,	PONCT	PONCT	s=w	21	ponct	_	_
+35	car	car	C	CC	s=c	21	coord	_	_
+36	elle	cln	CL	CLS	s=suj	37	suj	_	_
+37	suit	suivre	V	V	m=ind|n=s|p=3|t=pst	35	dep_coord	_	_
+38	les	le	D	DET	n=p|s=def	39	det	_	_
+39	mouvements	mouvement	N	NC	g=m|n=p|s=c	37	obj	_	_
+40	de	de	P	P	_	39	dep	_	_
+41	rotation	rotation	N	NC	g=f|n=s|s=c	40	obj	_	_
+42	des	de	P+D	P+D	s=def	41	dep	_	_
+43	épaules	épaule	N	NC	g=f|n=p|s=c	42	obj	_	_
+44	)	)	PONCT	PONCT	s=w	21	ponct	_	_
+45	.	.	PONCT	PONCT	s=s	7	ponct	_	_
+
+Parents' sons: [1, 4, 6, 8, 9, 10, 11, 12, 17, 18, 45]	Children's sons: [20, 22, 23, 24, 25, 27, 28, 29, 34, 35, 44]
+
+------->  être~ex.{V~ADV|root~mod}		car{CC|coord}		être~ex.{V~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [1, 4, 6, 8, 9, 10, 11, 12, 17, 18, 45]	Children's sons: [20, 22, 23, 24, 25, 27, 28, 29, 34, 35, 44]
+
+------->  être~ex.{V~ADV|root~mod}		car{CC|coord}		être~ex.{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 4, 6, 8, 9, 10, 11, 12, 17, 18, 45]	Children's sons: [20, 22, 23, 24, 25, 27, 28, 29, 34, 35, 44]
+
+------->  être~ex.{V~ADV|root~mod}		car{CC|coord}		être~ex.{V~ADV|dep_coord~mod}		Evidence
+
+
+Parents' sons: [20, 22, 23, 24, 25, 27, 28, 29, 34, 35, 44]	Children's sons: [36, 39]
+
+------->  être~ex.{V~ADV|dep_coord~mod}		car{CC|coord}		suivre~mouvement{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [20, 22, 23, 24, 25, 27, 28, 29, 34, 35, 44]	Children's sons: [36, 39]
+
+------->  être~ex.{V~ADV|dep_coord~mod}		car{CC|coord}		suivre~mouvement{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [20, 22, 23, 24, 25, 27, 28, 29, 34, 35, 44]	Children's sons: [36, 39]
+
+------->  être~ex.{V~ADV|dep_coord~mod}		car{CC|coord}		suivre~mouvement{V~NC|dep_coord~obj}		Evidence
+
+
+16|470) Ainsi, si le dossier scientifique et technique parle des règles d' hygiènes en salles blanche d' hôpital je vais pouvoir construire des cours sur les risques biologiques en VSP car j' aurais parlé de contaminants et de méthodes pour les éradiquer. 
+1	Ainsi	ainsi	ADV	ADV	_	20	mod	_	_
+2	,	,	PONCT	PONCT	s=w	20	ponct	_	_
+3	si	si	C	CS	s=s|marker=349	20	mod	_	_
+4	le	le	D	DET	g=m|n=s|s=def	5	det	_	_
+5	dossier	dossier	N	NC	g=m|n=s|s=c	9	suj	_	_
+6	scientifique	scientifique	A	ADJ	n=s|s=qual	5	mod	_	_
+7	et	et	C	CC	s=c	6	coord	_	_
+8	technique	technique	A	ADJ	n=s|s=qual	7	dep_coord	_	_
+9	parle	parler	V	V	m=ind|n=s|p=3|t=pst	3	obj	_	_
+10	des	de	D	DET	_	9	de_obj	_	_
+11	règles	règle	N	NC	g=f|n=p|s=c	10	obj	_	_
+12	d'	de	P	P	_	11	dep	_	_
+13	hygiènes	hygiène	N	NC	g=f|n=p|s=c	12	obj	_	_
+14	en	en	P	P	p=3	9	mod	_	_
+15	salles	salle	N	NC	g=f|n=p|s=c	14	obj	_	_
+16	blanche	blanc	A	ADJ	g=f|n=s|s=qual	15	mod	_	_
+17	d'	de	P	P	_	15	dep	_	_
+18	hôpital	hôpital	N	NC	g=m|n=s|s=c	17	obj	_	_
+19	je	cln	CL	CLS	s=suj	20	suj	_	_
+20	vais	aller	V	V	m=ind|n=s|p=1|t=pst	0	root	_	_
+21	pouvoir	pouvoir	V	VINF	m=inf	20	obj	_	_
+22	construire	construire	V	VINF	m=inf	21	obj	_	_
+23	des	de	D	DET	_	24	det	_	_
+24	cours	cours	N	NC	g=m|s=c	22	obj	_	_
+25	sur	sur	P	P	_	22	mod	_	_
+26	les	le	D	DET	n=p|s=def	27	det	_	_
+27	risques	risque	N	NC	g=m|n=p|s=c	25	obj	_	_
+28	biologiques	biologique	A	ADJ	n=p|s=qual	27	mod	_	_
+29	en	en	P	P	p=3	22	mod	_	_
+30	VSP	VSP	N	NPP	s=p	29	obj	_	_
+31	car	car	C	CC	s=c|marker=68	20	coord	_	_
+32	j'	cln	CL	CLS	s=suj	34	suj	_	_
+33	aurais	avoir	V	V	m=ind|n=s|p=2|t=cond	34	aux_tps	_	_
+34	parlé	parler	V	VPP	g=m|m=part|n=s|t=past	31	dep_coord	_	_
+35	de	de	P	P	_	34	de_obj	_	_
+36	contaminants	contaminant	N	NC	g=m|n=p|s=c	35	obj	_	_
+37	et	et	C	CC	s=c	35	coord	_	_
+38	de	de	P	P	_	37	dep_coord	_	_
+39	méthodes	méthode	N	NC	g=f|n=p|s=c	38	obj	_	_
+40	pour	pour	P	P	_	34	mod	_	_
+41	les	cla	CL	CLO	n=p|s=obj	42	obj	_	_
+42	éradiquer	éradiquer	V	VINF	m=inf	40	obj	_	_
+43	.	.	PONCT	PONCT	s=s	20	ponct	_	_
+
+Parents' sons: [1, 2, 3, 19, 21, 31, 43]	Children's sons: [32, 33, 35, 40]
+
+------->  aller~pouvoir~construire{V~VINF~VINF|root~obj~obj}		car{CC|coord}		parler{VPP|dep_coord}		Causation
+
+
+Parents' sons: [1, 2, 3, 19, 21, 31, 43]	Children's sons: [32, 33, 35, 40]
+
+------->  aller~pouvoir~construire{V~VINF~VINF|root~obj~obj}		car{CC|coord}		parler{VPP|dep_coord}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 2, 3, 19, 21, 31, 43]	Children's sons: [32, 33, 35, 40]
+
+------->  aller~pouvoir~construire{V~VINF~VINF|root~obj~obj}		car{CC|coord}		parler{VPP|dep_coord}		Evidence
+
+
+17|531) Construire de nouveaux repères car les informations sur la position de nos membres sont faussées dans l' eau. 
+1	Construire	construire	V	VINF	m=inf	15	suj	_	_
+2	de	de	P	P	_	1	de_obj	_	_
+3	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	4	mod	_	_
+4	repères	repère	N	NC	g=m|n=p|s=c	2	obj	_	_
+5	car	car	C	CC	s=c|marker=68	1	coord	_	_
+6	les	le	D	DET	n=p|s=def	7	det	_	_
+7	informations	information	N	NC	g=f|n=p|s=c	5	dep_coord	_	_
+8	sur	sur	P	P	_	7	dep	_	_
+9	la	le	D	DET	g=f|n=s|s=def	10	det	_	_
+10	position	position	N	NC	g=f|n=s|s=c	8	obj	_	_
+11	de	de	P	P	_	10	dep	_	_
+12	nos	son	D	DET	n=p|s=poss	13	det	_	_
+13	membres	membre	N	NC	g=m|n=p|s=c	11	obj	_	_
+14	sont	être	V	V	m=ind|n=p|p=3|t=pst	15	aux_pass	_	_
+15	faussées	fausser	V	VPP	g=f|m=part|n=p|t=past	0	root	_	_
+16	dans	dans	P	P	_	15	mod	_	_
+17	l'	le	D	DET	n=s|s=def	18	det	_	_
+18	eau	eau	N	NC	g=f|n=s|s=c	16	obj	_	_
+19	.	.	PONCT	PONCT	s=s	15	ponct	_	_
+
+Parents' sons: [2, 5]	Children's sons: [6, 8]
+
+------->  construire~repère{VINF~NC|suj~obj}		car{CC|coord}		information{NC|dep_coord}		Causation
+
+
+Parents' sons: [2, 5]	Children's sons: [6, 8]
+
+------->  construire~repère{VINF~NC|suj~obj}		car{CC|coord}		information{NC|dep_coord}		FR_Cause_enunciation
+
+
+Parents' sons: [2, 5]	Children's sons: [6, 8]
+
+------->  construire~repère{VINF~NC|suj~obj}		car{CC|coord}		information{NC|dep_coord}		Evidence
+
+
+18|562) surtout qu' à ce que je sais, les pinces elles sont pas auto- épinglantes chez moi( et que, même_si un inventeur les créaient, on les achèterait pas car ça serait preuve de fainéantise; 
+1	surtout	surtout	ADV	ADV	_|marker=178	2	obj	_	_
+2	qu'	que	C	CS	s=s	0	root	_	_
+3	à	à	P	P	_	12	mod	_	_
+4	ce	ce	PRO	PRO	_	3	obj	_	_
+5	que	que	PRO	PROREL	s=rel	7	obj	_	_
+6	je	cln	CL	CLS	s=suj	7	suj	_	_
+7	sais	savoir	V	V	m=ind|n=s|p=2|t=pst	4	mod_rel	_	_
+8	,	,	PONCT	PONCT	s=w	12	ponct	_	_
+9	les	le	D	DET	n=p|s=def	10	det	_	_
+10	pinces	pince	N	NC	g=f|n=p|s=c	12	suj	_	_
+11	elles	cln	CL	CLS	s=suj	12	suj	_	_
+12	sont	être	V	V	m=ind|n=p|p=3|t=pst	2	obj	_	_
+13	pas	pas	ADV	ADV	s=neg	12	mod	_	_
+14	auto-	auto-	PREF	PREF	_	15	mod	_	_
+15	épinglantes	épinglante	N	NC	s=c	12	ats	_	_
+16	chez	chez	P	P	_	12	mod	_	_
+17	moi	lui	PRO	PRO	n=s|s=pers	16	obj	_	_
+18	(	(	PONCT	PONCT	s=w	12	ponct	_	_
+19	et	et	C	CC	s=c	2	coord	_	_
+20	que	que	C	CS	s=s	19	dep_coord	_	_
+21	,	,	PONCT	PONCT	s=w	22	ponct	_	_
+22	même_si	même_si	C	CS	s=s	19	dep_coord	_	_
+23	un	un	D	DET	g=m|n=s|s=ind	24	det	_	_
+24	inventeur	inventeur	N	NC	g=m|n=s|s=c	26	suj	_	_
+25	les	cla	CL	CLO	n=p|s=obj	26	obj	_	_
+26	créaient	créer	V	V	m=ind|n=p|p=3|t=impft	22	obj	_	_
+27	,	,	PONCT	PONCT	s=w	30	ponct	_	_
+28	on	cln	CL	CLS	s=suj	30	suj	_	_
+29	les	cla	CL	CLO	n=p|s=obj	30	obj	_	_
+30	achèterait	acheter	V	V	m=ind|n=s|p=3|t=cond	2	obj	_	_
+31	pas	pas	ADV	ADV	s=neg	30	mod	_	_
+32	car	car	C	CC	s=c|marker=68	30	coord	_	_
+33	ça	cela	PRO	PRO	g=m|n=s|s=dem	34	suj	_	_
+34	serait	être	V	V	m=ind|n=s|p=3|t=cond	32	dep_coord	_	_
+35	preuve	preuve	N	NC	g=f|n=s|s=c	34	ats	_	_
+36	de	de	P	P	_	35	dep	_	_
+37	fainéantise	fainéantise	N	NC	g=f|n=s|s=c	36	obj	_	_
+38	;	;	PONCT	PONCT	s=w	2	ponct	_	_
+
+Parents' sons: [27, 28, 29, 31, 32]	Children's sons: [33, 35]
+
+------->  acheter~pas{V~ADV|obj~mod}		car{CC|coord}		être~preuve{V~NC|dep_coord~ats}		Causation
+
+
+Parents' sons: [27, 28, 29, 31, 32]	Children's sons: [33, 35]
+
+------->  acheter~pas{V~ADV|obj~mod}		car{CC|coord}		être~preuve{V~NC|dep_coord~ats}		FR_Cause_enunciation
+
+
+Parents' sons: [27, 28, 29, 31, 32]	Children's sons: [33, 35]
+
+------->  acheter~pas{V~ADV|obj~mod}		car{CC|coord}		être~preuve{V~NC|dep_coord~ats}		Evidence
+
+
+19|593) De plus je voulais une GTI" old school", et assez dépouillée car le confort était secondaire dans mes critères. 
+1	De	de	P	P	_	0	root	_	_
+2	plus	plus	ADV	ADV	s=neg	4	mod	_	_
+3	je	cln	CL	CLS	s=suj	4	suj	_	_
+4	voulais	vouloir	V	V	m=ind|n=s|p=2|t=impft	1	obj	_	_
+5	une	un	D	DET	g=f|n=s|s=ind	6	det	_	_
+6	GTI	GTI	N	NC	s=c	4	obj	_	_
+7	"	"	PONCT	PONCT	s=w	6	ponct	_	_
+8	old	old	ET	ET	_	9	dep	_	_
+9	school	school	ET	ET	_	6	mod	_	_
+10	"	"	PONCT	PONCT	s=w	6	ponct	_	_
+11	,	,	PONCT	PONCT	s=w	4	ponct	_	_
+12	et	et	C	CC	s=c	4	coord	_	_
+13	assez	assez	ADV	ADV	_	14	mod	_	_
+14	dépouillée	dépouiller	V	VPP	g=f|m=part|n=s|t=past	12	dep_coord	_	_
+15	car	car	C	CC	s=c|marker=68	4	coord	_	_
+16	le	le	D	DET	g=m|n=s|s=def	17	det	_	_
+17	confort	confort	N	NC	g=m|n=s|s=c	18	suj	_	_
+18	était	être	V	V	m=ind|n=s|p=3|t=impft	15	dep_coord	_	_
+19	secondaire	secondaire	A	ADJ	n=s|s=qual	18	ats	_	_
+20	dans	dans	P	P	_	18	mod	_	_
+21	mes	son	D	DET	n=p|s=poss	22	det	_	_
+22	critères	critère	N	NC	g=m|n=p|s=c	20	obj	_	_
+23	.	.	PONCT	PONCT	s=s	1	ponct	_	_
+
+Parents' sons: [2, 3, 6, 11, 12, 15]	Children's sons: [17, 19, 20]
+
+------->  vouloir~GTI{V~NC|obj~obj}		car{CC|coord}		être~secondaire{V~ADJ|dep_coord~ats}		Causation
+
+
+Parents' sons: [2, 3, 6, 11, 12, 15]	Children's sons: [17, 19, 20]
+
+------->  vouloir~GTI{V~NC|obj~obj}		car{CC|coord}		être~secondaire{V~ADJ|dep_coord~ats}		FR_Cause_enunciation
+
+
+Parents' sons: [2, 3, 6, 11, 12, 15]	Children's sons: [17, 19, 20]
+
+------->  vouloir~GTI{V~NC|obj~obj}		car{CC|coord}		être~secondaire{V~ADJ|dep_coord~ats}		Evidence
+
+
+20|628) Aucun des deux ne semble être gravement blessé, mais Dan confie à Abby qu' il a peur que sa femme ne le tienne pour responsable de l' accident car elle lui reproche déjà la mort de leur premier enfant, décédé de mort blanche. 
+1	Aucun	aucun	PRO	PRO	g=m|n=s|s=ind	5	suj	_	_
+2	des	de	P+D	P+D	s=def	1	dep	_	_
+3	deux	deux	PRO	PRO	s=card	5	suj	_	_
+4	ne	ne	ADV	ADV	s=neg	5	mod	_	_
+5	semble	sembler	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+6	être	être	V	VINF	m=inf	5	ats	_	_
+7	gravement	gravement	ADV	ADV	_	6	mod	_	_
+8	blessé	blesser	A	ADJ	g=m|m=part|n=s|s=qual|t=past	6	ats	_	_
+9	,	,	PONCT	PONCT	s=w	5	ponct	_	_
+10	mais	mais	C	CC	s=c|marker=304	5	coord	_	_
+11	Dan	Dan	N	NPP	g=m|n=s|s=p	12	suj	_	_
+12	confie	confier	V	V	m=ind|n=s|p=3|t=pst	10	dep_coord	_	_
+13	à	à	P	P	_	12	mod	_	_
+14	Abby	Abby	N	NPP	g=f|n=s|s=p	13	obj	_	_
+15	qu'	que	PRO	PROREL	s=rel	17	obj	_	_
+16	il	cln	CL	CLS	s=suj	17	suj	_	_
+17	a	avoir	V	V	m=ind|n=s|p=3|t=pst	14	mod_rel	_	_
+18	peur	peur	N	NC	g=f|n=s|s=c	17	suj	_	_
+19	que	que	C	CS	s=s	24	obj	_	_
+20	sa	son	D	DET	g=f|n=s|s=poss	21	det	_	_
+21	femme	femme	N	NC	g=f|n=s|s=c	24	suj	_	_
+22	ne	ne	ADV	ADV	s=neg	24	mod	_	_
+23	le	le	D	DET	g=m|n=s|s=def	24	obj	_	_
+24	tienne	tenir	V	VS	m=subj|n=s|p=3|t=pst	17	mod	_	_
+25	pour	pour	P	P	_	24	mod	_	_
+26	responsable	responsable	A	ADJ	n=s|s=qual	25	obj	_	_
+27	de	de	P	P	_	26	dep	_	_
+28	l'	le	D	DET	n=s|s=def	29	det	_	_
+29	accident	accident	N	NC	g=m|n=s|s=c	27	obj	_	_
+30	car	car	C	CC	s=c|marker=68	17	coord	_	_
+31	elle	cln	CL	CLS	s=suj	33	suj	_	_
+32	lui	cld	CL	CLO	n=s|s=obj	33	a_obj	_	_
+33	reproche	reprocher	V	V	m=ind|n=s|p=3|t=pst	30	dep_coord	_	_
+34	déjà	déjà	ADV	ADV	_	33	mod	_	_
+35	la	le	D	DET	g=f|n=s|s=def	36	det	_	_
+36	mort	mort	N	NC	g=m|n=s|s=c	33	obj	_	_
+37	de	de	P	P	_	36	dep	_	_
+38	leur	son	D	DET	n=s|s=poss	40	det	_	_
+39	premier	premier	A	ADJ	g=m|n=s|s=ord	40	mod	_	_
+40	enfant	enfant	N	NC	n=s|s=c	37	obj	_	_
+41	,	,	PONCT	PONCT	s=w	36	ponct	_	_
+42	décédé	décéder	V	VPP	g=m|m=part|n=s|t=past	36	mod	_	_
+43	de	de	P	P	_	42	de_obj	_	_
+44	mort	mort	N	NC	g=m|n=s|s=c	43	obj	_	_
+45	blanche	blanc	A	ADJ	g=f|n=s|s=qual	44	mod	_	_
+46	.	.	PONCT	PONCT	s=s	5	ponct	_	_
+
+Parents' sons: [15, 16, 18, 24, 30]	Children's sons: [31, 32, 34, 36]
+
+------->  peur~avoir{NC~V|suj~mod_rel}		car{CC|coord}		reprocher~mort{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [15, 16, 18, 24, 30]	Children's sons: [31, 32, 34, 36]
+
+------->  peur~avoir{NC~V|suj~mod_rel}		car{CC|coord}		reprocher~mort{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [15, 16, 18, 24, 30]	Children's sons: [31, 32, 34, 36]
+
+------->  peur~avoir{NC~V|suj~mod_rel}		car{CC|coord}		reprocher~mort{V~NC|dep_coord~obj}		Evidence
+
+
+21|632) Age: 17 Inscrit le: 14 Oct 2005 Messages: 560 Humeur: Aucun pour le moment Bons amis: Johnny00, Jonas Quinn Sujet: Re: Repartit Dim 10 Sep- 17: 50 Pour info c est moi la source lol et donc je reprend car sheppard a tres mal compris! 
+1	Age	age	N	NC	g=m|n=s|s=c	41	suj	_	_
+2	:	:	PONCT	PONCT	s=w	1	ponct	_	_
+3	17	17	D	DET	s=card	4	det	_	_
+4	Inscrit	inscrit	N	NC	g=m|n=s|s=c	1	mod	_	_
+5	le	le	D	DET	g=m|n=s|s=def	8	det	_	_
+6	:	:	PONCT	PONCT	s=w	8	ponct	_	_
+7	14	14	D	DET	s=card	8	det	_	_
+8	Oct	Oct	N	NC	s=c	1	mod	_	_
+9	2005	2005	D	DET	s=card	10	det	_	_
+10	Messages	message	N	NC	g=m|n=p|s=c	1	mod	_	_
+11	:	:	PONCT	PONCT	s=w	1	ponct	_	_
+12	560	560	PRO	PRO	s=card	13	mod	_	_
+13	Humeur	Humeur	N	NPP	s=p	1	mod	_	_
+14	:	:	PONCT	PONCT	s=w	1	ponct	_	_
+15	Aucun	aucun	PRO	PRO	g=m|n=s|s=ind	1	dep	_	_
+16	pour	pour	P	P	_	1	dep	_	_
+17	le	le	D	DET	g=m|n=s|s=def	18	det	_	_
+18	moment	moment	N	NC	g=m|n=s|s=c	16	obj	_	_
+19	Bons	Bons	N	NPP	s=p	18	mod	_	_
+20	amis	ami	N	NC	g=m|n=p|s=c	19	mod	_	_
+21	:	:	PONCT	PONCT	s=w	1	ponct	_	_
+22	Johnny00	Johnny00	N	NPP	s=p	1	mod	_	_
+23	,	,	PONCT	PONCT	s=w	1	ponct	_	_
+24	Jonas	Jonas	N	NPP	g=m|n=s|s=p	1	mod	_	_
+25	Quinn	Quinn	N	NPP	g=m|n=s|s=p	1	mod	_	_
+26	Sujet	Sujet	N	NPP	s=p	25	mod	_	_
+27	:	:	PONCT	PONCT	s=w	1	ponct	_	_
+28	Re	Re	N	NPP	g=m|n=s|s=p	1	mod	_	_
+29	:	:	PONCT	PONCT	s=w	1	ponct	_	_
+30	Repartit	Repartit	N	NPP	s=p	1	mod	_	_
+31	Dim	Dim	ET	ET	_	30	dep	_	_
+32	10	10	D	DET	s=card	41	det	_	_
+33	Sep	Sep	ET	ET	_	41	mod	_	_
+34	-	-	PONCT	PONCT	s=w	41	ponct	_	_
+35	17	17	A	ADJ	s=card	41	mod	_	_
+36	:	:	PONCT	PONCT	s=w	41	ponct	_	_
+37	50	50	N	NC	s=card	41	suj	_	_
+38	Pour	pour	P	P	_	37	dep	_	_
+39	info	info	N	NC	g=f|n=s|s=c	38	obj	_	_
+40	c	c	A	ADJ	s=qual	39	mod	_	_
+41	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+42	moi	lui	PRO	PRO	n=s|s=pers	41	ats	_	_
+43	la	le	D	DET	g=f|n=s|s=def	44	det	_	_
+44	source	source	N	NC	g=f|n=s|s=c	0	root	_	_
+45	lol	lol	N	NPP	s=p	44	mod	_	_
+46	et	et	C	CC	s=c	44	coord	_	_
+47	donc	donc	ADV	ADV	_|marker=131	46	mod	_	_
+48	je	cln	CL	CLS	s=suj	49	suj	_	_
+49	reprend	reprendre	V	V	m=ind|n=s|p=3|t=pst	46	dep_coord	_	_
+50	car	car	C	CC	s=c|marker=68	49	coord	_	_
+51	sheppard	sheppard	ADV	ADV	_	52	mod	_	_
+52	a	avoir	V	V	m=ind|n=s|p=3|t=pst	50	dep_coord	_	_
+53	tres	tres	D	DET	_	54	det	_	_
+54	mal	mal	N	NC	g=m|n=s|s=c	52	obj	_	_
+55	compris	comprendre	V	VPP	g=m|m=part|t=past	54	mod	_	_
+56	!	!	PONCT	PONCT	s=s	44	ponct	_	_
+
+Parents' sons: [48, 50]	Children's sons: [51, 54]
+
+------->  reprendre{V|dep_coord}		car{CC|coord}		avoir~mal{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [48, 50]	Children's sons: [51, 54]
+
+------->  reprendre{V|dep_coord}		car{CC|coord}		avoir~mal{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [48, 50]	Children's sons: [51, 54]
+
+------->  reprendre{V|dep_coord}		car{CC|coord}		avoir~mal{V~NC|dep_coord~obj}		Evidence
+
+
+22|634) !) et interdit que SG passe sur un autre chaine car Scifi possède les droit de 1ere diffusion( comme desperate housewives sur Canal +! 
+1	!	!	PONCT	PONCT	s=s	3	ponct	_	_
+2	)	)	PONCT	PONCT	s=w	3	ponct	_	_
+3	et	et	C	CC	s=c	0	root	_	_
+4	interdit	interdire	V	V	m=ind|n=s|p=3|t=past	3	dep_coord	_	_
+5	que	que	C	CS	s=s	4	obj	_	_
+6	SG	SG	N	NPP	s=p	7	suj	_	_
+7	passe	passer	V	V	m=ind|n=s|p=3|t=pst	5	obj	_	_
+8	sur	sur	P	P	_	7	mod	_	_
+9	un	un	D	DET	g=m|n=s|s=ind	11	det	_	_
+10	autre	autre	A	ADJ	n=s|s=ind	11	mod	_	_
+11	chaine	chaine	N	NC	s=c	8	obj	_	_
+12	car	car	C	CC	s=c|marker=68	7	coord	_	_
+13	Scifi	Scifi	N	NPP	s=p	14	suj	_	_
+14	possède	posséder	V	V	m=ind|n=s|p=3|t=pst	12	dep_coord	_	_
+15	les	le	D	DET	n=p|s=def	16	det	_	_
+16	droit	droit	N	NC	g=m|n=s|s=c	14	obj	_	_
+17	de	de	P	P	_	16	dep	_	_
+18	1ere	1ere	D	DET	_	19	det	_	_
+19	diffusion	diffusion	N	NC	g=f|n=s|s=c	17	obj	_	_
+20	(	(	PONCT	PONCT	s=w	14	ponct	_	_
+21	comme	comme	P	P	_	14	mod	_	_
+22	desperate	desperate	D	DET	_	23	det	_	_
+23	housewives	housewive	N	NC	s=c	21	obj	_	_
+24	sur	sur	P	P	_	23	dep	_	_
+25	Canal	Canal	N	NPP	g=m|n=s|s=p	24	obj	_	_
+26	+	plus	ADV	ADV	s=neg	23	mod	_	_
+27	!	!	PONCT	PONCT	s=s	3	ponct	_	_
+
+Parents' sons: [6, 8, 12]	Children's sons: [13, 16, 20, 21]
+
+------->  passer{V|obj}		car{CC|coord}		posséder~droit{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [6, 8, 12]	Children's sons: [13, 16, 20, 21]
+
+------->  passer{V|obj}		car{CC|coord}		posséder~droit{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [6, 8, 12]	Children's sons: [13, 16, 20, 21]
+
+------->  passer{V|obj}		car{CC|coord}		posséder~droit{V~NC|dep_coord~obj}		Evidence
+
+
+23|638) car cooper( producter) a dit que Stargate va continuer d une forme ou d une autre sinon Scifi a dit que si SG coutait moins cher il accepterait PEUT ETRE une saison 11 Mais bon il on deja des probleme d argent alors si il en recoivent moins :_s _________________ Créateur Calendrier SG Membre Mach creation( FPS sur SG) Paul Davis Sous Lieutenant Age: 16 Inscrit le: 02 Aoû 2006 Messages: 2388 Humeur: délirente Bons amis: J' ai une tête à avoir des amis? 
+1	car	car	C	CC	s=c	7	coord	_	_
+2	cooper	cooper	V	VINF	m=inf	1	dep_coord	_	_
+3	(	(	PONCT	PONCT	s=w	2	ponct	_	_
+4	producter	producter	N	NC	s=c	2	mod	_	_
+5	)	)	PONCT	PONCT	s=w	2	ponct	_	_
+6	a	avoir	V	V	m=ind|n=s|p=3|t=pst	7	aux_tps	_	_
+7	dit	dire	V	VPP	g=m|m=part|n=s|t=past	40	mod	_	_
+8	que	que	C	CS	s=s	7	obj	_	_
+9	Stargate	Stargate	N	NPP	s=p	10	suj	_	_
+10	va	aller	V	V	m=ind|n=s|p=3|t=pst	8	obj	_	_
+11	continuer	continuer	V	VINF	m=inf	10	obj	_	_
+12	d	d	ADV	ADV	_	11	mod	_	_
+13	une	un	D	DET	g=f|n=s|s=ind	14	det	_	_
+14	forme	forme	N	NC	g=f|n=s|s=c	11	obj	_	_
+15	ou	ou	C	CC	s=c	14	coord	_	_
+16	d	d	ADV	ADV	_	15	mod	_	_
+17	une	un	D	DET	g=f|n=s|s=ind	18	det	_	_
+18	autre	autre	A	ADJ	n=s|s=ind	15	dep_coord	_	_
+19	sinon	sinon	C	CC	s=c	14	coord	_	_
+20	Scifi	Scifi	N	NPP	s=p	19	dep_coord	_	_
+21	a	avoir	V	V	m=ind|n=s|p=3|t=pst	22	aux_tps	_	_
+22	dit	dire	V	VPP	g=m|m=part|n=s|t=past	14	mod	_	_
+23	que	que	ADV	ADV	_	11	mod	_	_
+24	si	si	C	CS	s=s|marker=349|marker=349	11	mod	_	_
+25	SG	SG	N	NPP	s=p	26	suj	_	_
+26	coutait	coutait	V	V	m=ind	24	obj	_	_
+27	moins	moins	ADV	ADV	_	28	mod	_	_
+28	cher	cher	A	ADJ	g=m|n=s|s=qual	26	mod	_	_
+29	il	cln	CL	CLS	s=suj	30	suj	_	_
+30	accepterait	accepter	V	V	m=ind|n=s|p=3|t=cond	10	mod	_	_
+31	PEUT	PEUT	N	NPP	s=p	30	obj	_	_
+32	ETRE	ETRE	N	NPP	s=p	31	mod	_	_
+33	une	un	D	DET	g=f|n=s|s=ind	34	det	_	_
+34	saison	saison	N	NC	g=f|n=s|s=c	10	obj	_	_
+35	11	11	A	ADJ	s=card	34	mod	_	_
+36	Mais	mais	C	CC	s=c|marker=304	35	coord	_	_
+37	bon	bon	A	ADJ	g=m|n=s|s=qual	36	dep_coord	_	_
+38	il	cln	CL	CLS	s=suj	40	suj	_	_
+39	on	cln	CL	CLS	s=suj	40	suj	_	_
+40	deja	deja	V	V	m=ind	0	root	_	_
+41	des	de	P+D	P+D	s=def	40	de_obj	_	_
+42	probleme	probleme	N	NC	s=c	41	obj	_	_
+43	d	d	A	ADJ	s=qual	42	mod	_	_
+44	argent	argent	N	NC	g=m|n=s|s=c	42	mod	_	_
+45	alors	alors	ADV	ADV	_|marker=7	42	mod	_	_
+46	si	si	C	CS	s=s	40	mod	_	_
+47	il	cln	CL	CLS	s=suj	87	suj	_	_
+48	en	en	P	P	p=3	87	mod	_	_
+49	recoivent	recoivent	V	VPR	m=part|t=pst	48	obj	_	_
+50	moins	moins	ADV	ADV	_	49	mod	_	_
+51	:_s	:_s	ET	ET	_	49	mod	_	_
+52	_________________	_________________	ET	ET	_	87	mod	_	_
+53	Créateur	Créateur	ET	ET	_	87	mod	_	_
+54	Calendrier	Calendrier	ET	ET	_	87	mod	_	_
+55	SG	SG	ET	ET	_	87	mod	_	_
+56	Membre	membre	N	NC	g=m|n=s|s=c	87	mod	_	_
+57	Mach	Mach	N	NPP	s=p	56	mod	_	_
+58	creation	creation	N	NC	s=c	57	mod	_	_
+59	(	(	PONCT	PONCT	s=w	57	ponct	_	_
+60	FPS	FPS	N	NC	s=c	57	mod	_	_
+61	sur	sur	P	P	_	60	dep	_	_
+62	SG	SG	N	NPP	s=p	61	obj	_	_
+63	)	)	PONCT	PONCT	s=w	56	ponct	_	_
+64	Paul	Paul	N	NPP	g=m|n=s|s=p	56	mod	_	_
+65	Davis	Davis	N	NPP	g=m|n=s|s=p	56	mod	_	_
+66	Sous	sous	P	P	_	56	dep	_	_
+67	Lieutenant	Lieutenant	N	NPP	s=p	66	obj	_	_
+68	Age	Age	N	NPP	s=p	67	mod	_	_
+69	:	:	PONCT	PONCT	s=w	67	ponct	_	_
+70	16	16	D	DET	s=card	71	det	_	_
+71	Inscrit	inscrit	N	NC	g=m|n=s|s=c	67	mod	_	_
+72	le	le	D	DET	g=m|n=s|s=def	87	obj	_	_
+73	:	:	PONCT	PONCT	s=w	72	ponct	_	_
+74	02	02	D	DET	s=card	72	coord	_	_
+75	Aoû	Aoû	ET	ET	_	77	dep	_	_
+76	2006	2006	ET	ET	s=card	77	dep	_	_
+77	Messages	Messages	ET	ET	_	74	dep_coord	_	_
+78	:	:	PONCT	PONCT	s=w	72	ponct	_	_
+79	2388	2388	D	DET	s=card	80	det	_	_
+80	Humeur	humeur	N	NC	g=f|n=s|s=c	72	mod	_	_
+81	:	:	PONCT	PONCT	s=w	72	ponct	_	_
+82	délirente	délirente	ADV	ADV	_	83	mod	_	_
+83	Bons	Bons	N	NPP	s=p	72	mod	_	_
+84	amis	ami	N	NC	g=m|n=p|s=c	83	mod	_	_
+85	:	:	PONCT	PONCT	s=w	72	ponct	_	_
+86	J'	cln	CL	CLS	s=suj	87	suj	_	_
+87	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	46	obj	_	_
+88	une	un	D	DET	g=f|n=s|s=ind	89	det	_	_
+89	tête	tête	N	NC	g=f|n=s|s=c	87	obj	_	_
+90	à	à	P	P	_	87	mod	_	_
+91	avoir	avoir	V	VINF	m=inf	90	obj	_	_
+92	des	de	D	DET	_	93	det	_	_
+93	amis	ami	N	NC	g=m|n=p|s=c	91	obj	_	_
+94	?	?	PONCT	PONCT	s=s	40	ponct	_	_
+
+Parents' sons: [1, 6, 8]	Children's sons: [3, 4, 5]
+
+------->  dire{VPP|mod}		car{CC|coord}		cooper~producter{VINF~NC|dep_coord~mod}		Causation
+
+
+Parents' sons: [1, 6, 8]	Children's sons: [3, 4, 5]
+
+------->  dire{VPP|mod}		car{CC|coord}		cooper~producter{VINF~NC|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 6, 8]	Children's sons: [3, 4, 5]
+
+------->  dire{VPP|mod}		car{CC|coord}		cooper~producter{VINF~NC|dep_coord~mod}		Evidence
+
+
+24|699) Dans le cas où vous souhaiteriez apparaître comme partenaires dans la mise en oeuvre de cette recherche, veuillez m' en faire part car je prévois de lister ceux-ci lors_des remerciements préalables à la présentation des résultats. 
+1	Dans	dans	P	P	_	0	root	_	_
+2	le	le	D	DET	g=m|n=s|s=def	3	det	_	_
+3	cas	cas	N	NC	g=m|s=c	1	obj	_	_
+4	où	où	PRO	PROREL	s=rel	6	mod	_	_
+5	vous	cln	CL	CLS	s=suj	6	suj	_	_
+6	souhaiteriez	souhaiter	V	V	m=ind|n=p|p=2|t=cond	3	mod_rel	_	_
+7	apparaître	apparaître	V	VINF	m=inf	6	obj	_	_
+8	comme	comme	P	P	_	7	mod	_	_
+9	partenaires	partenaire	N	NC	n=p|s=c	8	obj	_	_
+10	dans	dans	P	P	_	7	mod	_	_
+11	la	le	D	DET	g=f|n=s|s=def	12	det	_	_
+12	mise	mise	N	NC	g=f|n=s|s=c	10	obj	_	_
+13	en	en	P	P	p=3	12	dep	_	_
+14	oeuvre	oeuvre	N	NC	n=s|s=c	13	obj	_	_
+15	de	de	P	P	_	12	dep	_	_
+16	cette	ce	D	DET	g=f|n=s|s=dem	17	det	_	_
+17	recherche	recherche	N	NC	g=f|n=s|s=c	15	obj	_	_
+18	,	,	PONCT	PONCT	s=w	7	ponct	_	_
+19	veuillez	veuillez	P	P	_	7	mod	_	_
+20	m'	cla	CL	CLO	n=s|s=obj	22	a_obj	_	_
+21	en	en	CL	CLO	p=3|s=obj	22	aff	_	_
+22	faire	faire	V	VINF	m=inf	19	obj	_	_
+23	part	part	N	NC	n=s|s=c	22	obj	_	_
+24	car	car	C	CC	s=c|marker=68	7	coord	_	_
+25	je	cln	CL	CLS	s=suj	26	suj	_	_
+26	prévois	prévoir	V	V	m=ind|n=s|p=2|t=pst	24	dep_coord	_	_
+27	de	de	P	P	_	26	obj	_	_
+28	lister	lister	V	VINF	m=inf	27	obj	_	_
+29	ceux-ci	celui-ci	PRO	PRO	g=m|n=p|s=dem	28	obj	_	_
+30	lors_des	lors_de	P	P	_	28	mod	_	_
+31	remerciements	remerciement	N	NC	g=m|n=p|s=c	30	obj	_	_
+32	préalables	préalable	A	ADJ	n=p|s=qual	31	mod	_	_
+33	à	à	P	P	_	28	mod	_	_
+34	la	le	D	DET	g=f|n=s|s=def	35	det	_	_
+35	présentation	présentation	N	NC	g=f|n=s|s=c	33	obj	_	_
+36	des	de	P+D	P+D	s=def	35	dep	_	_
+37	résultats	résultat	N	NC	g=m|n=p|s=c	36	obj	_	_
+38	.	.	PONCT	PONCT	s=s	1	ponct	_	_
+
+Parents' sons: [8, 10, 18, 19, 24]	Children's sons: [25, 27]
+
+------->  apparaître~partenaire{VINF~NC|obj~obj}		car{CC|coord}		prévoir{V|dep_coord}		Causation
+
+
+Parents' sons: [8, 10, 18, 19, 24]	Children's sons: [25, 27]
+
+------->  apparaître~partenaire{VINF~NC|obj~obj}		car{CC|coord}		prévoir{V|dep_coord}		FR_Cause_enunciation
+
+
+Parents' sons: [8, 10, 18, 19, 24]	Children's sons: [25, 27]
+
+------->  apparaître~partenaire{VINF~NC|obj~obj}		car{CC|coord}		prévoir{V|dep_coord}		Evidence
+
+
+25|729) À condition de lui raccorder un casque de qualité car les petits écouteurs fournis effacent les basses. 
+1	À	à	P	P	_	10	dep_coord	_	_
+2	condition	condition	N	NC	g=f|n=s|s=c	1	obj	_	_
+3	de	de	P	P	_	2	dep	_	_
+4	lui	cld	CL	CLO	n=s|s=obj	5	a_obj	_	_
+5	raccorder	raccorder	V	VINF	m=inf	3	obj	_	_
+6	un	un	D	DET	g=m|n=s|s=ind	7	det	_	_
+7	casque	casque	N	NC	g=m|n=s|s=c	5	obj	_	_
+8	de	de	P	P	_	7	dep	_	_
+9	qualité	qualité	N	NC	g=f|n=s|s=c	8	obj	_	_
+10	car	car	C	CC	s=c|marker=68	0	root	_	_
+11	les	le	D	DET	n=p|s=def	13	det	_	_
+12	petits	petit	A	ADJ	g=m|n=p|s=qual	13	mod	_	_
+13	écouteurs	écouteur	N	NC	g=m|n=p|s=c	15	suj	_	_
+14	fournis	fournir	V	VPP	g=m|m=part|n=p|t=past	13	mod	_	_
+15	effacent	effacer	V	V	m=ind|n=p|p=3|t=pst	10	dep_coord	_	_
+16	les	le	D	DET	n=p|s=def	17	det	_	_
+17	basses	bas	A	ADJ	g=f|n=p|s=qual	15	obj	_	_
+18	.	.	PONCT	PONCT	s=s	10	ponct	_	_
+
+26|772) D'_abord un dessin animé que je regardais quand j' étais petite mais apparemment y' a que moi qui m' en souvient, car j' ai essayé de faire des... 
+1	D'_abord	d'abord	P	P	_	5	obj	_	_
+2	un	un	D	DET	g=m|n=s|s=ind	3	det	_	_
+3	dessin	dessin	N	NC	g=m|n=s|s=c	1	obj	_	_
+4	animé	animer	A	ADJ	g=m|m=part|n=s|s=qual|t=past	3	mod	_	_
+5	que	que	C	CS	s=s	0	root	_	_
+6	je	cln	CL	CLS	s=suj	7	suj	_	_
+7	regardais	regarder	V	V	m=ind|n=s|p=2|t=impft	5	obj	_	_
+8	quand	quand	C	CS	s=s|marker=144	7	mod	_	_
+9	j'	cln	CL	CLS	s=suj	10	suj	_	_
+10	étais	être	V	V	m=ind|n=s|p=2|t=impft	8	obj	_	_
+11	petite	petit	A	ADJ	g=f|n=s|s=qual	10	ats	_	_
+12	mais	mais	C	CC	s=c|marker=304	10	coord	_	_
+13	apparemment	apparemment	ADV	ADV	_	12	mod	_	_
+14	y	y	CL	CLO	p=3|s=obj	16	mod	_	_
+15	'	'	PONCT	PONCT	s=w	16	ponct	_	_
+16	a	avoir	V	V	m=ind|n=s|p=3|t=pst	12	dep_coord	_	_
+17	que	que	C	CS	s=s	16	mod	_	_
+18	moi	lui	PRO	PRO	n=s|s=pers	17	obj	_	_
+19	qui	qui	PRO	PROREL	s=rel	22	suj	_	_
+20	m'	cla	CL	CLO	n=s|s=obj	22	de_obj	_	_
+21	en	en	CL	CLO	p=3|s=obj	22	aff	_	_
+22	souvient	souvenir	V	V	m=ind|n=s|p=3|t=pst	18	mod_rel	_	_
+23	,	,	PONCT	PONCT	s=w	24	ponct	_	_
+24	car	car	C	CC	s=c|marker=68	16	coord	_	_
+25	j'	cln	CL	CLS	s=suj	27	suj	_	_
+26	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	27	aux_tps	_	_
+27	essayé	essayer	V	VPP	g=m|m=part|n=s|t=past	24	dep_coord	_	_
+28	de	de	P	P	_	27	de_obj	_	_
+29	faire	faire	V	VINF	m=inf	28	obj	_	_
+30	des	de	D	DET	_	29	obj	_	_
+31	...	...	PONCT	PONCT	s=s	5	ponct	_	_
+
+Parents' sons: [14, 15, 17, 24]	Children's sons: []
+
+xxxxxxx>  avoir{V|dep_coord}		car{CC|coord}		,{PONCT|ponct}		Causation
+
+
+Parents' sons: [14, 15, 17, 24]	Children's sons: [25, 26, 28]
+
+------->  avoir{V|dep_coord}		car{CC|coord}		essayer{VPP|dep_coord}		Causation
+
+
+Parents' sons: [14, 15, 17, 24]	Children's sons: []
+
+xxxxxxx>  avoir{V|dep_coord}		car{CC|coord}		,{PONCT|ponct}		FR_Cause_enunciation
+
+
+Parents' sons: [14, 15, 17, 24]	Children's sons: [25, 26, 28]
+
+------->  avoir{V|dep_coord}		car{CC|coord}		essayer{VPP|dep_coord}		FR_Cause_enunciation
+
+
+Parents' sons: [14, 15, 17, 24]	Children's sons: []
+
+xxxxxxx>  avoir{V|dep_coord}		car{CC|coord}		,{PONCT|ponct}		Evidence
+
+
+Parents' sons: [14, 15, 17, 24]	Children's sons: [25, 26, 28]
+
+------->  avoir{V|dep_coord}		car{CC|coord}		essayer{VPP|dep_coord}		Evidence
+
+
+27|774) Mais bon j' en ai acheté qu' une_fois car j' en ai jamais retrouvé en rayon... 
+1	Mais	mais	C	CC	s=c	6	coord	_	_
+2	bon	bon	A	ADJ	g=m|n=s|s=qual	1	dep_coord	_	_
+3	j'	cln	CL	CLS	s=suj	6	suj	_	_
+4	en	en	CL	CLO	p=3|s=obj	6	aff	_	_
+5	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	6	aux_tps	_	_
+6	acheté	acheter	V	VPP	g=m|m=part|n=s|t=past	0	root	_	_
+7	qu'	que	ADV	ADV	_	8	mod	_	_
+8	une_fois	une_fois	ADV	ADV	_	6	mod	_	_
+9	car	car	C	CC	s=c|marker=68	6	coord	_	_
+10	j'	cln	CL	CLS	s=suj	14	suj	_	_
+11	en	en	CL	CLO	p=3|s=obj	14	aff	_	_
+12	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	14	aux_tps	_	_
+13	jamais	jamais	ADV	ADV	s=neg	14	mod	_	_
+14	retrouvé	retrouver	V	VPP	g=m|m=part|n=s|t=past	9	dep_coord	_	_
+15	en	en	P	P	p=3	14	mod	_	_
+16	rayon	rayon	N	NC	g=m|n=s|s=c	15	obj	_	_
+17	...	...	PONCT	PONCT	s=s	6	ponct	_	_
+
+Parents' sons: [1, 3, 4, 5, 8, 9, 17]	Children's sons: [10, 11, 12, 13, 15]
+
+------->  acheter~une_fois~que{VPP~ADV~ADV|root~mod~mod}		car{CC|coord}		retrouver~jamais{VPP~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [1, 3, 4, 5, 8, 9, 17]	Children's sons: [10, 11, 12, 13, 15]
+
+------->  acheter~une_fois~que{VPP~ADV~ADV|root~mod~mod}		car{CC|coord}		retrouver~jamais{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 3, 4, 5, 8, 9, 17]	Children's sons: [10, 11, 12, 13, 15]
+
+------->  acheter~une_fois~que{VPP~ADV~ADV|root~mod~mod}		car{CC|coord}		retrouver~jamais{VPP~ADV|dep_coord~mod}		Evidence
+
+
+28|792) ! Il vous invite à vous asseoir à côté de lui dans le car. 
+1	!	!	PONCT	PONCT	s=s	4	ponct	_	_
+2	Il	cln	CL	CLS	s=suj	4	suj	_	_
+3	vous	clad	CL	CLO	s=obj	4	a_obj	_	_
+4	invite	inviter	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+5	à	à	P	P	_	4	mod	_	_
+6	vous	clad	CL	CLO	s=obj	7	obj	_	_
+7	asseoir	asseoir	V	VINF	m=inf	5	obj	_	_
+8	à	à	P	P	_	7	mod	_	_
+9	côté	côté	N	NC	g=m|n=s|s=c	8	obj	_	_
+10	de	de	P	P	_	9	dep	_	_
+11	lui	lui	PRO	PRO	g=m|n=s|s=pers	10	obj	_	_
+12	dans	dans	P	P	_	7	mod	_	_
+13	le	le	D	DET	g=m|n=s|s=def	0	root	_	_
+14	car	car	C	CC	s=c|marker=68	0	root	_	_
+15	.	.	PONCT	PONCT	s=s	14	ponct	_	_
+
+29|816) Atlantis a la fin de la saison 3 sera couper de la terre se qui signifie je pense que plus d E2PZ ni de dedale Donc Atlantis sera seul pendant au_moins le debut de la saison 4 Sinon Carter devrai avoir un role soit gros ou petit car elle est toujours sous contrat avec la MGM _________________ Créateur Calendrier SG Membre Mach creation( FPS sur SG) 
+1	Atlantis	Atlantis	N	NPP	s=p	2	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	la	le	D	DET	g=f|n=s|s=def	4	det	_	_
+4	fin	fin	N	NC	n=s|s=c	2	obj	_	_
+5	de	de	P	P	_	4	dep	_	_
+6	la	le	D	DET	g=f|n=s|s=def	7	det	_	_
+7	saison	saison	N	NC	g=f|n=s|s=c	5	obj	_	_
+8	3	3	A	ADJ	s=card	7	mod	_	_
+9	sera	être	V	V	m=ind|n=s|p=3|t=fut	2	aux_pass	_	_
+10	couper	couper	V	VINF	m=inf	9	obj	_	_
+11	de	de	P	P	_	10	de_obj	_	_
+12	la	le	D	DET	g=f|n=s|s=def	13	det	_	_
+13	terre	terre	N	NC	g=f|n=s|s=c	11	obj	_	_
+14	se	se	CL	CLR	p=3|s=refl	18	obj	_	_
+15	qui	qui	PRO	PROREL	s=rel	16	suj	_	_
+16	signifie	signifier	V	V	m=ind|n=s|p=3|t=pst	14	mod_rel	_	_
+17	je	cln	CL	CLS	s=suj	18	suj	_	_
+18	pense	penser	V	V	m=ind|n=s|p=3|t=pst	2	dep	_	_
+19	que	que	C	CS	s=s	18	obj	_	_
+20	plus	plus	ADV	ADV	s=neg	21	mod	_	_
+21	d	d	ADV	ADV	_	0	root	_	_
+22	E2PZ	E2PZ	D	DET	_	0	root	_	_
+23	ni	ni	C	CC	s=c	0	root	_	_
+24	de	de	P	P	_	28	suj	_	_
+25	dedale	dedale	ET	ET	_	27	dep	_	_
+26	Donc	Donc	ET	ET	_	27	dep	_	_
+27	Atlantis	Atlantis	ET	ET	_	24	dep	_	_
+28	sera	être	V	V	m=ind|n=s|p=3|t=fut	23	dep_coord	_	_
+29	seul	seul	A	ADJ	g=m|n=s|s=qual	28	ats	_	_
+30	pendant	pendant	P	P	_|marker=197	28	mod	_	_
+31	au_moins	au_moins	ADV	ADV	_|marker=202	30	mod	_	_
+32	le	le	D	DET	g=m|n=s|s=def	33	det	_	_
+33	debut	debut	N	NC	s=c	30	obj	_	_
+34	de	de	P	P	_	33	dep	_	_
+35	la	le	D	DET	g=f|n=s|s=def	36	det	_	_
+36	saison	saison	N	NC	g=f|n=s|s=c	34	obj	_	_
+37	4	4	A	ADJ	s=card	36	mod	_	_
+38	Sinon	sinon	C	CS	s=s	28	mod	_	_
+39	Carter	Carter	N	NPP	g=m|n=s|s=p	40	suj	_	_
+40	devrai	devoir	V	V	m=ind|n=s|p=1|t=fut	38	obj	_	_
+41	avoir	avoir	V	VINF	m=inf	40	obj	_	_
+42	un	un	D	DET	g=m|n=s|s=ind	43	det	_	_
+43	role	role	N	NC	s=c	41	obj	_	_
+44	soit	être	V	VS	m=subj|n=s|p=3|t=pst	41	mod	_	_
+45	gros	gros	A	ADJ	g=m|s=qual	44	ats	_	_
+46	ou	ou	C	CC	s=c	45	coord	_	_
+47	petit	petit	A	ADJ	g=m|n=s|s=qual	46	dep_coord	_	_
+48	car	car	C	CC	s=c|marker=68	40	coord	_	_
+49	elle	cln	CL	CLS	s=suj	50	suj	_	_
+50	est	être	V	V	m=ind|n=s|p=3|t=pst	48	dep_coord	_	_
+51	toujours	toujours	ADV	ADV	_	50	mod	_	_
+52	sous	sous	P	P	_	50	mod	_	_
+53	contrat	contrat	N	NC	g=m|n=s|s=c	52	obj	_	_
+54	avec	avec	P	P	_	50	mod	_	_
+55	la	le	D	DET	g=f|n=s|s=def	0	root	_	_
+56	MGM	MGM	N	NPP	s=p	0	root	_	_
+57	_________________	_________________	ET	ET	_	0	root	_	_
+58	Créateur	Créateur	ET	ET	_	0	root	_	_
+59	Calendrier	Calendrier	ET	ET	_	0	root	_	_
+60	SG	SG	ET	ET	_	0	root	_	_
+61	Membre	membre	N	NC	g=m|n=s|s=c	0	root	_	_
+62	Mach	Mach	N	NPP	s=p	61	mod	_	_
+63	creation	creation	N	NC	s=c	62	mod	_	_
+64	(	(	PONCT	PONCT	s=w	62	ponct	_	_
+65	FPS	FPS	N	NC	s=c	62	mod	_	_
+66	sur	sur	P	P	_	65	dep	_	_
+67	SG	SG	N	NPP	s=p	66	obj	_	_
+68	)	)	PONCT	PONCT	s=w	61	ponct	_	_
+
+Parents' sons: [39, 41, 48]	Children's sons: [49, 51, 52, 54]
+
+------->  devoir~avoir~role{V~VINF~NC|obj~obj~obj}		car{CC|coord}		être~toujours{V~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [39, 41, 48]	Children's sons: [49, 51, 52, 54]
+
+------->  devoir~avoir~role{V~VINF~NC|obj~obj~obj}		car{CC|coord}		être~toujours{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [39, 41, 48]	Children's sons: [49, 51, 52, 54]
+
+------->  devoir~avoir~role{V~VINF~NC|obj~obj~obj}		car{CC|coord}		être~toujours{V~ADV|dep_coord~mod}		Evidence
+
+
+30|925) Dommage, car elle a pour but de préparer le corps à une activité physique. 
+1	Dommage	dommage	N	NC	g=m|n=s|s=c	5	mod	_	_
+2	,	,	PONCT	PONCT	s=w	3	ponct	_	_
+3	car	car	C	CC	s=c|marker=68	5	coord	_	_
+4	elle	cln	CL	CLS	s=suj	5	suj	_	_
+5	a	avoir	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+6	pour	pour	P	P	_	5	mod	_	_
+7	but	but	N	NC	g=m|n=s|s=c	6	obj	_	_
+8	de	de	P	P	_	5	obj	_	_
+9	préparer	préparer	V	VINF	m=inf	8	obj	_	_
+10	le	le	D	DET	g=m|n=s|s=def	11	det	_	_
+11	corps	corps	N	NC	g=m|s=c	9	obj	_	_
+12	à	à	P	P	_	9	mod	_	_
+13	une	un	D	DET	g=f|n=s|s=ind	14	det	_	_
+14	activité	activité	N	NC	g=f|n=s|s=c	12	obj	_	_
+15	physique	physique	A	ADJ	n=s|s=qual	14	mod	_	_
+16	.	.	PONCT	PONCT	s=s	5	ponct	_	_
+
+Parents' sons: [1, 3, 4, 6, 8, 16]	Children's sons: []
+
+xxxxxxx>  avoir~dommage{V~NC|root~mod}		car{CC|coord}		,{PONCT|ponct}		Causation
+
+
+Parents' sons: [1, 3, 4, 6, 8, 16]	Children's sons: []
+
+xxxxxxx>  avoir~dommage{V~NC|root~mod}		car{CC|coord}		,{PONCT|ponct}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 3, 4, 6, 8, 16]	Children's sons: []
+
+xxxxxxx>  avoir~dommage{V~NC|root~mod}		car{CC|coord}		,{PONCT|ponct}		Evidence
+
+
+31|991) revue_presse_dieses.pdf Document PDF( 46.7 Ko) reperes_geographique.pdf Document PDF( 62.9 Ko) Soirée Off du Printemps des Etudiants par Yannick, le 24/03/2007 Salut à tous, prenez vos agendas et réservez votre soirée du jeudi 10 mai( c' est dans longtemps, mais c' est toujours mieux d' être prévenu à l' avance), car Le Printemps des Etudiants organise sa soirée off dans la salle de Boom. 
+1	revue_presse_dieses.pdf	revue_presse_dieses.pdf	ET	ET	_	3	dep	_	_
+2	Document	Document	ET	ET	_	3	dep	_	_
+3	PDF	PDF	ET	ET	_	30	suj	_	_
+4	(	(	PONCT	PONCT	s=w	3	ponct	_	_
+5	46.7	46.7	D	DET	s=card	6	det	_	_
+6	Ko	kilo-octet	N	NC	g=m|s=c	3	mod	_	_
+7	)	)	PONCT	PONCT	s=w	6	ponct	_	_
+8	reperes_geographique.pdf	reperes_geographique.pdf	ET	ET	_	13	dep	_	_
+9	Document	Document	ET	ET	_	13	dep	_	_
+10	PDF	PDF	ET	ET	_	13	dep	_	_
+11	(	(	PONCT	PONCT	s=w	13	ponct	_	_
+12	62.9	62.9	D	DET	s=card	13	det	_	_
+13	Ko	kilo-octet	N	NC	g=m|s=c	6	mod	_	_
+14	)	)	PONCT	PONCT	s=w	13	ponct	_	_
+15	Soirée	soirée	N	NC	g=f|n=s|s=c	13	mod	_	_
+16	Off	Off	ET	ET	_	13	mod	_	_
+17	du	de	P+D	P+D	s=def	13	dep	_	_
+18	Printemps	Printemps	N	NPP	s=p	17	obj	_	_
+19	des	de	P+D	P+D	s=def	18	dep	_	_
+20	Etudiants	étudiant	N	NC	g=m|n=p|s=c	19	obj	_	_
+21	par	par	P	P	_	13	dep	_	_
+22	Yannick	Yannick	N	NPP	n=s|s=p	21	obj	_	_
+23	,	,	PONCT	PONCT	s=w	30	ponct	_	_
+24	le	le	D	DET	g=m|n=s|s=def	25	det	_	_
+25	24/03/2007	24/03/2007	N	NC	s=card	30	suj	_	_
+26	Salut	Salut	N	NPP	g=f|n=s|s=p	25	mod	_	_
+27	à	à	P	P	_	25	dep	_	_
+28	tous	tout	PRO	PRO	g=m|n=p|s=ind	27	obj	_	_
+29	,	,	PONCT	PONCT	s=w	30	ponct	_	_
+30	prenez	prendre	V	V	m=ind|n=p|p=2|t=pst	0	root	_	_
+31	vos	son	D	DET	n=p|s=poss	32	det	_	_
+32	agendas	agenda	N	NC	g=m|n=p|s=c	30	obj	_	_
+33	et	et	C	CC	s=c	30	coord	_	_
+34	réservez	réserver	V	V	m=ind|n=p|p=2|t=pst	33	dep_coord	_	_
+35	votre	son	D	DET	n=s|s=poss	36	det	_	_
+36	soirée	soirée	N	NC	g=f|n=s|s=c	34	obj	_	_
+37	du	de	P+D	P+D	s=def	36	dep	_	_
+38	jeudi	jeudi	N	NC	g=m|n=s|s=c	37	obj	_	_
+39	10	10	A	ADJ	s=card	38	mod	_	_
+40	mai	mai	N	NC	g=m|n=s|s=c	38	mod	_	_
+41	(	(	PONCT	PONCT	s=w	30	ponct	_	_
+42	c'	cln	CL	CLS	s=suj	43	suj	_	_
+43	est	être	V	V	m=ind|n=s|p=3|t=pst	30	mod	_	_
+44	dans	dans	P	P	_	43	mod	_	_
+45	longtemps	longtemps	ADV	ADV	_	44	obj	_	_
+46	,	,	PONCT	PONCT	s=w	30	ponct	_	_
+47	mais	mais	C	CC	s=c|marker=304	30	coord	_	_
+48	c'	cln	CL	CLS	s=suj	49	suj	_	_
+49	est	être	V	V	m=ind|n=s|p=3|t=pst	47	dep_coord	_	_
+50	toujours	toujours	ADV	ADV	_	49	mod	_	_
+51	mieux	mieux	ADV	ADV	_|marker=314	49	mod	_	_
+52	d'	de	P	P	_	49	ats	_	_
+53	être	être	V	VINF	m=inf	52	obj	_	_
+54	prévenu	prévenir	V	VPP	g=m|m=part|n=s|t=past	53	mod	_	_
+55	à	à	P	P	_	54	mod	_	_
+56	l'	le	D	DET	n=s|s=def	57	det	_	_
+57	avance	avance	N	NC	g=f|n=s|s=c	55	obj	_	_
+58	)	)	PONCT	PONCT	s=w	53	ponct	_	_
+59	,	,	PONCT	PONCT	s=w	30	ponct	_	_
+60	car	car	C	CC	s=c|marker=68	30	coord	_	_
+61	Le	le	D	DET	g=m|n=s|s=def	62	det	_	_
+62	Printemps	Printemps	N	NPP	s=p	65	suj	_	_
+63	des	de	P+D	P+D	s=def	62	dep	_	_
+64	Etudiants	Etudiants	N	NPP	s=p	63	obj	_	_
+65	organise	organiser	V	V	m=ind|n=s|p=3|t=pst	60	dep_coord	_	_
+66	sa	son	D	DET	g=f|n=s|s=poss	67	det	_	_
+67	soirée	soirée	N	NC	g=f|n=s|s=c	65	obj	_	_
+68	off	off	ADV	ADV	_	67	mod	_	_
+69	dans	dans	P	P	_	65	mod	_	_
+70	la	le	D	DET	g=f|n=s|s=def	71	det	_	_
+71	salle	salle	N	NC	g=f|n=s|s=c	69	obj	_	_
+72	de	de	P	P	_	71	dep	_	_
+73	Boom	Boom	N	NPP	s=p	72	obj	_	_
+74	.	.	PONCT	PONCT	s=s	30	ponct	_	_
+
+Parents' sons: [3, 23, 25, 29, 32, 33, 41, 43, 46, 47, 59, 60, 74]	Children's sons: [62, 67, 69]
+
+------->  prendre~agenda{V~NC|root~obj}		car{CC|coord}		organiser~soirée{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [3, 23, 25, 29, 32, 33, 41, 43, 46, 47, 59, 60, 74]	Children's sons: [62, 67, 69]
+
+------->  prendre~agenda{V~NC|root~obj}		car{CC|coord}		organiser~soirée{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [3, 23, 25, 29, 32, 33, 41, 43, 46, 47, 59, 60, 74]	Children's sons: [62, 67, 69]
+
+------->  prendre~agenda{V~NC|root~obj}		car{CC|coord}		organiser~soirée{V~NC|dep_coord~obj}		Evidence
+
+
+32|1036) Pour conclure on peut dire que ce nouvel outil servira essentiellement à déterminer les tendances générales car seules les requêtes volumineuses sont prises en_compte. 
+1	Pour	pour	P	P	_	4	mod	_	_
+2	conclure	conclure	V	VINF	m=inf	1	obj	_	_
+3	on	cln	CL	CLS	s=suj	4	suj	_	_
+4	peut	pouvoir	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+5	dire	dire	V	VINF	m=inf	4	obj	_	_
+6	que	que	C	CS	s=s	5	obj	_	_
+7	ce	ce	D	DET	g=m|n=s|s=dem	9	det	_	_
+8	nouvel	nouveau	A	ADJ	g=m|n=s|s=qual	9	mod	_	_
+9	outil	outil	N	NC	g=m|n=s|s=c	10	suj	_	_
+10	servira	servir	V	V	m=ind|n=s|p=3|t=fut	6	obj	_	_
+11	essentiellement	essentiellement	ADV	ADV	_	10	mod	_	_
+12	à	à	P	P	_	10	mod	_	_
+13	déterminer	déterminer	V	VINF	m=inf	12	obj	_	_
+14	les	le	D	DET	n=p|s=def	15	det	_	_
+15	tendances	tendance	N	NC	g=f|n=p|s=c	13	obj	_	_
+16	générales	général	A	ADJ	g=f|n=p|s=qual	15	mod	_	_
+17	car	car	C	CC	s=c|marker=68	15	coord	_	_
+18	seules	seul	A	ADJ	g=f|n=p|s=qual	20	mod	_	_
+19	les	le	D	DET	n=p|s=def	20	det	_	_
+20	requêtes	requête	N	NC	g=f|n=p|s=c	17	dep_coord	_	_
+21	volumineuses	volumineux	A	ADJ	g=f|n=p|s=qual	20	mod	_	_
+22	sont	être	V	V	m=ind|n=p|p=3|t=pst	23	aux_pass	_	_
+23	prises	prendre	V	VPP	g=f|m=part|n=p|t=past	4	ato	_	_
+24	en_compte	en_compte	ADV	ADV	_	23	mod	_	_
+25	.	.	PONCT	PONCT	s=s	4	ponct	_	_
+
+Parents' sons: [14, 16, 17]	Children's sons: [18, 19, 21]
+
+------->  tendance~général{NC~ADJ|obj~mod}		car{CC|coord}		requête~volumineux{NC~ADJ|dep_coord~mod}		Causation
+
+
+Parents' sons: [14, 16, 17]	Children's sons: [18, 19, 21]
+
+------->  tendance~général{NC~ADJ|obj~mod}		car{CC|coord}		requête~volumineux{NC~ADJ|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [14, 16, 17]	Children's sons: [18, 19, 21]
+
+------->  tendance~général{NC~ADJ|obj~mod}		car{CC|coord}		requête~volumineux{NC~ADJ|dep_coord~mod}		Evidence
+
+
+33|1073) Evolution de la vue chez le nourrisson- Essilor Dans les premières semaines de la vie, il est recommandé aux adultes d' adopter des gestes lents, car les yeux du bébé n' organisent pas_encore bien les mouvements rapides... 
+1	Evolution	évolution	N	NC	g=f|n=s|s=c	20	mod	_	_
+2	de	de	P	P	_	1	dep	_	_
+3	la	le	D	DET	g=f|n=s|s=def	4	det	_	_
+4	vue	vue	N	NC	g=f|n=s|s=c	2	obj	_	_
+5	chez	chez	P	P	_	1	dep	_	_
+6	le	le	D	DET	g=m|n=s|s=def	7	det	_	_
+7	nourrisson	nourrisson	N	NC	g=m|n=s|s=c	5	obj	_	_
+8	-	-	PONCT	PONCT	s=w	7	ponct	_	_
+9	Essilor	Essilor	N	NPP	s=p	7	mod	_	_
+10	Dans	dans	P	P	_	1	dep	_	_
+11	les	le	D	DET	n=p|s=def	13	det	_	_
+12	premières	premier	A	ADJ	g=f|n=p|s=ord	13	mod	_	_
+13	semaines	semaine	N	NC	g=f|n=p|s=c	10	obj	_	_
+14	de	de	P	P	_	13	dep	_	_
+15	la	le	D	DET	g=f|n=s|s=def	16	det	_	_
+16	vie	vie	N	NC	g=f|n=s|s=c	14	obj	_	_
+17	,	,	PONCT	PONCT	s=w	20	ponct	_	_
+18	il	cln	CL	CLS	s=suj	20	suj	_	_
+19	est	être	V	V	m=ind|n=s|p=3|t=pst	20	aux_pass	_	_
+20	recommandé	recommander	V	VPP	g=m|m=part|n=s|t=past	0	root	_	_
+21	aux	à	P+D	P+D	s=def	20	a_obj	_	_
+22	adultes	adulte	N	NC	n=p|s=c	21	obj	_	_
+23	d'	de	P	P	_	20	obj	_	_
+24	adopter	adopter	V	VINF	m=inf	23	obj	_	_
+25	des	de	D	DET	_	26	det	_	_
+26	gestes	geste	N	NC	n=p|s=c	24	obj	_	_
+27	lents	lent	A	ADJ	g=m|n=p|s=qual	26	mod	_	_
+28	,	,	PONCT	PONCT	s=w	20	ponct	_	_
+29	car	car	C	CC	s=c|marker=68	20	coord	_	_
+30	les	le	D	DET	n=p|s=def	31	det	_	_
+31	yeux	yeux	N	NC	g=m|n=p|s=c	35	suj	_	_
+32	du	de	P+D	P+D	s=def	31	dep	_	_
+33	bébé	bébé	N	NC	g=m|n=s|s=c	32	obj	_	_
+34	n'	ne	ADV	ADV	s=neg	35	mod	_	_
+35	organisent	organiser	V	V	m=ind|n=p|p=3|t=pst	29	dep_coord	_	_
+36	pas_encore	pas_encore	ADV	ADV	_	35	mod	_	_
+37	bien	bien	ADV	ADV	_	35	mod	_	_
+38	les	le	D	DET	n=p|s=def	39	det	_	_
+39	mouvements	mouvement	N	NC	g=m|n=p|s=c	35	obj	_	_
+40	rapides	rapide	A	ADJ	n=p|s=qual	39	mod	_	_
+41	...	...	PONCT	PONCT	s=s	20	ponct	_	_
+
+Parents' sons: [1, 17, 18, 19, 21, 23, 28, 29, 41]	Children's sons: [31, 34, 36, 37, 39]
+
+------->  recommander{VPP|root}		car{CC|coord}		organiser~mouvement{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [1, 17, 18, 19, 21, 23, 28, 29, 41]	Children's sons: [31, 34, 36, 37, 39]
+
+------->  recommander{VPP|root}		car{CC|coord}		organiser~mouvement{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 17, 18, 19, 21, 23, 28, 29, 41]	Children's sons: [31, 34, 36, 37, 39]
+
+------->  recommander{VPP|root}		car{CC|coord}		organiser~mouvement{V~NC|dep_coord~obj}		Evidence
+
+
+34|1087) Le moteur KR est étonnant car il offre réellement un caractère à deux visages. 
+1	Le	le	D	DET	g=m|n=s|s=def	2	det	_	_
+2	moteur	moteur	N	NC	g=m|n=s|s=c	4	suj	_	_
+3	KR	KR	N	NPP	s=p	2	mod	_	_
+4	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+5	étonnant	étonnant	A	ADJ	g=m|n=s|s=qual	4	ats	_	_
+6	car	car	C	CC	s=c|marker=68	4	coord	_	_
+7	il	cln	CL	CLS	s=suj	8	suj	_	_
+8	offre	offrir	V	V	m=ind|n=s|p=3|t=pst	6	dep_coord	_	_
+9	réellement	réellement	ADV	ADV	_	8	mod	_	_
+10	un	un	D	DET	g=m|n=s|s=ind	11	det	_	_
+11	caractère	caractère	N	NC	g=m|n=s|s=c	8	obj	_	_
+12	à	à	P	P	_	8	mod	_	_
+13	deux	deux	D	DET	s=card	14	det	_	_
+14	visages	visage	N	NC	g=m|n=p|s=c	12	obj	_	_
+15	.	.	PONCT	PONCT	s=s	4	ponct	_	_
+
+Parents' sons: [2, 5, 6, 15]	Children's sons: [7, 9, 11, 12]
+
+------->  être~étonnant{V~ADJ|root~ats}		car{CC|coord}		offrir~caractère{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [2, 5, 6, 15]	Children's sons: [7, 9, 11, 12]
+
+------->  être~étonnant{V~ADJ|root~ats}		car{CC|coord}		offrir~caractère{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [2, 5, 6, 15]	Children's sons: [7, 9, 11, 12]
+
+------->  être~étonnant{V~ADJ|root~ats}		car{CC|coord}		offrir~caractère{V~NC|dep_coord~obj}		Evidence
+
+
+35|1094) Je ne le juge ni sur son physique, parce_que sinon voila quoi, ce mec à un pas' d' nez quand meme, ni sur ces actes car rien n' est prouvé et meme si c' était le cas, il reste quand meme à mes yeux un grand feseur de bonnes chanson ^^ Il chante bien, danse bien, je n' écoute pas particulirment ces albums du matin au soir, mais j' aime pas mal de ces chansons. 
+1	Je	cln	CL	CLS	s=suj	4	suj	_	_
+2	ne	ne	ADV	ADV	s=neg	4	mod	_	_
+3	le	le	D	DET	g=m|n=s|s=def	4	det	_	_
+4	juge	juge	N	NC	g=m|n=s|s=c	44	mod	_	_
+5	ni	ni	C	CC	s=c	4	coord	_	_
+6	sur	sur	P	P	_	5	dep_coord	_	_
+7	son	son	D	DET	n=s|s=poss	8	det	_	_
+8	physique	physique	N	NC	n=s|s=c	6	obj	_	_
+9	,	,	PONCT	PONCT	s=w	4	ponct	_	_
+10	parce_que	parce_que	C	CS	s=s|marker=298	4	mod	_	_
+11	sinon	sinon	ADV	ADV	_|marker=285	12	mod	_	_
+12	voila	voiler	V	V	m=ind|n=s|p=3|t=past	10	obj	_	_
+13	quoi	quoi	PRO	PROWH	s=int	12	obj	_	_
+14	,	,	PONCT	PONCT	s=w	44	ponct	_	_
+15	ce	ce	D	DET	g=m|n=s|s=dem	16	det	_	_
+16	mec	mec	N	NC	g=m|n=s|s=c	44	suj	_	_
+17	à	à	P	P	_	16	dep	_	_
+18	un	un	D	DET	g=m|n=s|s=ind	19	det	_	_
+19	pas	pas	N	NC	g=m|s=neg	17	obj	_	_
+20	'	'	PONCT	PONCT	s=w	16	ponct	_	_
+21	d'	de	P	P	_	16	dep	_	_
+22	nez	nez	N	NC	g=m|s=c	21	obj	_	_
+23	quand	quand	C	CS	s=s|marker=144|marker=144	16	mod	_	_
+24	meme	meme	A	ADJ	s=qual	23	obj	_	_
+25	,	,	PONCT	PONCT	s=w	16	ponct	_	_
+26	ni	ni	C	CC	s=c	16	coord	_	_
+27	sur	sur	P	P	_	26	dep_coord	_	_
+28	ces	ce	D	DET	n=p|s=dem	29	det	_	_
+29	actes	acte	N	NC	g=m|n=p|s=c	27	obj	_	_
+30	car	car	C	CC	s=c|marker=68	16	coord	_	_
+31	rien	rien	PRO	PRO	n=s|s=neg	34	suj	_	_
+32	n'	ne	ADV	ADV	s=neg	34	mod	_	_
+33	est	être	V	V	m=ind|n=s|p=3|t=pst	34	aux_pass	_	_
+34	prouvé	prouver	V	VPP	g=m|m=part|n=s|t=past	30	dep_coord	_	_
+35	et	et	C	CC	s=c	34	coord	_	_
+36	meme	meme	ADV	ADV	_	35	mod	_	_
+37	si	si	C	CS	s=s|marker=349	35	dep_coord	_	_
+38	c'	cln	CL	CLS	s=suj	39	suj	_	_
+39	était	être	V	V	m=ind|n=s|p=3|t=impft	37	obj	_	_
+40	le	le	D	DET	g=m|n=s|s=def	41	det	_	_
+41	cas	cas	N	NC	g=m|s=c	39	obj	_	_
+42	,	,	PONCT	PONCT	s=w	44	ponct	_	_
+43	il	cln	CL	CLS	s=suj	44	suj	_	_
+44	reste	rester	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+45	quand	quand	C	CS	s=s	44	mod	_	_
+46	meme	meme	A	ADJ	s=qual	52	mod	_	_
+47	à	à	P	P	_	46	mod	_	_
+48	mes	son	D	DET	n=p|s=poss	49	det	_	_
+49	yeux	yeux	N	NC	g=m|n=p|s=c	47	obj	_	_
+50	un	un	D	DET	g=m|n=s|s=ind	52	det	_	_
+51	grand	grand	A	ADJ	g=m|n=s|s=qual	52	mod	_	_
+52	feseur	feseur	N	NC	s=c	58	suj	_	_
+53	de	de	P	P	_	52	dep	_	_
+54	bonnes	bon	A	ADJ	g=f|n=p|s=qual	55	mod	_	_
+55	chanson	chanson	N	NC	g=f|n=s|s=c	53	obj	_	_
+56	^^	^^	N	NPP	s=p	55	mod	_	_
+57	Il	cln	CL	CLS	s=suj	58	suj	_	_
+58	chante	chanter	V	V	m=ind|n=s|p=3|t=pst	45	obj	_	_
+59	bien	bien	ADV	ADV	_	58	mod	_	_
+60	,	,	PONCT	PONCT	s=w	58	ponct	_	_
+61	danse	danse	N	NC	g=f|n=s|s=c	58	mod	_	_
+62	bien	bien	ADV	ADV	_	61	mod	_	_
+63	,	,	PONCT	PONCT	s=w	66	ponct	_	_
+64	je	cln	CL	CLS	s=suj	66	suj	_	_
+65	n'	ne	ADV	ADV	s=neg	66	mod	_	_
+66	écoute	écoute	N	NC	g=f|n=s|s=c	58	obj	_	_
+67	pas	pas	ADV	ADV	s=neg	66	mod	_	_
+68	particulirment	particulirment	ADV	ADV	_	66	mod	_	_
+69	ces	ce	D	DET	n=p|s=dem	70	det	_	_
+70	albums	album	N	NC	g=m|n=p|s=c	58	mod	_	_
+71	du	de	P+D	P+D	s=def	70	dep	_	_
+72	matin	matin	N	NC	g=m|n=s|s=c	71	obj	_	_
+73	au	à	P+D	P+D	s=def	58	a_obj	_	_
+74	soir	soir	N	NC	g=m|n=s|s=c	73	obj	_	_
+75	,	,	PONCT	PONCT	s=w	44	ponct	_	_
+76	mais	mais	C	CC	s=c|marker=304	44	coord	_	_
+77	j'	cln	CL	CLS	s=suj	78	suj	_	_
+78	aime	aimer	V	V	m=ind|n=s|p=3|t=pst	76	dep_coord	_	_
+79	pas	pas	ADV	ADV	s=neg	78	mod	_	_
+80	mal	mal	A	ADJ	g=m|n=s|s=qual	78	ats	_	_
+81	de	de	P	P	_	78	mod	_	_
+82	ces	ce	D	DET	n=p|s=dem	83	det	_	_
+83	chansons	chanson	N	NC	g=f|n=p|s=c	81	obj	_	_
+84	.	.	PONCT	PONCT	s=s	44	ponct	_	_
+
+Parents' sons: [15, 17, 20, 21, 23, 25, 26, 30]	Children's sons: [31, 32, 33, 35]
+
+------->  mec{NC|suj}		car{CC|coord}		prouver~ne{VPP~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [15, 17, 20, 21, 23, 25, 26, 30]	Children's sons: [31, 32, 33, 35]
+
+------->  mec{NC|suj}		car{CC|coord}		prouver~ne{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [15, 17, 20, 21, 23, 25, 26, 30]	Children's sons: [31, 32, 33, 35]
+
+------->  mec{NC|suj}		car{CC|coord}		prouver~ne{VPP~ADV|dep_coord~mod}		Evidence
+
+
+36|1095) tchô lea13 Débutant Inscrit le: 31 Mai 2007 Messages: 16 Sujet: Re: Michael Jackson Ven 1 Juin- 15: 16 Slt ben jai mit" indifférent" car je ne m' occupe pas trop de lui... 
+1	tchô	tchô	ET	ET	_	4	dep	_	_
+2	lea13	lea13	ET	ET	_	4	dep	_	_
+3	Débutant	Débutant	ET	ET	_	4	dep	_	_
+4	Inscrit	Inscrit	ET	ET	_	0	root	_	_
+5	le	le	D	DET	g=m|n=s|s=def	8	det	_	_
+6	:	:	PONCT	PONCT	s=w	8	ponct	_	_
+7	31	31	D	DET	s=card	8	det	_	_
+8	Mai	Mai	N	NPP	g=f|n=s|s=p	0	root	_	_
+9	2007	2007	D	DET	s=card	10	det	_	_
+10	Messages	message	N	NC	g=m|n=p|s=c	0	root	_	_
+11	:	:	PONCT	PONCT	s=w	0	root	_	_
+12	16	16	D	DET	s=card	13	det	_	_
+13	Sujet	sujet	N	NC	g=m|n=s|s=c	0	root	_	_
+14	:	:	PONCT	PONCT	s=w	13	ponct	_	_
+15	Re	Re	N	NPP	g=m|n=s|s=p	13	mod	_	_
+16	:	:	PONCT	PONCT	s=w	13	ponct	_	_
+17	Michael	Michael	N	NPP	g=m|n=s|s=p	13	mod	_	_
+18	Jackson	Jackson	N	NPP	g=m|n=s|s=p	13	mod	_	_
+19	Ven	Ven	N	NPP	s=p	13	mod	_	_
+20	1	1	A	ADJ	s=card	13	mod	_	_
+21	Juin	Juin	N	NPP	s=p	13	mod	_	_
+22	-	-	PONCT	PONCT	s=w	13	ponct	_	_
+23	15	15	A	ADJ	s=card	13	mod	_	_
+24	:	:	PONCT	PONCT	s=w	13	ponct	_	_
+25	16	16	D	DET	s=card	26	det	_	_
+26	Slt	Slt	N	NC	s=c	29	suj	_	_
+27	ben	ben	P	P	_	26	dep	_	_
+28	jai	jai	N	NC	s=c	27	obj	_	_
+29	mit	mettre	V	V	m=ind|n=s|p=3|t=past	13	mod	_	_
+30	"	"	PONCT	PONCT	s=w	29	ponct	_	_
+31	indifférent	indifférent	A	ADJ	g=m|n=s|s=qual	29	ats	_	_
+32	"	"	PONCT	PONCT	s=w	13	ponct	_	_
+33	car	car	C	CC	s=c|marker=68	13	coord	_	_
+34	je	cln	CL	CLS	s=suj	37	suj	_	_
+35	ne	ne	ADV	ADV	s=neg	37	mod	_	_
+36	m'	cla	CL	CLO	n=s|s=obj	37	obj	_	_
+37	occupe	occuper	V	V	m=ind|n=s|p=3|t=pst	33	dep_coord	_	_
+38	pas	pas	ADV	ADV	s=neg	37	mod	_	_
+39	trop	trop	ADV	ADV	_	37	mod	_	_
+40	de	de	P	P	_	39	dep	_	_
+41	lui	lui	PRO	PRO	g=m|n=s|s=pers	40	obj	_	_
+42	...	...	PONCT	PONCT	s=s	13	ponct	_	_
+
+Parents' sons: [12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 29, 32, 33, 42]	Children's sons: [34, 35, 36, 38, 39]
+
+------->  sujet~15{NC~ADJ|root~mod}		car{CC|coord}		occuper~trop{V~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 29, 32, 33, 42]	Children's sons: [34, 35, 36, 38, 39]
+
+------->  sujet~15{NC~ADJ|root~mod}		car{CC|coord}		occuper~trop{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 29, 32, 33, 42]	Children's sons: [34, 35, 36, 38, 39]
+
+------->  sujet~15{NC~ADJ|root~mod}		car{CC|coord}		occuper~trop{V~ADV|dep_coord~mod}		Evidence
+
+
+37|1170) Le règlement des conflits constitue la meilleure garantie de la liberté de conscience et de religion qui doit être défendue et réaffirmée, car la diversité des cultures et leur coexistence sont la condition d' un avenir de paix et de prospérité. 
+1	Le	le	D	DET	g=m|n=s|s=def	2	det	_	_
+2	règlement	règlement	N	NC	g=m|n=s|s=c	5	suj	_	_
+3	des	de	P+D	P+D	s=def	2	dep	_	_
+4	conflits	conflit	N	NC	g=m|n=p|s=c	3	obj	_	_
+5	constitue	constituer	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+6	la	le	D	DET	g=f|n=s|s=def	8	det	_	_
+7	meilleure	meilleur	A	ADJ	g=f|n=s|s=qual	8	mod	_	_
+8	garantie	garantie	N	NC	g=f|n=s|s=c	5	obj	_	_
+9	de	de	P	P	_	8	dep	_	_
+10	la	le	D	DET	g=f|n=s|s=def	11	det	_	_
+11	liberté	liberté	N	NC	g=f|n=s|s=c	9	obj	_	_
+12	de	de	P	P	_	11	dep	_	_
+13	conscience	conscience	N	NC	g=f|n=s|s=c	12	obj	_	_
+14	et	et	C	CC	s=c	12	coord	_	_
+15	de	de	P	P	_	14	dep_coord	_	_
+16	religion	religion	N	NC	g=f|n=s|s=c	15	obj	_	_
+17	qui	qui	PRO	PROREL	s=rel	18	suj	_	_
+18	doit	devoir	V	V	m=ind|n=s|p=3|t=pst	11	mod_rel	_	_
+19	être	être	V	VINF	m=inf	20	aux_pass	_	_
+20	défendue	défendre	V	VPP	g=f|m=part|n=s|t=past	18	obj	_	_
+21	et	et	C	CC	s=c	20	coord	_	_
+22	réaffirmée	réaffirmer	V	VPP	g=f|m=part|n=s|t=past	21	dep_coord	_	_
+23	,	,	PONCT	PONCT	s=w	5	ponct	_	_
+24	car	car	C	CC	s=c|marker=68	5	coord	_	_
+25	la	le	D	DET	g=f|n=s|s=def	26	det	_	_
+26	diversité	diversité	N	NC	g=f|n=s|s=c	32	suj	_	_
+27	des	de	P+D	P+D	s=def	26	dep	_	_
+28	cultures	culture	N	NC	g=f|n=p|s=c	27	obj	_	_
+29	et	et	C	CC	s=c	26	coord	_	_
+30	leur	son	D	DET	n=s|s=poss	31	det	_	_
+31	coexistence	coexistence	N	NC	g=f|n=s|s=c	29	dep_coord	_	_
+32	sont	être	V	V	m=ind|n=p|p=3|t=pst	24	dep_coord	_	_
+33	la	le	D	DET	g=f|n=s|s=def	34	det	_	_
+34	condition	condition	N	NC	g=f|n=s|s=c	32	ats	_	_
+35	d'	de	P	P	_	34	dep	_	_
+36	un	un	D	DET	g=m|n=s|s=ind	37	det	_	_
+37	avenir	avenir	N	NC	g=m|n=s|s=c	35	obj	_	_
+38	de	de	P	P	_	37	dep	_	_
+39	paix	paix	N	NC	g=f|s=c	38	obj	_	_
+40	et	et	C	CC	s=c	38	coord	_	_
+41	de	de	P	P	_	40	dep_coord	_	_
+42	prospérité	prospérité	N	NC	g=f|n=s|s=c	41	obj	_	_
+43	.	.	PONCT	PONCT	s=s	5	ponct	_	_
+
+Parents' sons: [2, 8, 23, 24, 43]	Children's sons: [26, 34]
+
+------->  constituer~garantie~meilleur{V~NC~ADJ|root~obj~mod}		car{CC|coord}		être~condition{V~NC|dep_coord~ats}		Causation
+
+
+Parents' sons: [2, 8, 23, 24, 43]	Children's sons: [26, 34]
+
+------->  constituer~garantie~meilleur{V~NC~ADJ|root~obj~mod}		car{CC|coord}		être~condition{V~NC|dep_coord~ats}		FR_Cause_enunciation
+
+
+Parents' sons: [2, 8, 23, 24, 43]	Children's sons: [26, 34]
+
+------->  constituer~garantie~meilleur{V~NC~ADJ|root~obj~mod}		car{CC|coord}		être~condition{V~NC|dep_coord~ats}		Evidence
+
+
+38|1181) Il est facile à comprendre car il convient à mon âge. 
+1	Il	cln	CL	CLS	s=suj	2	suj	_	_
+2	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	facile	facile	A	ADJ	n=s|s=qual	2	ats	_	_
+4	à	à	P	P	_	3	dep	_	_
+5	comprendre	comprendre	V	VINF	m=inf	4	obj	_	_
+6	car	car	C	CC	s=c|marker=68	2	coord	_	_
+7	il	cln	CL	CLS	s=suj	8	suj	_	_
+8	convient	convenir	V	V	m=ind|n=s|p=3|t=pst	6	dep_coord	_	_
+9	à	à	P	P	_	8	mod	_	_
+10	mon	son	D	DET	n=s|s=poss	11	det	_	_
+11	âge	âge	N	NC	g=m|n=s|s=c	9	obj	_	_
+12	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [1, 3, 6, 12]	Children's sons: [7, 9]
+
+------->  être~facile{V~ADJ|root~ats}		car{CC|coord}		convenir{V|dep_coord}		Causation
+
+
+Parents' sons: [1, 3, 6, 12]	Children's sons: [7, 9]
+
+------->  être~facile{V~ADJ|root~ats}		car{CC|coord}		convenir{V|dep_coord}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 3, 6, 12]	Children's sons: [7, 9]
+
+------->  être~facile{V~ADJ|root~ats}		car{CC|coord}		convenir{V|dep_coord}		Evidence
+
+
+39|1193) - Avis: Ce livre est intéressant, ce sont des histoires d' horreurs, qui donne la chair de poule, dans un livre à ne_pas lire trop souvent, car il fait peur. 
+1	-	-	PONCT	PONCT	s=w	6	ponct	_	_
+2	Avis	Avis	N	NPP	g=f|n=s|s=p	6	mod	_	_
+3	:	:	PONCT	PONCT	s=w	6	ponct	_	_
+4	Ce	ce	D	DET	g=m|n=s|s=dem	5	det	_	_
+5	livre	livre	N	NC	n=s|s=c	6	suj	_	_
+6	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+7	intéressant	intéressant	A	ADJ	g=m|n=s|s=qual	6	ats	_	_
+8	,	,	PONCT	PONCT	s=w	10	ponct	_	_
+9	ce	cln	CL	CLS	s=suj	10	suj	_	_
+10	sont	être	V	V	m=ind|n=p|p=3|t=pst	6	mod	_	_
+11	des	de	D	DET	_	12	det	_	_
+12	histoires	histoire	N	NC	g=f|n=p|s=c	10	ats	_	_
+13	d'	de	P	P	_	12	dep	_	_
+14	horreurs	horreur	N	NC	g=f|n=p|s=c	13	obj	_	_
+15	,	,	PONCT	PONCT	s=w	12	ponct	_	_
+16	qui	qui	PRO	PROREL	s=rel	17	suj	_	_
+17	donne	donner	V	V	m=ind|n=s|p=3|t=pst	12	mod_rel	_	_
+18	la	le	D	DET	g=f|n=s|s=def	19	det	_	_
+19	chair	chair	N	NC	g=f|n=s|s=c	17	obj	_	_
+20	de	de	P	P	_	19	dep	_	_
+21	poule	poule	N	NC	g=f|n=s|s=c	20	obj	_	_
+22	,	,	PONCT	PONCT	s=w	17	ponct	_	_
+23	dans	dans	P	P	_	17	mod	_	_
+24	un	un	D	DET	g=m|n=s|s=ind	25	det	_	_
+25	livre	livre	N	NC	n=s|s=c	23	obj	_	_
+26	à	à	P	P	_	17	mod	_	_
+27	ne_pas	ne_pas	ADV	ADV	_	28	mod	_	_
+28	lire	lire	V	VINF	m=inf	26	obj	_	_
+29	trop	trop	ADV	ADV	_	30	mod	_	_
+30	souvent	souvent	ADV	ADV	_	28	mod	_	_
+31	,	,	PONCT	PONCT	s=w	10	ponct	_	_
+32	car	car	C	CC	s=c|marker=68	10	coord	_	_
+33	il	cln	CL	CLS	s=suj	34	suj	_	_
+34	fait	faire	V	V	m=ind|n=s|p=3|t=pst	32	dep_coord	_	_
+35	peur	peur	N	NC	g=f|n=s|s=c	34	obj	_	_
+36	.	.	PONCT	PONCT	s=s	6	ponct	_	_
+
+Parents' sons: [8, 9, 12, 31, 32]	Children's sons: [33, 35]
+
+------->  être~histoire{V~NC|mod~ats}		car{CC|coord}		faire~peur{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [8, 9, 12, 31, 32]	Children's sons: [33, 35]
+
+------->  être~histoire{V~NC|mod~ats}		car{CC|coord}		faire~peur{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [8, 9, 12, 31, 32]	Children's sons: [33, 35]
+
+------->  être~histoire{V~NC|mod~ats}		car{CC|coord}		faire~peur{V~NC|dep_coord~obj}		Evidence
+
+
+40|1197) Ce livre est très intéressant car il_y_a d' avantage d' histoires différentes et plus courtes. 
+1	Ce	ce	D	DET	g=m|n=s|s=dem	2	det	_	_
+2	livre	livre	N	NC	n=s|s=c	3	suj	_	_
+3	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+4	très	très	ADV	ADV	_	5	mod	_	_
+5	intéressant	intéressant	A	ADJ	g=m|n=s|s=qual	3	ats	_	_
+6	car	car	C	CC	s=c|marker=68	3	coord	_	_
+7	il_y_a	il_y_a	V	V	m=ind	6	dep_coord	_	_
+8	d'	de	P	P	_	7	mod	_	_
+9	avantage	avantage	N	NC	g=m|n=s|s=c	8	obj	_	_
+10	d'	de	P	P	_	9	dep	_	_
+11	histoires	histoire	N	NC	g=f|n=p|s=c	10	obj	_	_
+12	différentes	différent	A	ADJ	g=f|n=p|s=qual	11	mod	_	_
+13	et	et	C	CC	s=c	12	coord	_	_
+14	plus	plus	ADV	ADV	s=neg	15	mod	_	_
+15	courtes	court	A	ADJ	g=f|n=p|s=qual	13	dep_coord	_	_
+16	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+Parents' sons: [2, 5, 6, 16]	Children's sons: [8]
+
+------->  être~intéressant~très{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		il_y_a{V|dep_coord}		Causation
+
+
+Parents' sons: [2, 5, 6, 16]	Children's sons: [8]
+
+------->  être~intéressant~très{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		il_y_a{V|dep_coord}		FR_Cause_enunciation
+
+
+Parents' sons: [2, 5, 6, 16]	Children's sons: [8]
+
+------->  être~intéressant~très{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		il_y_a{V|dep_coord}		Evidence
+
+
+41|1198) Mais un jour, il a vraiment trop rajeunit car il est redevenu un bébé, alors le petit garçon appela sa copine et ils s' en occupèrent. 
+1	Mais	mais	C	CC	s=c	0	root	_	_
+2	un	un	D	DET	g=m|n=s|s=ind	3	det	_	_
+3	jour	jour	N	NC	g=m|n=s|s=c	9	mod	_	_
+4	,	,	PONCT	PONCT	s=w	9	ponct	_	_
+5	il	cln	CL	CLS	s=suj	9	suj	_	_
+6	a	avoir	V	V	m=ind|n=s|p=3|t=pst	9	aux_tps	_	_
+7	vraiment	vraiment	ADV	ADV	_	9	mod	_	_
+8	trop	trop	ADV	ADV	_	9	mod	_	_
+9	rajeunit	rajeunir	V	V	m=ind|n=s|p=3|t=past	1	dep_coord	_	_
+10	car	car	C	CC	s=c|marker=68	9	coord	_	_
+11	il	cln	CL	CLS	s=suj	13	suj	_	_
+12	est	être	V	V	m=ind|n=s|p=3|t=pst	13	aux_pass	_	_
+13	redevenu	redevenir	V	VPP	g=m|m=part|n=s|t=past	10	dep_coord	_	_
+14	un	un	D	DET	g=m|n=s|s=ind	15	det	_	_
+15	bébé	bébé	N	NC	g=m|n=s|s=c	13	obj	_	_
+16	,	,	PONCT	PONCT	s=w	15	ponct	_	_
+17	alors	alors	ADV	ADV	_|marker=7	15	mod	_	_
+18	le	le	D	DET	g=m|n=s|s=def	20	det	_	_
+19	petit	petit	A	ADJ	g=m|n=s|s=qual	20	mod	_	_
+20	garçon	garçon	N	NC	g=m|n=s|s=c	21	suj	_	_
+21	appela	appeler	V	V	m=ind|n=s|p=3|t=past	13	mod	_	_
+22	sa	son	D	DET	g=f|n=s|s=poss	23	det	_	_
+23	copine	copine	N	NC	g=f|n=s|s=c	21	obj	_	_
+24	et	et	C	CC	s=c	21	coord	_	_
+25	ils	cln	CL	CLS	s=suj	28	suj	_	_
+26	s'	se	CL	CLR	p=3|s=refl	28	de_obj	_	_
+27	en	en	CL	CLO	p=3|s=obj	28	aff	_	_
+28	occupèrent	occuper	V	V	m=ind|n=p|p=3|t=past	24	dep_coord	_	_
+29	.	.	PONCT	PONCT	s=s	1	ponct	_	_
+
+Parents' sons: [3, 4, 5, 6, 7, 8, 10]	Children's sons: [11, 12, 15, 21]
+
+------->  rajeunir~trop{V~ADV|dep_coord~mod}		car{CC|coord}		redevenir~bébé{VPP~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [3, 4, 5, 6, 7, 8, 10]	Children's sons: [11, 12, 15, 21]
+
+------->  rajeunir~trop{V~ADV|dep_coord~mod}		car{CC|coord}		redevenir~bébé{VPP~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [3, 4, 5, 6, 7, 8, 10]	Children's sons: [11, 12, 15, 21]
+
+------->  rajeunir~trop{V~ADV|dep_coord~mod}		car{CC|coord}		redevenir~bébé{VPP~NC|dep_coord~obj}		Evidence
+
+
+42|1200) - Avis: Ce livre est très bien car j' aime les bébés. 
+1	-	-	PONCT	PONCT	s=w	6	ponct	_	_
+2	Avis	Avis	N	NPP	g=f|n=s|s=p	6	mod	_	_
+3	:	:	PONCT	PONCT	s=w	6	ponct	_	_
+4	Ce	ce	D	DET	g=m|n=s|s=dem	5	det	_	_
+5	livre	livre	N	NC	n=s|s=c	6	suj	_	_
+6	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+7	très	très	ADV	ADV	_	8	mod	_	_
+8	bien	bien	ADV	ADV	_	6	mod	_	_
+9	car	car	C	CC	s=c|marker=68	6	coord	_	_
+10	j'	cln	CL	CLS	s=suj	11	suj	_	_
+11	aime	aimer	V	V	m=ind|n=s|p=3|t=pst	9	dep_coord	_	_
+12	les	le	D	DET	n=p|s=def	13	det	_	_
+13	bébés	bébé	N	NC	g=m|n=p|s=c	11	obj	_	_
+14	.	.	PONCT	PONCT	s=s	6	ponct	_	_
+
+Parents' sons: [1, 2, 3, 5, 8, 9, 14]	Children's sons: [10, 13]
+
+------->  être~bien~très{V~ADV~ADV|root~mod~mod}		car{CC|coord}		aimer~bébé{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [1, 2, 3, 5, 8, 9, 14]	Children's sons: [10, 13]
+
+------->  être~bien~très{V~ADV~ADV|root~mod~mod}		car{CC|coord}		aimer~bébé{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 2, 3, 5, 8, 9, 14]	Children's sons: [10, 13]
+
+------->  être~bien~très{V~ADV~ADV|root~mod~mod}		car{CC|coord}		aimer~bébé{V~NC|dep_coord~obj}		Evidence
+
+
+43|1205) à quel age se déclare une femelle a la chasse car ma kortal a 1 et 1/2 elle ne s' intéresse pas du tous a la chasse. 
+1	à	à	P	P	_	5	mod	_	_
+2	quel	quel	D	DET	g=m|n=s	3	det	_	_
+3	age	age	N	NC	g=m|n=s|s=c	1	obj	_	_
+4	se	se	CL	CLR	p=3|s=refl	5	aff	_	_
+5	déclare	déclarer	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+6	une	un	D	DET	g=f|n=s|s=ind	7	det	_	_
+7	femelle	femelle	N	NC	g=f|n=s|s=c	5	obj	_	_
+8	a	avoir	V	V	m=ind|n=s|p=3|t=pst	5	mod	_	_
+9	la	le	D	DET	g=f|n=s|s=def	10	det	_	_
+10	chasse	chasse	N	NC	g=f|n=s|s=c	8	obj	_	_
+11	car	car	C	CC	s=c|marker=68	10	coord	_	_
+12	ma	son	D	DET	g=f|n=s|s=poss	13	det	_	_
+13	kortal	kortal	N	NC	s=c	11	dep_coord	_	_
+14	a	avoir	V	V	m=ind|n=s|p=3|t=pst	5	aux_pass	_	_
+15	1	1	A	ADJ	s=card	5	ats	_	_
+16	et	et	C	CC	s=c	15	coord	_	_
+17	1/2	1/2	A	ADJ	s=card	16	dep_coord	_	_
+18	elle	cln	CL	CLS	s=suj	21	suj	_	_
+19	ne	ne	ADV	ADV	s=neg	21	mod	_	_
+20	s'	se	CL	CLR	p=3|s=refl	21	aff	_	_
+21	intéresse	intéresser	V	V	m=ind|n=s|p=3|t=pst	5	mod	_	_
+22	pas	pas	ADV	ADV	s=neg	21	mod	_	_
+23	du	de	P+D	P+D	s=def	21	mod	_	_
+24	tous	tout	A	ADJ	g=m|n=p|s=ind	23	obj	_	_
+25	a	avoir	V	V	m=ind|n=s|p=3|t=pst	21	mod	_	_
+26	la	le	D	DET	g=f|n=s|s=def	27	det	_	_
+27	chasse	chasse	N	NC	g=f|n=s|s=c	21	obj	_	_
+28	.	.	PONCT	PONCT	s=s	5	ponct	_	_
+
+Parents' sons: [9, 11]	Children's sons: [12]
+
+------->  chasse{NC|obj}		car{CC|coord}		kortal{NC|dep_coord}		Causation
+
+
+Parents' sons: [9, 11]	Children's sons: [12]
+
+------->  chasse{NC|obj}		car{CC|coord}		kortal{NC|dep_coord}		FR_Cause_enunciation
+
+
+Parents' sons: [9, 11]	Children's sons: [12]
+
+------->  chasse{NC|obj}		car{CC|coord}		kortal{NC|dep_coord}		Evidence
+
+
+44|1206) car j' adore ma chienne mais j' aimerai quel s' intéresse à la chasse. 
+1	car	car	C	CC	s=c	0	root	_	_
+2	j'	cln	CL	CLS	s=suj	3	suj	_	_
+3	adore	adorer	V	V	m=ind|n=s|p=3|t=pst	1	dep_coord	_	_
+4	ma	son	D	DET	g=f|n=s|s=poss	5	det	_	_
+5	chienne	chienne	N	NC	g=f|n=s|s=c	3	obj	_	_
+6	mais	mais	C	CC	s=c|marker=304	3	coord	_	_
+7	j'	cln	CL	CLS	s=suj	8	suj	_	_
+8	aimerai	aimer	V	V	m=ind|n=s|p=1|t=fut	6	dep_coord	_	_
+9	quel	quel	A	ADJWH	s=int	8	ats	_	_
+10	s'	se	CL	CLR	p=3|s=refl	11	aff	_	_
+11	intéresse	intéresser	V	V	m=ind|n=s|p=3|t=pst	3	dep	_	_
+12	à	à	P	P	_	11	mod	_	_
+13	la	le	D	DET	g=f|n=s|s=def	14	det	_	_
+14	chasse	chasse	N	NC	g=f|n=s|s=c	12	obj	_	_
+15	.	.	PONCT	PONCT	s=s	1	ponct	_	_
+
+45|1207) josephine Dimanche 30 Juillet 2006_18: 02 je recommande vivement à toutes les personnes désirant etre propriétaire de chiens de suivre des cours de dressage, ou l' on éduque essentiellement le maitre, cela permettra de beaucoup apprendre sur vous meme, il faut souvent se remettre en_question car le chien nous testera toujours. 
+1	josephine	josephine	P	P	_	9	mod	_	_
+2	Dimanche	dimanche	N	NC	g=m|n=s|s=c	1	obj	_	_
+3	30	30	A	ADJ	s=card	2	mod	_	_
+4	Juillet	Juillet	N	NPP	s=p	2	mod	_	_
+5	2006_18	2006_18	A	ADJ	s=qual	4	mod	_	_
+6	:	:	PONCT	PONCT	s=w	1	ponct	_	_
+7	02	02	D	DET	s=card	9	suj	_	_
+8	je	cln	CL	CLS	s=suj	9	suj	_	_
+9	recommande	recommander	V	V	m=ind|n=s|p=3|t=pst	36	mod	_	_
+10	vivement	vivement	ADV	ADV	_	9	mod	_	_
+11	à	à	P	P	_	9	mod	_	_
+12	toutes	tout	A	ADJ	g=f|n=p|s=ind	14	mod	_	_
+13	les	le	D	DET	n=p|s=def	14	det	_	_
+14	personnes	personne	N	NC	g=f|n=p|s=neg	11	obj	_	_
+15	désirant	désirer	V	VPR	m=part|t=pst	14	mod	_	_
+16	etre	etre	ADV	ADV	_	15	mod	_	_
+17	propriétaire	propriétaire	N	NC	n=s|s=c	15	mod	_	_
+18	de	de	P	P	_	17	dep	_	_
+19	chiens	chiens	N	NC	g=m|n=p|s=c	18	obj	_	_
+20	de	de	P	P	_	15	obj	_	_
+21	suivre	suivre	V	VINF	m=inf	20	obj	_	_
+22	des	de	D	DET	_	23	det	_	_
+23	cours	cours	N	NC	g=m|s=c	21	obj	_	_
+24	de	de	P	P	_	23	dep	_	_
+25	dressage	dressage	N	NC	g=m|n=s|s=c	24	obj	_	_
+26	,	,	PONCT	PONCT	s=w	9	ponct	_	_
+27	ou	ou	C	CC	s=c	9	coord	_	_
+28	l'	le	D	DET	n=s|s=def	30	det	_	_
+29	on	cln	CL	CLS	s=suj	30	suj	_	_
+30	éduque	éduquer	V	V	m=ind|n=s|p=3|t=pst	27	dep_coord	_	_
+31	essentiellement	essentiellement	ADV	ADV	_	30	mod	_	_
+32	le	le	D	DET	g=m|n=s|s=def	33	det	_	_
+33	maitre	maitre	N	NC	s=c	30	obj	_	_
+34	,	,	PONCT	PONCT	s=w	36	ponct	_	_
+35	cela	cela	PRO	PRO	n=s|s=dem	36	suj	_	_
+36	permettra	permettre	V	V	m=ind|n=s|p=3|t=fut	0	root	_	_
+37	de	de	P	P	_	36	obj	_	_
+38	beaucoup	beaucoup	ADV	ADV	_	39	mod	_	_
+39	apprendre	apprendre	V	VINF	m=inf	37	obj	_	_
+40	sur	sur	P	P	_	39	mod	_	_
+41	vous	lui	PRO	PRO	n=p|s=pers	40	obj	_	_
+42	meme	meme	A	ADJ	s=qual	41	mod	_	_
+43	,	,	PONCT	PONCT	s=w	45	ponct	_	_
+44	il	cln	CL	CLS	s=suj	45	suj	_	_
+45	faut	falloir	V	V	m=ind|n=s|p=3|t=pst	36	mod	_	_
+46	souvent	souvent	ADV	ADV	_	45	mod	_	_
+47	se	se	CL	CLR	p=3|s=refl	48	aff	_	_
+48	remettre	remettre	V	VINF	m=inf	45	obj	_	_
+49	en_question	en_question	ADV	ADV	_	48	mod	_	_
+50	car	car	C	CC	s=c|marker=68	45	coord	_	_
+51	le	le	D	DET	g=m|n=s|s=def	52	det	_	_
+52	chien	chien	N	NC	g=m|n=s|s=c	54	suj	_	_
+53	nous	clad	CL	CLO	s=obj	54	aff	_	_
+54	testera	tester	V	V	m=ind|n=s|p=3|t=fut	50	dep_coord	_	_
+55	toujours	toujours	ADV	ADV	_	54	mod	_	_
+56	.	.	PONCT	PONCT	s=s	36	ponct	_	_
+
+Parents' sons: [43, 44, 46, 48, 50]	Children's sons: [52, 53, 55]
+
+------->  falloir~remettre~en_question{V~VINF~ADV|mod~obj~mod}		car{CC|coord}		tester~toujours{V~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [43, 44, 46, 48, 50]	Children's sons: [52, 53, 55]
+
+------->  falloir~remettre~en_question{V~VINF~ADV|mod~obj~mod}		car{CC|coord}		tester~toujours{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [43, 44, 46, 48, 50]	Children's sons: [52, 53, 55]
+
+------->  falloir~remettre~en_question{V~VINF~ADV|mod~obj~mod}		car{CC|coord}		tester~toujours{V~ADV|dep_coord~mod}		Evidence
+
+
+46|1211) la fin de la rubrique quelle poisson prennez -vous m' a fait penser a ceci car on ne prend pas toujour ce que l' on voudrai prendre pour ma part j' aime prendre du poisson combatif et etre toujour a la limite quand ca ne tien qu' a un fil qui peu casser a la moindre mauvaise maneuvre Fisher24 Administrateur Age: 26 Inscrit le: 20 Nov 2006 Messages: 2490 Localisation: Mussidan( 24) Prénom: Laurent Sujet: Re: quelle poisson preferez -vous prendre Jeu 25 Oct- 17: 59 Question difficile mais je pense que ma réponse est la carpe( que ce soit au coup ou en batterie). 
+1	la	le	D	DET	g=f|n=s|s=def	2	det	_	_
+2	fin	fin	N	NC	n=s|s=c	14	suj	_	_
+3	de	de	P	P	_	2	dep	_	_
+4	la	le	D	DET	g=f|n=s|s=def	5	det	_	_
+5	rubrique	rubrique	N	NC	g=f|n=s|s=c	3	obj	_	_
+6	quelle	quel	D	DETWH	g=f|n=s|s=int	7	det	_	_
+7	poisson	poisson	N	NC	g=m|n=s|s=c	8	suj	_	_
+8	prennez	prennez	V	V	m=ind	2	mod	_	_
+9	-vous	cln	CL	CLS	s=suj	13	a_obj	_	_
+10	m'	cla	CL	CLO	n=s|s=obj	13	obj	_	_
+11	a	avoir	V	V	m=ind|n=s|p=3|t=pst	13	aux_tps	_	_
+12	fait	faire	V	VPP	g=m|m=part|n=s|t=past	13	aux_caus	_	_
+13	penser	penser	V	VINF	m=inf	8	obj	_	_
+14	a	avoir	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+15	ceci	ceci	PRO	PRO	n=s|s=dem	14	obj	_	_
+16	car	car	C	CC	s=c|marker=68	14	coord	_	_
+17	on	cln	CL	CLS	s=suj	19	suj	_	_
+18	ne	ne	ADV	ADV	s=neg	19	mod	_	_
+19	prend	prendre	V	V	m=ind|n=s|p=3|t=pst	16	dep_coord	_	_
+20	pas	pas	ADV	ADV	s=neg	19	mod	_	_
+21	toujour	toujour	ADV	ADV	_	19	mod	_	_
+22	ce	ce	PRO	PRO	_	19	obj	_	_
+23	que	que	PRO	PROREL	s=rel	26	obj	_	_
+24	l'	le	D	DET	n=s|s=def	26	mod	_	_
+25	on	cln	CL	CLS	s=suj	26	suj	_	_
+26	voudrai	vouloir	V	V	m=ind|n=s|p=1|t=fut	22	mod_rel	_	_
+27	prendre	prendre	V	VINF	m=inf	26	obj	_	_
+28	pour	pour	P	P	_	27	mod	_	_
+29	ma	son	D	DET	g=f|n=s|s=poss	30	det	_	_
+30	part	part	N	NC	n=s|s=c	28	obj	_	_
+31	j'	cln	CL	CLS	s=suj	32	suj	_	_
+32	aime	aimer	V	V	m=ind|n=s|p=3|t=pst	14	mod	_	_
+33	prendre	prendre	V	VINF	m=inf	32	obj	_	_
+34	du	de	D	DET	_	35	det	_	_
+35	poisson	poisson	N	NC	g=m|n=s|s=c	33	obj	_	_
+36	combatif	combatif	A	ADJ	g=m|n=s|s=qual	35	mod	_	_
+37	et	et	C	CC	s=c	36	coord	_	_
+38	etre	etre	A	ADJ	s=qual	37	dep_coord	_	_
+39	toujour	toujour	N	NC	s=c	35	mod	_	_
+40	a	avoir	V	V	m=ind|n=s|p=3|t=pst	14	mod	_	_
+41	la	le	D	DET	g=f|n=s|s=def	42	det	_	_
+42	limite	limite	N	NC	g=f|n=s|s=c	40	suj	_	_
+43	quand	quand	C	CS	s=s|marker=144	40	mod	_	_
+44	ca	ca	V	V	m=ind	43	obj	_	_
+45	ne	ne	ADV	ADV	s=neg	46	mod	_	_
+46	tien	tien	A	ADJ	g=m|n=s|s=qual	14	ats	_	_
+47	qu'	que	ADV	ADV	_	46	mod	_	_
+48	a	avoir	V	V	m=ind|n=s|p=3|t=pst	14	mod	_	_
+49	un	un	D	DET	g=m|n=s|s=ind	50	det	_	_
+50	fil	fil	N	NC	g=m|n=s|s=c	14	obj	_	_
+51	qui	qui	PRO	PROREL	s=rel	53	suj	_	_
+52	peu	peu	ADV	ADV	_	53	mod	_	_
+53	casser	casser	V	VINF	m=inf	50	mod_rel	_	_
+54	a	avoir	V	V	m=ind|n=s|p=3|t=pst	14	mod	_	_
+55	la	le	D	DET	g=f|n=s|s=def	58	det	_	_
+56	moindre	moindre	A	ADJ	n=s|s=qual	58	mod	_	_
+57	mauvaise	mauvais	A	ADJ	g=f|n=s|s=qual	58	mod	_	_
+58	maneuvre	maneuvre	N	NC	s=c	14	obj	_	_
+59	Fisher24	Fisher24	A	ADJ	s=qual	58	mod	_	_
+60	Administrateur	administrateur	N	NC	g=m|n=s|s=c	58	mod	_	_
+61	Age	age	N	NC	g=m|n=s|s=c	60	mod	_	_
+62	:	:	PONCT	PONCT	s=w	14	ponct	_	_
+63	26	26	D	DET	s=card	64	det	_	_
+64	Inscrit	inscrit	N	NC	g=m|n=s|s=c	14	obj	_	_
+65	le	le	D	DET	g=m|n=s|s=def	73	det	_	_
+66	:	:	PONCT	PONCT	s=w	65	ponct	_	_
+67	20	20	D	DET	s=card	65	coord	_	_
+68	Nov	Nov	ET	ET	_	70	dep	_	_
+69	2006	2006	ET	ET	s=card	70	dep	_	_
+70	Messages	Messages	ET	ET	_	67	dep_coord	_	_
+71	:	:	PONCT	PONCT	s=w	65	ponct	_	_
+72	2490	2490	D	DET	s=card	73	det	_	_
+73	Localisation	localisation	N	NC	g=f|n=s|s=c	64	mod	_	_
+74	:	:	PONCT	PONCT	s=w	64	ponct	_	_
+75	Mussidan	Mussidan	N	NPP	g=m|n=s|s=p	64	mod	_	_
+76	(	(	PONCT	PONCT	s=w	64	ponct	_	_
+77	24	24	A	ADJ	s=card	64	mod	_	_
+78	)	)	PONCT	PONCT	s=w	64	ponct	_	_
+79	Prénom	Prénom	N	NPP	s=p	64	mod	_	_
+80	:	:	PONCT	PONCT	s=w	64	ponct	_	_
+81	Laurent	Laurent	N	NPP	g=m|n=s|s=p	64	mod	_	_
+82	Sujet	Sujet	N	NPP	s=p	81	mod	_	_
+83	:	:	PONCT	PONCT	s=w	64	ponct	_	_
+84	Re	Re	N	NPP	g=m|n=s|s=p	64	mod	_	_
+85	:	:	PONCT	PONCT	s=w	14	ponct	_	_
+86	quelle	quel	D	DET	g=f|n=s	87	det	_	_
+87	poisson	poisson	N	NC	g=m|n=s|s=c	88	suj	_	_
+88	preferez	preferez	V	V	m=ind	14	mod	_	_
+89	-vous	cla	CL	CLO	n=p|s=obj	90	obj	_	_
+90	prendre	prendre	V	VINF	m=inf	88	obj	_	_
+91	Jeu	Jeu	N	NPP	s=p	90	suj	_	_
+92	25	25	D	DET	s=card	93	det	_	_
+93	Oct	Oct	N	NC	s=c	100	suj	_	_
+94	-	-	PONCT	PONCT	s=w	93	ponct	_	_
+95	17	17	A	ADJ	s=card	93	mod	_	_
+96	:	:	PONCT	PONCT	s=w	93	ponct	_	_
+97	59	59	D	DET	s=card	98	det	_	_
+98	Question	question	N	NC	g=f|n=s|s=c	93	mod	_	_
+99	difficile	difficile	A	ADJ	n=s|s=qual	98	mod	_	_
+100	mais	mais	C	CC	s=c|marker=304	88	coord	_	_
+101	je	cln	CL	CLS	s=suj	102	suj	_	_
+102	pense	penser	V	V	m=ind|n=s|p=3|t=pst	100	dep_coord	_	_
+103	que	que	C	CS	s=s	102	obj	_	_
+104	ma	son	D	DET	g=f|n=s|s=poss	105	det	_	_
+105	réponse	réponse	N	NC	g=f|n=s|s=c	106	suj	_	_
+106	est	être	V	V	m=ind|n=s|p=3|t=pst	103	obj	_	_
+107	la	le	D	DET	g=f|n=s|s=def	108	det	_	_
+108	carpe	carpe	N	NC	g=f|n=s|s=c	106	ats	_	_
+109	(	(	PONCT	PONCT	s=w	100	ponct	_	_
+110	que	que	C	CS	s=s	100	dep_coord	_	_
+111	ce	cln	CL	CLS	s=suj	112	suj	_	_
+112	soit	être	V	VS	m=subj|n=s|p=3|t=pst	110	obj	_	_
+113	au	à	P+D	P+D	s=def	112	a_obj	_	_
+114	coup	coup	N	NC	g=m|n=s|s=c	113	obj	_	_
+115	ou	ou	C	CC	s=c	113	coord	_	_
+116	en	en	P	P	p=3	115	dep_coord	_	_
+117	batterie	batterie	N	NC	g=f|n=s|s=c	116	obj	_	_
+118	)	)	PONCT	PONCT	s=w	14	ponct	_	_
+119	.	.	PONCT	PONCT	s=s	14	ponct	_	_
+
+Parents' sons: [2, 15, 16, 32, 40, 46, 48, 50, 54, 58, 62, 64, 85, 88, 118, 119]	Children's sons: [17, 18, 20, 21, 22]
+
+------->  avoir~inscrit~localisation{V~NC~NC|root~obj~mod}		car{CC|coord}		prendre~toujour{V~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [2, 15, 16, 32, 40, 46, 48, 50, 54, 58, 62, 64, 85, 88, 118, 119]	Children's sons: [17, 18, 20, 21, 22]
+
+------->  avoir~inscrit~localisation{V~NC~NC|root~obj~mod}		car{CC|coord}		prendre~toujour{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [2, 15, 16, 32, 40, 46, 48, 50, 54, 58, 62, 64, 85, 88, 118, 119]	Children's sons: [17, 18, 20, 21, 22]
+
+------->  avoir~inscrit~localisation{V~NC~NC|root~obj~mod}		car{CC|coord}		prendre~toujour{V~ADV|dep_coord~mod}		Evidence
+
+
+47|1219) Résultat: vous cherchez à gagner de l' argent mais vous en perdez avec une méthode qui en fait n' a rien de miraculeux car elle ne fonctionne pas. 
+1	Résultat	résultat	N	NC	g=m|n=s|s=c	4	mod	_	_
+2	:	:	PONCT	PONCT	s=w	4	ponct	_	_
+3	vous	cln	CL	CLS	s=suj	4	suj	_	_
+4	cherchez	chercher	V	V	m=ind|n=p|p=2|t=pst	0	root	_	_
+5	à	à	P	P	_	4	mod	_	_
+6	gagner	gagner	V	VINF	m=inf	5	obj	_	_
+7	de	de	P	P	_	6	de_obj	_	_
+8	l'	le	D	DET	n=s|s=def	9	det	_	_
+9	argent	argent	N	NC	g=m|n=s|s=c	7	obj	_	_
+10	mais	mais	C	CC	s=c|marker=304	4	coord	_	_
+11	vous	cln	CL	CLS	s=suj	13	suj	_	_
+12	en	en	CL	CLO	p=3|s=obj	13	de_obj	_	_
+13	perdez	perdre	V	V	m=ind|n=p|p=2|t=pst	10	dep_coord	_	_
+14	avec	avec	P	P	_	13	mod	_	_
+15	une	un	D	DET	g=f|n=s|s=ind	16	det	_	_
+16	méthode	méthode	N	NC	g=f|n=s|s=c	14	obj	_	_
+17	qui	qui	PRO	PROREL	s=rel	19	suj	_	_
+18	en	en	CL	CLO	p=3|s=obj	19	aff	_	_
+19	fait	faire	V	V	m=ind|n=s|p=3|t=pst	16	mod_rel	_	_
+20	n'	ne	ADV	ADV	s=neg	21	mod	_	_
+21	a	avoir	V	V	m=ind|n=s|p=3|t=pst	4	aux_pass	_	_
+22	rien	rien	PRO	PRO	n=s|s=neg	21	obj	_	_
+23	de	de	P	P	_	22	dep	_	_
+24	miraculeux	miraculeux	A	ADJ	g=m|s=qual	23	obj	_	_
+25	car	car	C	CC	s=c|marker=68	21	coord	_	_
+26	elle	cln	CL	CLS	s=suj	28	suj	_	_
+27	ne	ne	ADV	ADV	s=neg	28	mod	_	_
+28	fonctionne	fonctionner	V	V	m=ind|n=s|p=3|t=pst	25	dep_coord	_	_
+29	pas	pas	ADV	ADV	s=neg	28	mod	_	_
+30	.	.	PONCT	PONCT	s=s	4	ponct	_	_
+
+Parents' sons: [20, 22, 25]	Children's sons: [26, 27, 29]
+
+------->  avoir~ne{V~ADV|aux_pass~mod}		car{CC|coord}		fonctionner~pas{V~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [20, 22, 25]	Children's sons: [26, 27, 29]
+
+------->  avoir~ne{V~ADV|aux_pass~mod}		car{CC|coord}		fonctionner~pas{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [20, 22, 25]	Children's sons: [26, 27, 29]
+
+------->  avoir~ne{V~ADV|aux_pass~mod}		car{CC|coord}		fonctionner~pas{V~ADV|dep_coord~mod}		Evidence
+
+
+48|1293) Vous rencontrez un clown qui se marre bien car vous avez déjoué les pièges de son ennemi Monsieur Patate. 
+1	Vous	cln	CL	CLS	s=suj	2	suj	_	_
+2	rencontrez	rencontrer	V	V	m=ind|n=p|p=2|t=pst	0	root	_	_
+3	un	un	D	DET	g=m|n=s|s=ind	4	det	_	_
+4	clown	clown	N	NC	g=m|n=s|s=c	2	obj	_	_
+5	qui	qui	PRO	PROREL	s=rel	7	suj	_	_
+6	se	se	CL	CLR	p=3|s=refl	7	aff	_	_
+7	marre	marrer	V	V	m=ind|n=s|p=3|t=pst	4	mod_rel	_	_
+8	bien	bien	ADV	ADV	_	7	mod	_	_
+9	car	car	C	CC	s=c|marker=68	7	coord	_	_
+10	vous	cln	CL	CLS	s=suj	12	suj	_	_
+11	avez	avoir	V	V	m=ind|n=p|p=2|t=pst	12	aux_tps	_	_
+12	déjoué	déjouer	V	VPP	g=m|m=part|n=s|t=past	9	dep_coord	_	_
+13	les	le	D	DET	n=p|s=def	14	det	_	_
+14	pièges	piège	N	NC	g=m|n=p|s=c	12	obj	_	_
+15	de	de	P	P	_	14	dep	_	_
+16	son	son	D	DET	n=s|s=poss	17	det	_	_
+17	ennemi	ennemi	N	NC	g=m|n=s|s=c	15	obj	_	_
+18	Monsieur	Monsieur	N	NPP	g=m|n=s|s=p	17	mod	_	_
+19	Patate	Patate	N	NPP	s=p	18	mod	_	_
+20	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [5, 6, 8, 9]	Children's sons: [10, 11, 14]
+
+------->  marrer~bien{V~ADV|mod_rel~mod}		car{CC|coord}		déjouer~piège{VPP~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [5, 6, 8, 9]	Children's sons: [10, 11, 14]
+
+------->  marrer~bien{V~ADV|mod_rel~mod}		car{CC|coord}		déjouer~piège{VPP~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [5, 6, 8, 9]	Children's sons: [10, 11, 14]
+
+------->  marrer~bien{V~ADV|mod_rel~mod}		car{CC|coord}		déjouer~piège{VPP~NC|dep_coord~obj}		Evidence
+
+
+49|1340) Wilde cheyenne9786 Age: 21 Inscrit le: 07 Aoû 2007 Messages: 579 Localisation: Méounes les Montrieux Var 83 Sujet: Re: Enrenement pessoa Mar 11 Sep- 9: 56 C' etait un simple question, merci de vos reponse, c' est vrai Articia tu a raison surtout qu' en ce moment je lui ai augmenté les dose car il avait serieusement perdu de l' etat! 
+1	Wilde	wilde	P	P	_	36	mod	_	_
+2	cheyenne9786	cheyenne9786	D	DET	_	3	det	_	_
+3	Age	age	N	NC	g=m|n=s|s=c	1	obj	_	_
+4	:	:	PONCT	PONCT	s=w	1	ponct	_	_
+5	21	21	D	DET	s=card	6	det	_	_
+6	Inscrit	inscrit	N	NC	g=m|n=s|s=c	1	obj	_	_
+7	le	le	D	DET	g=m|n=s|s=def	10	det	_	_
+8	:	:	PONCT	PONCT	s=w	10	ponct	_	_
+9	07	07	D	DET	s=card	10	det	_	_
+10	Aoû	Aoû	N	NC	s=c	36	mod	_	_
+11	2007	2007	D	DET	s=card	12	det	_	_
+12	Messages	message	N	NC	g=m|n=p|s=c	10	mod	_	_
+13	:	:	PONCT	PONCT	s=w	10	ponct	_	_
+14	579	579	D	DET	s=card	15	det	_	_
+15	Localisation	localisation	N	NC	g=f|n=s|s=c	10	mod	_	_
+16	:	:	PONCT	PONCT	s=w	10	ponct	_	_
+17	Méounes	Méoune	N	NC	s=c	10	mod	_	_
+18	les	le	D	DET	n=p|s=def	19	det	_	_
+19	Montrieux	Montrieux	N	NC	s=c	36	suj	_	_
+20	Var	Var	N	NPP	g=m|n=s|s=p	19	mod	_	_
+21	83	83	D	DET	s=card	19	mod	_	_
+22	Sujet	Sujet	N	NPP	s=p	19	mod	_	_
+23	:	:	PONCT	PONCT	s=w	19	ponct	_	_
+24	Re	Re	N	NPP	g=m|n=s|s=p	19	mod	_	_
+25	:	:	PONCT	PONCT	s=w	19	ponct	_	_
+26	Enrenement	Enrenement	ADV	ADV	_	34	dep	_	_
+27	pessoa	pessoa	ET	ET	_	28	dep	_	_
+28	Mar	Mar	ET	ET	_	26	dep	_	_
+29	11	11	D	DET	s=card	32	det	_	_
+30	Sep	Sep	ET	ET	_	32	dep	_	_
+31	-	-	PONCT	PONCT	s=w	32	ponct	_	_
+32	9	9	A	ADJ	s=card	28	obj	_	_
+33	:	:	PONCT	PONCT	s=w	26	ponct	_	_
+34	56	56	D	DET	s=card	19	mod	_	_
+35	C'	cln	CL	CLS	s=suj	36	suj	_	_
+36	etait	etait	V	V	m=ind	0	root	_	_
+37	un	un	D	DET	g=m|n=s|s=ind	39	det	_	_
+38	simple	simple	A	ADJ	n=s|s=qual	39	mod	_	_
+39	question	question	N	NC	g=f|n=s|s=c	36	obj	_	_
+40	,	,	PONCT	PONCT	s=w	39	ponct	_	_
+41	merci	merci	N	NC	g=m|n=s|s=c	39	mod	_	_
+42	de	de	P	P	_	41	dep	_	_
+43	vos	son	D	DET	n=p|s=poss	44	det	_	_
+44	reponse	reponse	N	NC	s=c	42	obj	_	_
+45	,	,	PONCT	PONCT	s=w	47	ponct	_	_
+46	c'	cln	CL	CLS	s=suj	47	suj	_	_
+47	est	être	V	V	m=ind|n=s|p=3|t=pst	36	mod	_	_
+48	vrai	vrai	A	ADJ	g=m|n=s|s=qual	47	ats	_	_
+49	Articia	Articia	N	NPP	s=p	47	suj	_	_
+50	tu	taire	V	VPP	g=m|m=part|n=s|t=past	49	mod	_	_
+51	a	avoir	V	V	m=ind|n=s|p=3|t=pst	47	dep	_	_
+52	raison	raison	N	NC	g=f|n=s|s=c	51	obj	_	_
+53	surtout	surtout	ADV	ADV	_|marker=178	47	mod	_	_
+54	qu'	que	C	CS	s=s	47	mod	_	_
+55	en	en	P	P	p=3	61	mod	_	_
+56	ce	ce	D	DET	g=m|n=s|s=dem	57	det	_	_
+57	moment	moment	N	NC	g=m|n=s|s=c	55	obj	_	_
+58	je	cln	CL	CLS	s=suj	61	suj	_	_
+59	lui	cld	CL	CLO	n=s|s=obj	61	a_obj	_	_
+60	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	61	aux_tps	_	_
+61	augmenté	augmenter	V	VPP	g=m|m=part|n=s|t=past	54	obj	_	_
+62	les	le	D	DET	n=p|s=def	63	det	_	_
+63	dose	dose	N	NC	g=f|n=s|s=c	61	obj	_	_
+64	car	car	C	CC	s=c|marker=68	47	coord	_	_
+65	il	cln	CL	CLS	s=suj	68	suj	_	_
+66	avait	avoir	V	V	m=ind|n=s|p=3|t=impft	68	aux_tps	_	_
+67	serieusement	serieusement	ADV	ADV	_	68	mod	_	_
+68	perdu	perdre	V	VPP	g=m|m=part|n=s|t=past	64	dep_coord	_	_
+69	de	de	P	P	_	68	de_obj	_	_
+70	l'	le	D	DET	n=s|s=def	71	det	_	_
+71	etat	etat	N	NC	s=c	69	obj	_	_
+72	!	!	PONCT	PONCT	s=s	36	ponct	_	_
+
+Parents' sons: [45, 46, 48, 49, 51, 53, 54, 64]	Children's sons: [65, 66, 67, 69]
+
+------->  être~surtout{V~ADV|mod~mod}		car{CC|coord}		perdre~serieusement{VPP~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [45, 46, 48, 49, 51, 53, 54, 64]	Children's sons: [65, 66, 67, 69]
+
+------->  être~surtout{V~ADV|mod~mod}		car{CC|coord}		perdre~serieusement{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [45, 46, 48, 49, 51, 53, 54, 64]	Children's sons: [65, 66, 67, 69]
+
+------->  être~surtout{V~ADV|mod~mod}		car{CC|coord}		perdre~serieusement{VPP~ADV|dep_coord~mod}		Evidence
+
+
+50|1341) Je ne suis pas non_plus adepte des enrenements mais j' avoue que cet enrenement sur MON cheval( je dit mon car c' est pas forcement valable sur tout les chevaux) a fait de veritable merveilles! 
+1	Je	cln	CL	CLS	s=suj	3	suj	_	_
+2	ne	ne	ADV	ADV	s=neg	3	mod	_	_
+3	suis	suivre	V	V	m=ind|n=s|p=2|t=pst	0	root	_	_
+4	pas	pas	ADV	ADV	s=neg	3	mod	_	_
+5	non_plus	non_plus	ADV	ADV	s=neg	3	mod	_	_
+6	adepte	adepte	N	NC	n=s|s=c	3	obj	_	_
+7	des	de	P+D	P+D	s=def	6	dep	_	_
+8	enrenements	enrenement	N	NC	s=c	7	obj	_	_
+9	mais	mais	C	CC	s=c|marker=304	3	coord	_	_
+10	j'	cln	CL	CLS	s=suj	11	suj	_	_
+11	avoue	avouer	V	V	m=ind|n=s|p=3|t=pst	9	dep_coord	_	_
+12	que	que	C	CS	s=s	11	obj	_	_
+13	cet	ce	D	DET	g=m|n=s|s=dem	14	det	_	_
+14	enrenement	enrenement	ADV	ADV	_	12	obj	_	_
+15	sur	sur	P	P	_	14	dep	_	_
+16	MON	MON	N	NPP	s=p	15	obj	_	_
+17	cheval	cheval	N	NC	g=m|n=s|s=c	16	mod	_	_
+18	(	(	PONCT	PONCT	s=w	16	ponct	_	_
+19	je	cln	CL	CLS	s=suj	20	suj	_	_
+20	dit	dire	V	V	m=ind|n=s|p=3|t=pst	14	obj	_	_
+21	mon	son	D	DET	n=s|s=poss	20	mod	_	_
+22	car	car	C	CC	s=c|marker=68	20	coord	_	_
+23	c'	cln	CL	CLS	s=suj	24	suj	_	_
+24	est	être	V	V	m=ind|n=s|p=3|t=pst	22	dep_coord	_	_
+25	pas	pas	ADV	ADV	s=neg	24	mod	_	_
+26	forcement	forcement	N	NC	g=m|n=s|s=c	24	ats	_	_
+27	valable	valable	A	ADJ	n=s|s=qual	26	mod	_	_
+28	sur	sur	P	P	_	24	mod	_	_
+29	tout	tout	A	ADJ	g=m|n=s|s=ind	31	mod	_	_
+30	les	le	D	DET	n=p|s=def	31	det	_	_
+31	chevaux	chevaux	N	NC	g=m|n=p|s=c	28	obj	_	_
+32	)	)	PONCT	PONCT	s=w	3	ponct	_	_
+33	a	avoir	V	V	m=ind|n=s|p=3|t=pst	34	aux_tps	_	_
+34	fait	faire	V	VPP	g=m|m=part|n=s|t=past	3	aux_caus	_	_
+35	de	de	P	P	_	37	det	_	_
+36	veritable	veritable	A	ADJ	s=qual	37	mod	_	_
+37	merveilles	merveille	N	NC	g=f|n=p|s=c	34	obj	_	_
+38	!	!	PONCT	PONCT	s=s	3	ponct	_	_
+
+Parents' sons: [19, 21, 22]	Children's sons: [23, 25, 26, 28]
+
+------->  dire{V|obj}		car{CC|coord}		être~forcement{V~NC|dep_coord~ats}		Causation
+
+
+Parents' sons: [19, 21, 22]	Children's sons: [23, 25, 26, 28]
+
+------->  dire{V|obj}		car{CC|coord}		être~forcement{V~NC|dep_coord~ats}		FR_Cause_enunciation
+
+
+Parents' sons: [19, 21, 22]	Children's sons: [23, 25, 26, 28]
+
+------->  dire{V|obj}		car{CC|coord}		être~forcement{V~NC|dep_coord~ats}		Evidence
+
+
+51|1401) ), je me suis mise en quête d' une 205 GTI, car elle correspondait le plus à ce que je recherchais: une voiture authentique, à l' ancienne, avec un moteur bien présent et efficace. 
+1	)	)	PONCT	PONCT	s=w	6	ponct	_	_
+2	,	,	PONCT	PONCT	s=w	6	ponct	_	_
+3	je	cln	CL	CLS	s=suj	6	suj	_	_
+4	me	cla	CL	CLR	n=s|s=refl	6	aff	_	_
+5	suis	suivre	V	V	m=ind|n=s|p=2|t=pst	6	aux_tps	_	_
+6	mise	mettre	V	VPP	g=f|m=part|n=s|t=past	0	root	_	_
+7	en	en	P	P	p=3	6	mod	_	_
+8	quête	quête	N	NC	g=f|n=s|s=c	7	obj	_	_
+9	d'	de	P	P	_	8	dep	_	_
+10	une	un	D	DET	g=f|n=s|s=ind	11	det	_	_
+11	205	205	N	NC	s=card	9	obj	_	_
+12	GTI	GTI	N	NC	s=c	11	mod	_	_
+13	,	,	PONCT	PONCT	s=w	6	ponct	_	_
+14	car	car	C	CC	s=c|marker=68	6	coord	_	_
+15	elle	cln	CL	CLS	s=suj	16	suj	_	_
+16	correspondait	correspondre	V	V	m=ind|n=s|p=3|t=impft	14	dep_coord	_	_
+17	le	le	D	DET	g=m|n=s|s=def	18	det	_	_
+18	plus	plus	ADV	ADV	s=neg	16	obj	_	_
+19	à	à	P	P	_	16	mod	_	_
+20	ce	ce	PRO	PRO	_	19	obj	_	_
+21	que	que	PRO	PROREL	s=rel	23	obj	_	_
+22	je	cln	CL	CLS	s=suj	23	suj	_	_
+23	recherchais	rechercher	V	V	m=ind|n=s|p=2|t=impft	20	mod_rel	_	_
+24	:	:	PONCT	PONCT	s=w	16	ponct	_	_
+25	une	un	D	DET	g=f|n=s|s=ind	26	det	_	_
+26	voiture	voiture	N	NC	g=f|n=s|s=c	16	obj	_	_
+27	authentique	authentique	A	ADJ	n=s|s=qual	26	mod	_	_
+28	,	,	PONCT	PONCT	s=w	16	ponct	_	_
+29	à	à	P	P	_	16	mod	_	_
+30	l'	le	D	DET	n=s|s=def	31	det	_	_
+31	ancienne	ancien	A	ADJ	g=f|n=s|s=qual	29	obj	_	_
+32	,	,	PONCT	PONCT	s=w	16	ponct	_	_
+33	avec	avec	P	P	_	16	mod	_	_
+34	un	un	D	DET	g=m|n=s|s=ind	35	det	_	_
+35	moteur	moteur	N	NC	g=m|n=s|s=c	33	obj	_	_
+36	bien	bien	ADV	ADV	_	37	mod	_	_
+37	présent	présent	A	ADJ	g=m|n=s|s=qual	35	mod	_	_
+38	et	et	C	CC	s=c	37	coord	_	_
+39	efficace	efficace	A	ADJ	n=s|s=qual	38	dep_coord	_	_
+40	.	.	PONCT	PONCT	s=s	6	ponct	_	_
+
+Parents' sons: [1, 2, 3, 4, 5, 7, 13, 14, 40]	Children's sons: [15, 18, 19, 24, 26, 28, 29, 32, 33]
+
+------->  mettre{VPP|root}		car{CC|coord}		correspondre~voiture{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [1, 2, 3, 4, 5, 7, 13, 14, 40]	Children's sons: [15, 18, 19, 24, 26, 28, 29, 32, 33]
+
+------->  mettre{VPP|root}		car{CC|coord}		correspondre~voiture{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 2, 3, 4, 5, 7, 13, 14, 40]	Children's sons: [15, 18, 19, 24, 26, 28, 29, 32, 33]
+
+------->  mettre{VPP|root}		car{CC|coord}		correspondre~voiture{V~NC|dep_coord~obj}		Evidence
+
+
+52|1411) L' e-tourisme en bref Les Français sont de_plus_en_plus adeptes d' Internet pour acheter ou chercher des informations sur leurs voyages car pr ès de 3 internautes sur 5 achètent leurs voyages sur Internet( mai 2007). 
+1	L'	le	D	DET	n=s|s=def	2	det	_	_
+2	e-tourisme	e-tourisme	N	NC	s=c	7	suj	_	_
+3	en	en	P	P	p=3	2	dep	_	_
+4	bref	bref	A	ADJ	g=m|n=s|s=qual	6	mod	_	_
+5	Les	le	D	DET	n=p|s=def	6	det	_	_
+6	Français	français	N	NC	g=m|s=c	3	obj	_	_
+7	sont	être	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+8	de_plus_en_plus	de_plus_en_plus	ADV	ADV	_	7	mod	_	_
+9	adeptes	adepte	N	NC	n=p|s=c	7	ats	_	_
+10	d'	de	P	P	_	9	dep	_	_
+11	Internet	Internet	N	NPP	s=p	10	obj	_	_
+12	pour	pour	P	P	_	7	mod	_	_
+13	acheter	acheter	V	VINF	m=inf	12	obj	_	_
+14	ou	ou	C	CC	s=c	13	coord	_	_
+15	chercher	chercher	V	VINF	m=inf	14	dep_coord	_	_
+16	des	de	D	DET	_	17	det	_	_
+17	informations	information	N	NC	g=f|n=p|s=c	15	obj	_	_
+18	sur	sur	P	P	_	17	dep	_	_
+19	leurs	son	D	DET	n=p|s=poss	20	det	_	_
+20	voyages	voyage	N	NC	g=m|n=p|s=c	18	obj	_	_
+21	car	car	C	CC	s=c|marker=68	18	coord	_	_
+22	pr	pour	P	P	_	21	dep_coord	_	_
+23	ès	ès	N	NC	s=c	22	obj	_	_
+24	de	de	P	P	_	23	dep	_	_
+25	3	3	D	DET	s=card	26	det	_	_
+26	internautes	internaute	N	NC	n=p|s=c	24	obj	_	_
+27	sur	sur	P	P	_	22	arg	_	_
+28	5	5	PRO	PRO	s=card	27	obj	_	_
+29	achètent	acheter	V	V	m=ind|n=p|p=3|t=pst	7	mod	_	_
+30	leurs	son	D	DET	n=p|s=poss	31	det	_	_
+31	voyages	voyage	N	NC	g=m|n=p|s=c	29	suj	_	_
+32	sur	sur	P	P	_	31	dep	_	_
+33	Internet	Internet	N	NPP	s=p	32	obj	_	_
+34	(	(	PONCT	PONCT	s=w	31	ponct	_	_
+35	mai	mai	N	NC	g=m|n=s|s=c	31	mod	_	_
+36	2007	2007	A	ADJ	s=card	35	mod	_	_
+37	)	)	PONCT	PONCT	s=w	31	ponct	_	_
+38	.	.	PONCT	PONCT	s=s	7	ponct	_	_
+
+Parents' sons: [20, 21]	Children's sons: [23, 27]
+
+xxxxxxx>  sur~voyage{P~NC|dep~obj}		car{CC|coord}		pour~ès{P~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [20, 21]	Children's sons: [23, 27]
+
+xxxxxxx>  sur~voyage{P~NC|dep~obj}		car{CC|coord}		pour~ès{P~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [20, 21]	Children's sons: [23, 27]
+
+xxxxxxx>  sur~voyage{P~NC|dep~obj}		car{CC|coord}		pour~ès{P~NC|dep_coord~obj}		Evidence
+
+
+53|1428) Utile car les touches sensitives sont capricieuses. 
+1	Utile	utile	A	ADJ	n=s|s=qual	2	dep_coord	_	_
+2	car	car	C	CC	s=c|marker=68	0	root	_	_
+3	les	le	D	DET	n=p|s=def	4	det	_	_
+4	touches	touche	N	NC	g=f|n=p|s=c	6	suj	_	_
+5	sensitives	sensitif	A	ADJ	s=qual	4	mod	_	_
+6	sont	être	V	V	m=ind|n=p|p=3|t=pst	2	dep_coord	_	_
+7	capricieuses	capricieux	A	ADJ	g=f|n=p|s=qual	6	ats	_	_
+8	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+54|1430) Côté réseaux, l' E950 décevra les clients SFR car il fait l' impasse sur la 3G. 
+1	Côté	côté	N	NC	g=m|n=s|s=c	6	mod	_	_
+2	réseaux	réseau	N	NC	g=m|n=p|s=c	1	mod	_	_
+3	,	,	PONCT	PONCT	s=w	6	ponct	_	_
+4	l'	le	D	DET	n=s|s=def	5	det	_	_
+5	E950	E950	N	NC	s=c	6	suj	_	_
+6	décevra	décevoir	V	V	m=ind|n=s|p=3|t=fut	0	root	_	_
+7	les	le	D	DET	n=p|s=def	8	det	_	_
+8	clients	client	N	NC	g=m|n=p|s=c	6	obj	_	_
+9	SFR	SFR	N	NPP	s=p	8	mod	_	_
+10	car	car	C	CC	s=c|marker=68	6	coord	_	_
+11	il	cln	CL	CLS	s=suj	12	suj	_	_
+12	fait	faire	V	V	m=ind|n=s|p=3|t=pst	10	dep_coord	_	_
+13	l'	le	D	DET	n=s|s=def	14	det	_	_
+14	impasse	impasse	N	NC	g=f|n=s|s=c	12	obj	_	_
+15	sur	sur	P	P	_	12	mod	_	_
+16	la	le	D	DET	g=f|n=s|s=def	17	det	_	_
+17	3G	3G	N	NPP	s=p	15	obj	_	_
+18	.	.	PONCT	PONCT	s=s	6	ponct	_	_
+
+Parents' sons: [1, 3, 5, 8, 10, 18]	Children's sons: [11, 14, 15]
+
+------->  décevoir~client{V~NC|root~obj}		car{CC|coord}		faire~impasse{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [1, 3, 5, 8, 10, 18]	Children's sons: [11, 14, 15]
+
+------->  décevoir~client{V~NC|root~obj}		car{CC|coord}		faire~impasse{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 3, 5, 8, 10, 18]	Children's sons: [11, 14, 15]
+
+------->  décevoir~client{V~NC|root~obj}		car{CC|coord}		faire~impasse{V~NC|dep_coord~obj}		Evidence
+
+
+55|1437) ( remarque importante: Je ne tiens pas à polémiquer et encore moins à dire de quel blog il s' agit, car cela représente un détail[... 
+1	(	(	PONCT	PONCT	s=w	2	ponct	_	_
+2	remarque	remarquer	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	importante	important	A	ADJ	g=f|n=s|s=qual	2	ats	_	_
+4	:	:	PONCT	PONCT	s=w	2	ponct	_	_
+5	Je	cln	CL	CLS	s=suj	7	suj	_	_
+6	ne	ne	ADV	ADV	s=neg	7	mod	_	_
+7	tiens	tenir	V	V	m=ind|n=s|p=2|t=pst	2	mod	_	_
+8	pas	pas	ADV	ADV	s=neg	7	mod	_	_
+9	à	à	P	P	_	7	mod	_	_
+10	polémiquer	polémiquer	V	VINF	m=inf	9	obj	_	_
+11	et	et	C	CC	s=c	7	coord	_	_
+12	encore	encore	ADV	ADV	_	13	mod	_	_
+13	moins	moins	ADV	ADV	_	11	mod	_	_
+14	à	à	P	P	_	11	dep_coord	_	_
+15	dire	dire	V	VINF	m=inf	14	obj	_	_
+16	de	de	P	P	_	15	de_obj	_	_
+17	quel	quel	D	DET	g=m|n=s	18	det	_	_
+18	blog	blog	N	NC	g=m|n=s|s=c	16	obj	_	_
+19	il	cln	CL	CLS	s=suj	21	suj	_	_
+20	s'	se	CL	CLR	p=3|s=refl	21	aff	_	_
+21	agit	agir	V	V	m=ind|n=s|p=3|t=past	7	dep	_	_
+22	,	,	PONCT	PONCT	s=w	2	ponct	_	_
+23	car	car	C	CC	s=c|marker=68	2	coord	_	_
+24	cela	cela	PRO	PRO	n=s|s=dem	25	suj	_	_
+25	représente	représenter	V	V	m=ind|n=s|p=3|t=pst	23	dep_coord	_	_
+26	un	un	D	DET	g=m|n=s|s=ind	27	det	_	_
+27	détail	détail	N	NC	g=m|n=s|s=c	25	obj	_	_
+28	[	[	PONCT	PONCT	s=w	2	ponct	_	_
+29	...	...	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [1, 3, 4, 7, 22, 23, 28, 29]	Children's sons: [24, 27]
+
+------->  remarquer~important{V~ADJ|root~ats}		car{CC|coord}		représenter~détail{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [1, 3, 4, 7, 22, 23, 28, 29]	Children's sons: [24, 27]
+
+------->  remarquer~important{V~ADJ|root~ats}		car{CC|coord}		représenter~détail{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 3, 4, 7, 22, 23, 28, 29]	Children's sons: [24, 27]
+
+------->  remarquer~important{V~ADJ|root~ats}		car{CC|coord}		représenter~détail{V~NC|dep_coord~obj}		Evidence
+
+
+56|1461) Je ne repasserai que ce soir( après le foot) car je travaille cette après midi( et oui, il n' y a pas que les" boulangères" qui bossent le week-end! 
+1	Je	cln	CL	CLS	s=suj	3	suj	_	_
+2	ne	ne	ADV	ADV	s=neg	3	mod	_	_
+3	repasserai	repasser	V	V	m=ind|n=s|p=1|t=fut	0	root	_	_
+4	que	que	C	CS	s=s	3	obj	_	_
+5	ce	ce	D	DET	g=m|n=s|s=dem	6	det	_	_
+6	soir	soir	N	NC	g=m|n=s|s=c	0	root	_	_
+7	(	(	PONCT	PONCT	s=w	6	ponct	_	_
+8	après	après	P	P	_	6	dep	_	_
+9	le	le	D	DET	g=m|n=s|s=def	10	det	_	_
+10	foot	foot	N	NC	g=m|n=s|s=c	8	obj	_	_
+11	)	)	PONCT	PONCT	s=w	6	ponct	_	_
+12	car	car	C	CC	s=c|marker=68	6	coord	_	_
+13	je	cln	CL	CLS	s=suj	14	suj	_	_
+14	travaille	travailler	V	V	m=ind|n=s|p=3|t=pst	12	dep_coord	_	_
+15	cette	ce	D	DET	g=f|n=s|s=dem	14	obj	_	_
+16	après	après	P	P	_	14	mod	_	_
+17	midi	midi	N	NC	g=m|n=s|s=c	16	obj	_	_
+18	(	(	PONCT	PONCT	s=w	14	ponct	_	_
+19	et	et	C	CC	s=c	14	coord	_	_
+20	oui	oui	ADV	ADV	_	19	mod	_	_
+21	,	,	PONCT	PONCT	s=w	25	ponct	_	_
+22	il	cln	CL	CLS	s=suj	25	suj	_	_
+23	n'	ne	ADV	ADV	s=neg	25	mod	_	_
+24	y	y	CL	CLO	p=3|s=obj	25	aff	_	_
+25	a	avoir	V	V	m=ind|n=s|p=3|t=pst	19	dep_coord	_	_
+26	pas	pas	ADV	ADV	s=neg	25	mod	_	_
+27	que	que	C	CS	s=s	25	mod	_	_
+28	les	le	D	DET	n=p|s=def	30	det	_	_
+29	"	"	PONCT	PONCT	s=w	30	ponct	_	_
+30	boulangères	boulanger	N	NC	g=f|n=p|s=c	0	root	_	_
+31	"	"	PONCT	PONCT	s=w	30	ponct	_	_
+32	qui	qui	PRO	PROREL	s=rel	33	suj	_	_
+33	bossent	bosser	V	V	m=ind|n=p|p=3|t=pst	30	mod_rel	_	_
+34	le	le	D	DET	g=m|n=s|s=def	35	det	_	_
+35	week-end	week-end	N	NC	g=m|n=s|s=c	33	obj	_	_
+36	!	!	PONCT	PONCT	s=s	30	ponct	_	_
+
+Parents' sons: [5, 7, 8, 11, 12]	Children's sons: [13, 15, 16, 18, 19]
+
+------->  soir{NC|root}		car{CC|coord}		travailler{V|dep_coord}		Causation
+
+
+Parents' sons: [5, 7, 8, 11, 12]	Children's sons: [13, 15, 16, 18, 19]
+
+------->  soir{NC|root}		car{CC|coord}		travailler{V|dep_coord}		FR_Cause_enunciation
+
+
+Parents' sons: [5, 7, 8, 11, 12]	Children's sons: [13, 15, 16, 18, 19]
+
+------->  soir{NC|root}		car{CC|coord}		travailler{V|dep_coord}		Evidence
+
+
+57|1510) « Ces machines se vendent à_travers le monde car elles allient innovation, technologie, flexibilité et haute cadence» ajoute L. 
+1	«	«	PONCT	PONCT	s=w	5	ponct	_	_
+2	Ces	ce	D	DET	n=p|s=dem	3	det	_	_
+3	machines	machine	N	NC	g=f|n=p|s=c	5	suj	_	_
+4	se	se	CL	CLR	p=3|s=refl	5	aff	_	_
+5	vendent	vendre	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+6	à_travers	à_travers	P	P	_	5	mod	_	_
+7	le	le	D	DET	g=m|n=s|s=def	8	det	_	_
+8	monde	monde	N	NC	g=m|n=s|s=c	6	obj	_	_
+9	car	car	C	CC	s=c|marker=68	5	coord	_	_
+10	elles	cln	CL	CLS	s=suj	11	suj	_	_
+11	allient	allier	V	V	m=ind|n=p|p=3|t=pst	9	dep_coord	_	_
+12	innovation	innovation	N	NC	g=f|n=s|s=c	11	obj	_	_
+13	,	,	PONCT	PONCT	s=w	11	ponct	_	_
+14	technologie	technologie	N	NC	g=f|n=s|s=c	11	obj	_	_
+15	,	,	PONCT	PONCT	s=w	14	coord	_	_
+16	flexibilité	flexibilité	N	NC	g=f|n=s|s=c	15	dep_coord	_	_
+17	et	et	C	CC	s=c	14	coord	_	_
+18	haute	haut	A	ADJ	g=f|n=s|s=qual	19	mod	_	_
+19	cadence	cadence	N	NC	g=f|n=s|s=c	17	dep_coord	_	_
+20	»	»	PONCT	PONCT	s=w	5	ponct	_	_
+21	ajoute	ajouter	V	V	m=ind|n=s|p=3|t=pst	5	mod	_	_
+22	L	L	N	NPP	s=p	21	suj	_	_
+23	.	.	PONCT	PONCT	s=s	5	ponct	_	_
+
+Parents' sons: [1, 3, 4, 6, 9, 20, 21, 23]	Children's sons: [10, 12, 13, 14]
+
+------->  machine~vendre{NC~V|suj~root}		car{CC|coord}		allier~technologie{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [1, 3, 4, 6, 9, 20, 21, 23]	Children's sons: [10, 12, 13, 14]
+
+------->  machine~vendre{NC~V|suj~root}		car{CC|coord}		allier~technologie{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 3, 4, 6, 9, 20, 21, 23]	Children's sons: [10, 12, 13, 14]
+
+------->  machine~vendre{NC~V|suj~root}		car{CC|coord}		allier~technologie{V~NC|dep_coord~obj}		Evidence
+
+
+58|1518) Les hommes proposent, Dieu dispose Le docteur Peter Benton arrive à l' hôpital totalement affolé car l' état de santé de sa mère ne s' est pas amélioré et il est conscient de son impuissance pour pouvoir la soulager. 
+1	Les	le	D	DET	n=p|s=def	2	det	_	_
+2	hommes	homme	N	NC	g=m|n=p|s=c	3	suj	_	_
+3	proposent	proposer	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+4	,	,	PONCT	PONCT	s=w	3	ponct	_	_
+5	Dieu	Dieu	N	NPP	s=p	6	suj	_	_
+6	dispose	disposer	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+7	Le	le	D	DET	g=m|n=s|s=def	8	det	_	_
+8	docteur	docteur	N	NC	g=m|n=s|s=c	6	obj	_	_
+9	Peter	Peter	N	NPP	g=m|n=s|s=p	8	mod	_	_
+10	Benton	Benton	N	NPP	g=m|n=s|s=p	8	mod	_	_
+11	arrive	arriver	V	V	m=ind|n=s|p=3|t=pst	3	dep	_	_
+12	à	à	P	P	_	3	mod	_	_
+13	l'	le	D	DET	n=s|s=def	14	det	_	_
+14	hôpital	hôpital	N	NC	g=m|n=s|s=c	12	obj	_	_
+15	totalement	totalement	ADV	ADV	_	16	mod	_	_
+16	affolé	affoler	V	VPP	g=m|m=part|n=s|t=past	14	mod	_	_
+17	car	car	C	CC	s=c|marker=68	3	coord	_	_
+18	l'	le	D	DET	n=s|s=def	19	det	_	_
+19	état	état	N	NC	g=m|n=s|s=c	29	suj	_	_
+20	de	de	P	P	_	19	dep	_	_
+21	santé	santé	N	NC	g=f|n=s|s=c	20	obj	_	_
+22	de	de	P	P	_	21	dep	_	_
+23	sa	son	D	DET	g=f|n=s|s=poss	24	det	_	_
+24	mère	mère	N	NC	g=f|n=s|s=c	22	obj	_	_
+25	ne	ne	ADV	ADV	s=neg	29	mod	_	_
+26	s'	se	CL	CLR	p=3|s=refl	29	aff	_	_
+27	est	être	V	V	m=ind|n=s|p=3|t=pst	29	aux_tps	_	_
+28	pas	pas	ADV	ADV	s=neg	29	mod	_	_
+29	amélioré	améliorer	V	VPP	g=m|m=part|n=s|t=past	17	dep_coord	_	_
+30	et	et	C	CC	s=c	3	coord	_	_
+31	il	cln	CL	CLS	s=suj	32	suj	_	_
+32	est	être	V	V	m=ind|n=s|p=3|t=pst	30	dep_coord	_	_
+33	conscient	conscient	A	ADJ	g=m|n=s|s=qual	32	ats	_	_
+34	de	de	P	P	_	32	mod	_	_
+35	son	son	D	DET	n=s|s=poss	36	det	_	_
+36	impuissance	impuissance	N	NC	g=f|n=s|s=c	34	obj	_	_
+37	pour	pour	P	P	_	32	mod	_	_
+38	pouvoir	pouvoir	V	VINF	m=inf	37	obj	_	_
+39	la	cla	CL	CLO	g=f|n=s|s=obj	40	obj	_	_
+40	soulager	soulager	V	VINF	m=inf	38	obj	_	_
+41	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+Parents' sons: [2, 4, 6, 11, 12, 17, 30, 41]	Children's sons: [19, 25, 26, 27, 28]
+
+------->  homme~proposer{NC~V|suj~root}		car{CC|coord}		améliorer~pas{VPP~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [2, 4, 6, 11, 12, 17, 30, 41]	Children's sons: [19, 25, 26, 27, 28]
+
+------->  homme~proposer{NC~V|suj~root}		car{CC|coord}		améliorer~pas{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [2, 4, 6, 11, 12, 17, 30, 41]	Children's sons: [19, 25, 26, 27, 28]
+
+------->  homme~proposer{NC~V|suj~root}		car{CC|coord}		améliorer~pas{VPP~ADV|dep_coord~mod}		Evidence
+
+
+59|1519) Ross est serein car sa relation avec Diane s' est stabilisée. 
+1	Ross	Ross	N	NPP	g=m|n=s|s=p	2	suj	_	_
+2	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	serein	serein	A	ADJ	g=m|n=s|s=qual	2	ats	_	_
+4	car	car	C	CC	s=c|marker=68	2	coord	_	_
+5	sa	son	D	DET	g=f|n=s|s=poss	6	det	_	_
+6	relation	relation	N	NC	g=f|n=s|s=c	11	suj	_	_
+7	avec	avec	P	P	_	6	dep	_	_
+8	Diane	Diane	N	NPP	g=f|n=s|s=p	7	obj	_	_
+9	s'	se	CL	CLR	p=3|s=refl	11	aff	_	_
+10	est	être	V	V	m=ind|n=s|p=3|t=pst	11	aux_tps	_	_
+11	stabilisée	stabiliser	V	VPP	g=f|m=part|n=s|t=past	4	dep_coord	_	_
+12	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [1, 3, 4, 12]	Children's sons: [6, 9, 10]
+
+------->  être~serein{V~ADJ|root~ats}		car{CC|coord}		relation~stabiliser{NC~VPP|suj~dep_coord}		Causation
+
+
+Parents' sons: [1, 3, 4, 12]	Children's sons: [6, 9, 10]
+
+------->  être~serein{V~ADJ|root~ats}		car{CC|coord}		relation~stabiliser{NC~VPP|suj~dep_coord}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 3, 4, 12]	Children's sons: [6, 9, 10]
+
+------->  être~serein{V~ADJ|root~ats}		car{CC|coord}		relation~stabiliser{NC~VPP|suj~dep_coord}		Evidence
+
+
+60|1638) Il était vital pour moi de faire cet album, c' est ma carte d' identité car je me sens profondément malgache. 
+1	Il	cln	CL	CLS	s=suj	2	suj	_	_
+2	était	être	V	V	m=ind|n=s|p=3|t=impft	0	root	_	_
+3	vital	vital	A	ADJ	g=m|n=s|s=qual	2	ats	_	_
+4	pour	pour	P	P	_	2	mod	_	_
+5	moi	lui	PRO	PRO	n=s|s=pers	4	obj	_	_
+6	de	de	P	P	_	2	obj	_	_
+7	faire	faire	V	VINF	m=inf	6	obj	_	_
+8	cet	ce	D	DET	g=m|n=s|s=dem	9	det	_	_
+9	album	album	N	NC	g=m|n=s|s=c	7	obj	_	_
+10	,	,	PONCT	PONCT	s=w	12	ponct	_	_
+11	c'	cln	CL	CLS	s=suj	12	suj	_	_
+12	est	être	V	V	m=ind|n=s|p=3|t=pst	2	mod	_	_
+13	ma	son	D	DET	g=f|n=s|s=poss	14	det	_	_
+14	carte	carte	N	NC	g=f|n=s|s=c	12	ats	_	_
+15	d'	de	P	P	_	14	dep	_	_
+16	identité	identité	N	NC	g=f|n=s|s=c	15	obj	_	_
+17	car	car	C	CC	s=c|marker=68	12	coord	_	_
+18	je	cln	CL	CLS	s=suj	20	suj	_	_
+19	me	clad	CL	CLO	s=obj	20	a_obj	_	_
+20	sens	sentir	V	V	m=ind|n=s|p=2|t=pst	17	dep_coord	_	_
+21	profondément	profondément	ADV	ADV	_	20	mod	_	_
+22	malgache	malgache	N	NC	n=s|s=c	20	obj	_	_
+23	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [10, 11, 14, 17]	Children's sons: [18, 19, 21, 22]
+
+------->  être~carte{V~NC|mod~ats}		car{CC|coord}		sentir~malgache{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [10, 11, 14, 17]	Children's sons: [18, 19, 21, 22]
+
+------->  être~carte{V~NC|mod~ats}		car{CC|coord}		sentir~malgache{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [10, 11, 14, 17]	Children's sons: [18, 19, 21, 22]
+
+------->  être~carte{V~NC|mod~ats}		car{CC|coord}		sentir~malgache{V~NC|dep_coord~obj}		Evidence
+
+
+61|1647) Donc demain matin on va essayer de passer à l' agence, si on a le temps car demain on récupère notre nouvelle voiture( trop bien ça aussi). 
+1	Donc	donc	ADV	ADV	_	5	mod	_	_
+2	demain	demain	ADV	ADV	_	3	mod	_	_
+3	matin	matin	ADV	ADV	_	5	mod	_	_
+4	on	cln	CL	CLS	s=suj	5	suj	_	_
+5	va	aller	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+6	essayer	essayer	V	VINF	m=inf	5	obj	_	_
+7	de	de	P	P	_	6	de_obj	_	_
+8	passer	passer	V	VINF	m=inf	7	obj	_	_
+9	à	à	P	P	_	8	mod	_	_
+10	l'	le	D	DET	n=s|s=def	11	det	_	_
+11	agence	agence	N	NC	g=f|n=s|s=c	9	obj	_	_
+12	,	,	PONCT	PONCT	s=w	5	ponct	_	_
+13	si	si	C	CS	s=s|marker=349	5	mod	_	_
+14	on	cln	CL	CLS	s=suj	15	suj	_	_
+15	a	avoir	V	V	m=ind|n=s|p=3|t=pst	13	obj	_	_
+16	le	le	D	DET	g=m|n=s|s=def	17	det	_	_
+17	temps	temps	N	NC	g=m|s=c	15	obj	_	_
+18	car	car	C	CC	s=c|marker=68	15	coord	_	_
+19	demain	demain	ADV	ADV	_	21	mod	_	_
+20	on	cln	CL	CLS	s=suj	21	suj	_	_
+21	récupère	récupérer	V	V	m=ind|n=s|p=3|t=pst	18	dep_coord	_	_
+22	notre	son	D	DET	n=s|s=poss	24	det	_	_
+23	nouvelle	nouveau	A	ADJ	g=f|n=s|s=qual	24	mod	_	_
+24	voiture	voiture	N	NC	g=f|n=s|s=c	21	obj	_	_
+25	(	(	PONCT	PONCT	s=w	21	ponct	_	_
+26	trop	trop	ADV	ADV	_	27	mod	_	_
+27	bien	bien	ADV	ADV	_	28	mod	_	_
+28	ça	cela	PRO	PRO	g=m|n=s|s=dem	21	mod	_	_
+29	aussi	aussi	ADV	ADV	_|marker=208	28	mod	_	_
+30	)	)	PONCT	PONCT	s=w	21	ponct	_	_
+31	.	.	PONCT	PONCT	s=s	5	ponct	_	_
+
+Parents' sons: [14, 17, 18]	Children's sons: [19, 20, 24, 25, 28, 30]
+
+------->  avoir~temps{V~NC|obj~obj}		car{CC|coord}		récupérer~voiture{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [14, 17, 18]	Children's sons: [19, 20, 24, 25, 28, 30]
+
+------->  avoir~temps{V~NC|obj~obj}		car{CC|coord}		récupérer~voiture{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [14, 17, 18]	Children's sons: [19, 20, 24, 25, 28, 30]
+
+------->  avoir~temps{V~NC|obj~obj}		car{CC|coord}		récupérer~voiture{V~NC|dep_coord~obj}		Evidence
+
+
+62|1766) 1.200,00 EUR 28-Jan-08 échange voiture sans permis 2 place diesel contre varadero 125 bonjour je possedes une jolie voitue sans permis 2 place deisel 1989 de marque belier il_y_a les machore de frain av ar a fair .ou si non elle demare au car de tour mais, je me la fais pas rouler car... 
+1	1.200,00	1.200,00	D	DET	s=card	2	det	_	_
+2	EUR	euro	N	NC	g=m|s=c	23	suj	_	_
+3	28-Jan-08	28-Jan-08	N	NPP	s=p	2	mod	_	_
+4	échange	échange	N	NC	g=m|n=s|s=c	3	mod	_	_
+5	voiture	voiture	N	NC	g=f|n=s|s=c	4	mod	_	_
+6	sans	sans	P	P	_|marker=352|marker=352	4	dep	_	_
+7	permis	permis	N	NC	g=m|s=c	6	obj	_	_
+8	2	2	A	ADJ	s=card	7	mod	_	_
+9	place	place	N	NC	g=f|n=s|s=c	7	mod	_	_
+10	diesel	diesel	A	ADJ	s=qual	7	mod	_	_
+11	contre	contre	P	P	_	7	dep	_	_
+12	varadero	varadero	ET	ET	_	3	mod	_	_
+13	125	125	D	DET	s=card	14	det	_	_
+14	bonjour	bonjour	N	NC	g=m|n=s|s=c	2	mod	_	_
+15	je	cln	CL	CLS	s=suj	23	suj	_	_
+16	possedes	possedes	P	P	_	23	mod	_	_
+17	une	un	D	DET	g=f|n=s|s=ind	19	det	_	_
+18	jolie	joli	A	ADJ	g=f|n=s|s=qual	19	mod	_	_
+19	voitue	voitue	N	NC	s=c	16	obj	_	_
+20	sans	sans	P	P	_	19	dep	_	_
+21	permis	permis	N	NC	g=m|s=c	20	obj	_	_
+22	2	2	A	ADJ	s=card	21	mod	_	_
+23	place	placer	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+24	deisel	deisel	ADV	ADV	_	23	mod	_	_
+25	1989	1989	N	NC	s=card	23	obj	_	_
+26	de	de	P	P	_	25	dep	_	_
+27	marque	marque	N	NC	g=f|n=s|s=c	26	obj	_	_
+28	belier	belier	V	VINF	m=inf	23	mod	_	_
+29	il_y_a	il_y_a	P	P	_	28	mod	_	_
+30	les	le	D	DET	n=p|s=def	31	det	_	_
+31	machore	machore	N	NC	s=c	29	obj	_	_
+32	de	de	P	P	_	31	dep	_	_
+33	frain	frain	ET	ET	_	35	dep	_	_
+34	av	av	ET	ET	_	35	dep	_	_
+35	ar	ar	ET	ET	_	32	dep	_	_
+36	a	avoir	V	V	m=ind|n=s|p=3|t=pst	23	mod	_	_
+37	fair	fair	V	VINF	m=inf	38	aux_pass	_	_
+38	.ou	.ou	V	VPP	m=part|t=past	23	obj	_	_
+39	si	si	ADV	ADV	_	40	mod	_	_
+40	non	non	ADV	ADV	s=neg	47	mod	_	_
+41	elle	cln	CL	CLS	s=suj	43	arg	_	_
+42	demare	demare	ADV	ADV	_	43	mod	_	_
+43	au	à	P+D	P+D	s=def	40	mod	_	_
+44	car	car	C	CC	s=c|marker=68|marker=68	43	coord	_	_
+45	de	de	P	P	_	44	dep_coord	_	_
+46	tour	tour	N	NC	n=s|s=c	45	obj	_	_
+47	mais	mais	C	CC	s=c|marker=304	23	coord	_	_
+48	,	,	PONCT	PONCT	s=w	23	ponct	_	_
+49	je	cln	CL	CLS	s=suj	52	suj	_	_
+50	me	cla	CL	CLR	n=s|s=refl	52	aff	_	_
+51	la	le	D	DET	g=f|n=s|s=def	52	obj	_	_
+52	fais	faire	V	V	m=ind|n=s|p=2|t=pst	23	mod	_	_
+53	pas	pas	ADV	ADV	s=neg	52	mod	_	_
+54	rouler	rouler	V	VINF	m=inf	52	obj	_	_
+55	car	car	C	CC	s=c	54	coord	_	_
+56	...	...	PONCT	PONCT	s=s	55	ponct	_	_
+
+Parents' sons: [41, 42, 44]	Children's sons: [46]
+
+xxxxxxx>  à~demare{P+D~ADV|mod~mod}		car{CC|coord}		de~tour{P~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [41, 42, 44]	Children's sons: [46]
+
+xxxxxxx>  à~demare{P+D~ADV|mod~mod}		car{CC|coord}		de~tour{P~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [41, 42, 44]	Children's sons: [46]
+
+xxxxxxx>  à~demare{P+D~ADV|mod~mod}		car{CC|coord}		de~tour{P~NC|dep_coord~obj}		Evidence
+
+
+Parents' sons: [55]	Children's sons: []
+
+xxxxxxx>  rouler{VINF|obj}		car{CC|coord}		...{PONCT|ponct}		Causation
+
+
+Parents' sons: [55]	Children's sons: []
+
+xxxxxxx>  rouler{VINF|obj}		car{CC|coord}		...{PONCT|ponct}		FR_Cause_enunciation
+
+
+Parents' sons: [55]	Children's sons: []
+
+xxxxxxx>  rouler{VINF|obj}		car{CC|coord}		...{PONCT|ponct}		Evidence
+
+
+63|1788) Le Marimastat serait efficace car il inhibe la metalloproteinase 9 responsable de certains glioblastomes primaires. 
+1	Le	le	D	DET	g=m|n=s|s=def	2	det	_	_
+2	Marimastat	Marimastat	N	NPP	s=p	3	suj	_	_
+3	serait	être	V	V	m=ind|n=s|p=3|t=cond	0	root	_	_
+4	efficace	efficace	A	ADJ	n=s|s=qual	3	ats	_	_
+5	car	car	C	CC	s=c|marker=68	3	coord	_	_
+6	il	cln	CL	CLS	s=suj	7	suj	_	_
+7	inhibe	inhiber	V	V	m=ind|n=s|p=3|t=pst	5	dep_coord	_	_
+8	la	le	D	DET	g=f|n=s|s=def	9	det	_	_
+9	metalloproteinase	metalloproteinase	N	NC	s=c	7	obj	_	_
+10	9	9	A	ADJ	s=card	9	mod	_	_
+11	responsable	responsable	A	ADJ	n=s|s=qual	9	mod	_	_
+12	de	de	P	P	_	9	dep	_	_
+13	certains	certain	D	DET	g=m|n=p	14	det	_	_
+14	glioblastomes	glioblastome	N	NC	s=c	12	obj	_	_
+15	primaires	primaire	A	ADJ	n=p|s=qual	14	mod	_	_
+16	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+Parents' sons: [2, 4, 5, 16]	Children's sons: [6, 9]
+
+------->  être~efficace{V~ADJ|root~ats}		car{CC|coord}		inhiber~metalloproteinase{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [2, 4, 5, 16]	Children's sons: [6, 9]
+
+------->  être~efficace{V~ADJ|root~ats}		car{CC|coord}		inhiber~metalloproteinase{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [2, 4, 5, 16]	Children's sons: [6, 9]
+
+------->  être~efficace{V~ADJ|root~ats}		car{CC|coord}		inhiber~metalloproteinase{V~NC|dep_coord~obj}		Evidence
+
+
+64|1809) Il semble donc que, lorsque chacun reste à sa place, la relation affective entraîneur/ entraîné qui s' installe, est propice au développement personnel du nageur et à la performance car elle n' est pas parasitée par des intérêts personnels, par des prises de pouvoirs abusives ou par des comportements affectifs périphériques. 
+1	Il	cln	CL	CLS	s=suj	2	suj	_	_
+2	semble	sembler	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	donc	donc	ADV	ADV	_|marker=131	2	mod	_	_
+4	que	que	C	CS	s=s	2	ats	_	_
+5	,	,	PONCT	PONCT	s=w	23	ponct	_	_
+6	lorsque	lorsque	C	CS	s=s	23	mod	_	_
+7	chacun	chacun	PRO	PRO	g=m|s=ind	8	suj	_	_
+8	reste	rester	V	V	m=ind|n=s|p=3|t=pst	6	obj	_	_
+9	à	à	P	P	_	8	ats	_	_
+10	sa	son	D	DET	g=f|n=s|s=poss	11	det	_	_
+11	place	place	N	NC	g=f|n=s|s=c	9	obj	_	_
+12	,	,	PONCT	PONCT	s=w	8	ponct	_	_
+13	la	le	D	DET	g=f|n=s|s=def	14	det	_	_
+14	relation	relation	N	NC	g=f|n=s|s=c	8	mod	_	_
+15	affective	affectif	A	ADJ	g=f|n=s|s=qual	14	mod	_	_
+16	entraîneur	entraîneur	N	NC	g=m|n=s|s=c	14	mod	_	_
+17	/	/	PONCT	PONCT	s=w	14	ponct	_	_
+18	entraîné	entraîner	V	VPP	g=m|m=part|n=s|t=past	14	mod	_	_
+19	qui	qui	PRO	PROREL	s=rel	21	suj	_	_
+20	s'	se	CL	CLR	p=3|s=refl	21	aff	_	_
+21	installe	installer	V	V	m=ind|n=s|p=3|t=pst	14	mod_rel	_	_
+22	,	,	PONCT	PONCT	s=w	23	ponct	_	_
+23	est	être	V	V	m=ind|n=s|p=3|t=pst	4	obj	_	_
+24	propice	propice	A	ADJ	n=s|s=qual	23	ats	_	_
+25	au	à	P+D	P+D	s=def	24	dep	_	_
+26	développement	développement	N	NC	g=m|n=s|s=c	25	obj	_	_
+27	personnel	personnel	A	ADJ	g=m|n=s|s=qual	26	mod	_	_
+28	du	de	P+D	P+D	s=def	26	dep	_	_
+29	nageur	nageur	N	NC	g=m|n=s|s=c	28	obj	_	_
+30	et	et	C	CC	s=c	25	coord	_	_
+31	à	à	P	P	_	30	dep_coord	_	_
+32	la	le	D	DET	g=f|n=s|s=def	33	det	_	_
+33	performance	performance	N	NC	g=f|n=s|s=c	31	obj	_	_
+34	car	car	C	CC	s=c|marker=68	2	coord	_	_
+35	elle	cln	CL	CLS	s=suj	39	suj	_	_
+36	n'	ne	ADV	ADV	s=neg	39	mod	_	_
+37	est	être	V	V	m=ind|n=s|p=3|t=pst	39	aux_pass	_	_
+38	pas	pas	ADV	ADV	s=neg	39	mod	_	_
+39	parasitée	parasiter	V	VPP	g=f|m=part|n=s|t=past	34	dep_coord	_	_
+40	par	par	P	P	_	39	p_obj	_	_
+41	des	de	D	DET	_	42	det	_	_
+42	intérêts	intérêt	N	NC	g=m|n=p|s=c	40	obj	_	_
+43	personnels	personnel	A	ADJ	g=m|n=p|s=qual	42	mod	_	_
+44	,	,	PONCT	PONCT	s=w	39	ponct	_	_
+45	par	par	P	P	_	39	p_obj	_	_
+46	des	de	D	DET	_	47	det	_	_
+47	prises	prise	N	NC	g=f|n=p|s=c	45	obj	_	_
+48	de	de	P	P	_	47	dep	_	_
+49	pouvoirs	pouvoir	N	NC	g=m|n=p|s=c	48	obj	_	_
+50	abusives	abusif	A	ADJ	g=f|n=p|s=qual	49	mod	_	_
+51	ou	ou	C	CC	s=c	45	coord	_	_
+52	par	par	P	P	_	51	dep_coord	_	_
+53	des	de	D	DET	_	54	det	_	_
+54	comportements	comportement	N	NC	g=m|n=p|s=c	52	obj	_	_
+55	affectifs	affectif	A	ADJ	g=m|n=p|s=qual	54	mod	_	_
+56	périphériques	périphérique	A	ADJ	n=p|s=qual	54	mod	_	_
+57	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [1, 3, 4, 34, 57]	Children's sons: [35, 36, 37, 38, 40, 44, 45]
+
+------->  sembler~donc{V~ADV|root~mod}		car{CC|coord}		parasiter~pas{VPP~ADV|dep_coord~mod}		Causation
+
+
+Parents' sons: [1, 3, 4, 34, 57]	Children's sons: [35, 36, 37, 38, 40, 44, 45]
+
+------->  sembler~donc{V~ADV|root~mod}		car{CC|coord}		parasiter~pas{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 3, 4, 34, 57]	Children's sons: [35, 36, 37, 38, 40, 44, 45]
+
+------->  sembler~donc{V~ADV|root~mod}		car{CC|coord}		parasiter~pas{VPP~ADV|dep_coord~mod}		Evidence
+
+
+65|1870) Cela me semble jouable car ma femme semble vraiment apprécier l' auto. 
+1	Cela	cela	PRO	PRO	n=s|s=dem	3	suj	_	_
+2	me	clad	CL	CLO	s=obj	3	aff	_	_
+3	semble	sembler	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+4	jouable	jouable	A	ADJ	n=s|s=qual	3	ats	_	_
+5	car	car	C	CC	s=c|marker=68	3	coord	_	_
+6	ma	son	D	DET	g=f|n=s|s=poss	7	det	_	_
+7	femme	femme	N	NC	g=f|n=s|s=c	8	suj	_	_
+8	semble	sembler	V	V	m=ind|n=s|p=3|t=pst	5	dep_coord	_	_
+9	vraiment	vraiment	ADV	ADV	_	8	mod	_	_
+10	apprécier	apprécier	V	VINF	m=inf	8	ats	_	_
+11	l'	le	D	DET	n=s|s=def	12	det	_	_
+12	auto	auto	N	NC	n=s|s=c	10	obj	_	_
+13	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+Parents' sons: [1, 2, 4, 5, 13]	Children's sons: [7, 9, 10]
+
+------->  sembler~jouable{V~ADJ|root~ats}		car{CC|coord}		sembler~apprécier{V~VINF|dep_coord~ats}		Causation
+
+
+Parents' sons: [1, 2, 4, 5, 13]	Children's sons: [7, 9, 10]
+
+------->  sembler~jouable{V~ADJ|root~ats}		car{CC|coord}		sembler~apprécier{V~VINF|dep_coord~ats}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 2, 4, 5, 13]	Children's sons: [7, 9, 10]
+
+------->  sembler~jouable{V~ADJ|root~ats}		car{CC|coord}		sembler~apprécier{V~VINF|dep_coord~ats}		Evidence
+
+
+66|1890) Enfin bon, je te remercie quand même car tu auras eu au_moins le mérite de remettre un_peu d' animation sur ce forum qui avait tendance à s' endormir un_peu. 
+1	Enfin	enfin	ADV	ADV	_	2	mod	_	_
+2	bon	bon	A	ADJ	g=m|n=s|s=qual	6	mod	_	_
+3	,	,	PONCT	PONCT	s=w	6	ponct	_	_
+4	je	cln	CL	CLS	s=suj	6	suj	_	_
+5	te	clad	CL	CLO	s=obj	6	aff	_	_
+6	remercie	remercier	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+7	quand	quand	C	CS	s=s|marker=144	6	mod	_	_
+8	même	même	ADV	ADV	_	9	mod	_	_
+9	car	car	C	CC	s=c|marker=68	6	coord	_	_
+10	tu	taire	V	VPP	g=m|m=part|n=s|t=past	9	dep_coord	_	_
+11	auras	aura	N	NC	g=f|n=p|s=c	10	mod	_	_
+12	eu	avoir	V	VPP	g=m|m=part|n=s|t=past	11	mod	_	_
+13	au_moins	au_moins	ADV	ADV	_|marker=202	12	mod	_	_
+14	le	le	D	DET	g=m|n=s|s=def	15	det	_	_
+15	mérite	mérite	N	NC	g=m|n=s|s=c	12	obj	_	_
+16	de	de	P	P	_	10	de_obj	_	_
+17	remettre	remettre	V	VINF	m=inf	16	obj	_	_
+18	un_peu	un_peu	ADV	ADV	_	17	mod	_	_
+19	d'	de	P	P	_	17	mod	_	_
+20	animation	animation	N	NC	g=f|n=s|s=c	19	obj	_	_
+21	sur	sur	P	P	_	17	mod	_	_
+22	ce	ce	D	DET	g=m|n=s|s=dem	23	det	_	_
+23	forum	forum	N	NC	g=m|n=s|s=c	21	obj	_	_
+24	qui	qui	PRO	PROREL	s=rel	25	suj	_	_
+25	avait	avoir	V	V	m=ind|n=s|p=3|t=impft	23	mod_rel	_	_
+26	tendance	tendance	N	NC	g=f|n=s|s=c	25	obj	_	_
+27	à	à	P	P	_	25	mod	_	_
+28	s'	se	CL	CLR	p=3|s=refl	29	aff	_	_
+29	endormir	endormir	V	VINF	m=inf	27	obj	_	_
+30	un_peu	un_peu	ADV	ADV	_	29	mod	_	_
+31	.	.	PONCT	PONCT	s=s	6	ponct	_	_
+
+Parents' sons: [2, 3, 4, 5, 7, 9, 31]	Children's sons: []
+
+xxxxxxx>  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		même{ADV|mod}		Causation
+
+
+Parents' sons: [2, 3, 4, 5, 7, 9, 31]	Children's sons: [11, 16]
+
+------->  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		taire~aura{VPP~NC|dep_coord~mod}		Causation
+
+
+Parents' sons: [2, 3, 4, 5, 7, 9, 31]	Children's sons: []
+
+xxxxxxx>  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		même{ADV|mod}		FR_Cause_enunciation
+
+
+Parents' sons: [2, 3, 4, 5, 7, 9, 31]	Children's sons: [11, 16]
+
+------->  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		taire~aura{VPP~NC|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [2, 3, 4, 5, 7, 9, 31]	Children's sons: []
+
+xxxxxxx>  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		même{ADV|mod}		Evidence
+
+
+Parents' sons: [2, 3, 4, 5, 7, 9, 31]	Children's sons: [11, 16]
+
+------->  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		taire~aura{VPP~NC|dep_coord~mod}		Evidence
+
+
+67|1918) Car si c' est le cas, pourquoi Mission-Pêche, par l' intermédiaire de ses membres, ne tenterait -il pas une campagne de ré-empoissonnement dans des lieux stratégiques? 
+1	Car	car	C	CC	s=c	0	root	_	_
+2	si	si	C	CS	s=s|marker=349	19	mod	_	_
+3	c'	cln	CL	CLS	s=suj	4	suj	_	_
+4	est	être	V	V	m=ind|n=s|p=3|t=pst	2	obj	_	_
+5	le	le	D	DET	g=m|n=s|s=def	6	det	_	_
+6	cas	cas	N	NC	g=m|s=c	4	ats	_	_
+7	,	,	PONCT	PONCT	s=w	4	ponct	_	_
+8	pourquoi	pourquoi	ADV	ADVWH	s=int	4	mod	_	_
+9	Mission-Pêche	Mission-Pêche	N	NPP	s=p	4	ats	_	_
+10	,	,	PONCT	PONCT	s=w	4	ponct	_	_
+11	par	par	P	P	_	4	mod	_	_
+12	l'	le	D	DET	n=s|s=def	13	det	_	_
+13	intermédiaire	intermédiaire	N	NC	n=s|s=c	11	obj	_	_
+14	de	de	P	P	_	13	dep	_	_
+15	ses	son	D	DET	n=p|s=poss	16	det	_	_
+16	membres	membre	N	NC	g=m|n=p|s=c	14	obj	_	_
+17	,	,	PONCT	PONCT	s=w	19	ponct	_	_
+18	ne	ne	ADV	ADV	s=neg	19	mod	_	_
+19	tenterait	tenter	V	V	m=ind|n=s|p=3|t=cond	1	dep_coord	_	_
+20	-il	cln	CL	CLS	s=suj	19	suj	_	_
+21	pas	pas	ADV	ADV	s=neg	19	mod	_	_
+22	une	un	D	DET	g=f|n=s|s=ind	23	det	_	_
+23	campagne	campagne	N	NC	g=f|n=s|s=c	19	obj	_	_
+24	de	de	P	P	_	23	dep	_	_
+25	ré-empoissonnement	ré-empoissonnement	N	NC	s=c	24	obj	_	_
+26	dans	dans	P	P	_	19	mod	_	_
+27	des	de	D	DET	_	28	det	_	_
+28	lieux	lieux	N	NC	g=m|n=p|s=c	26	obj	_	_
+29	stratégiques	stratégique	A	ADJ	n=p|s=qual	28	mod	_	_
+30	?	?	PONCT	PONCT	s=s	19	ponct	_	_
+
+68|1925) comme j' ai dit, peut-etre que ce n' ai pas partout pareil et que ton departement a des ruisseaux a la fois gérés par des APP et comme tu le dit pollués mais chez nous aussi rappelle toi que je suis dans le sud-ouest et que chez nous aussi nous avons un gros probleme d' eau lolo pourras te le confirmé lui qui habite à peu prés à 100 kms de chez moi maintenant si notre idées prend forme et que nous puissions faire quelques choses il te faudra surement allé voir des petites APP qui, je le pense te suivrons car ce serais une tres bonne chose pour eux( a voir) maintenant; 
+1	comme	comme	C	CS	s=s|marker=331	24	mod	_	_
+2	j'	cln	CL	CLS	s=suj	4	suj	_	_
+3	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	4	aux_tps	_	_
+4	dit	dire	V	VPP	g=m|m=part|n=s|t=past	1	obj	_	_
+5	,	,	PONCT	PONCT	s=w	4	ponct	_	_
+6	peut-etre	peut-etre	ADV	ADV	_	4	mod	_	_
+7	que	que	C	CS	s=s	4	obj	_	_
+8	ce	cln	CL	CLS	s=suj	10	suj	_	_
+9	n'	ne	ADV	ADV	s=neg	10	mod	_	_
+10	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	7	obj	_	_
+11	pas	pas	ADV	ADV	s=neg	10	mod	_	_
+12	partout	partout	ADV	ADV	_	10	mod	_	_
+13	pareil	pareil	A	ADJ	g=m|n=s|s=qual	10	ats	_	_
+14	et	et	C	CC	s=c	7	coord	_	_
+15	que	que	C	CS	s=s	14	dep_coord	_	_
+16	ton	son	D	DET	n=s|s=poss	17	det	_	_
+17	departement	departement	N	NC	s=c	18	suj	_	_
+18	a	avoir	V	V	m=ind|n=s|p=3|t=pst	15	obj	_	_
+19	des	de	D	DET	_	20	det	_	_
+20	ruisseaux	ruisseau	N	NC	g=m|n=p|s=c	18	obj	_	_
+21	a	avoir	V	V	m=ind|n=s|p=3|t=pst	7	obj	_	_
+22	la	le	D	DET	g=f|n=s|s=def	23	det	_	_
+23	fois	fois	N	NC	g=f|s=c	24	mod	_	_
+24	gérés	gérer	V	VPP	g=m|m=part|n=p|t=past	103	mod	_	_
+25	par	par	P	P	_	24	p_obj	_	_
+26	des	de	D	DET	_	27	det	_	_
+27	APP	APP	N	NC	s=c	25	obj	_	_
+28	et	et	C	CC	s=c	25	coord	_	_
+29	comme	comme	P	P	_	28	dep_coord	_	_
+30	tu	taire	V	VPP	g=m|m=part|n=s|t=past	29	obj	_	_
+31	le	le	D	DET	g=m|n=s|s=def	33	obj	_	_
+32	dit	dire	V	V	m=ind|n=s|p=3|t=pst	33	aux_tps	_	_
+33	pollués	polluer	V	VPP	g=m|m=part|n=p|t=past	30	dep	_	_
+34	mais	mais	C	CC	s=c|marker=304	33	coord	_	_
+35	chez	chez	P	P	_	34	dep_coord	_	_
+36	nous	lui	PRO	PRO	n=p|s=pers	38	dep	_	_
+37	aussi	aussi	ADV	ADV	_|marker=208|marker=208	36	mod	_	_
+38	rappelle	rappeler	V	V	m=ind|n=s|p=3|t=pst	35	obj	_	_
+39	toi	lui	PRO	PRO	n=s|s=pers	52	mod	_	_
+40	que	que	C	CS	s=s	42	obj	_	_
+41	je	cln	CL	CLS	s=suj	42	suj	_	_
+42	suis	suivre	V	V	m=ind|n=s|p=2|t=pst	39	mod_rel	_	_
+43	dans	dans	P	P	_	42	mod	_	_
+44	le	le	D	DET	g=m|n=s|s=def	45	det	_	_
+45	sud-ouest	sud-ouest	N	NC	g=m|n=s|s=c	43	obj	_	_
+46	et	et	C	CC	s=c	39	coord	_	_
+47	que	que	C	CS	s=s	46	dep_coord	_	_
+48	chez	chez	P	P	_	47	obj	_	_
+49	nous	lui	PRO	PRO	n=p|s=pers	48	obj	_	_
+50	aussi	aussi	ADV	ADV	_	49	mod	_	_
+51	nous	cln	CL	CLS	s=suj	52	suj	_	_
+52	avons	avoir	V	V	m=ind|n=p|p=1|t=pst	24	mod	_	_
+53	un	un	D	DET	g=m|n=s|s=ind	55	det	_	_
+54	gros	gros	A	ADJ	g=m|s=qual	55	mod	_	_
+55	probleme	probleme	N	NC	s=c	52	obj	_	_
+56	d'	de	P	P	_	55	dep	_	_
+57	eau	eau	N	NC	g=f|n=s|s=c	56	obj	_	_
+58	lolo	lolo	A	ADJ	s=qual	57	mod	_	_
+59	pourras	pouvoir	V	V	m=ind|n=s|p=2|t=fut	52	mod	_	_
+60	te	clad	CL	CLO	s=obj	62	a_obj	_	_
+61	le	le	D	DET	g=m|n=s|s=def	62	det	_	_
+62	confirmé	confirmer	V	VPP	g=m|m=part|n=s|t=past	24	obj	_	_
+63	lui	lui	PRO	PRO	g=m|n=s|s=pers	62	obj	_	_
+64	qui	qui	PRO	PROREL	s=rel	65	suj	_	_
+65	habite	habiter	V	V	m=ind|n=s|p=3|t=pst	63	mod_rel	_	_
+66	à	à	P	P	_	65	mod	_	_
+67	peu	peu	ADV	ADV	_	68	mod	_	_
+68	prés	pré	N	NC	g=m|n=p|s=c	66	obj	_	_
+69	à	à	P	P	_	65	mod	_	_
+70	100	100	D	DET	s=card	71	det	_	_
+71	kms	kms	N	NC	s=c	69	obj	_	_
+72	de	de	P	P	_	71	dep	_	_
+73	chez	chez	P	P	_	72	obj	_	_
+74	moi	lui	PRO	PRO	n=s|s=pers	73	obj	_	_
+75	maintenant	maintenant	ADV	ADV	_|marker=310|marker=310	71	mod	_	_
+76	si	si	C	CS	s=s|marker=349	65	mod	_	_
+77	notre	son	D	DET	n=s|s=poss	78	det	_	_
+78	idées	idée	N	NC	g=f|n=p|s=c	79	suj	_	_
+79	prend	prendre	V	V	m=ind|n=s|p=3|t=pst	76	obj	_	_
+80	forme	forme	N	NC	g=f|n=s|s=c	79	obj	_	_
+81	et	et	C	CC	s=c	76	coord	_	_
+82	que	que	C	CS	s=s	81	dep_coord	_	_
+83	nous	cln	CL	CLS	s=suj	84	suj	_	_
+84	puissions	pouvoir	V	VS	m=subj|n=p|p=1|t=pst	82	obj	_	_
+85	faire	faire	V	VINF	m=inf	84	obj	_	_
+86	quelques	quelque	D	DET	n=p|s=ind	87	det	_	_
+87	choses	chose	N	NC	g=f|n=p|s=c	85	obj	_	_
+88	il	cln	CL	CLS	s=suj	92	suj	_	_
+89	te	clad	CL	CLO	s=obj	92	obj	_	_
+90	faudra	falloir	V	V	m=ind|n=s|p=3|t=fut	92	aux_tps	_	_
+91	surement	surement	ADV	ADV	_	92	mod	_	_
+92	allé	aller	V	VPP	g=m|m=part|n=s|t=past	24	dep	_	_
+93	voir	voir	V	VINF	m=inf	92	obj	_	_
+94	des	de	D	DET	_	96	det	_	_
+95	petites	petit	A	ADJ	g=f|n=p|s=qual	96	mod	_	_
+96	APP	APP	N	NC	s=c	93	obj	_	_
+97	qui	qui	PRO	PROREL	s=rel	101	suj	_	_
+98	,	,	PONCT	PONCT	s=w	101	ponct	_	_
+99	je	cln	CL	CLS	s=suj	101	suj	_	_
+100	le	cla	CL	CLO	g=m|n=s|s=obj	101	obj	_	_
+101	pense	penser	V	V	m=ind|n=s|p=3|t=pst	96	mod_rel	_	_
+102	te	clad	CL	CLO	s=obj	103	aff	_	_
+103	suivrons	suivre	V	V	m=ind|n=p|p=1|t=fut	0	root	_	_
+104	car	car	C	CC	s=c|marker=68	103	coord	_	_
+105	ce	cln	CL	CLS	s=suj	106	suj	_	_
+106	serais	être	V	V	m=ind|n=s|p=2|t=cond	104	dep_coord	_	_
+107	une	un	D	DET	g=f|n=s|s=ind	108	det	_	_
+108	tres	tre	N	NC	s=c	106	obj	_	_
+109	bonne	bon	A	ADJ	g=f|n=s|s=qual	108	mod	_	_
+110	chose	chose	N	NC	g=f|n=s|s=c	108	mod	_	_
+111	pour	pour	P	P	_	106	mod	_	_
+112	eux	lui	PRO	PRO	g=m|n=p|s=pers	111	obj	_	_
+113	(	(	PONCT	PONCT	s=w	106	ponct	_	_
+114	a	avoir	V	V	m=ind|n=s|p=3|t=pst	106	mod	_	_
+115	voir	voir	V	VINF	m=inf	106	obj	_	_
+116	)	)	PONCT	PONCT	s=w	106	ponct	_	_
+117	maintenant	maintenant	ADV	ADV	_	106	mod	_	_
+118	;	;	PONCT	PONCT	s=w	103	ponct	_	_
+
+Parents' sons: [24, 102, 104, 118]	Children's sons: [105, 108, 111, 113, 114, 115, 116, 117]
+
+------->  suivre~confirmer{V~VPP|root~obj}		car{CC|coord}		être~voir{V~VINF|dep_coord~obj}		Causation
+
+
+Parents' sons: [24, 102, 104, 118]	Children's sons: [105, 108, 111, 113, 114, 115, 116, 117]
+
+------->  suivre~confirmer{V~VPP|root~obj}		car{CC|coord}		être~voir{V~VINF|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [24, 102, 104, 118]	Children's sons: [105, 108, 111, 113, 114, 115, 116, 117]
+
+------->  suivre~confirmer{V~VPP|root~obj}		car{CC|coord}		être~voir{V~VINF|dep_coord~obj}		Evidence
+
+
+69|1927) mais peut-etre etait il occupé et le ferat plus_tard je parle de roland car j' aime ces dire! 
+1	mais	mais	C	CC	s=c	0	root	_	_
+2	peut-etre	peut-etre	ADV	ADV	_	5	mod	_	_
+3	etait	etait	V	V	m=ind	5	aux_tps	_	_
+4	il	cln	CL	CLS	s=suj	5	suj	_	_
+5	occupé	occuper	V	VPP	g=m|m=part|n=s|t=past	1	dep_coord	_	_
+6	et	et	C	CC	s=c	5	coord	_	_
+7	le	le	D	DET	g=m|n=s|s=def	8	det	_	_
+8	ferat	ferat	N	NC	s=c	11	mod	_	_
+9	plus_tard	plus_tard	ADV	ADV	_|marker=294	11	mod	_	_
+10	je	cln	CL	CLS	s=suj	11	suj	_	_
+11	parle	parler	V	V	m=ind|n=s|p=3|t=pst	6	dep_coord	_	_
+12	de	de	P	P	_	11	de_obj	_	_
+13	roland	roland	N	NC	s=c	12	obj	_	_
+14	car	car	C	CC	s=c|marker=68	11	coord	_	_
+15	j'	cln	CL	CLS	s=suj	16	suj	_	_
+16	aime	aimer	V	V	m=ind|n=s|p=3|t=pst	14	dep_coord	_	_
+17	ces	ce	D	DET	n=p|s=dem	18	ats	_	_
+18	dire	dire	V	VINF	m=inf	16	obj	_	_
+19	!	!	PONCT	PONCT	s=s	1	ponct	_	_
+
+Parents' sons: [8, 9, 10, 12, 14]	Children's sons: [15, 18]
+
+------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		Causation
+
+
+Parents' sons: [8, 9, 10, 12, 14]	Children's sons: [15, 18]
+
+------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [8, 9, 10, 12, 14]	Children's sons: [15, 18]
+
+------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		Evidence
+
+
+70|1947) mais peut-etre etait il occupé et le ferat plus_tard je parle de roland car j' aime ces dire! 
+1	mais	mais	C	CC	s=c	0	root	_	_
+2	peut-etre	peut-etre	ADV	ADV	_	5	mod	_	_
+3	etait	etait	V	V	m=ind	5	aux_tps	_	_
+4	il	cln	CL	CLS	s=suj	5	suj	_	_
+5	occupé	occuper	V	VPP	g=m|m=part|n=s|t=past	1	dep_coord	_	_
+6	et	et	C	CC	s=c	5	coord	_	_
+7	le	le	D	DET	g=m|n=s|s=def	8	det	_	_
+8	ferat	ferat	N	NC	s=c	11	mod	_	_
+9	plus_tard	plus_tard	ADV	ADV	_|marker=294	11	mod	_	_
+10	je	cln	CL	CLS	s=suj	11	suj	_	_
+11	parle	parler	V	V	m=ind|n=s|p=3|t=pst	6	dep_coord	_	_
+12	de	de	P	P	_	11	de_obj	_	_
+13	roland	roland	N	NC	s=c	12	obj	_	_
+14	car	car	C	CC	s=c|marker=68	11	coord	_	_
+15	j'	cln	CL	CLS	s=suj	16	suj	_	_
+16	aime	aimer	V	V	m=ind|n=s|p=3|t=pst	14	dep_coord	_	_
+17	ces	ce	D	DET	n=p|s=dem	18	ats	_	_
+18	dire	dire	V	VINF	m=inf	16	obj	_	_
+19	!	!	PONCT	PONCT	s=s	1	ponct	_	_
+
+Parents' sons: [8, 9, 10, 12, 14]	Children's sons: [15, 18]
+
+------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		Causation
+
+
+Parents' sons: [8, 9, 10, 12, 14]	Children's sons: [15, 18]
+
+------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [8, 9, 10, 12, 14]	Children's sons: [15, 18]
+
+------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		Evidence
+
+
+71|1973) Je le conseille à tous .. même au débutant, car ce jeu apprend même les bases du poker aux joueurs débutants. 
+1	Je	cln	CL	CLS	s=suj	3	suj	_	_
+2	le	cla	CL	CLO	g=m|n=s|s=obj	3	obj	_	_
+3	conseille	conseiller	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+4	à	à	P	P	_	3	mod	_	_
+5	tous	tout	A	ADJ	g=m|n=p|s=ind	6	mod	_	_
+6	..	..	N	NC	s=c	4	obj	_	_
+7	même	même	A	ADJ	n=s|s=qual	6	mod	_	_
+8	au	à	P+D	P+D	s=def	3	a_obj	_	_
+9	débutant	débutant	N	NC	g=m|n=s|s=c	8	obj	_	_
+10	,	,	PONCT	PONCT	s=w	3	ponct	_	_
+11	car	car	C	CC	s=c|marker=68	3	coord	_	_
+12	ce	ce	D	DET	g=m|n=s|s=dem	13	det	_	_
+13	jeu	jeu	N	NC	g=m|n=s|s=c	14	suj	_	_
+14	apprend	apprendre	V	V	m=ind|n=s|p=3|t=pst	11	dep_coord	_	_
+15	même	même	ADV	ADV	_	14	mod	_	_
+16	les	le	D	DET	n=p|s=def	17	det	_	_
+17	bases	base	N	NC	g=f|n=p|s=c	14	obj	_	_
+18	du	de	P+D	P+D	s=def	17	dep	_	_
+19	poker	poker	N	NC	g=m|n=s|s=c	18	obj	_	_
+20	aux	à	P+D	P+D	s=def	17	dep	_	_
+21	joueurs	joueur	N	NC	g=m|n=p|s=c	20	obj	_	_
+22	débutants	débutant	A	ADJ	g=m|n=p|s=qual	21	mod	_	_
+23	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+Parents' sons: [1, 2, 4, 8, 10, 11, 23]	Children's sons: [13, 15, 17]
+
+------->  conseiller{V|root}		car{CC|coord}		apprendre~base{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [1, 2, 4, 8, 10, 11, 23]	Children's sons: [13, 15, 17]
+
+------->  conseiller{V|root}		car{CC|coord}		apprendre~base{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 2, 4, 8, 10, 11, 23]	Children's sons: [13, 15, 17]
+
+------->  conseiller{V|root}		car{CC|coord}		apprendre~base{V~NC|dep_coord~obj}		Evidence
+
+
+72|2007) Aucun barrage économique n'a été levé, car c'est la seule arme qui leur reste pour peser encore sur le cours de l'histoire et se faire entendre. 
+1	Aucun	aucun	D	DET	g=m|n=s|s=ind	2	det	_	_
+2	barrage	barrage	N	NC	g=m|n=s|s=c	6	suj	_	_
+3	économique	économique	A	ADJ	n=s|s=qual	2	mod	_	_
+4	n'a	n'a	V	V	m=ind	6	aux_tps	_	_
+5	été	être	V	VPP	m=part|t=past	6	aux_pass	_	_
+6	levé	lever	V	VPP	g=m|m=part|n=s|t=past	0	root	_	_
+7	,	,	PONCT	PONCT	s=w	6	ponct	_	_
+8	car	car	C	CC	s=c|marker=68	6	coord	_	_
+9	c'est	c'est	ADV	ADV	_	8	mod	_	_
+10	la	le	D	DET	g=f|n=s|s=def	12	det	_	_
+11	seule	seul	A	ADJ	g=f|n=s|s=qual	12	mod	_	_
+12	arme	arme	N	NC	g=f|n=s|s=c	8	dep_coord	_	_
+13	qui	qui	PRO	PROREL	s=rel	15	suj	_	_
+14	leur	cld	CL	CLO	n=p|s=obj	15	a_obj	_	_
+15	reste	rester	V	V	m=ind|n=s|p=3|t=pst	12	mod_rel	_	_
+16	pour	pour	P	P	_	15	mod	_	_
+17	peser	peser	V	VINF	m=inf	16	obj	_	_
+18	encore	encore	ADV	ADV	_	17	mod	_	_
+19	sur	sur	P	P	_	17	mod	_	_
+20	le	le	D	DET	g=m|n=s|s=def	21	det	_	_
+21	cours	cours	N	NC	g=m|s=c	19	obj	_	_
+22	de	de	P	P	_	21	dep	_	_
+23	l'histoire	l'histoire	N	NC	s=c	22	obj	_	_
+24	et	et	C	CC	s=c	17	coord	_	_
+25	se	se	CL	CLR	p=3|s=refl	27	aff	_	_
+26	faire	faire	V	VINF	m=inf	27	aux_caus	_	_
+27	entendre	entendre	V	VINF	m=inf	24	dep_coord	_	_
+28	.	.	PONCT	PONCT	s=s	6	ponct	_	_
+
+Parents' sons: [2, 4, 5, 7, 8, 28]	Children's sons: []
+
+xxxxxxx>  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		c'est{ADV|mod}		Causation
+
+
+Parents' sons: [2, 4, 5, 7, 8, 28]	Children's sons: [10, 11, 15]
+
+------->  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		arme~seul{NC~ADJ|dep_coord~mod}		Causation
+
+
+Parents' sons: [2, 4, 5, 7, 8, 28]	Children's sons: []
+
+xxxxxxx>  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		c'est{ADV|mod}		FR_Cause_enunciation
+
+
+Parents' sons: [2, 4, 5, 7, 8, 28]	Children's sons: [10, 11, 15]
+
+------->  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		arme~seul{NC~ADJ|dep_coord~mod}		FR_Cause_enunciation
+
+
+Parents' sons: [2, 4, 5, 7, 8, 28]	Children's sons: []
+
+xxxxxxx>  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		c'est{ADV|mod}		Evidence
+
+
+Parents' sons: [2, 4, 5, 7, 8, 28]	Children's sons: [10, 11, 15]
+
+------->  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		arme~seul{NC~ADJ|dep_coord~mod}		Evidence
+
+
+73|2067) Choix des verres et des lunettes de vue chez l' opticien- Varilux Avant_d' aller choisir vos futures chez votre opticien, vous devez penser: A la monture, qui doit être choisie en_fonction_de vos goûts mais également selon la morphologie de votre visage .. Aux verres, ils doivent retenir toute votre attention car ils prennent en_compte non_seulement vos goûts, mais aussi l' esthétique, l' utilisation que vous souhaitez faire de vos et bien_sûr votre correction .. 2. 
+1	Choix	choix	N	NC	g=m|s=c	24	mod	_	_
+2	des	de	P+D	P+D	s=def	1	dep	_	_
+3	verres	verres	N	NC	g=m|n=p|s=c	2	obj	_	_
+4	et	et	C	CC	s=c	2	coord	_	_
+5	des	de	P+D	P+D	s=def	4	dep_coord	_	_
+6	lunettes	lunette	N	NC	g=f|n=p|s=c	5	obj	_	_
+7	de	de	P	P	_	6	dep	_	_
+8	vue	vue	N	NC	g=f|n=s|s=c	7	obj	_	_
+9	chez	chez	P	P	_	1	dep	_	_
+10	l'	le	D	DET	n=s|s=def	11	det	_	_
+11	opticien	opticien	N	NC	g=m|n=s|s=c	9	obj	_	_
+12	-	-	PONCT	PONCT	s=w	11	ponct	_	_
+13	Varilux	Varilux	N	NPP	s=p	11	mod	_	_
+14	Avant_d'	avant_de	P	P	_|marker=110	1	dep	_	_
+15	aller	aller	V	VINF	m=inf	14	obj	_	_
+16	choisir	choisir	V	VINF	m=inf	15	obj	_	_
+17	vos	son	D	DET	n=p|s=poss	18	det	_	_
+18	futures	futur	A	ADJ	g=f|n=p|s=qual	16	obj	_	_
+19	chez	chez	P	P	_	18	dep	_	_
+20	votre	son	D	DET	n=s|s=poss	21	det	_	_
+21	opticien	opticien	N	NC	g=m|n=s|s=c	19	obj	_	_
+22	,	,	PONCT	PONCT	s=w	24	ponct	_	_
+23	vous	cln	CL	CLS	s=suj	24	suj	_	_
+24	devez	devoir	V	V	m=ind|n=p|p=2|t=pst	32	mod	_	_
+25	penser	penser	V	VINF	m=inf	24	obj	_	_
+26	:	:	PONCT	PONCT	s=w	32	ponct	_	_
+27	A	A	P	P	_	32	mod	_	_
+28	la	le	D	DET	g=f|n=s|s=def	29	det	_	_
+29	monture	monture	N	NC	g=f|n=s|s=c	27	obj	_	_
+30	,	,	PONCT	PONCT	s=w	32	ponct	_	_
+31	qui	qui	PRO	PROREL	s=rel	32	suj	_	_
+32	doit	devoir	V	V	m=ind|n=s|p=3|t=pst	51	mod	_	_
+33	être	être	V	VINF	m=inf	34	aux_pass	_	_
+34	choisie	choisir	V	VPP	g=f|m=part|n=s|t=past	32	obj	_	_
+35	en_fonction_de	en_fonction_de	P	P	_	34	mod	_	_
+36	vos	son	D	DET	n=p|s=poss	37	det	_	_
+37	goûts	goûts	N	NC	g=m|n=p|s=c	35	obj	_	_
+38	mais	mais	C	CC	s=c|marker=304|marker=304	35	coord	_	_
+39	également	également	ADV	ADV	_	38	mod	_	_
+40	selon	selon	P	P	_|marker=199	38	dep_coord	_	_
+41	la	le	D	DET	g=f|n=s|s=def	42	det	_	_
+42	morphologie	morphologie	N	NC	g=f|n=s|s=c	40	obj	_	_
+43	de	de	P	P	_	42	dep	_	_
+44	votre	son	D	DET	n=s|s=poss	45	det	_	_
+45	visage	visage	N	NC	g=m|n=s|s=c	43	obj	_	_
+46	..	..	ADV	ADV	_	45	mod	_	_
+47	Aux	à	P+D	P+D	s=def	45	dep	_	_
+48	verres	verres	N	NC	g=m|n=p|s=c	47	obj	_	_
+49	,	,	PONCT	PONCT	s=w	51	ponct	_	_
+50	ils	cln	CL	CLS	s=suj	51	suj	_	_
+51	doivent	devoir	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+52	retenir	retenir	V	VINF	m=inf	51	obj	_	_
+53	toute	tout	A	ADJ	g=f|n=s|s=ind	55	mod	_	_
+54	votre	son	D	DET	n=s|s=poss	55	det	_	_
+55	attention	attention	N	NC	g=f|n=s|s=c	52	obj	_	_
+56	car	car	C	CC	s=c|marker=68	51	coord	_	_
+57	ils	cln	CL	CLS	s=suj	58	suj	_	_
+58	prennent	prendre	V	V	m=ind|n=p|p=3|t=pst	56	dep_coord	_	_
+59	en_compte	en_compte	ADV	ADV	_	58	mod	_	_
+60	non_seulement	non_seulement	ADV	ADV	_	58	mod	_	_
+61	vos	son	D	DET	n=p|s=poss	62	det	_	_
+62	goûts	goûts	N	NC	g=m|n=p|s=c	58	obj	_	_
+63	,	,	PONCT	PONCT	s=w	58	ponct	_	_
+64	mais	mais	C	CC	s=c	58	coord	_	_
+65	aussi	aussi	ADV	ADV	_|marker=208	64	mod	_	_
+66	l'	le	D	DET	n=s|s=def	67	det	_	_
+67	esthétique	esthétique	A	ADJ	n=s|s=qual	64	dep_coord	_	_
+68	,	,	PONCT	PONCT	s=w	58	ponct	_	_
+69	l'	le	D	DET	n=s|s=def	70	det	_	_
+70	utilisation	utilisation	N	NC	g=f|n=s|s=c	58	obj	_	_
+71	que	que	PRO	PROREL	s=rel	73	obj	_	_
+72	vous	cln	CL	CLS	s=suj	73	suj	_	_
+73	souhaitez	souhaiter	V	V	m=ind|n=p|p=2|t=pst	70	mod_rel	_	_
+74	faire	faire	V	VINF	m=inf	73	obj	_	_
+75	de	de	P	P	_	74	mod	_	_
+76	vos	son	D	DET	n=p|s=poss	75	det	_	_
+77	et	et	C	CC	s=c	76	coord	_	_
+78	bien_sûr	bien_sûr	ADV	ADV	_	77	mod	_	_
+79	votre	son	D	DET	n=s|s=poss	80	det	_	_
+80	correction	correction	N	NC	g=f|n=s|s=c	77	dep_coord	_	_
+81	..	..	P	P	_	75	arg	_	_
+82	2	2	N	NC	s=card	81	obj	_	_
+83	.	.	PONCT	PONCT	s=s	51	ponct	_	_
+
+Parents' sons: [32, 49, 50, 52, 56, 83]	Children's sons: [57, 59, 60, 62, 63, 64, 68, 70]
+
+------->  devoir~retenir~attention{V~VINF~NC|root~obj~obj}		car{CC|coord}		prendre~utilisation{V~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [32, 49, 50, 52, 56, 83]	Children's sons: [57, 59, 60, 62, 63, 64, 68, 70]
+
+------->  devoir~retenir~attention{V~VINF~NC|root~obj~obj}		car{CC|coord}		prendre~utilisation{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [32, 49, 50, 52, 56, 83]	Children's sons: [57, 59, 60, 62, 63, 64, 68, 70]
+
+------->  devoir~retenir~attention{V~VINF~NC|root~obj~obj}		car{CC|coord}		prendre~utilisation{V~NC|dep_coord~obj}		Evidence
+
+
+74|2113) Mon général, Lorsque je vous ai nommé à_la_tête_des armées françaises, le 30 octobre 2002, c' était en toute confiance, car j' avais eu l' occasion d' apprécier la fermeté de votre caractère, la hauteur de vos vues, votre sens de l' Etat. 
+1	Mon	son	D	DET	n=s|s=poss	2	det	_	_
+2	général	général	N	NC	g=m|n=s|s=c	0	root	_	_
+3	,	,	PONCT	PONCT	s=w	2	ponct	_	_
+4	Lorsque	lorsque	C	CS	s=s	19	mod	_	_
+5	je	cln	CL	CLS	s=suj	8	suj	_	_
+6	vous	clad	CL	CLO	s=obj	8	aff	_	_
+7	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	8	aux_tps	_	_
+8	nommé	nommer	V	VPP	g=m|m=part|n=s|t=past	4	obj	_	_
+9	à_la_tête_des	à_la_tête_de	P	P	_	8	mod	_	_
+10	armées	armée	N	NC	g=f|n=p|s=c	9	obj	_	_
+11	françaises	français	A	ADJ	g=f|n=p|s=qual	10	mod	_	_
+12	,	,	PONCT	PONCT	s=w	19	ponct	_	_
+13	le	le	D	DET	g=m|n=s|s=def	15	det	_	_
+14	30	30	A	ADJ	s=card	15	mod	_	_
+15	octobre	octobre	N	NC	g=m|n=s|s=c	19	suj	_	_
+16	2002	2002	N	NC	s=card	15	mod	_	_
+17	,	,	PONCT	PONCT	s=w	19	ponct	_	_
+18	c'	cln	CL	CLS	s=suj	19	suj	_	_
+19	était	être	V	V	m=ind|n=s|p=3|t=impft	2	mod_rel	_	_
+20	en	en	P	P	p=3	19	mod	_	_
+21	toute	tout	D	DET	g=f|n=s|s=ind	22	det	_	_
+22	confiance	confiance	N	NC	g=f|n=s|s=c	20	obj	_	_
+23	,	,	PONCT	PONCT	s=w	2	ponct	_	_
+24	car	car	C	CC	s=c|marker=68	2	coord	_	_
+25	j'	cln	CL	CLS	s=suj	27	suj	_	_
+26	avais	avoir	V	V	m=ind|n=s|p=2|t=impft	27	aux_tps	_	_
+27	eu	avoir	V	VPP	g=m|m=part|n=s|t=past	24	dep_coord	_	_
+28	l'	le	D	DET	n=s|s=def	29	det	_	_
+29	occasion	occasion	N	NC	g=f|n=s|s=c	27	obj	_	_
+30	d'	de	P	P	_	27	mod	_	_
+31	apprécier	apprécier	V	VINF	m=inf	30	obj	_	_
+32	la	le	D	DET	g=f|n=s|s=def	33	det	_	_
+33	fermeté	fermeté	N	NC	g=f|n=s|s=c	31	obj	_	_
+34	de	de	P	P	_	33	dep	_	_
+35	votre	son	D	DET	n=s|s=poss	36	det	_	_
+36	caractère	caractère	N	NC	g=m|n=s|s=c	34	obj	_	_
+37	,	,	PONCT	PONCT	s=w	0	root	_	_
+38	la	le	D	DET	g=f|n=s|s=def	39	det	_	_
+39	hauteur	hauteur	N	NC	g=f|n=s|s=c	0	root	_	_
+40	de	de	P	P	_	39	dep	_	_
+41	vos	son	D	DET	n=p|s=poss	42	det	_	_
+42	vues	vue	N	NC	g=f|n=p|s=c	40	obj	_	_
+43	,	,	PONCT	PONCT	s=w	39	ponct	_	_
+44	votre	son	D	DET	n=s|s=poss	45	det	_	_
+45	sens	sens	N	NC	g=m|s=c	39	mod	_	_
+46	de	de	P	P	_	45	dep	_	_
+47	l'	le	D	DET	n=s|s=def	48	det	_	_
+48	Etat	Etat	N	NPP	s=p	46	obj	_	_
+49	.	.	PONCT	PONCT	s=s	39	ponct	_	_
+
+Parents' sons: [1, 3, 19, 23, 24]	Children's sons: [25, 26, 29, 30]
+
+------->  général{NC|root}		car{CC|coord}		avoir~occasion{VPP~NC|dep_coord~obj}		Causation
+
+
+Parents' sons: [1, 3, 19, 23, 24]	Children's sons: [25, 26, 29, 30]
+
+------->  général{NC|root}		car{CC|coord}		avoir~occasion{VPP~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+Parents' sons: [1, 3, 19, 23, 24]	Children's sons: [25, 26, 29, 30]
+
+------->  général{NC|root}		car{CC|coord}		avoir~occasion{VPP~NC|dep_coord~obj}		Evidence
+
+
+75|2129) « Car notre but est de sensibiliser le maximum d' acteurs à l' écologie et au développement durable» poursuit -elle. 
+1	«	«	PONCT	PONCT	s=w	2	ponct	_	_
+2	Car	car	C	CC	s=c|marker=68	0	root	_	_
+3	notre	son	D	DET	n=s|s=poss	4	det	_	_
+4	but	but	N	NC	g=m|n=s|s=c	5	suj	_	_
+5	est	être	V	V	m=ind|n=s|p=3|t=pst	2	dep_coord	_	_
+6	de	de	P	P	_	5	ats	_	_
+7	sensibiliser	sensibiliser	V	VINF	m=inf	6	obj	_	_
+8	le	le	D	DET	g=m|n=s|s=def	9	det	_	_
+9	maximum	maximum	N	NC	g=m|n=s|s=c	7	obj	_	_
+10	d'	de	P	P	_	9	dep	_	_
+11	acteurs	acteur	N	NC	g=m|n=p|s=c	10	obj	_	_
+12	à	à	P	P	_	7	mod	_	_
+13	l'	le	D	DET	n=s|s=def	14	det	_	_
+14	écologie	écologie	N	NC	g=f|n=s|s=c	12	obj	_	_
+15	et	et	C	CC	s=c	12	coord	_	_
+16	au	à	P+D	P+D	s=def	15	dep_coord	_	_
+17	développement	développement	N	NC	g=m|n=s|s=c	16	obj	_	_
+18	durable	durable	A	ADJ	n=s|s=qual	17	mod	_	_
+19	»	»	PONCT	PONCT	s=w	7	ponct	_	_
+20	poursuit	poursuivre	V	V	m=ind|n=s|p=3|t=pst	7	mod	_	_
+21	-elle	cln	CL	CLS	s=suj	20	suj	_	_
+22	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+76|2182) Mais le grand singe ne voulait pas m' aider car il trouvait que c' était trop dangereux pour un enfant d' aller sur l' île du dragon. 
+1	Mais	mais	C	CC	s=c	0	root	_	_
+2	le	le	D	DET	g=m|n=s|s=def	4	det	_	_
+3	grand	grand	A	ADJ	g=m|n=s|s=qual	4	mod	_	_
+4	singe	singe	N	NC	g=m|n=s|s=c	6	suj	_	_
+5	ne	ne	ADV	ADV	s=neg	6	mod	_	_
+6	voulait	vouloir	V	V	m=ind|n=s|p=3|t=impft	1	dep_coord	_	_
+7	pas	pas	ADV	ADV	s=neg	6	mod	_	_
+8	m'	cla	CL	CLO	n=s|s=obj	9	obj	_	_
+9	aider	aider	V	VINF	m=inf	6	obj	_	_
+10	car	car	C	CC	s=c|marker=68	6	coord	_	_
+11	il	cln	CL	CLS	s=suj	12	suj	_	_
+12	trouvait	trouver	V	V	m=ind|n=s|p=3|t=impft	10	dep_coord	_	_
+13	que	que	C	CS	s=s	12	obj	_	_
+14	c'	cln	CL	CLS	s=suj	15	suj	_	_
+15	était	être	V	V	m=ind|n=s|p=3|t=impft	13	obj	_	_
+16	trop	trop	ADV	ADV	_	17	mod	_	_
+17	dangereux	dangereux	A	ADJ	g=m|s=qual	15	ats	_	_
+18	pour	pour	P	P	_	15	mod	_	_
+19	un	un	D	DET	g=m|n=s|s=ind	20	det	_	_
+20	enfant	enfant	N	NC	n=s|s=c	18	obj	_	_
+21	d'	de	P	P	_	20	dep	_	_
+22	aller	aller	V	VINF	m=inf	21	obj	_	_
+23	sur	sur	P	P	_	22	mod	_	_
+24	l'	le	D	DET	n=s|s=def	25	det	_	_
+25	île	île	N	NC	g=f|n=s|s=c	23	obj	_	_
+26	du	de	P+D	P+D	s=def	25	dep	_	_
+27	dragon	dragon	N	NC	g=m|n=s|s=c	26	obj	_	_
+28	.	.	PONCT	PONCT	s=s	1	ponct	_	_
+
+Parents' sons: [4, 5, 7, 9, 10]	Children's sons: [11, 13]
+
+------->  vouloir~aider{V~VINF|dep_coord~obj}		car{CC|coord}		trouver{V|dep_coord}		Causation
+
+
+Parents' sons: [4, 5, 7, 9, 10]	Children's sons: [11, 13]
+
+------->  vouloir~aider{V~VINF|dep_coord~obj}		car{CC|coord}		trouver{V|dep_coord}		FR_Cause_enunciation
+
+
+Parents' sons: [4, 5, 7, 9, 10]	Children's sons: [11, 13]
+
+------->  vouloir~aider{V~VINF|dep_coord~obj}		car{CC|coord}		trouver{V|dep_coord}		Evidence
+
+
+77|2186) car je suis toujours tout seul, tout le monde a peur de moi. 
+1	car	car	C	CC	s=c	0	root	_	_
+2	je	cln	CL	CLS	s=suj	3	suj	_	_
+3	suis	suivre	V	V	m=ind|n=s|p=2|t=pst	1	dep_coord	_	_
+4	toujours	toujours	ADV	ADV	_	3	mod	_	_
+5	tout	tout	ADV	ADV	s=ind	6	mod	_	_
+6	seul	seul	A	ADJ	g=m|n=s|s=qual	3	ats	_	_
+7	,	,	PONCT	PONCT	s=w	3	ponct	_	_
+8	tout	tout	A	ADJ	g=m|n=s|s=ind	10	mod	_	_
+9	le	le	D	DET	g=m|n=s|s=def	10	det	_	_
+10	monde	monde	N	NC	g=m|n=s|s=c	11	suj	_	_
+11	a	avoir	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+12	peur	peur	N	NC	g=f|n=s|s=c	11	obj	_	_
+13	de	de	P	P	_	12	dep	_	_
+14	moi	lui	PRO	PRO	n=s|s=pers	13	obj	_	_
+15	.	.	PONCT	PONCT	s=s	1	ponct	_	_
+

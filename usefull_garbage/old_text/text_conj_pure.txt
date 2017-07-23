@@ -1,0 +1,356 @@
+1|92) Sinon j aime bien celle ci:[ C Db E F G Ab B] qu on appelle double harmonique justement parce qu il_y_a deux fois l'intervalle en_question. 
+
+2|93) Bon je m arrete là parce_que je pourrai y passer la nuit... 
+
+------->  arrete~là{V~ADV|root~mod}		parce_que{CS|mod}		pouvoir~passer{V~VINF|obj~obj}		Causation
+
+
+------->  arrete~là{V~ADV|root~mod}		parce_que{CS|mod}		pouvoir~passer{V~VINF|obj~obj}		Evidence
+
+
+3|127) Dans le" tunnel", parce_que c' en est un( certains longs métrages mettent entre cinq à six ans avant_de débarquer sur les écrans... 
+
+4|189) Vous pouvez laver les couches avec le linge des autres membres de la famille( en_général à 40°), eh oui, même_s' il_y_a eu des selles( de toute façon, il ne reste pas grand-chose puisque les selles sont jetées dans les toilettes, et vous pouvez aussi rincer rapidement la couche avant le lavage). 
+
+------->  pouvoir~laver~couche{V~VINF~NC|root~obj~obj}		puisque{CS|mod}		selles~jeter{NC~VPP|suj~obj}		FR_Reason
+
+
+------->  pouvoir~laver~couche{V~VINF~NC|root~obj~obj}		puisque{CS|mod}		selles~jeter{NC~VPP|suj~obj}		Evidence
+
+
+5|201) Les couches très absorbantes utilisées pour la nuit mettent souvent plus de temps à sécher parce_qu' elles sont cousues dans des tissus très absorbants de manière à éviter les fuites une nuit entière. 
+
+------->  sécher~coudre{VINF~VPP|obj~obj}		parce_que{CS|mod}		coudre{VPP|obj}		Causation
+
+
+------->  sécher~coudre{VINF~VPP|obj~obj}		parce_que{CS|mod}		coudre{VPP|obj}		Evidence
+
+
+6|247) Parce_que dans ce cas-là, c' est plutôt tout le monde au lit et de bonne heure. 
+
+7|265) Heureusement qu' hier au boulot c' était journée calme, parce_que la j' ai l' impression d' avoir un poid enorme sur mon dos. 
+
+------->  être~journée~calme{V~NC~ADJ|root~obj~mod}		parce_que{CS|mod}		impression~avoir{NC~V|suj~obj}		Causation
+
+
+------->  être~journée~calme{V~NC~ADJ|root~obj~mod}		parce_que{CS|mod}		impression~avoir{NC~V|suj~obj}		Evidence
+
+
+8|276) " Parce_que le problème de la SemN INSA telle que les vieux la connaissaient, c' était aussi le manque de fréquentation insaïenne, et la désertion du campus qui suivait la semaine de partiels. 
+
+------->  être~manque{V~NC|root~obj}		parce_que{CS|mod}		problème~connaître{NC~V|suj~obj}		Causation
+
+
+------->  être~manque{V~NC|root~obj}		parce_que{CS|mod}		problème~connaître{NC~V|suj~obj}		Evidence
+
+
+9|308) bon voilà pour commencer, mais puisque ce site est ouvert à tous, ce sujet réclame l' avis de tous... 
+
+xxxxxxx>  mais~ouvrir{CC~VPP|coord~obj}		puisque{CS|dep_coord}		site~ouvrir{NC~VPP|suj~obj}		FR_Reason
+
+
+xxxxxxx>  mais~ouvrir{CC~VPP|coord~obj}		puisque{CS|dep_coord}		site~ouvrir{NC~VPP|suj~obj}		Evidence
+
+
+10|311) sinon, peut etre qu' avec un bon feu de bois au milieu de la cour et un tapis, la communication passerait mieux? 
+
+------->  passer~mieux{V~ADV|root~mod}		sinon{CC|coord}		pouvoir~que{V~ADV|dep_coord~mod}		Evidence
+
+
+11|315) Sinon pour la reunion, c' est bien dommage que ton lycée ne puisse pas te payer le train... 
+
+xxxxxxx>  être~dommage{V~NC|root~ats}		sinon{CC|coord}		pour~reunion{P~NC|dep_coord~obj}		Evidence
+
+
+12|420) Qui dit Pays du vent ça porte un tres bon nom parce_que a Konoha il fais tres chaud et las bas c' est tres bon pour faire de massage. 
+
+------->  porter~tre~nom{V~NC~NC|mod~obj~mod}		parce_que{CS|mod}		avoir{V|obj}		Causation
+
+
+------->  porter~tre~nom{V~NC~NC|mod~obj~mod}		parce_que{CS|mod}		avoir{V|obj}		Evidence
+
+
+13|421) Sangoten vut sa marque maudite s' alumer et il etais aubliger de s' asseoir parce_que sa marque etais allumer. 
+
+xxxxxxx>  etais~aubliger{V~VINF|dep_coord~obj}		parce_que{CS|mod}		etais~allumer{CC~VINF|obj~obj}		Causation
+
+
+xxxxxxx>  etais~aubliger{V~VINF|dep_coord~obj}		parce_que{CS|mod}		etais~allumer{CC~VINF|obj~obj}		Evidence
+
+
+15|552) Conseil: Lorsque vous arriverez à 500 par jour, attendez 24 heures pour recommencer, sinon les casinos ne voudront plus que vous les plumiez! 
+
+------->  attendre~heure{V~NC|root~obj}		sinon{CC|coord}		vouloir~plus{V~ADV|dep_coord~mod}		Evidence
+
+
+16|563) Je vais monter la garde, cette nuit, une carabine en plastique dans la main droite et un verre de coca dans l' autre( je dis pas la gauche puisque j' en ai que deux). 
+
+------->  dire~gauche{V~NC|mod~obj}		puisque{CS|mod}		avoir{V|obj}		FR_Reason
+
+
+------->  dire~gauche{V~NC|mod~obj}		puisque{CS|mod}		avoir{V|obj}		Evidence
+
+
+17|569) - Points forts: Presque tout- Points faibles: Peut-être rassembler les sujets parlant des mêmes choses( l' exemple de titanic est bien approprié) et ce serait bien_que l' Admin soit là pus souvent Sinon franchement, rien à dire, j' adore le forum et l' esprit des membres surtout _________________" Force et Honneur" micAmAk! 
+
+------->  pus~souvent{VPP~ADV|obj~mod}		sinon{CS|mod}		adorer~forum{V~NC|obj~obj}		Evidence
+
+
+18|610) PROFIL: Clientèle féminine à 95 %, avec 3 enfants en_moyenne, âgée de 30 à 45 ans, de PCS supérieur( A B+), 70 % de professions libérales et cadres supérieurs, style BCBG classique, de bon goût et avec un bon rapport qualité / prix, urbaine, panier moyen de 122 Euros, de 300 Euros par saison, sensible au marketing direct quel que soit le circuit de distribution, puisque cyrillus relance ses clients par mailing 1 fois par mois( mailing très' soft') et ses prospects au_moins 2 fois par saison( de 6 mois), et ce en VPC comme en magasin. 
+
+------->  profil~clientèle~féminin{NC~NC~ADJ|root~mod~mod}		puisque{CS|mod}		relancer~client{V~NC|obj~obj}		FR_Reason
+
+
+------->  profil~clientèle~féminin{NC~NC~ADJ|root~mod~mod}		puisque{CS|mod}		relancer~client{V~NC|obj~obj}		Evidence
+
+
+19|638) car cooper( producter) a dit que Stargate va continuer d une forme ou d une autre sinon Scifi a dit que si SG coutait moins cher il accepterait PEUT ETRE une saison 11 Mais bon il on deja des probleme d argent alors si il en recoivent moins :_s _________________ Créateur Calendrier SG Membre Mach creation( FPS sur SG) Paul Davis Sous Lieutenant Age: 16 Inscrit le: 02 Aoû 2006 Messages: 2388 Humeur: délirente Bons amis: J' ai une tête à avoir des amis? 
+
+------->  forme~dire{NC~VPP|obj~mod}		sinon{CC|coord}		Scifi{NPP|dep_coord}		Evidence
+
+
+20|685) La version ASP de Tatou est particulièrement innovante puisqu' elle a été conçue avec le process anti- salissures et offre ainsi une garantie contre les effets pervers liés à la dégradation de la qualité de l' air. 
+
+------->  être~innovant{V~ADJ|root~ats}		puisque{CS|mod}		être~concevoir{VPP~VPP|obj~ats}		FR_Reason
+
+
+------->  être~innovant{V~ADJ|root~ats}		puisque{CS|mod}		être~concevoir{VPP~VPP|obj~ats}		Evidence
+
+
+21|718) Eh oui, il faut savoir se servir d' une boussole, et ne jamais l' utiliser dans l' habitacle, sinon le Nord pointe sur le moteur! 
+
+------->  utiliser~jamais{VINF~ADV|dep_coord~mod}		sinon{CC|coord}		Nord~pointe{NPP~NC|dep_coord~mod}		Evidence
+
+
+22|745) Les premiers traitements peuvent être commencés rapidement puisque des médicaments sont connus qui peuvent être combinées avec la chimiothérapie traditionnelle et la chirurgie. 
+
+------->  être~commencer~rapidement{VINF~VPP~ADV|root~mod~mod}		puisque{CS|mod}		médicament~connaître{NC~VPP|suj~obj}		FR_Reason
+
+
+------->  être~commencer~rapidement{VINF~VPP~ADV|root~mod~mod}		puisque{CS|mod}		pouvoir~combiner{V~VPP|mod_rel~obj}		FR_Reason
+
+
+------->  être~commencer~rapidement{VINF~VPP~ADV|root~mod~mod}		puisque{CS|mod}		médicament~connaître{NC~VPP|suj~obj}		Evidence
+
+
+------->  être~commencer~rapidement{VINF~VPP~ADV|root~mod~mod}		puisque{CS|mod}		pouvoir~combiner{V~VPP|mod_rel~obj}		Evidence
+
+
+23|760) D'_autre_part la ligne d' alimentation doit être équipée d' un fil" heures creuses", sinon il faudra rajouter un émetteur" heures creuses" au tableau et un récepteur" heures creuses" sur l' accumulateur( voir en page accessoires accumulateurs) COMPOSANTS Briques réfractaires en féolite à haut rendement livrés par colis sur la même palette que l' appareil. 
+
+------->  devoir~équiper{V~VPP|root~obj}		sinon{CC|coord}		falloir~rajouter{V~VINF|dep_coord~obj}		Evidence
+
+
+24|773) Tout ça parce_qu' un jour j' ai acheté une boite de biscuits sablés qui avaient à peu près la même forme que ce petit personnage de Shrek. 
+
+xxxxxxx>  cela{PRO|root}		parce_que{CS|mod}		acheter~boite{VPP~NC|obj~obj}		Causation
+
+
+xxxxxxx>  cela{PRO|root}		parce_que{CS|mod}		acheter~boite{VPP~NC|obj~obj}		Evidence
+
+
+25|811) Puisqu' il faut bien choisir pour profiter à plein de ces deux journées du Patrimoine, c' est le moment de suivre le thème Rhône-Alpes et d' aller à la rencontre des lieux de spectacle. 
+
+------->  être~moment{V~NC|root~ats}		puisque{CS|mod}		falloir~choisir{V~VINF|obj~obj}		FR_Reason
+
+
+------->  être~moment{V~NC|root~ats}		puisque{CS|mod}		falloir~choisir{V~VINF|obj~obj}		Evidence
+
+
+26|816) Atlantis a la fin de la saison 3 sera couper de la terre se qui signifie je pense que plus d E2PZ ni de dedale Donc Atlantis sera seul pendant au_moins le debut de la saison 4 Sinon Carter devrai avoir un role soit gros ou petit car elle est toujours sous contrat avec la MGM _________________ Créateur Calendrier SG Membre Mach creation( FPS sur SG) 
+
+------->  être~seul{V~ADJ|dep_coord~ats}		sinon{CS|mod}		devoir~avoir{V~VINF|obj~obj}		Evidence
+
+
+27|817) l' Araignée||mercredi 29 novembre 2006||23: 36 || Quotes || # 116 || rss Tant qu' à faire dans le racoleur, une petite quote de l' Arène de France, l' émission la plus classe du monde, ce soir:( Une dame du public, passablement enragée et visiblement révoltée contre le retrait abusif de points, s' adressant à- je suppose parce_que j' ai pas suivi- une défenseure de la sécurité routière):" Il vous reste combien de points sur votre permis, à vous, Madame? 
+
+------->  supposer~défenseure{V~NC|root~obj}		parce_que{CS|obj}		suivre~pas{VPP~ADV|obj~mod}		Causation
+
+
+------->  supposer~défenseure{V~NC|root~obj}		parce_que{CS|obj}		suivre~pas{VPP~ADV|obj~mod}		Evidence
+
+
+28|820) parce_que question tartine t' en rate pas une! 
+
+29|978) Heidegger j' ai vraiment du mal, comme avec la_plupart des philosophes en fait parce_que je ne sais pas s' ils sont mal traduits en français mais je trouve que leurs oeuvres sont très mal écrites. 
+
+------->  avoir~traduire~mal{V~VPP~ADV|root~obj~mod}		parce_que{CS|mod}		savoir~pas{V~ADV|obj~mod}		Causation
+
+
+------->  avoir~traduire~mal{V~VPP~ADV|root~obj~mod}		parce_que{CS|mod}		savoir~pas{V~ADV|obj~mod}		Evidence
+
+
+31|1053) Le pic 8 détermine la vibration dans le jeu piano et le son a tendance à baisser un_peu dans un crescendo parce_que le pic16 a là aussi une fréquence légèrement inférieure au double de celle du pic 8. 
+
+------->  avoir~tendance{V~NC|dep_coord~obj}		parce_que{CS|mod}		avoir~fréquence{V~NC|obj~obj}		Causation
+
+
+------->  avoir~tendance{V~NC|dep_coord~obj}		parce_que{CS|mod}		avoir~fréquence{V~NC|obj~obj}		Evidence
+
+
+32|1094) Je ne le juge ni sur son physique, parce_que sinon voila quoi, ce mec à un pas' d' nez quand meme, ni sur ces actes car rien n' est prouvé et meme si c' était le cas, il reste quand meme à mes yeux un grand feseur de bonnes chanson ^^ Il chante bien, danse bien, je n' écoute pas particulirment ces albums du matin au soir, mais j' aime pas mal de ces chansons. 
+
+------->  juge~ne{NC~ADV|mod~mod}		parce_que{CS|mod}		voiler~sinon{V~ADV|obj~mod}		Causation
+
+
+------->  juge~ne{NC~ADV|mod~mod}		parce_que{CS|mod}		voiler~sinon{V~ADV|obj~mod}		Evidence
+
+
+33|1159) Sinon, hier, je suis allé voir" Zodiak" le dernier David Fincher, pas mal si on aime les histoires de serial-killer, surtout qu' ici il s' agit de faits réels( à_peine édulcorés si on lit les rapports de police à côté)... 
+
+34|1177) - TITRE: LA PRINCESSE ET LE CRAPAUD- Auteur: Marlène Jobert- Editeur: Atlas- Genre: Roman- Sujet: C' est une princesse qui promit à un crapaud de devenir son ami, parce_qu' il n' a pas hésité à aller rechercher sa balle en or dans l' étang mais elle ne tient pas sa promesse. 
+
+------->  être~princesse{V~NC|root~ats}		parce_que{CS|ats}		hésiter~pas{VPP~ADV|obj~mod}		Causation
+
+
+------->  être~princesse{V~NC|root~ats}		parce_que{CS|ats}		hésiter~pas{VPP~ADV|obj~mod}		Evidence
+
+
+35|1185) Ils veulent savoir le secret du pouvoir magique sinon le Dr Hawlings rétrécira leur tête! 
+
+------->  secret{NC|obj}		sinon{CC|coord}		Docteur{NC|dep_coord}		Evidence
+
+
+36|1196) - Avis: Mon avis sur le livre c' est que les enfants ont raison de prendre des Tom Tom et Nana parce_qu' il_y_a des gags. 
+
+$$$$$$$>  et{CC|coord}		parce_que{CS|dep_coord}		il_y_a~gag{V~NC|obj~obj}		Causation
+
+
+$$$$$$$>  et{CC|coord}		parce_que{CS|dep_coord}		il_y_a~gag{V~NC|obj~obj}		Evidence
+
+
+37|1202) sinon il restera son serviteur à tout jamais. 
+
+38|1203) - Avis: J' ai bien aimé parce_qu' il a des araignées et de choses dégoûtantes. 
+
+------->  aimer~bien{VPP~ADV|root~mod}		parce_que{CS|mod}		avoir~araignée{V~NC|obj~obj}		Causation
+
+
+------->  aimer~bien{VPP~ADV|root~mod}		parce_que{CS|mod}		avoir~araignée{V~NC|obj~obj}		Evidence
+
+
+39|1212) Sinon j' adore la tanche qui est pour moi un poisson rare par chez moi, très méfiant et qui se mérite. 
+
+40|1229) Modèle présenté sur cette page en version tout électrique, existe aussi en électrique + ventilo, ou, mixte élec+chauffage central( modèles visibles dans la catégorie correpondante sur notre site) .Chaque salle de bains peut avoir son DORIS, parce_qu' il est la rencontre de la fiabilité et de l' esthétique. 
+
+------->  exister~salle{V~NC|root~obj}		parce_que{CS|mod}		être~rencontre{V~NC|obj~ats}		Causation
+
+
+------->  exister~salle{V~NC|root~obj}		parce_que{CS|mod}		être~rencontre{V~NC|obj~ats}		Evidence
+
+
+41|1339) Pour moi les barres au sol est un exercice à part entière, mobilisant déjà suffisement le cheval, si tu y ajoute le pessoa( qui demande beaucoup d' efforts au cheval) je trouve ça" to much" aprés je ne suis pas une pro des ficelles _________________ Super Moderator Powaaa( parce_qu' il faut po pousser Mémé dans les orties) http://asidemaestro.canalblog.com http://www.belgium-amazone.com La sagesse, c' est d' avoir des rêves suffisament grands pour ne_pas les perdre de vue lorsqu' on les poursuit. 
+
+------->  être~exercice{V~NC|root~ats}		parce_que{CS|mod}		falloir~pousser{V~VINF|obj~obj}		Causation
+
+
+------->  être~exercice{V~NC|root~ats}		parce_que{CS|mod}		falloir~pousser{V~VINF|obj~obj}		Evidence
+
+
+42|1342) Merci beaucoup Ptitesirene Admin Age: 30 Inscrit le: 30 Déc 2006 Messages: 2080 Localisation: Cestas( 33) Sujet: Re: Enrenement pessoa Mar 11 Sep- 10: 31 Bah les questions c' est fait pour être posées Aprés il_y_a tellement d' avsi que c' est à toi de faire ta cuisine _________________ Super Moderator Powaaa( parce_qu' il faut po pousser Mémé dans les orties) http://asidemaestro.canalblog.com http://www.belgium-amazone.com La sagesse, c' est d' avoir des rêves suffisament grands pour ne_pas les perdre de vue lorsqu' on les poursuit. 
+
+------->  pessoa{V|root}		parce_que{CS|mod}		falloir~pousser{V~VINF|obj~obj}		Causation
+
+
+------->  pessoa{V|root}		parce_que{CS|mod}		falloir~pousser{V~VINF|obj~obj}		Evidence
+
+
+43|1345) ! Emmanuelle Age: 31 Inscrit le: 02 Jan 2007 Messages: 1432 Localisation: Basses Alpes Sujet: Re: Enrenement pessoa Mar 11 Sep- 12: 26 Sinon tu peux longer aux longues rênes en faisant passer la rêne extérieure dans le pli du jarret et la laisser flotter sur son propre poids, rêne intérieure un_peu_plus ajustée. 
+
+------->  pessoa~Enrenement{V~ADV|mod~mod}		sinon{CS|mod}		taire{VPP|obj}		Evidence
+
+
+44|1346) Sinon Inutile de diaboliser les enrênements, j' en utilise bien peu mais ça peu rendre service il faut bien le reconnaitre. 
+
+xxxxxxx>  utiliser~peu~bien{V~ADV~ADV|root~mod~mod}		sinon{CC|coord}		inutile{ADJ|dep_coord}		Evidence
+
+
+xxxxxxx>  utiliser~peu~bien{V~ADV~ADV|root~mod~mod}		sinon{CC|coord}		de~diaboliser{P~VINF|dep_coord~obj}		Evidence
+
+
+45|1358) Le pessoa a été beaucoup décrié parce_que mis entre toutes les mains( et surtout les peu expertes) il fait des dégats. 
+
+------->  décrier~beaucoup{VPP~ADV|mod~mod}		parce_que{CS|mod}		mettre{VPP|obj}		Causation
+
+
+------->  décrier~beaucoup{VPP~ADV|mod~mod}		parce_que{CS|mod}		mettre{VPP|obj}		Evidence
+
+
+46|1389) si vous pouvez regardez les en V.O. parce_qu' on n' est pas gâtés côté traduction... 
+
+xxxxxxx>  le{DET|root}		parce_que{CS|ats}		gâter~côté{VPP~NC|obj~mod}		Causation
+
+
+xxxxxxx>  le{DET|root}		parce_que{CS|ats}		gâter~côté{VPP~NC|obj~mod}		Evidence
+
+
+47|1436) lol Posted by hchicha on 30 août 2007 at 10: 06 under Humeurs, Tassirth Bhein j' exagère un_peu mon titre là mais il s' agit bien de censure puisqu' un de mes commentaires vient tout simplement d' être supprimé sur un blog voisin sans raison apparente. 
+
+------->  agir~bien{V~ADV|dep_coord~mod}		puisque{CS|mod}		venir~simplement{V~ADV|obj~mod}		FR_Reason
+
+
+------->  agir~bien{V~ADV|dep_coord~mod}		puisque{CS|mod}		venir~simplement{V~ADV|obj~mod}		Evidence
+
+
+48|1528) Greenpeace estime même qu' il faudrait interdire la recherche et le développement d' espèces transgéniques puisqu' il suffirait qu' on laisse échapper un seul de ces poissons transgéniques ou quelques oeufs fécondés dans les eaux de lavage de bassin pour_que leurs caractéristiques soient transmises à l' espèce sauvage. 
+
+------->  falloir~interdire~recherche{V~VINF~NC|obj~obj~obj}		puisque{CS|mod}		suffire{V|obj}		FR_Reason
+
+
+------->  falloir~interdire~recherche{V~VINF~NC|obj~obj~obj}		puisque{CS|mod}		suffire{V|obj}		Evidence
+
+
+49|1536) Ceci n' est pas très surprenant dans_la_mesure_où il_y_a déjà surabondance des saumons d' élevage au niveau mondial. 
+
+xxxxxxx>  être~surprenant{V~ADJ|root~ats}		dans_la_mesure_où{CS|mod}		il_y_a~surabondance{P~NC|obj~obj}		Causation
+
+
+xxxxxxx>  être~surprenant{V~ADJ|root~ats}		dans_la_mesure_où{CS|mod}		il_y_a~surabondance{P~NC|obj~obj}		Evidence
+
+
+50|1595) Important: toute demande d' autorisation d' absence à l' internat doit obligatoirement être formulée par écrit 48 heures à l' avance par la famille si l' élève est mineur, sinon par l' élève lui-même avec l' accord de la famille s' il est majeur. 
+
+xxxxxxx>  devoir~formuler{V~VPP|root~obj}		sinon{CC|mod}		par~élève{P~NC|obj~obj}		Evidence
+
+
+xxxxxxx>  devoir~formuler{V~VPP|root~obj}		sinon{CC|mod}		avec~accord{P~NC|mod~obj}		Evidence
+
+
+52|1792) Puisque la signalisation d' Egfr favorise l' expression de Mmp-9 et l' activation dans d'_autres types de cellules de cancer, nous avons analysé si Mmp-9 a été associée au sous-type de Glioblastome primaire. 
+
+------->  analyser{VPP|root}		puisque{CS|mod}		favoriser~expression{V~NC|obj~obj}		FR_Reason
+
+
+------->  analyser{VPP|root}		puisque{CS|mod}		favoriser~expression{V~NC|obj~obj}		Evidence
+
+
+53|1899) Ben moi le coup de gueule nature sera juste de raler contre tous ces cons qui veulent te faire bouffer de l' écolo et sans tact, genre je suis militant bio parce_que je le vaux bien... 
+
+------->  être~juste{V~ADJ|root~ats}		parce_que{CS|mod}		val~bien{NC~ADV|obj~mod}		Causation
+
+
+------->  être~juste{V~ADJ|root~ats}		parce_que{CS|mod}		val~bien{NC~ADV|obj~mod}		Evidence
+
+
+54|1901) Moi j' aime bien quand tu rales contre les cons et je me dis que tu as grave du courage, parce_qu' il_y_a du boulot. 
+
+------->  aimer~bien{V~ADV|root~mod}		parce_que{CS|mod}		il_y_a{V|obj}		Causation
+
+
+------->  aimer~bien{V~ADV|root~mod}		parce_que{CS|mod}		il_y_a{V|obj}		Evidence
+
+
+55|1902) parce_que si tu comptes manger ma cuisine, tu risques d' avoir faim longtemps... 
+
+56|1962) Non_seulement parce_que vous vous fatiguez plus vite mais aussi parce_que le déplacement de votre centre de gravité vous rend maladroite. 
+
+------->  fatiguer~vite~plus{V~ADV~ADV|obj~mod~mod}		parce_que{CS|mod}		rendre~maladroit{V~ADJ|obj~ats}		Causation
+
+
+------->  fatiguer~vite~plus{V~ADV~ADV|obj~mod~mod}		parce_que{CS|mod}		rendre~maladroit{V~ADJ|obj~ats}		Evidence
+
+
+57|2125) « Parce_qu' il devient urgent de prendre en_compte l' environnement dans l' activité agricole» explique Iman Bahmani-Piaseczny, responsable de l' Agriculture d' ADEME en Picardie. 
+
+58|2185) - Parce_que, si je ne les reprends pas, les lutins vont perdre leurs couleurs et ils ne pourront plus faire d' arc-en-ciel. 
+

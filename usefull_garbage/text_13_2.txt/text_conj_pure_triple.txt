@@ -1,0 +1,156 @@
+1|101) Bon je m arrete là parce_que je pourrai y passer la nuit... 
+
+xxxxxxx>  arrete~m{V~NC|root~suj}		parce_que{CS|mod}		pouvoir{V|obj}		
+
+
+2|142) Dans le" tunnel", parce_que c' en est un( certains longs métrages mettent entre cinq à six ans avant_de débarquer sur les écrans... 
+
+3|213) Les couches très absorbantes utilisées pour la nuit mettent souvent plus de temps à sécher parce_qu' elles sont cousues dans des tissus très absorbants de manière à éviter les fuites une nuit entière. 
+
+xxxxxxx>  sécher{VINF|obj}		parce_que{CS|mod}		coudre{VPP|obj}		
+
+
+4|260) Parce_que dans ce cas-là, c' est plutôt tout le monde au lit et de bonne heure. 
+
+5|275) Heureusement qu' hier au boulot c' était journée calme, parce_que la j' ai l' impression d' avoir un poid enorme sur mon dos. 
+
+xxxxxxx>  être~journée{V~NC|root~obj}		parce_que{CS|mod}		avoir{V|obj}		
+
+
+6|293) " Parce_que le problème de la SemN INSA telle que les vieux la connaissaient, c' était aussi le manque de fréquentation insaïenne, et la désertion du campus qui suivait la semaine de partiels. 
+
+xxxxxxx>  être~manque{V~NC|root~obj}		parce_que{CS|mod}		connaître{V|obj}		
+
+
+7|448) 08/02: lolote1958- Un timbre français pour l' année .. 08/02: Chloé Clafou ..- Un timbre français pour l' année .. 08/02: dupengfei- Dominique le" lao" de r .. 08/02: chris- Chine 2008 nous voilà, bonne ann.. D'_où venez -vous? 
+
+xxxxxxx>  voilà~ann{V~NC|root~mod}		d'où{P|mod}		venir{V|obj}		
+
+
+8|480) Qui dit Pays du vent ça porte un tres bon nom parce_que a Konoha il fais tres chaud et las bas c' est tres bon pour faire de massage. 
+
+xxxxxxx>  porter~tre{V~NC|mod~obj}		parce_que{CS|mod}		avoir{V|obj}		
+
+
+9|481) Sangoten vut sa marque maudite s' alumer et il etais aubliger de s' asseoir parce_que sa marque etais allumer. 
+
+$$$$$$$>  etais{V|dep_coord}		parce_que{CS|mod}		etais{CC|obj}		
+
+
+10|619) Ainsi, ces indications se vérifient dans le nom de Montigny, soit comme le font les Archives de Cambrai, qu' on le situe" sur la croupe du coteau d'_où descend le riot dit de la Bruyère". 
+
+xxxxxxx>  situer{V|obj}		d'où{P|mod}		descendre{V|obj}		
+
+
+11|654) > Au_contraire, le retour bras tendu à l' horizontale a 2 inconvénients: 1) Le deltoïde( muscle de l' épaule, voir schéma) travaille d'_autant_plus_que le bras de levier est important. 
+
+xxxxxxx>  suivre~deltoïde{V~NC|root~mod}		d'autant_plus_que{CS|mod}		être{V|obj}		
+
+
+12|656) 2) D'_autre_part, le retour du bras tendu entraîne un déséquilibre compensé par le déplacement des jambes dans le sens opposé( voir schéma), d'_où une nage" en lacet". 
+
+------->  entraîner~déséquilibre{V~NC|root~obj}		d'où{P|mod}		nage{NC|obj}		
+
+
+13|863) Tout ça parce_qu' un jour j' ai acheté une boite de biscuits sablés qui avaient à peu près la même forme que ce petit personnage de Shrek. 
+
+xxxxxxx>  cela{PRO|root}		parce_que{CS|mod}		acheter{VPP|obj}		
+
+
+14|919) l' Araignée||mercredi 29 novembre 2006||23: 36 || Quotes || # 116 || rss Tant qu' à faire dans le racoleur, une petite quote de l' Arène de France, l' émission la plus classe du monde, ce soir:( Une dame du public, passablement enragée et visiblement révoltée contre le retrait abusif de points, s' adressant à- je suppose parce_que j' ai pas suivi- une défenseure de la sécurité routière):" Il vous reste combien de points sur votre permis, à vous, Madame? 
+
+xxxxxxx>  supposer~défenseure{V~NC|root~obj}		parce_que{CS|obj}		suivre{VPP|obj}		
+
+
+15|922) parce_que question tartine t' en rate pas une! 
+
+16|1066) Heidegger j' ai vraiment du mal, comme avec la_plupart des philosophes en fait parce_que je ne sais pas s' ils sont mal traduits en français mais je trouve que leurs oeuvres sont très mal écrites. 
+
+xxxxxxx>  avoir{V|root}		parce_que{CS|mod}		savoir{V|obj}		
+
+
+17|1151) Le pic 8 détermine la vibration dans le jeu piano et le son a tendance à baisser un_peu dans un crescendo parce_que le pic16 a là aussi une fréquence légèrement inférieure au double de celle du pic 8. 
+
+xxxxxxx>  avoir~tendance{V~NC|dep_coord~obj}		parce_que{CS|mod}		avoir{V|obj}		
+
+
+18|1190) Je ne le juge ni sur son physique, parce_que sinon voila quoi, ce mec à un pas' d' nez quand meme, ni sur ces actes car rien n' est prouvé et meme si c' était le cas, il reste quand meme à mes yeux un grand feseur de bonnes chanson ^^ Il chante bien, danse bien, je n' écoute pas particulirment ces albums du matin au soir, mais j' aime pas mal de ces chansons. 
+
+xxxxxxx>  juge{NC|mod}		parce_que{CS|mod}		voiler{V|obj}		
+
+
+19|1277) - TITRE: LA PRINCESSE ET LE CRAPAUD- Auteur: Marlène Jobert- Editeur: Atlas- Genre: Roman- Sujet: C' est une princesse qui promit à un crapaud de devenir son ami, parce_qu' il n' a pas hésité à aller rechercher sa balle en or dans l' étang mais elle ne tient pas sa promesse. 
+
+xxxxxxx>  être~princesse{V~NC|root~ats}		parce_que{CS|ats}		hésiter{VPP|obj}		
+
+
+20|1292) - Avis: Mon avis sur le livre c' est que les enfants ont raison de prendre des Tom Tom et Nana parce_qu' il_y_a des gags. 
+
+$$$$$$$>  et{CC|coord}		parce_que{CS|dep_coord}		il_y_a{V|obj}		
+
+
+21|1298) - Avis: J' ai bien aimé parce_qu' il a des araignées et de choses dégoûtantes. 
+
+xxxxxxx>  aimer{VPP|root}		parce_que{CS|mod}		avoir{V|obj}		
+
+
+22|1325) Modèle présenté sur cette page en version tout électrique, existe aussi en électrique + ventilo, ou, mixte élec+chauffage central( modèles visibles dans la catégorie correpondante sur notre site) .Chaque salle de bains peut avoir son DORIS, parce_qu' il est la rencontre de la fiabilité et de l' esthétique. 
+
+xxxxxxx>  exister~salle{V~NC|root~obj}		parce_que{CS|mod}		être{V|obj}		
+
+
+23|1447) Pour moi les barres au sol est un exercice à part entière, mobilisant déjà suffisement le cheval, si tu y ajoute le pessoa( qui demande beaucoup d' efforts au cheval) je trouve ça" to much" aprés je ne suis pas une pro des ficelles _________________ Super Moderator Powaaa( parce_qu' il faut po pousser Mémé dans les orties) http://asidemaestro.canalblog.com http://www.belgium-amazone.com La sagesse, c' est d' avoir des rêves suffisament grands pour ne_pas les perdre de vue lorsqu' on les poursuit. 
+
+xxxxxxx>  être~exercice{V~NC|root~ats}		parce_que{CS|mod}		falloir{V|obj}		
+
+
+24|1451) Merci beaucoup Ptitesirene Admin Age: 30 Inscrit le: 30 Déc 2006 Messages: 2080 Localisation: Cestas( 33) Sujet: Re: Enrenement pessoa Mar 11 Sep- 10: 31 Bah les questions c' est fait pour être posées Aprés il_y_a tellement d' avsi que c' est à toi de faire ta cuisine _________________ Super Moderator Powaaa( parce_qu' il faut po pousser Mémé dans les orties) http://asidemaestro.canalblog.com http://www.belgium-amazone.com La sagesse, c' est d' avoir des rêves suffisament grands pour ne_pas les perdre de vue lorsqu' on les poursuit. 
+
+xxxxxxx>  pessoa~merci{V~NC|root~mod}		parce_que{CS|mod}		falloir{V|obj}		
+
+
+25|1463) Le pessoa a été beaucoup décrié parce_que mis entre toutes les mains( et surtout les peu expertes) il fait des dégats. 
+
+xxxxxxx>  décrier{VPP|mod}		parce_que{CS|mod}		mettre{VPP|obj}		
+
+
+26|1509) si vous pouvez regardez les en V.O. parce_qu' on n' est pas gâtés côté traduction... 
+
+xxxxxxx>  le{DET|root}		parce_que{CS|ats}		gâter{VPP|obj}		
+
+
+27|1650) Ceci n' est pas très surprenant dans_la_mesure_où il_y_a déjà surabondance des saumons d' élevage au niveau mondial. 
+
+xxxxxxx>  être~surprenant{V~ADJ|root~ats}		dans_la_mesure_où{CS|mod}		il_y_a{P|obj}		
+
+
+28|1762) Un jour rien que parce_que j' avais des lunettes de soleil il a mis au_moins 5 minutes avant_de me reconnaitre non sans_que je lui ai répété 5 ou 6 fois que j' étais une employée. 
+
+29|1978) D'_où de grandes chances d' arriver à la convaincre de passer une après-midi en famille et entre passionnés. 
+
+30|2006) Ben moi le coup de gueule nature sera juste de raler contre tous ces cons qui veulent te faire bouffer de l' écolo et sans tact, genre je suis militant bio parce_que je le vaux bien... 
+
+------->  être~juste{V~ADJ|root~ats}		parce_que{CS|mod}		val{NC|obj}		
+
+
+31|2009) Moi j' aime bien quand tu rales contre les cons et je me dis que tu as grave du courage, parce_qu' il_y_a du boulot. 
+
+xxxxxxx>  aimer{V|root}		parce_que{CS|mod}		il_y_a{V|obj}		
+
+
+32|2010) parce_que si tu comptes manger ma cuisine, tu risques d' avoir faim longtemps... 
+
+33|2064) Non_seulement parce_que vous vous fatiguez plus vite mais aussi parce_que le déplacement de votre centre de gravité vous rend maladroite. 
+
+xxxxxxx>  fatiguer{V|obj}		parce_que{CS|mod}		rendre{V|obj}		
+
+
+34|2064) Non_seulement parce_que vous vous fatiguez plus vite mais aussi parce_que le déplacement de votre centre de gravité vous rend maladroite. 
+
+xxxxxxx>  fatiguer{V|obj}		parce_que{CS|mod}		rendre{V|obj}		
+
+
+35|2259) « Parce_qu' il devient urgent de prendre en_compte l' environnement dans l' activité agricole» explique Iman Bahmani-Piaseczny, responsable de l' Agriculture d' ADEME en Picardie. 
+
+36|2315) - Parce_que, si je ne les reprends pas, les lutins vont perdre leurs couleurs et ils ne pourront plus faire d' arc-en-ciel. 
+

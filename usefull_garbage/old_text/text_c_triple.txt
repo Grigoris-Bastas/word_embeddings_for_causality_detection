@@ -1,0 +1,658 @@
+1|48) xxxxxxx>  si~pas{CS~ADV|mod~mod}		car{CC|coord}		être~par_exemple{V~ADV|dep_coord~mod}		Causation
+
+
+xxxxxxx>  si~pas{CS~ADV|mod~mod}		car{CC|coord}		être~par_exemple{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+xxxxxxx>  si~pas{CS~ADV|mod~mod}		car{CC|coord}		être~par_exemple{V~ADV|dep_coord~mod}		Evidence
+
+
+2|87) ------->  trouver{V|root}		car{CC|coord}		trouver~déjà{V~ADV|dep_coord~mod}		Causation
+
+
+------->  trouver{V|root}		car{CC|coord}		trouver~déjà{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  trouver{V|root}		car{CC|coord}		trouver~déjà{V~ADV|dep_coord~mod}		Evidence
+
+
+3|106) ------->  dizaine~amener~immigré{NC~VPP~NC|suj~root~mod}		car{CC|coord}		incendie~déclarer{NC~VPP|suj~dep_coord}		Causation
+
+
+------->  dizaine~amener~immigré{NC~VPP~NC|suj~root~mod}		car{CC|coord}		incendie~déclarer{NC~VPP|suj~dep_coord}		FR_Cause_enunciation
+
+
+------->  dizaine~amener~immigré{NC~VPP~NC|suj~root~mod}		car{CC|coord}		incendie~déclarer{NC~VPP|suj~dep_coord}		Evidence
+
+
+4|180) ------->  produit~être~dernier{NC~V~ADJ|suj~root~mod}		car{CC|coord}		attaquer~élastique{V~NC|dep_coord~obj}		Causation
+
+
+------->  produit~être~dernier{NC~V~ADJ|suj~root~mod}		car{CC|coord}		attaquer~élastique{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  produit~être~dernier{NC~V~ADJ|suj~root~mod}		car{CC|coord}		attaquer~élastique{V~NC|dep_coord~obj}		Evidence
+
+
+5|199) ------->  avoir~durée{V~NC|root~obj}		car{CC|coord}		confectionner~pas{VPP~ADV|dep_coord~mod}		Causation
+
+
+------->  avoir~durée{V~NC|root~obj}		car{CC|coord}		confectionner~pas{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  avoir~durée{V~NC|root~obj}		car{CC|coord}		confectionner~pas{VPP~ADV|dep_coord~mod}		Evidence
+
+
+6|226) ------->  être~voiture~confortable{V~NC~ADJ|root~ats~mod}		car{CC|coord}		priser~moins{VPP~ADV|dep_coord~mod}		Causation
+
+
+------->  être~voiture~confortable{V~NC~ADJ|root~ats~mod}		car{CC|coord}		priser~moins{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  être~voiture~confortable{V~NC~ADJ|root~ats~mod}		car{CC|coord}		priser~moins{VPP~ADV|dep_coord~mod}		Evidence
+
+
+7|266) ------->  avoir~séance{VPP~NC|mod~obj}		car{CC|coord}		avoir~douleur{V~NC|dep_coord~obj}		Causation
+
+
+------->  avoir~séance{VPP~NC|mod~obj}		car{CC|coord}		avoir~douleur{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  avoir~séance{VPP~NC|mod~obj}		car{CC|coord}		avoir~douleur{V~NC|dep_coord~obj}		Evidence
+
+
+8|305) ------->  communication{NC|suj}		car{CC|coord}		taille{NC|dep_coord}		Causation
+
+
+------->  communication{NC|suj}		car{CC|coord}		taille{NC|dep_coord}		FR_Cause_enunciation
+
+
+------->  communication{NC|suj}		car{CC|coord}		taille{NC|dep_coord}		Evidence
+
+
+9|309) ------->  hésiter~pas{V~ADV|root~mod}		car{CC|coord}		falloir~croire{V~VINF|dep_coord~obj}		Causation
+
+
+------->  hésiter~pas{V~ADV|root~mod}		car{CC|coord}		falloir~croire{V~VINF|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  hésiter~pas{V~ADV|root~mod}		car{CC|coord}		falloir~croire{V~VINF|dep_coord~obj}		Evidence
+
+
+10|312) ------->  penser{V|root}		car{CC|coord}		décider~pas{VPP~ADV|dep_coord~mod}		Causation
+
+
+------->  penser{V|root}		car{CC|coord}		décider~pas{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  penser{V|root}		car{CC|coord}		décider~pas{VPP~ADV|dep_coord~mod}		Evidence
+
+
+11|371) 12|383) 13|390) ------->  comptes{NC|root}		car{CC|coord}		sortie{NC|dep_coord}		Causation
+
+
+------->  comptes{NC|root}		car{CC|coord}		sortie{NC|dep_coord}		FR_Cause_enunciation
+
+
+------->  comptes{NC|root}		car{CC|coord}		sortie{NC|dep_coord}		Evidence
+
+
+14|407) ------->  varier~dur~plus{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		former~fortement{V~ADV|dep_coord~mod}		Causation
+
+
+------->  varier~dur~plus{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		former~fortement{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  varier~dur~plus{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		former~fortement{V~ADV|dep_coord~mod}		Evidence
+
+
+15|409) ------->  être~ex.{V~ADV|root~mod}		car{CC|coord}		être~ex.{V~ADV|dep_coord~mod}		Causation
+
+
+------->  être~ex.{V~ADV|root~mod}		car{CC|coord}		être~ex.{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  être~ex.{V~ADV|root~mod}		car{CC|coord}		être~ex.{V~ADV|dep_coord~mod}		Evidence
+
+
+------->  être~ex.{V~ADV|dep_coord~mod}		car{CC|coord}		suivre~mouvement{V~NC|dep_coord~obj}		Causation
+
+
+------->  être~ex.{V~ADV|dep_coord~mod}		car{CC|coord}		suivre~mouvement{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  être~ex.{V~ADV|dep_coord~mod}		car{CC|coord}		suivre~mouvement{V~NC|dep_coord~obj}		Evidence
+
+
+16|470) ------->  aller~pouvoir~construire{V~VINF~VINF|root~obj~obj}		car{CC|coord}		parler{VPP|dep_coord}		Causation
+
+
+------->  aller~pouvoir~construire{V~VINF~VINF|root~obj~obj}		car{CC|coord}		parler{VPP|dep_coord}		FR_Cause_enunciation
+
+
+------->  aller~pouvoir~construire{V~VINF~VINF|root~obj~obj}		car{CC|coord}		parler{VPP|dep_coord}		Evidence
+
+
+17|531) ------->  construire~repère{VINF~NC|suj~obj}		car{CC|coord}		information{NC|dep_coord}		Causation
+
+
+------->  construire~repère{VINF~NC|suj~obj}		car{CC|coord}		information{NC|dep_coord}		FR_Cause_enunciation
+
+
+------->  construire~repère{VINF~NC|suj~obj}		car{CC|coord}		information{NC|dep_coord}		Evidence
+
+
+18|562) ------->  acheter~pas{V~ADV|obj~mod}		car{CC|coord}		être~preuve{V~NC|dep_coord~ats}		Causation
+
+
+------->  acheter~pas{V~ADV|obj~mod}		car{CC|coord}		être~preuve{V~NC|dep_coord~ats}		FR_Cause_enunciation
+
+
+------->  acheter~pas{V~ADV|obj~mod}		car{CC|coord}		être~preuve{V~NC|dep_coord~ats}		Evidence
+
+
+19|593) ------->  vouloir~GTI{V~NC|obj~obj}		car{CC|coord}		être~secondaire{V~ADJ|dep_coord~ats}		Causation
+
+
+------->  vouloir~GTI{V~NC|obj~obj}		car{CC|coord}		être~secondaire{V~ADJ|dep_coord~ats}		FR_Cause_enunciation
+
+
+------->  vouloir~GTI{V~NC|obj~obj}		car{CC|coord}		être~secondaire{V~ADJ|dep_coord~ats}		Evidence
+
+
+20|628) ------->  peur~avoir{NC~V|suj~mod_rel}		car{CC|coord}		reprocher~mort{V~NC|dep_coord~obj}		Causation
+
+
+------->  peur~avoir{NC~V|suj~mod_rel}		car{CC|coord}		reprocher~mort{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  peur~avoir{NC~V|suj~mod_rel}		car{CC|coord}		reprocher~mort{V~NC|dep_coord~obj}		Evidence
+
+
+21|632) ------->  reprendre{V|dep_coord}		car{CC|coord}		avoir~mal{V~NC|dep_coord~obj}		Causation
+
+
+------->  reprendre{V|dep_coord}		car{CC|coord}		avoir~mal{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  reprendre{V|dep_coord}		car{CC|coord}		avoir~mal{V~NC|dep_coord~obj}		Evidence
+
+
+22|634) ------->  passer{V|obj}		car{CC|coord}		posséder~droit{V~NC|dep_coord~obj}		Causation
+
+
+------->  passer{V|obj}		car{CC|coord}		posséder~droit{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  passer{V|obj}		car{CC|coord}		posséder~droit{V~NC|dep_coord~obj}		Evidence
+
+
+23|638) ------->  dire{VPP|mod}		car{CC|coord}		cooper~producter{VINF~NC|dep_coord~mod}		Causation
+
+
+------->  dire{VPP|mod}		car{CC|coord}		cooper~producter{VINF~NC|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  dire{VPP|mod}		car{CC|coord}		cooper~producter{VINF~NC|dep_coord~mod}		Evidence
+
+
+24|699) ------->  apparaître~partenaire{VINF~NC|obj~obj}		car{CC|coord}		prévoir{V|dep_coord}		Causation
+
+
+------->  apparaître~partenaire{VINF~NC|obj~obj}		car{CC|coord}		prévoir{V|dep_coord}		FR_Cause_enunciation
+
+
+------->  apparaître~partenaire{VINF~NC|obj~obj}		car{CC|coord}		prévoir{V|dep_coord}		Evidence
+
+
+25|729) 26|772) xxxxxxx>  avoir{V|dep_coord}		car{CC|coord}		,{PONCT|ponct}		Causation
+
+
+------->  avoir{V|dep_coord}		car{CC|coord}		essayer{VPP|dep_coord}		Causation
+
+
+xxxxxxx>  avoir{V|dep_coord}		car{CC|coord}		,{PONCT|ponct}		FR_Cause_enunciation
+
+
+------->  avoir{V|dep_coord}		car{CC|coord}		essayer{VPP|dep_coord}		FR_Cause_enunciation
+
+
+xxxxxxx>  avoir{V|dep_coord}		car{CC|coord}		,{PONCT|ponct}		Evidence
+
+
+------->  avoir{V|dep_coord}		car{CC|coord}		essayer{VPP|dep_coord}		Evidence
+
+
+27|774) ------->  acheter~une_fois~que{VPP~ADV~ADV|root~mod~mod}		car{CC|coord}		retrouver~jamais{VPP~ADV|dep_coord~mod}		Causation
+
+
+------->  acheter~une_fois~que{VPP~ADV~ADV|root~mod~mod}		car{CC|coord}		retrouver~jamais{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  acheter~une_fois~que{VPP~ADV~ADV|root~mod~mod}		car{CC|coord}		retrouver~jamais{VPP~ADV|dep_coord~mod}		Evidence
+
+
+28|792) 29|816) ------->  devoir~avoir~role{V~VINF~NC|obj~obj~obj}		car{CC|coord}		être~toujours{V~ADV|dep_coord~mod}		Causation
+
+
+------->  devoir~avoir~role{V~VINF~NC|obj~obj~obj}		car{CC|coord}		être~toujours{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  devoir~avoir~role{V~VINF~NC|obj~obj~obj}		car{CC|coord}		être~toujours{V~ADV|dep_coord~mod}		Evidence
+
+
+30|925) xxxxxxx>  avoir~dommage{V~NC|root~mod}		car{CC|coord}		,{PONCT|ponct}		Causation
+
+
+xxxxxxx>  avoir~dommage{V~NC|root~mod}		car{CC|coord}		,{PONCT|ponct}		FR_Cause_enunciation
+
+
+xxxxxxx>  avoir~dommage{V~NC|root~mod}		car{CC|coord}		,{PONCT|ponct}		Evidence
+
+
+31|991) ------->  prendre~agenda{V~NC|root~obj}		car{CC|coord}		organiser~soirée{V~NC|dep_coord~obj}		Causation
+
+
+------->  prendre~agenda{V~NC|root~obj}		car{CC|coord}		organiser~soirée{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  prendre~agenda{V~NC|root~obj}		car{CC|coord}		organiser~soirée{V~NC|dep_coord~obj}		Evidence
+
+
+32|1036) ------->  tendance~général{NC~ADJ|obj~mod}		car{CC|coord}		requête~volumineux{NC~ADJ|dep_coord~mod}		Causation
+
+
+------->  tendance~général{NC~ADJ|obj~mod}		car{CC|coord}		requête~volumineux{NC~ADJ|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  tendance~général{NC~ADJ|obj~mod}		car{CC|coord}		requête~volumineux{NC~ADJ|dep_coord~mod}		Evidence
+
+
+33|1073) ------->  recommander{VPP|root}		car{CC|coord}		organiser~mouvement{V~NC|dep_coord~obj}		Causation
+
+
+------->  recommander{VPP|root}		car{CC|coord}		organiser~mouvement{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  recommander{VPP|root}		car{CC|coord}		organiser~mouvement{V~NC|dep_coord~obj}		Evidence
+
+
+34|1087) ------->  être~étonnant{V~ADJ|root~ats}		car{CC|coord}		offrir~caractère{V~NC|dep_coord~obj}		Causation
+
+
+------->  être~étonnant{V~ADJ|root~ats}		car{CC|coord}		offrir~caractère{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  être~étonnant{V~ADJ|root~ats}		car{CC|coord}		offrir~caractère{V~NC|dep_coord~obj}		Evidence
+
+
+35|1094) ------->  mec{NC|suj}		car{CC|coord}		prouver~ne{VPP~ADV|dep_coord~mod}		Causation
+
+
+------->  mec{NC|suj}		car{CC|coord}		prouver~ne{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  mec{NC|suj}		car{CC|coord}		prouver~ne{VPP~ADV|dep_coord~mod}		Evidence
+
+
+36|1095) ------->  sujet~15{NC~ADJ|root~mod}		car{CC|coord}		occuper~trop{V~ADV|dep_coord~mod}		Causation
+
+
+------->  sujet~15{NC~ADJ|root~mod}		car{CC|coord}		occuper~trop{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  sujet~15{NC~ADJ|root~mod}		car{CC|coord}		occuper~trop{V~ADV|dep_coord~mod}		Evidence
+
+
+37|1170) ------->  constituer~garantie~meilleur{V~NC~ADJ|root~obj~mod}		car{CC|coord}		être~condition{V~NC|dep_coord~ats}		Causation
+
+
+------->  constituer~garantie~meilleur{V~NC~ADJ|root~obj~mod}		car{CC|coord}		être~condition{V~NC|dep_coord~ats}		FR_Cause_enunciation
+
+
+------->  constituer~garantie~meilleur{V~NC~ADJ|root~obj~mod}		car{CC|coord}		être~condition{V~NC|dep_coord~ats}		Evidence
+
+
+38|1181) ------->  être~facile{V~ADJ|root~ats}		car{CC|coord}		convenir{V|dep_coord}		Causation
+
+
+------->  être~facile{V~ADJ|root~ats}		car{CC|coord}		convenir{V|dep_coord}		FR_Cause_enunciation
+
+
+------->  être~facile{V~ADJ|root~ats}		car{CC|coord}		convenir{V|dep_coord}		Evidence
+
+
+39|1193) ------->  être~histoire{V~NC|mod~ats}		car{CC|coord}		faire~peur{V~NC|dep_coord~obj}		Causation
+
+
+------->  être~histoire{V~NC|mod~ats}		car{CC|coord}		faire~peur{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  être~histoire{V~NC|mod~ats}		car{CC|coord}		faire~peur{V~NC|dep_coord~obj}		Evidence
+
+
+40|1197) ------->  être~intéressant~très{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		il_y_a{V|dep_coord}		Causation
+
+
+------->  être~intéressant~très{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		il_y_a{V|dep_coord}		FR_Cause_enunciation
+
+
+------->  être~intéressant~très{V~ADJ~ADV|root~ats~mod}		car{CC|coord}		il_y_a{V|dep_coord}		Evidence
+
+
+41|1198) ------->  rajeunir~trop{V~ADV|dep_coord~mod}		car{CC|coord}		redevenir~bébé{VPP~NC|dep_coord~obj}		Causation
+
+
+------->  rajeunir~trop{V~ADV|dep_coord~mod}		car{CC|coord}		redevenir~bébé{VPP~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  rajeunir~trop{V~ADV|dep_coord~mod}		car{CC|coord}		redevenir~bébé{VPP~NC|dep_coord~obj}		Evidence
+
+
+42|1200) ------->  être~bien~très{V~ADV~ADV|root~mod~mod}		car{CC|coord}		aimer~bébé{V~NC|dep_coord~obj}		Causation
+
+
+------->  être~bien~très{V~ADV~ADV|root~mod~mod}		car{CC|coord}		aimer~bébé{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  être~bien~très{V~ADV~ADV|root~mod~mod}		car{CC|coord}		aimer~bébé{V~NC|dep_coord~obj}		Evidence
+
+
+43|1205) ------->  chasse{NC|obj}		car{CC|coord}		kortal{NC|dep_coord}		Causation
+
+
+------->  chasse{NC|obj}		car{CC|coord}		kortal{NC|dep_coord}		FR_Cause_enunciation
+
+
+------->  chasse{NC|obj}		car{CC|coord}		kortal{NC|dep_coord}		Evidence
+
+
+44|1206) 45|1207) ------->  falloir~remettre~en_question{V~VINF~ADV|mod~obj~mod}		car{CC|coord}		tester~toujours{V~ADV|dep_coord~mod}		Causation
+
+
+------->  falloir~remettre~en_question{V~VINF~ADV|mod~obj~mod}		car{CC|coord}		tester~toujours{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  falloir~remettre~en_question{V~VINF~ADV|mod~obj~mod}		car{CC|coord}		tester~toujours{V~ADV|dep_coord~mod}		Evidence
+
+
+46|1211) ------->  avoir~inscrit~localisation{V~NC~NC|root~obj~mod}		car{CC|coord}		prendre~toujour{V~ADV|dep_coord~mod}		Causation
+
+
+------->  avoir~inscrit~localisation{V~NC~NC|root~obj~mod}		car{CC|coord}		prendre~toujour{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  avoir~inscrit~localisation{V~NC~NC|root~obj~mod}		car{CC|coord}		prendre~toujour{V~ADV|dep_coord~mod}		Evidence
+
+
+47|1219) ------->  avoir~ne{V~ADV|aux_pass~mod}		car{CC|coord}		fonctionner~pas{V~ADV|dep_coord~mod}		Causation
+
+
+------->  avoir~ne{V~ADV|aux_pass~mod}		car{CC|coord}		fonctionner~pas{V~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  avoir~ne{V~ADV|aux_pass~mod}		car{CC|coord}		fonctionner~pas{V~ADV|dep_coord~mod}		Evidence
+
+
+48|1293) ------->  marrer~bien{V~ADV|mod_rel~mod}		car{CC|coord}		déjouer~piège{VPP~NC|dep_coord~obj}		Causation
+
+
+------->  marrer~bien{V~ADV|mod_rel~mod}		car{CC|coord}		déjouer~piège{VPP~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  marrer~bien{V~ADV|mod_rel~mod}		car{CC|coord}		déjouer~piège{VPP~NC|dep_coord~obj}		Evidence
+
+
+49|1340) ------->  être~surtout{V~ADV|mod~mod}		car{CC|coord}		perdre~serieusement{VPP~ADV|dep_coord~mod}		Causation
+
+
+------->  être~surtout{V~ADV|mod~mod}		car{CC|coord}		perdre~serieusement{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  être~surtout{V~ADV|mod~mod}		car{CC|coord}		perdre~serieusement{VPP~ADV|dep_coord~mod}		Evidence
+
+
+50|1341) ------->  dire{V|obj}		car{CC|coord}		être~forcement{V~NC|dep_coord~ats}		Causation
+
+
+------->  dire{V|obj}		car{CC|coord}		être~forcement{V~NC|dep_coord~ats}		FR_Cause_enunciation
+
+
+------->  dire{V|obj}		car{CC|coord}		être~forcement{V~NC|dep_coord~ats}		Evidence
+
+
+51|1401) ------->  mettre{VPP|root}		car{CC|coord}		correspondre~voiture{V~NC|dep_coord~obj}		Causation
+
+
+------->  mettre{VPP|root}		car{CC|coord}		correspondre~voiture{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  mettre{VPP|root}		car{CC|coord}		correspondre~voiture{V~NC|dep_coord~obj}		Evidence
+
+
+52|1411) xxxxxxx>  sur~voyage{P~NC|dep~obj}		car{CC|coord}		pour~ès{P~NC|dep_coord~obj}		Causation
+
+
+xxxxxxx>  sur~voyage{P~NC|dep~obj}		car{CC|coord}		pour~ès{P~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+xxxxxxx>  sur~voyage{P~NC|dep~obj}		car{CC|coord}		pour~ès{P~NC|dep_coord~obj}		Evidence
+
+
+53|1428) 54|1430) ------->  décevoir~client{V~NC|root~obj}		car{CC|coord}		faire~impasse{V~NC|dep_coord~obj}		Causation
+
+
+------->  décevoir~client{V~NC|root~obj}		car{CC|coord}		faire~impasse{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  décevoir~client{V~NC|root~obj}		car{CC|coord}		faire~impasse{V~NC|dep_coord~obj}		Evidence
+
+
+55|1437) ------->  remarquer~important{V~ADJ|root~ats}		car{CC|coord}		représenter~détail{V~NC|dep_coord~obj}		Causation
+
+
+------->  remarquer~important{V~ADJ|root~ats}		car{CC|coord}		représenter~détail{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  remarquer~important{V~ADJ|root~ats}		car{CC|coord}		représenter~détail{V~NC|dep_coord~obj}		Evidence
+
+
+56|1461) ------->  soir{NC|root}		car{CC|coord}		travailler{V|dep_coord}		Causation
+
+
+------->  soir{NC|root}		car{CC|coord}		travailler{V|dep_coord}		FR_Cause_enunciation
+
+
+------->  soir{NC|root}		car{CC|coord}		travailler{V|dep_coord}		Evidence
+
+
+57|1510) ------->  machine~vendre{NC~V|suj~root}		car{CC|coord}		allier~technologie{V~NC|dep_coord~obj}		Causation
+
+
+------->  machine~vendre{NC~V|suj~root}		car{CC|coord}		allier~technologie{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  machine~vendre{NC~V|suj~root}		car{CC|coord}		allier~technologie{V~NC|dep_coord~obj}		Evidence
+
+
+58|1518) ------->  homme~proposer{NC~V|suj~root}		car{CC|coord}		améliorer~pas{VPP~ADV|dep_coord~mod}		Causation
+
+
+------->  homme~proposer{NC~V|suj~root}		car{CC|coord}		améliorer~pas{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  homme~proposer{NC~V|suj~root}		car{CC|coord}		améliorer~pas{VPP~ADV|dep_coord~mod}		Evidence
+
+
+59|1519) ------->  être~serein{V~ADJ|root~ats}		car{CC|coord}		relation~stabiliser{NC~VPP|suj~dep_coord}		Causation
+
+
+------->  être~serein{V~ADJ|root~ats}		car{CC|coord}		relation~stabiliser{NC~VPP|suj~dep_coord}		FR_Cause_enunciation
+
+
+------->  être~serein{V~ADJ|root~ats}		car{CC|coord}		relation~stabiliser{NC~VPP|suj~dep_coord}		Evidence
+
+
+60|1638) ------->  être~carte{V~NC|mod~ats}		car{CC|coord}		sentir~malgache{V~NC|dep_coord~obj}		Causation
+
+
+------->  être~carte{V~NC|mod~ats}		car{CC|coord}		sentir~malgache{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  être~carte{V~NC|mod~ats}		car{CC|coord}		sentir~malgache{V~NC|dep_coord~obj}		Evidence
+
+
+61|1647) ------->  avoir~temps{V~NC|obj~obj}		car{CC|coord}		récupérer~voiture{V~NC|dep_coord~obj}		Causation
+
+
+------->  avoir~temps{V~NC|obj~obj}		car{CC|coord}		récupérer~voiture{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  avoir~temps{V~NC|obj~obj}		car{CC|coord}		récupérer~voiture{V~NC|dep_coord~obj}		Evidence
+
+
+62|1766) xxxxxxx>  à~demare{P+D~ADV|mod~mod}		car{CC|coord}		de~tour{P~NC|dep_coord~obj}		Causation
+
+
+xxxxxxx>  à~demare{P+D~ADV|mod~mod}		car{CC|coord}		de~tour{P~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+xxxxxxx>  à~demare{P+D~ADV|mod~mod}		car{CC|coord}		de~tour{P~NC|dep_coord~obj}		Evidence
+
+
+xxxxxxx>  rouler{VINF|obj}		car{CC|coord}		...{PONCT|ponct}		Causation
+
+
+xxxxxxx>  rouler{VINF|obj}		car{CC|coord}		...{PONCT|ponct}		FR_Cause_enunciation
+
+
+xxxxxxx>  rouler{VINF|obj}		car{CC|coord}		...{PONCT|ponct}		Evidence
+
+
+63|1788) ------->  être~efficace{V~ADJ|root~ats}		car{CC|coord}		inhiber~metalloproteinase{V~NC|dep_coord~obj}		Causation
+
+
+------->  être~efficace{V~ADJ|root~ats}		car{CC|coord}		inhiber~metalloproteinase{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  être~efficace{V~ADJ|root~ats}		car{CC|coord}		inhiber~metalloproteinase{V~NC|dep_coord~obj}		Evidence
+
+
+64|1809) ------->  sembler~donc{V~ADV|root~mod}		car{CC|coord}		parasiter~pas{VPP~ADV|dep_coord~mod}		Causation
+
+
+------->  sembler~donc{V~ADV|root~mod}		car{CC|coord}		parasiter~pas{VPP~ADV|dep_coord~mod}		FR_Cause_enunciation
+
+
+------->  sembler~donc{V~ADV|root~mod}		car{CC|coord}		parasiter~pas{VPP~ADV|dep_coord~mod}		Evidence
+
+
+65|1870) ------->  sembler~jouable{V~ADJ|root~ats}		car{CC|coord}		sembler~apprécier{V~VINF|dep_coord~ats}		Causation
+
+
+------->  sembler~jouable{V~ADJ|root~ats}		car{CC|coord}		sembler~apprécier{V~VINF|dep_coord~ats}		FR_Cause_enunciation
+
+
+------->  sembler~jouable{V~ADJ|root~ats}		car{CC|coord}		sembler~apprécier{V~VINF|dep_coord~ats}		Evidence
+
+
+66|1890) xxxxxxx>  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		même{ADV|mod}		Causation
+
+
+------->  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		taire~aura{VPP~NC|dep_coord~mod}		Causation
+
+
+xxxxxxx>  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		même{ADV|mod}		FR_Cause_enunciation
+
+
+------->  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		taire~aura{VPP~NC|dep_coord~mod}		FR_Cause_enunciation
+
+
+xxxxxxx>  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		même{ADV|mod}		Evidence
+
+
+------->  remercier~bon~enfin{V~ADJ~ADV|root~mod~mod}		car{CC|coord}		taire~aura{VPP~NC|dep_coord~mod}		Evidence
+
+
+67|1918) 68|1925) ------->  suivre~confirmer{V~VPP|root~obj}		car{CC|coord}		être~voir{V~VINF|dep_coord~obj}		Causation
+
+
+------->  suivre~confirmer{V~VPP|root~obj}		car{CC|coord}		être~voir{V~VINF|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  suivre~confirmer{V~VPP|root~obj}		car{CC|coord}		être~voir{V~VINF|dep_coord~obj}		Evidence
+
+
+69|1927) ------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		Causation
+
+
+------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		Evidence
+
+
+70|1947) ------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		Causation
+
+
+------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  parler~plus_tard{V~ADV|dep_coord~mod}		car{CC|coord}		aimer~dire{V~VINF|dep_coord~obj}		Evidence
+
+
+71|1973) ------->  conseiller{V|root}		car{CC|coord}		apprendre~base{V~NC|dep_coord~obj}		Causation
+
+
+------->  conseiller{V|root}		car{CC|coord}		apprendre~base{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  conseiller{V|root}		car{CC|coord}		apprendre~base{V~NC|dep_coord~obj}		Evidence
+
+
+72|2007) xxxxxxx>  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		c'est{ADV|mod}		Causation
+
+
+------->  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		arme~seul{NC~ADJ|dep_coord~mod}		Causation
+
+
+xxxxxxx>  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		c'est{ADV|mod}		FR_Cause_enunciation
+
+
+------->  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		arme~seul{NC~ADJ|dep_coord~mod}		FR_Cause_enunciation
+
+
+xxxxxxx>  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		c'est{ADV|mod}		Evidence
+
+
+------->  barrage~lever~économique{NC~VPP~ADJ|suj~root~mod}		car{CC|coord}		arme~seul{NC~ADJ|dep_coord~mod}		Evidence
+
+
+73|2067) ------->  devoir~retenir~attention{V~VINF~NC|root~obj~obj}		car{CC|coord}		prendre~utilisation{V~NC|dep_coord~obj}		Causation
+
+
+------->  devoir~retenir~attention{V~VINF~NC|root~obj~obj}		car{CC|coord}		prendre~utilisation{V~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  devoir~retenir~attention{V~VINF~NC|root~obj~obj}		car{CC|coord}		prendre~utilisation{V~NC|dep_coord~obj}		Evidence
+
+
+74|2113) ------->  général{NC|root}		car{CC|coord}		avoir~occasion{VPP~NC|dep_coord~obj}		Causation
+
+
+------->  général{NC|root}		car{CC|coord}		avoir~occasion{VPP~NC|dep_coord~obj}		FR_Cause_enunciation
+
+
+------->  général{NC|root}		car{CC|coord}		avoir~occasion{VPP~NC|dep_coord~obj}		Evidence
+
+
+75|2129) 76|2182) ------->  vouloir~aider{V~VINF|dep_coord~obj}		car{CC|coord}		trouver{V|dep_coord}		Causation
+
+
+------->  vouloir~aider{V~VINF|dep_coord~obj}		car{CC|coord}		trouver{V|dep_coord}		FR_Cause_enunciation
+
+
+------->  vouloir~aider{V~VINF|dep_coord~obj}		car{CC|coord}		trouver{V|dep_coord}		Evidence
+
+
+77|2186) 

@@ -1,0 +1,182 @@
+1|50)
+------->  si{CS|mod}                    car{CC|coord}                 être{V|dep_coord}            
+2|99)
+------->  trouver{V|root}               car{CC|coord}                 trouver{V|dep_coord}          
+3|114)
+------->  amener{VPP|root}              car{CC|coord}                 déclarer{VPP|dep_coord}      
+4|200)
+------->  être{V|root}                 car{CC|coord}                 attaquer{V|dep_coord}         
+5|218)
+------->  avoir{V|root}                 car{CC|coord}                 confectionner{VPP|dep_coord}  
+6|242)
+------->  être{V|root}                 car{CC|coord}                 priser{VPP|dep_coord}         
+7|283)
+------->  avoir{VPP|mod}                car{CC|coord}                 avoir{V|dep_coord}            
+8|326)
+------->  communication{NC|suj}         car{CC|coord}                 taille{NC|dep_coord}          
+9|329)
+------->  hésiter{V|root}              car{CC|coord}                 falloir{V|dep_coord}          
+10|335)
+------->  penser{V|root}                car{CC|coord}                 décider{VPP|dep_coord}       
+11|420)
+12|432)
+13|443)
+------->  comptes{NC|root}              car{CC|coord}                 sortie{NC|dep_coord}          
+14|470)
+------->  varier{V|root}                car{CC|coord}                 former{V|dep_coord}           
+15|476)
+------->  être{V|root}                 car{CC|coord}                 être{V|dep_coord}            
+------->  être{V|dep_coord}            car{CC|coord}                 suivre{V|dep_coord}           
+16|476)
+------->  être{V|root}                 car{CC|coord}                 être{V|dep_coord}            
+------->  être{V|dep_coord}            car{CC|coord}                 suivre{V|dep_coord}           
+17|543)
+------->  aller{V|root}                 car{CC|coord}                 parler{VPP|dep_coord}         
+18|609)
+------->  construire{VINF|suj}          car{CC|coord}                 information{NC|dep_coord}     
+19|655)
+------->  acheter{V|obj}                car{CC|coord}                 être{V|dep_coord}            
+20|682)
+------->  vouloir{V|obj}                car{CC|coord}                 être{V|dep_coord}            
+21|719)
+------->  avoir{V|mod_rel}              car{CC|coord}                 reprocher{V|dep_coord}        
+22|722)
+------->  reprendre{V|dep_coord}        car{CC|coord}                 avoir{V|dep_coord}            
+23|724)
+------->  passer{V|obj}                 car{CC|coord}                 posséder{V|dep_coord}        
+24|728)
+------->  dire{VPP|mod}                 car{CC|coord}                 cooper{VINF|dep_coord}        
+25|802)
+------->  apparaître{VINF|obj}         car{CC|coord}                 prévoir{V|dep_coord}         
+26|841)
+27|887)
+------->  avoir{V|dep_coord}            car{CC|coord}                 essayer{VPP|dep_coord}        
+28|889)
+------->  acheter{VPP|root}             car{CC|coord}                 retrouver{VPP|dep_coord}      
+29|909)
+30|944)
+------->  devoir{V|obj}                 car{CC|coord}                 être{V|dep_coord}            
+31|1048)
+32|1102)
+------->  adorer{V|mod}                 Oscar{NPP|mod}                Wilde{NPP|mod}                
+------->  adorer{V|mod}                 Oscar{NPP|mod}                surtout{ADV|mod}              
+33|1116)
+------->  prendre{V|root}               car{CC|coord}                 organiser{V|dep_coord}        
+34|1169)
+------->  tendance{NC|obj}              car{CC|coord}                 requête{NC|dep_coord}        
+35|1207)
+------->  recommander{VPP|root}         car{CC|coord}                 organiser{V|dep_coord}        
+36|1222)
+------->  être{V|root}                 car{CC|coord}                 offrir{V|dep_coord}           
+37|1229)
+------->  mec{NC|suj}                   car{CC|coord}                 prouver{VPP|dep_coord}        
+38|1230)
+------->  sujet{NC|root}                car{CC|coord}                 occuper{V|dep_coord}          
+39|1311)
+------->  constituer{V|root}            car{CC|coord}                 être{V|dep_coord}            
+40|1322)
+------->  être{V|root}                 car{CC|coord}                 convenir{V|dep_coord}         
+41|1333)
+------->  être{V|mod}                  car{CC|coord}                 faire{V|dep_coord}            
+42|1336)
+------->  être{V|root}                 car{CC|coord}                 il_y_a{V|dep_coord}           
+43|1337)
+------->  rajeunir{V|dep_coord}         car{CC|coord}                 redevenir{VPP|dep_coord}      
+44|1339)
+------->  être{V|root}                 car{CC|coord}                 aimer{V|dep_coord}            
+45|1343)
+------->  chasse{NC|obj}                car{CC|coord}                 kortal{NC|dep_coord}          
+46|1344)
+47|1345)
+------->  falloir{V|mod}                car{CC|coord}                 tester{V|dep_coord}           
+48|1349)
+------->  avoir{V|root}                 car{CC|coord}                 prendre{V|dep_coord}          
+49|1357)
+------->  avoir{V|aux_pass}             car{CC|coord}                 fonctionner{V|dep_coord}      
+50|1450)
+------->  marrer{V|mod_rel}             car{CC|coord}                 déjouer{VPP|dep_coord}       
+51|1498)
+------->  être{V|mod}                  car{CC|coord}                 perdre{VPP|dep_coord}         
+52|1499)
+------->  dire{V|obj}                   car{CC|coord}                 être{V|dep_coord}            
+53|1568)
+------->  mettre{VPP|root}              car{CC|coord}                 correspondre{V|dep_coord}     
+54|1579)
+------->  sur{P|dep}                    car{CC|coord}                 pour{P|dep_coord}             
+55|1595)
+56|1597)
+------->  décevoir{V|root}             car{CC|coord}                 faire{V|dep_coord}            
+57|1605)
+------->  remarquer{V|root}             car{CC|coord}                 représenter{V|dep_coord}     
+58|1628)
+------->  soir{NC|root}                 car{CC|coord}                 travailler{V|dep_coord}       
+59|1678)
+------->  vendre{V|root}                car{CC|coord}                 allier{V|dep_coord}           
+60|1690)
+------->  proposer{V|root}              car{CC|coord}                 améliorer{VPP|dep_coord}     
+61|1692)
+------->  être{V|root}                 car{CC|coord}                 stabiliser{VPP|dep_coord}     
+62|1799)
+------->  Express{NPP|mod}              Madagascar{NPP|mod}           The{ET|dep}                   
+------->  Express{NPP|mod}              Madagascar{NPP|mod}           Phoenix{NPP|dep}              
+------->  Express{NPP|mod}              Madagascar{NPP|mod}           Magazine{NPP|dep}             
+63|1799)
+------->  Express{NPP|mod}              Madagascar{NPP|mod}           The{ET|dep}                   
+------->  Express{NPP|mod}              Madagascar{NPP|mod}           Phoenix{NPP|dep}              
+------->  Express{NPP|mod}              Madagascar{NPP|mod}           Magazine{NPP|dep}             
+64|1800)
+65|1801)
+66|1806)
+------->  être{V|mod}                  car{CC|coord}                 sentir{V|dep_coord}           
+67|1816)
+------->  avoir{V|obj}                  car{CC|coord}                 récupérer{V|dep_coord}      
+68|1877)
+69|1878)
+70|1879)
+71|1923)
+------->  euro{NC|root}                 MICROCAR{NPP|mod}             VOITURE{NPP|mod}              
+72|1925)
+73|1925)
+74|1927)
+75|1927)
+76|1928)
+------->  à{P+D|mod}                   car{CC|coord}                 de{P|dep_coord}               
+77|1928)
+------->  à{P+D|mod}                   car{CC|coord}                 de{P|dep_coord}               
+78|1945)
+------->  être{V|root}                 car{CC|coord}                 inhiber{V|dep_coord}          
+79|1970)
+------->  sembler{V|root}               car{CC|coord}                 parasiter{VPP|dep_coord}      
+80|2036)
+------->  sembler{V|root}               car{CC|coord}                 sembler{V|dep_coord}          
+81|2055)
+------->  remercier{V|root}             car{CC|coord}                 même{ADV|mod}                
+------->  remercier{V|root}             car{CC|coord}                 taire{VPP|dep_coord}          
+82|2085)
+83|2091)
+------->  suivre{V|root}                car{CC|coord}                 être{V|dep_coord}            
+84|2092)
+------->  parler{V|dep_coord}           car{CC|coord}                 aimer{V|dep_coord}            
+85|2111)
+------->  parler{V|dep_coord}           car{CC|coord}                 aimer{V|dep_coord}            
+86|2139)
+------->  conseiller{V|root}            car{CC|coord}                 apprendre{V|dep_coord}        
+87|2167)
+88|2174)
+------->  lever{VPP|root}               car{CC|coord}                 c'est{ADV|mod}                
+------->  lever{VPP|root}               car{CC|coord}                 arme{NC|dep_coord}            
+89|2188)
+90|2253)
+------->  devoir{V|root}                car{CC|coord}                 prendre{V|dep_coord}          
+91|2308)
+------->  général{NC|root}            car{CC|coord}                 avoir{VPP|dep_coord}          
+92|2323)
+93|2336)
+94|2336)
+95|2337)
+96|2339)
+97|2340)
+98|2341)
+99|2373)
+------->  vouloir{V|dep_coord}          car{CC|coord}                 trouver{V|dep_coord}          
+100|2378)

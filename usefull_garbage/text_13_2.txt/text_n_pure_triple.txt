@@ -1,0 +1,2763 @@
+1|8) ( 6 premiers chapitres) Viennent ensuite trois chapitres intitulés Symboles, Cosmogonies, Cosmologies. 
+
+2|10) Les filles ont eu fort à faire et malgré leur courage et leur détermination Rennes était plus forte, au terme d' un match éprouvant( 26-15 à la mi temps), elles se sont inclinées 45-39 lors_du premier match, il fallu alors se remobiliser pour jouer dans la foulée contre Angers un deuxième match très intense( 38-36 à la mi-temps) mais dont l' issue indiquait la non qualification des filles. 
+
+xxxxxxx>  indiquer~non{V~NC|dep_coord~obj}		issue{NC|suj}		le{DET|det}		
+
+
+3|27) inter.ecoles@amicale-insat.fr Résultats des élections par J-J, le 14/11/2007 Chers Amicalistes, L' assemblée générale s' est tenue hier, mardi 13 novembre de 13h15 à 20h30. 
+
+xxxxxxx>  inter.ecoles@amicale-insat.fr~assemblée{NPP~NC|suj~mod}		résultat{NC|mod}		de{P+D|dep}		
+
+
+4|34) Ensuite pour toutes autres questions sur la répartition de ces subventions, n' hésitez pas à_venir demander à la Com' clubs et aux trésoriers à l' Amicale ou par mail. 
+
+5|46) Le fruit de votre dur labeur est arrivé et vous attend à l' amicale. 
+
+xxxxxxx>  arriver{VPP|root}		fruit{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  arriver{VPP|root}		fruit{NC|suj}		de{P|dep}		
+
+
+6|61) En effet une opération de maintenance sera effectuée par les root étudiants et le CRI sur le serveur Etud qui nous sert encore d' hébergeur ^^ Notez que seul le site ne fonctionnera plus, les serveurs de mails et de calendriers Google ne sont pas concernés et seront toujours accessibles depuis leurs adresses respectives, mail.amicale-insat.fr, et calendar.amicale-insat.fr. 
+
+7|62) Résultats des élections par July, le 17/10/2006 Les résultats sont enfin tombés à 00h45. 
+
+xxxxxxx>  tomber~résultat{VPP~NC|root~suj}		résultat{NC|mod}		de{P+D|dep}		
+
+
+xxxxxxx>  tomber~résultat{VPP~NC|root~suj}		résultat{NC|mod}		par{P|dep}		
+
+
+xxxxxxx>  tomber~résultat{VPP~NC|root~suj}		résultat{NC|mod}		,{PONCT|ponct}		
+
+
+------->  tomber~résultat{VPP~NC|root~suj}		résultat{NC|mod}		17/10/2006{NC|mod}		
+
+
+xxxxxxx>  tomber~résultat{VPP~NC|root~suj}		résultat{NC|suj}		le{DET|det}		
+
+
+8|62) Résultats des élections par July, le 17/10/2006 Les résultats sont enfin tombés à 00h45. 
+
+xxxxxxx>  tomber~résultat{VPP~NC|root~suj}		résultat{NC|mod}		de{P+D|dep}		
+
+
+xxxxxxx>  tomber~résultat{VPP~NC|root~suj}		résultat{NC|mod}		par{P|dep}		
+
+
+xxxxxxx>  tomber~résultat{VPP~NC|root~suj}		résultat{NC|mod}		,{PONCT|ponct}		
+
+
+------->  tomber~résultat{VPP~NC|root~suj}		résultat{NC|mod}		17/10/2006{NC|mod}		
+
+
+xxxxxxx>  tomber~résultat{VPP~NC|root~suj}		résultat{NC|suj}		le{DET|det}		
+
+
+9|63) Suite à 3h30 de vote voici les résultats du scrutin: Nombre total d' amicalistes: 1031 Nombre_de votants: 501 soit 48.59 % des amicalistes Voix en_faveur_de Vitamin': 304 soit 62.30 % des votes exprimés* 60.68 % des votants Voix en_faveur_des Irresistibles Irréductibles: 184 soit 37.70 % des votes exprimés* 36.73 % des votants Votes nuls et blancs: 13 soit 2.59 % des votants La liste élue est donc Vitamin', elle prendra ses fonctions le jeudi 26 octobre 2006. 
+
+xxxxxxx>  voici~jeudi{V~NC|root~obj}		suite{NC|suj}		à{P|dep}		
+
+
+xxxxxxx>  voici~jeudi~votant{V~NC~NC|root~obj~mod}		résultat{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  voici~jeudi~votant{V~NC~NC|root~obj~mod}		résultat{NC|obj}		de{P+D|dep}		
+
+
+xxxxxxx>  voici~jeudi~votant~suite{V~NC~NC~NC|root~obj~mod~suj}		résultat{NC|obj}		:{PONCT|ponct}		
+
+
+------->  voici~jeudi~votant~suite{V~NC~NC~NC|root~obj~mod~suj}		résultat{NC|obj}		nombre{NC|mod}		
+
+
+10|63) Suite à 3h30 de vote voici les résultats du scrutin: Nombre total d' amicalistes: 1031 Nombre_de votants: 501 soit 48.59 % des amicalistes Voix en_faveur_de Vitamin': 304 soit 62.30 % des votes exprimés* 60.68 % des votants Voix en_faveur_des Irresistibles Irréductibles: 184 soit 37.70 % des votes exprimés* 36.73 % des votants Votes nuls et blancs: 13 soit 2.59 % des votants La liste élue est donc Vitamin', elle prendra ses fonctions le jeudi 26 octobre 2006. 
+
+xxxxxxx>  voici~jeudi~votant~suite{V~NC~NC~NC|root~obj~mod~suj}		suite{NC|suj}		à{P|dep}		
+
+
+xxxxxxx>  voici~jeudi~votant~suite{V~NC~NC~NC|root~obj~mod~suj}		résultat{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  voici~jeudi~votant~suite{V~NC~NC~NC|root~obj~mod~suj}		résultat{NC|obj}		de{P+D|dep}		
+
+
+xxxxxxx>  voici~jeudi~votant~suite{V~NC~NC~NC|root~obj~mod~suj}		résultat{NC|obj}		:{PONCT|ponct}		
+
+
+------->  voici~jeudi~votant~suite{V~NC~NC~NC|root~obj~mod~suj}		résultat{NC|obj}		nombre{NC|mod}		
+
+
+11|70) Thèse de doctorat d' état: Le besoin d' information en situation d' achat et le comportement d' information face_au rayon: utilisation et effets de la communication électronique interactive, Thèse de doctorat d' état es sciences de gestion, Université de Bourgogne, Dijon, 1999 Publications dans des revues avec comité de lecture:- DANDOUAU J.C.( 2001), Risque, inférence et biais décisionnels dans les choix de consommation alimentaire, Revue Française du Marketing, n° 183/184, 3-4, 133-147- DANDOUAU J.C.( 2001), Recherche d' information sur Internet et expérience de consultation, Recherche et Applications en Marketing, 16, 3, 9-23 Communications dans des colloques avec comité de lecture:- DANDOUAU J.C.( 2000), Perception et traitement du risque chez le néophyte et l' expert, relativement aux choix de consommation alimentaire, Actes du 5ème colloque transfrontalier CLUSE, Université de Genève, 21-22 septembre 2000, CD-ROM- DANDOUAU J.C.( 2000), Le comportement de recherche d' information des différents profils de risque perçu selon la nature de l' achat, Actes des premiers ateliers de recherche AFM« percevoir, identifier et gérer les risques en marketing», L.A.S.I. Université Paris 1 Panthéon Sorbonne, Paris, 133-151- DANDOUAU J.C.( 2000), Les médias électroniques interactifs nécessitent -ils un renouvellement des théories de la communication? 
+
+$$$$$$$>  et{CC|coord}		effet{NC|dep_coord}		de{P|dep}		
+
+
+12|74) Bertrand éditeur, Université de Bourgogne, 12-13 septembre 1996, 375-388- DANDOUAU J.C.( 1994), Les variations intra-individuelles du besoin d' information de l' acheteur en magasin, selon son expérience du produit, Actes de la journée Association Française du Marketing  rencontre:« Commerce et comportement d' achat», J Jallais éditeur, Rennes, Centre d' Etude Rennais du Marketing- BENSA F. 
+
+13|82) Loïc Raison, t' exagères. 
+
+14|92) Causes et symptômes de la basse vision chez les personnes agées- Essilor Certaines maladies du vieillissement, certaines malformations congénitales, certains types de diabète ou de traitements de longue durée et des atteintes du nerf optique peuvent entraîner des situations de malvoyance. 
+
+$$$$$$$>  pouvoir~type{V~NC|root~suj}		cause{NC|mod}		et{CC|coord}		
+
+
+xxxxxxx>  pouvoir~type~malformation{V~NC~NC|root~suj~suj}		cause{NC|mod}		chez{P|dep}		
+
+
+15|97) Si votre commentaire appelle une réponse d' intérêt général, vous trouverez celle-ci sur la page des" questions et réponses", que je vous conseille de lire avant_de poser votre question, car la réponse s' y trouve peut-être déjà, et vous pouvez aussi aller sur la page" plan du site" et utiliser le moteur de recherche. 
+
+xxxxxxx>  utiliser{VINF|dep_coord}		moteur{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  utiliser{VINF|dep_coord}		moteur{NC|obj}		de{P|dep}		
+
+
+16|100) pages 1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20 ajouter un nouveau commentaire De mathieu, le 16/01/2006 à 23h02: Pour ce qui est des gammes orientales, je pense qu il te faut aller les chercher a la source. 
+
+xxxxxxx>  avoir{V|mod}		source{NC|obj}		le{DET|det}		
+
+
+17|121) Posté le: Mer Jan 16, 2008_5: 22 pm Sujet du message: mutation très possible vers Lille, demande conseil postes Bonjour, J' ai demandé mon retour dans l' académie de Lille après 8 années en région parisienne en ZEP suite à ma 1ere affectation. 
+
+18|125) Bon courage et bonne chance Revenir en haut de page Catelau Administrateur- Site Admin Inscrit le: 03 Oct 2006 Messages: 75 Localisation: académie de LILLE( WAHAGNIES) Posté le: Jeu Jan 17, 2008_8: 05 am Sujet du message: En effet normalement avec ce nombre_de point tu dois pouvoir rentrer dans l' académie! 
+
+xxxxxxx>  en{P|mod}		effet{NC|obj}		normalement{ADV|mod}		
+
+
+xxxxxxx>  en{P|mod}		effet{NC|obj}		avec{P|dep}		
+
+
+19|127) Je ne connait pas_encore les postes mis au mouvement, je ne le saurai que lors_des résultats de l' inter, de plus tous les postes n' apparaissent pas au forcément mouvement, il est difficile de tous les connaitre. 
+
+xxxxxxx>  lors_de{P|mod}		résultat{NC|obj}		de{P|dep}		
+
+
+20|129) ensuite on passe aux segpa ou erea Reste à voir si il y aura des postes de libres 
+
+21|133) Le Film d' Animation, star en Rhône-Alpes Mise à jour: 22/06/2006 Il est la raison d' être du Festival d' Annecy dont la 30 ème Edition vient de se terminer et il se construit aussi dans les studios de Folimage, près_de Valence. 
+
+xxxxxxx>  être{V|root}		raison{NC|ats}		le{DET|det}		
+
+
+22|147) Reichle et al., Nature 443, 838, 2006 En la misma sección: Manipulations cohérentes d' atomes uniques dans des pinces optiques Utilisation de fullerènes pour le profilage en profondeur de polymères Caractérisation expérimentale de la nucléation et de la croissance de nanoparticules en phase gazeuse Ionisation thermoïonique et fragmentation d' agrégats: une étude par imagerie Vers la réalisation d' un laser à atomes Caractérisation de sources attosecondes et photoassociation de molécules froides Photoassociation d' atomes alcalino- terreux ultrafroids dans un réseau optique Contrôle optique de phonons cohérents dans le bismuth Dynamique d' atomes et de molécules soumis à des champs lasers intenses et brefs Size-Specific Reactivity of Metal Clusters. 
+
+xxxxxxx>  de{P|dep}		source{NC|obj}		attoseconde{NC|mod}		
+
+
+23|148) Cross Section Measurements and Identification of Chemisorbed Species Effet du rayonnement ionisant sur des biomolécules adsorbées sur des nanoparticules d' or Spectroscopie photoassociative des états moléculaires faiblement liés du rubidium: Analyse par la méthode de Lu-Fano.Étude de la réalisation d' une lentille à atomes Electron interferometry with nano gratings Photodissociation de molecules biologiques en phase gazeuse: quel lien avec la conformation? 
+
+24|149) Méthodes de mécanique quantique pour la nanophotonique Incorporation d' effets d' énergie de point zéro dans des méthodes de dynamique classique et mixte classique-quantique Interactions dipolaires dans un gaz quantique 
+
+xxxxxxx>  de{P|dep}		effet{NC|obj}		de{P|dep}		
+
+
+25|156) ils nous permettent en effet d' exercer au mieux notre rôle de représentant des parents. 
+
+26|162) Titre: Psychometrer Eiji Genre: Seinen Editeur français: kana Auteur: Masashi Asaki et Yuma Ando Date de création: 2001 Age conseillé: 12+ Nombre_de volumes: 25( terminé) Fiche manga Histoire Eiji, lycéen bagarreur, a le don de psychométrie: en effet, en entrant en contact avec un objet ou une personne, il reçoit sous_forme_de flash des" fragment de la vie" de celui ci. 
+
+27|175) Eiji a réalisé des psychométries sur plusieurs suspects mais sans résultats probants. 
+
+xxxxxxx>  sans{P|dep_coord}		résultat{NC|obj}		probant{ADJ|mod}		
+
+
+28|181) Mais voilà que l' endroit est menacé par un promoteur immobilier acharné et mal intentionné! 
+
+xxxxxxx>  par{P|p_obj}		promoteur{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  par{P|p_obj}		promoteur{NC|obj}		immobilier{ADJ|mod}		
+
+
+xxxxxxx>  par{P|p_obj}		promoteur{NC|obj}		acharner{ADJ|mod}		
+
+
+29|185) Volume 25 La mort d' Akagi, ami commun de Shima et Eiji, est la conséquence d' une conspiration au sein même de la police! 
+
+xxxxxxx>  être{V|root}		conséquence{NC|ats}		le{DET|det}		
+
+
+xxxxxxx>  être~volume{V~NC|root~mod}		conséquence{NC|ats}		de{P|dep}		
+
+
+xxxxxxx>  être~volume{V~NC|root~mod}		conséquence{NC|ats}		à{P+D|dep}		
+
+
+30|187) Les produits de lavage: La_plupart des laveuses utilisent des produits naturels, en_tout_cas non toxiques, pour l' entretien des couches de leurs petits. 
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|suj}		de{P|dep}		
+
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|suj}		:{PONCT|ponct}		
+
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|suj}		la_plupart{PRO|dep}		
+
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|obj}		naturel{ADJ|mod}		
+
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|obj}		,{PONCT|ponct}		
+
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|obj}		en_tout_cas{ADV|mod}		
+
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|obj}		toxique{ADJ|mod}		
+
+
+31|187) Les produits de lavage: La_plupart des laveuses utilisent des produits naturels, en_tout_cas non toxiques, pour l' entretien des couches de leurs petits. 
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|suj}		de{P|dep}		
+
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|suj}		:{PONCT|ponct}		
+
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|suj}		la_plupart{PRO|dep}		
+
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|obj}		naturel{ADJ|mod}		
+
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|obj}		,{PONCT|ponct}		
+
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|obj}		en_tout_cas{ADV|mod}		
+
+
+xxxxxxx>  utiliser~produit{V~NC|root~obj}		produit{NC|obj}		toxique{ADJ|mod}		
+
+
+32|193) Ce dernier produit est à utiliser avec modération car il attaque les élastiques à la longue. 
+
+xxxxxxx>  être{V|root}		produit{NC|suj}		ce{DET|det}		
+
+
+xxxxxxx>  être{V|root}		produit{NC|suj}		dernier{ADJ|mod}		
+
+
+33|197) Ce mélange aura pour effet de protéger les couches salies de tout risque d' infection tout en parfumant le seau. 
+
+34|199) Ces huiles ne doivent en aucun cas être utilisées sur la peau de votre enfant de moins de 3 ans et de façon générale sans l' avis d' une personne connaissant parfaitement leurs effets. 
+
+xxxxxxx>  connaître{VPR|mod}		effet{NC|obj}		son{DET|det}		
+
+
+35|215) C'_est_pourquoi lorsque l' enfant grandit, il est intéressant d' avoir au_moins 4 à 5 couches très absorbantes( dites« couches de nuit») pour tourner à raison d' une lessive tous les 3-4 jours. 
+
+xxxxxxx>  à{P|mod}		raison{NC|obj}		de{P|dep}		
+
+
+36|216) Le sèche-linge est tout_à_fait compatible avec l' utilisation des couches lavables mais peut, comme pour le linge en_général, avoir un impact sur l' usure naturelle des couches. 
+
+xxxxxxx>  avoir{VINF|mod}		impact{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  avoir{VINF|mod}		impact{NC|obj}		sur{P|dep}		
+
+
+37|218) Ces forêts absorbent actuellement du dioxyde de carbone( CO2), un gaz à effet de serre considéré comme le principal responsable du réchauffement climatique. 
+
+xxxxxxx>  à{P|mod}		effet{NC|obj}		de{P|dep}		
+
+
+xxxxxxx>  à{P|mod}		effet{NC|obj}		considérer{VPP|mod}		
+
+
+38|219) Mais leur destruction" va bientôt transformer ces entrepôts de CO2 en sources d' émission". 
+
+xxxxxxx>  en{P|p_obj}		source{NC|obj}		de{P|dep}		
+
+
+39|221) En effet, depuis 2005, l' Europe importe déjà de l' huile de palme pour produire une partie du biodiesel consommé. 
+
+40|222) biocarburant deforestation emission co2 greenpeace huile palme rechauffement climatique Si vous reprenez ce billet, merci d' en citer la source: L' huile de palme: une bombe climatique à retardement Commentaires 1. 
+
+xxxxxxx>  citer{VINF|obj}		source{NC|obj}		le{DET|det}		
+
+
+41|227) GDG.fr:" Avez -vous déjà acheté une GTI neuve ou très récente par le passé" Non, cette 19 16s est ma 1ère sportive et est venue remplacer mon ancienne R9 GTX( équipée du célèbre moteur F2N) qui bien_que jouissant d' un tempérament nerveux, n' est ni sportive, ni récente! 
+
+xxxxxxx>  de{P+D|de_obj}		moteur{NC|obj}		célèbre{ADJ|mod}		
+
+
+xxxxxxx>  de{P+D|de_obj}		moteur{NC|obj}		F2N{NPP|mod}		
+
+
+xxxxxxx>  de{P+D|de_obj}		moteur{NC|obj}		){PONCT|ponct}		
+
+
+xxxxxxx>  de{P+D|de_obj}		moteur{NC|obj}		être{V|mod_rel}		
+
+
+42|231) Ce constat fait toutefois regretter que Renault n' ait pas dotée la 19 16s d' un moteur à la hauteur du châssis et qui lui aurait permis de rivaliser avec la 309 GTI 16, qui reste la référence GTI sur le segment des berlines compactes sportives des 90' s, d'_autant_qu' il aurait suffi d' y greffer le 2.0 de la Clio Williams et de le porter à 160-170ch 
+
+xxxxxxx>  de{P|dep}		moteur{NC|obj}		un{DET|det}		
+
+
+43|232) Le gros point faible de la voiture, propre à beaucoup de moteurs multisoupapes de l' époque est son creux à bas régime( moins de 4000 trs) mais qui donne un tempérament intéressant: sage en-dessous de 4000 trs, permettant une conduite souple et économique, et nettement plus nerveux au-dessus_de 5000 trs, mais le F7P adore ça et en redemande une_fois échauffé! 
+
+xxxxxxx>  à{P|dep}		moteur{NC|obj}		beaucoup{ADV|mod}		
+
+
+xxxxxxx>  à{P|dep}		moteur{NC|obj}		de{P|det}		
+
+
+xxxxxxx>  à{P|dep}		moteur{NC|obj}		multisoupape{ADJ|mod}		
+
+
+xxxxxxx>  à{P|dep}		moteur{NC|obj}		de{P|dep}		
+
+
+44|233) Le bloc 1.8 16s est très solide, à condition d' être scrupuleusement entretenu: vidange avec une huile de qualité, respect des temps de" chauffe"( moteur, BV, trains). 
+
+45|237) La voiture ayant été quelque_peu tunée par son 1er propriétaire, les modifications effectuées ont été essentiellement une remise à l' origine: pommeau, compteurs, volant d' origine ont retrouvé leur place 
+
+xxxxxxx>  à{P|dep}		origine{NC|obj}		le{DET|det}		
+
+
+46|237) La voiture ayant été quelque_peu tunée par son 1er propriétaire, les modifications effectuées ont été essentiellement une remise à l' origine: pommeau, compteurs, volant d' origine ont retrouvé leur place 
+
+xxxxxxx>  à{P|dep}		origine{NC|obj}		le{DET|det}		
+
+
+47|238) Côté moteur, le KAD a été remplacé par une admission dynamique et le catalyseur castrateur a été remplacé par un tube afrique qui libère la voiture, tout en réduisant la consommation 
+
+48|262) Effet du rayonnement ionisant sur des biomolécules adsorbées sur des nanoparticules d' or Cecile Sicard-Roselli, Laboratoire de Chimie-Physique, Orsay 13 de julio de 2007, 11h00 Le but de notre projet est d' étudier l' effet de rayonnements X sur des biomolécules( protéines, ADN) adsorbées sur des nanoparticules d' or. 
+
+xxxxxxx>  être{V|root}		effet{NC|suj}		de{P+D|dep}		
+
+
+xxxxxxx>  être{V|root}		effet{NC|suj}		ioniser{VPR|mod}		
+
+
+xxxxxxx>  être{V|root}		effet{NC|suj}		,{PONCT|ponct}		
+
+
+------->  être{V|root}		effet{NC|suj}		but{NC|mod}		
+
+
+xxxxxxx>  étudier{VINF|obj}		effet{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  étudier{VINF|obj}		effet{NC|obj}		de{P|dep}		
+
+
+49|262) Effet du rayonnement ionisant sur des biomolécules adsorbées sur des nanoparticules d' or Cecile Sicard-Roselli, Laboratoire de Chimie-Physique, Orsay 13 de julio de 2007, 11h00 Le but de notre projet est d' étudier l' effet de rayonnements X sur des biomolécules( protéines, ADN) adsorbées sur des nanoparticules d' or. 
+
+xxxxxxx>  être{V|root}		effet~but{NC~NC|suj~mod}		de{P+D|dep}		
+
+
+xxxxxxx>  être{V|root}		effet~but{NC~NC|suj~mod}		ioniser{VPR|mod}		
+
+
+xxxxxxx>  être{V|root}		effet~but{NC~NC|suj~mod}		,{PONCT|ponct}		
+
+
+xxxxxxx>  étudier{VINF|obj}		effet{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  étudier{VINF|obj}		effet{NC|obj}		de{P|dep}		
+
+
+50|264) En effet, la cobaltothérapie représente un outil largement employé pour le traitement de tumeurs profondes étant donnée la forte pénétration des rayons gamma. 
+
+51|265) C'_est_pourquoi différentes approches ont été envisagées afin_de réduire les effets secondaires des radiothérapies, notamment par le fractionnement de la dose reçue par le patient. 
+
+xxxxxxx>  réduire{VINF|obj}		effet{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  réduire{VINF|obj}		effet{NC|obj}		secondaire{ADJ|mod}		
+
+
+xxxxxxx>  réduire{VINF|obj}		effet{NC|obj}		de{P+D|dep}		
+
+
+52|266) Récemment, Hainfeld et al[] ont montré l' effet radiosensibilisateur de l' or en injectant des nanoparticules d' or dans des souris. 
+
+xxxxxxx>  montrer{VPP|root}		effet{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  montrer{VPP|root}		effet{NC|obj}		radiosensibilisateur{ADJ|mod}		
+
+
+xxxxxxx>  montrer{VPP|root}		effet{NC|obj}		de{P|dep}		
+
+
+53|268) L' or possède donc un effet radiosensibilisateur important. 
+
+xxxxxxx>  posséder{V|root}		effet{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  posséder~or{V~NC|root~suj}		effet{NC|obj}		radiosensibilisateur{ADJ|mod}		
+
+
+xxxxxxx>  posséder~or{V~NC|root~suj}		effet{NC|obj}		important{ADJ|mod}		
+
+
+54|270) Manipulations cohérentes d' atomes uniques dans des pinces optiques Utilisation de fullerènes pour le profilage en profondeur de polymères Caractérisation expérimentale de la nucléation et de la croissance de nanoparticules en phase gazeuse Ionisation thermoïonique et fragmentation d' agrégats: une étude par imagerie Vers la réalisation d' un laser à atomes Caractérisation de sources attosecondes et photoassociation de molécules froides Photoassociation d' atomes alcalino- terreux ultrafroids dans un réseau optique Contrôle optique de phonons cohérents dans le bismuth Dynamique d' atomes et de molécules soumis à des champs lasers intenses et brefs Size-Specific Reactivity of Metal Clusters. 
+
+xxxxxxx>  de{P|dep}		source{NC|obj}		attoseconde{NC|mod}		
+
+
+55|272) Méthodes de mécanique quantique pour la nanophotonique Incorporation d' effets d' énergie de point zéro dans des méthodes de dynamique classique et mixte classique-quantique Interactions dipolaires dans un gaz quantique 
+
+xxxxxxx>  de{P|dep}		effet{NC|obj}		de{P|dep}		
+
+
+56|274) Il vous importe de prendre les précautions nécessaires à_cet_égard, ESSILOR déclinant toute responsabilité pour tout dommage direct ou indirect quelles qu' en soient les causes, origines, natures ou conséquences provoquées en_raison_de l' accès à d'_autres sites... 
+
+57|274) Il vous importe de prendre les précautions nécessaires à_cet_égard, ESSILOR déclinant toute responsabilité pour tout dommage direct ou indirect quelles qu' en soient les causes, origines, natures ou conséquences provoquées en_raison_de l' accès à d'_autres sites... 
+
+58|274) Il vous importe de prendre les précautions nécessaires à_cet_égard, ESSILOR déclinant toute responsabilité pour tout dommage direct ou indirect quelles qu' en soient les causes, origines, natures ou conséquences provoquées en_raison_de l' accès à d'_autres sites... 
+
+59|294) C' est la raison pour laquelle l' administration, en travaillant avec une équipe d' insaïens, a décidé de changer les dates de l' évènements, comme pour lui donner une 2de chance... 
+
+xxxxxxx>  être{V|root}		raison{NC|ats}		le{DET|det}		
+
+
+60|298) Avec l' Europe, en premier lieu, pour assurer la promotion des« eurocampus», mais aussi avec les pays hôtes qui participent au financement de nos écoles quand ils considèrent soit que nous scolarisons à leur place des élèves résidant sur leur territoire, soit qu' un lycée français est pour eux un facteur d' attractivité favorable aux investissements internationaux. 
+
+xxxxxxx>  être{V|obj}		facteur{NC|ats}		un{DET|det}		
+
+
+xxxxxxx>  être~lycée{V~NC|obj~suj}		facteur{NC|ats}		de{P|dep}		
+
+
+xxxxxxx>  être~lycée{V~NC|obj~suj}		facteur{NC|ats}		favorable{ADJ|mod}		
+
+
+xxxxxxx>  être~lycée{V~NC|obj~suj}		facteur{NC|ats}		à{P+D|dep}		
+
+
+61|314) Or, une lettre du recteur a stipulé aux proviseurs de la région de NE_PAS DONNER SUITE à cette invitation et donc de ne_pas envoyer d' élèves à cette réunion de réflexion... 
+
+62|322) merci ali de toutes tes lumières, n' hésite pas à m' envoyer par mail toutes les infos( textes) dont tu disposes à mon adresse mail, car il faut croire que même le facteur a peur d' entrer! 
+
+xxxxxxx>  avoir~peur{V~NC|obj~obj}		facteur{NC|suj}		le{DET|det}		
+
+
+63|351) Les détails de réglage On s' attachera ensuite à affiner le départ plongeon selon la nage: un départ Papillon ou Brasse n' est pas strictement identique à un départ Crawl, ne serait -ce que de part la reprise de nage. 
+
+64|352) Ensuite, on peut optimiser la position du nageur sur le plot de départ( position des pieds par_exemple): les départs de type athlétisme( pieds décalés, un sur l' avant et un sur l' arrière du plot) sont autorisés. 
+
+65|353) ...( Source: Toute la natation( Maria Semerjian) + Nager. 
+
+66|362) Le but est d' isoler les mécanismes fondamentaux à l' origine des multiples fonctions que ces systèmes accomplissent. 
+
+xxxxxxx>  à{P|mod}		origine{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  à{P|mod}		origine{NC|obj}		de{P+D|dep}		
+
+
+67|364) Notre projet consiste à exploiter les potentialités de la fragmentation par absorption de photons pour apporter les facteurs de sélectivité de la spectroscopie( résolue en fréquence et en temps) qui permettront de combler ces lacunes. 
+
+xxxxxxx>  apporter{VINF|obj}		facteur{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  apporter{VINF|obj}		facteur{NC|obj}		de{P|dep}		
+
+
+68|366) Ce modèle suggère l' existence d' une relation étroite entre structure, dynamique et produits de fragmentation que nous devons mettre en évidence. 
+
+$$$$$$$>  et{CC|coord}		produit{NC|dep_coord}		de{P|dep}		
+
+
+$$$$$$$>  et{CC|coord}		produit{NC|dep_coord}		devoir{V|mod_rel}		
+
+
+69|367) Il combine une source pulsée d' ions biologiques en phase gazeuse et un système de détection en coïncidence en temps et position des photo- fragments ioniques et neutres. 
+
+xxxxxxx>  combiner{V|root}		source{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  combiner{V|root}		source{NC|obj}		pulser{ADJ|mod}		
+
+
+xxxxxxx>  combiner{V|root}		source{NC|obj}		de{P|dep}		
+
+
+70|369) Manipulations cohérentes d' atomes uniques dans des pinces optiques Utilisation de fullerènes pour le profilage en profondeur de polymères Caractérisation expérimentale de la nucléation et de la croissance de nanoparticules en phase gazeuse Ionisation thermoïonique et fragmentation d' agrégats: une étude par imagerie Vers la réalisation d' un laser à atomes Caractérisation de sources attosecondes et photoassociation de molécules froides Photoassociation d' atomes alcalino- terreux ultrafroids dans un réseau optique Contrôle optique de phonons cohérents dans le bismuth Dynamique d' atomes et de molécules soumis à des champs lasers intenses et brefs Size-Specific Reactivity of Metal Clusters. 
+
+xxxxxxx>  de{P|dep}		source{NC|obj}		attoseconde{NC|mod}		
+
+
+71|370) Cross Section Measurements and Identification of Chemisorbed Species Effet du rayonnement ionisant sur des biomolécules adsorbées sur des nanoparticules d' or Spectroscopie photoassociative des états moléculaires faiblement liés du rubidium: Analyse par la méthode de Lu-Fano.Étude de la réalisation d' une lentille à atomes Electron interferometry with nano gratings Méthodes de mécanique quantique pour la nanophotonique Incorporation d' effets d' énergie de point zéro dans des méthodes de dynamique classique et mixte classique-quantique Interactions dipolaires dans un gaz quantique 
+
+xxxxxxx>  de{P|dep}		effet{NC|obj}		de{P|dep}		
+
+
+72|370) Cross Section Measurements and Identification of Chemisorbed Species Effet du rayonnement ionisant sur des biomolécules adsorbées sur des nanoparticules d' or Spectroscopie photoassociative des états moléculaires faiblement liés du rubidium: Analyse par la méthode de Lu-Fano.Étude de la réalisation d' une lentille à atomes Electron interferometry with nano gratings Méthodes de mécanique quantique pour la nanophotonique Incorporation d' effets d' énergie de point zéro dans des méthodes de dynamique classique et mixte classique-quantique Interactions dipolaires dans un gaz quantique 
+
+xxxxxxx>  de{P|dep}		effet{NC|obj}		de{P|dep}		
+
+
+73|374) TripAdvisor propose désormais à un hôtel de mettre directement sur son site les commentaires des consommateurs( source: www.hotelmarketing.com); 
+
+74|389) 10: 32 Publié dans" Arrêts sur Médias" Radio Shalom Montréal 1650| Lien permanent| Commentaires( 0)| Envoyer cette note 16.01.2008 INTERVIEWS SUR" ARRÊTS SUR MÉDIAS" DEPUIS JUIN 2007 LISTE DES INTERVIEWS DE JUIN 2007 AU 16 JANVIER 2008 DANS" ARRÊTS SUR MÉDIAS" SUR RADIO SHALOM AU WWW.RADIO- SHALOM.CA Guy MILLIÈRE- économiste- Institut Turgo Olivier Rafowicz- infolive.tv Lorenzo Soccavo- Gutenberg 2.0 Jean Renaud- Revue égards Jocelyn Saint-Pierre- La Tribune du parlement du Québec Jean-Sebastien Trudel- la société ellipsos- le papier électronique André Darmon- israel Magazine David Matas- l' appel au djihad en ontario Stéphane Juffa- Agence de presse La Mena Daniel Pipes -la bataille au coeur de l' islam Appolinaire Ndobo- communication sociale Guy Senbel- Guysen Martin Masse- Le Québecois libre Jian Yan Wang- communication et développement international Jean-Marie Gelinas- Les origines juives des québécois Colette Tardif- Multimédia et environnement Jean-Paul Lafrance- les jeux vidéos Jacques Sylvain Klein- le royaume juif de Rouen( fr) France Brodeur- QI- Québec imprimerie Norman Golb- Le royaume juif de Rouen( USA) Michel Cliche- Le comité sectoriel Dr Afraim Inbar- la sécurité d' Israel Jacques Angelé- Nemoptic- papier électronique Fabrice de Pierrebourg- Montréalistan Thérèse Garzeau- Le Maître imprimeur Isaac Gozlan- le magazine Mag J Claude Nadeau- Diwan Paris Claude Rolland- l' Union des bretons du Canada Abdelghani Dades- Atlas Montréal MERCI À TOUS ET BONNE ANNÉE 2008! 19: 56 Publié dans" Arrêts sur Médias" Radio Shalom Montréal 1650| Lien permanent| Commentaires( 0)| Envoyer cette note Abdelghani Dades éditeur d' Atlas Montréal, qui édite un journal, une émission de télévision, une émission de radio, sera sur Arrêts sur médias le 13 janvier et le 16 janvier 2008 Aujourd'_hui notre invité est Abdelghani Dades éditeur du Groupe Atlas Média qui comprend un journal, Atlas Média, un production d' émission télévisé pour 2M international et quelques émissions de radio avec en_particulier la voix des Marocains à Montréal. 
+
+xxxxxxx>  David~émission{NPP~NC|suj~mod}		origine{NC|mod}		le{DET|det}		
+
+
+xxxxxxx>  David~émission~émission{NPP~NC~NC|suj~mod~mod}		origine{NC|mod}		juif{ADJ|mod}		
+
+
+xxxxxxx>  David~émission~émission~note{NPP~NC~NC~NC|suj~mod~mod~mod}		origine{NC|mod}		de{P+D|dep}		
+
+
+75|416) Il faut en effet, dès à présent, améliorer le fonctionnement des institutions dans_le_cadre_des traités existants. 
+
+76|417) - La France a fait des propositions et je me réjouis de voir que des premières orientations seront prises dès demain, qu' il s' agisse: d' une meilleure association des Parlements nationaux au contrôle de la subsidiarité, de la capacité des Européens de répondre plus rapidement et efficacement aux crises et catastrophes, d' une meilleure prise en_compte de l' impact social dans les propositions législatives de l' Union, des moyens permettant à l' Union d' agir plus facilement en_matière_de sécurité et de justice. 
+
+xxxxxxx>  de{P|dep}		impact{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  de{P|dep}		impact{NC|obj}		social{ADJ|mod}		
+
+
+77|437) Le moteur, même_si il n' est pas aujourd'_hui un monstre de puissance, séduit toujours par son caractère bouillant et son bruit très présent( surtout avec une ligne inox! 
+
+xxxxxxx>  séduire{V|root}		moteur{NC|suj}		le{DET|det}		
+
+
+78|439) Lorsque j' ai acheté ma Williams il_y_a 3 ans elle était totalement d' origine. 
+
+79|440) J' ai simplement rajouté une ligne complète en inox, autant pour le petit gain en performances qu' elle procure que pour le bruit, et un filtre à air sport dans la boite à air d' origine, avec une gaine venant chercher l' air frais en dynamique. 
+
+80|441) Pour ce qui est du chassis, je n' ai pas jugé utile de changer les amortisseurs ou les freins( qui sont neufs de chez Renault) tant ceux d' origine sont efficaces pour une auto de série. 
+
+81|472) il avait ete nomer par Sakura raikage de kumo qui annexe suna, Cyril etait content de cette chance qui lui appartenait, refaire de suna une citée grande et puissante, rebatire la legendaire reputation de son village qui perdait de la puissance ces dernier temp a cause de tout ceux qui avait decider de deserter suna mais Cyril allait pouvoir redonner a suna une nouvel vie et à ces ninjas aussi, il pensait a l' avenir de suna, a son avenir, il ce demandait pourquoi lui? 
+
+xxxxxxx>  avoir{V|obj}		cause{NC|obj}		de{P|dep}		
+
+
+82|477) Il s' y rendit et regarda les produit. 
+
+xxxxxxx>  regarder{V|dep_coord}		produit{NC|obj}		le{DET|det}		
+
+
+83|482) LE PARADOXE DES MOTEURS DE RECHERCHE: les moteurs de recherche se cherchent encore A la recherche d' une plus grande efficacité dans l' exploration de l' information, d' une plus grande pertinence dans leurs résultats et d' une meilleure adaptation aux besoins des internautes, les moteurs de recherche évoluent en partant tous azimuts, souvent en suivant des chemins contradictoires. 
+
+xxxxxxx>  de{P+D|dep}		moteur{NC|obj}		de{P|dep}		
+
+
+xxxxxxx>  paradoxe{NC|suj}		moteur{NC|mod}		le{DET|det}		
+
+
+xxxxxxx>  paradoxe{NC|suj}		moteur{NC|mod}		de{P|dep}		
+
+
+xxxxxxx>  dans{P|mod}		résultat{NC|obj}		son{DET|det}		
+
+
+xxxxxxx>  évoluer{V|mod}		moteur{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  évoluer{V|mod}		moteur{NC|suj}		de{P|dep}		
+
+
+84|482) LE PARADOXE DES MOTEURS DE RECHERCHE: les moteurs de recherche se cherchent encore A la recherche d' une plus grande efficacité dans l' exploration de l' information, d' une plus grande pertinence dans leurs résultats et d' une meilleure adaptation aux besoins des internautes, les moteurs de recherche évoluent en partant tous azimuts, souvent en suivant des chemins contradictoires. 
+
+xxxxxxx>  de{P+D|dep}		moteur{NC|obj}		de{P|dep}		
+
+
+xxxxxxx>  paradoxe{NC|suj}		moteur{NC|mod}		le{DET|det}		
+
+
+xxxxxxx>  paradoxe{NC|suj}		moteur{NC|mod}		de{P|dep}		
+
+
+xxxxxxx>  dans{P|mod}		résultat{NC|obj}		son{DET|det}		
+
+
+xxxxxxx>  évoluer{V|mod}		moteur{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  évoluer{V|mod}		moteur{NC|suj}		de{P|dep}		
+
+
+85|482) LE PARADOXE DES MOTEURS DE RECHERCHE: les moteurs de recherche se cherchent encore A la recherche d' une plus grande efficacité dans l' exploration de l' information, d' une plus grande pertinence dans leurs résultats et d' une meilleure adaptation aux besoins des internautes, les moteurs de recherche évoluent en partant tous azimuts, souvent en suivant des chemins contradictoires. 
+
+xxxxxxx>  de{P+D|dep}		moteur{NC|obj}		de{P|dep}		
+
+
+xxxxxxx>  paradoxe{NC|suj}		moteur{NC|mod}		le{DET|det}		
+
+
+xxxxxxx>  paradoxe{NC|suj}		moteur{NC|mod}		de{P|dep}		
+
+
+xxxxxxx>  dans{P|mod}		résultat{NC|obj}		son{DET|det}		
+
+
+xxxxxxx>  évoluer{V|mod}		moteur{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  évoluer{V|mod}		moteur{NC|suj}		de{P|dep}		
+
+
+86|482) LE PARADOXE DES MOTEURS DE RECHERCHE: les moteurs de recherche se cherchent encore A la recherche d' une plus grande efficacité dans l' exploration de l' information, d' une plus grande pertinence dans leurs résultats et d' une meilleure adaptation aux besoins des internautes, les moteurs de recherche évoluent en partant tous azimuts, souvent en suivant des chemins contradictoires. 
+
+xxxxxxx>  de{P+D|dep}		moteur{NC|obj}		de{P|dep}		
+
+
+xxxxxxx>  paradoxe{NC|suj}		moteur{NC|mod}		le{DET|det}		
+
+
+xxxxxxx>  paradoxe{NC|suj}		moteur{NC|mod}		de{P|dep}		
+
+
+xxxxxxx>  dans{P|mod}		résultat{NC|obj}		son{DET|det}		
+
+
+xxxxxxx>  évoluer{V|mod}		moteur{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  évoluer{V|mod}		moteur{NC|suj}		de{P|dep}		
+
+
+87|483) Dans ce monde, les ambivalences sont nombreuses: des moteurs souvent perçus comme n' étant pas la panacée en_matière_de recherche mais restant pourtant des outils incontournables, un univers où la puissance de l' algorithme fraie avec le jugement et l' appréciation des humains, où les moteurs de recherche généralistes s' opposent aux solutions très ciblées, où la recherche d' une plus grande personnalisation doit recourir à l' antidote de l' anonymisation pour des raisons de respect de la vie privée... 
+
+xxxxxxx>  être{V|root}		moteur{NC|mod}		de{DET|det}		
+
+
+xxxxxxx>  être~nombreux{V~ADJ|root~ats}		moteur{NC|mod}		percevoir{VPP|mod}		
+
+
+xxxxxxx>  opposer{V|mod_rel}		moteur{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  opposer{V|mod_rel}		moteur{NC|suj}		de{P|dep}		
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de{P|dep}		
+
+
+88|483) Dans ce monde, les ambivalences sont nombreuses: des moteurs souvent perçus comme n' étant pas la panacée en_matière_de recherche mais restant pourtant des outils incontournables, un univers où la puissance de l' algorithme fraie avec le jugement et l' appréciation des humains, où les moteurs de recherche généralistes s' opposent aux solutions très ciblées, où la recherche d' une plus grande personnalisation doit recourir à l' antidote de l' anonymisation pour des raisons de respect de la vie privée... 
+
+xxxxxxx>  être~nombreux~ambivalence{V~ADJ~NC|root~ats~suj}		moteur{NC|mod}		de{DET|det}		
+
+
+xxxxxxx>  être~nombreux~ambivalence{V~ADJ~NC|root~ats~suj}		moteur{NC|mod}		percevoir{VPP|mod}		
+
+
+xxxxxxx>  opposer{V|mod_rel}		moteur{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  opposer{V|mod_rel}		moteur{NC|suj}		de{P|dep}		
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de{P|dep}		
+
+
+89|483) Dans ce monde, les ambivalences sont nombreuses: des moteurs souvent perçus comme n' étant pas la panacée en_matière_de recherche mais restant pourtant des outils incontournables, un univers où la puissance de l' algorithme fraie avec le jugement et l' appréciation des humains, où les moteurs de recherche généralistes s' opposent aux solutions très ciblées, où la recherche d' une plus grande personnalisation doit recourir à l' antidote de l' anonymisation pour des raisons de respect de la vie privée... 
+
+xxxxxxx>  être~nombreux~ambivalence{V~ADJ~NC|root~ats~suj}		moteur{NC|mod}		de{DET|det}		
+
+
+xxxxxxx>  être~nombreux~ambivalence{V~ADJ~NC|root~ats~suj}		moteur{NC|mod}		percevoir{VPP|mod}		
+
+
+xxxxxxx>  opposer{V|mod_rel}		moteur{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  opposer{V|mod_rel}		moteur{NC|suj}		de{P|dep}		
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de{P|dep}		
+
+
+90|486) Quid des moteurs de recherche d' entreprise? 
+
+xxxxxxx>  de{P+D|dep}		moteur{NC|obj}		de{P|dep}		
+
+
+91|487) Le lien entre BI( business intelligence) et moteurs de recherche est évident: il s' agit d' outils complémentaires. 
+
+$$$$$$$>  et{CC|coord}		moteur{NC|dep_coord}		de{P|dep}		
+
+
+92|489) Complément n°1: quelques évolutions et moteurs alternatifs qui pourraient bousculer le monde des moteurs de recherche Google, Microsoft, Yahoo et la douzaine de spécialistes de la recherche sur le web sont en_train_de développer la nouvelle génération de technologies qui devrait améliorer de façon conséquente les moteurs de recherche actuels. 
+
+$$$$$$$>  et{CC|coord}		moteur{NC|dep_coord}		alternatif{ADJ|mod}		
+
+
+xxxxxxx>  de{P+D|dep}		moteur{NC|obj}		de{P|dep}		
+
+
+xxxxxxx>  améliorer{VINF|obj}		moteur{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  améliorer{VINF|obj}		moteur{NC|obj}		de{P|dep}		
+
+
+93|489) Complément n°1: quelques évolutions et moteurs alternatifs qui pourraient bousculer le monde des moteurs de recherche Google, Microsoft, Yahoo et la douzaine de spécialistes de la recherche sur le web sont en_train_de développer la nouvelle génération de technologies qui devrait améliorer de façon conséquente les moteurs de recherche actuels. 
+
+$$$$$$$>  et{CC|coord}		moteur{NC|dep_coord}		alternatif{ADJ|mod}		
+
+
+xxxxxxx>  de{P+D|dep}		moteur{NC|obj}		de{P|dep}		
+
+
+xxxxxxx>  améliorer{VINF|obj}		moteur{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  améliorer{VINF|obj}		moteur{NC|obj}		de{P|dep}		
+
+
+94|489) Complément n°1: quelques évolutions et moteurs alternatifs qui pourraient bousculer le monde des moteurs de recherche Google, Microsoft, Yahoo et la douzaine de spécialistes de la recherche sur le web sont en_train_de développer la nouvelle génération de technologies qui devrait améliorer de façon conséquente les moteurs de recherche actuels. 
+
+$$$$$$$>  et{CC|coord}		moteur{NC|dep_coord}		alternatif{ADJ|mod}		
+
+
+xxxxxxx>  de{P+D|dep}		moteur{NC|obj}		de{P|dep}		
+
+
+xxxxxxx>  améliorer{VINF|obj}		moteur{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  améliorer{VINF|obj}		moteur{NC|obj}		de{P|dep}		
+
+
+95|490) à quoi ressemblera le moteur du futur? 
+
+xxxxxxx>  ressembler{V|root}		moteur{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  ressembler{V|root}		moteur{NC|obj}		de{P+D|dep}		
+
+
+96|491) Complément n°2: moteurs d' entreprise, un vaste champ encore à défricher Peu connus, peu exploités, les outils de recherche dédiés à l' entreprise sont pourtant un pan important des moteurs de recherche. 
+
+xxxxxxx>  complément~champagne{NC~NC|suj~mod}		moteur{NC|mod}		de{P|dep}		
+
+
+xxxxxxx>  de{P+D|dep}		moteur{NC|obj}		de{P|dep}		
+
+
+97|491) Complément n°2: moteurs d' entreprise, un vaste champ encore à défricher Peu connus, peu exploités, les outils de recherche dédiés à l' entreprise sont pourtant un pan important des moteurs de recherche. 
+
+xxxxxxx>  complément~champagne{NC~NC|suj~mod}		moteur{NC|mod}		de{P|dep}		
+
+
+xxxxxxx>  de{P+D|dep}		moteur{NC|obj}		de{P|dep}		
+
+
+98|492) Différents types d' outils cohabitent, les moteurs Internet, la recherche sur PC, les moteurs spécialisés par métier( e-commerce, juridique... 
+
+xxxxxxx>  cohabiter~recherche{V~NC|root~mod}		moteur{NC|mod}		le{DET|det}		
+
+
+xxxxxxx>  cohabiter~recherche{V~NC|root~mod}		moteur{NC|mod}		Internet{NPP|mod}		
+
+
+99|492) Différents types d' outils cohabitent, les moteurs Internet, la recherche sur PC, les moteurs spécialisés par métier( e-commerce, juridique... 
+
+xxxxxxx>  cohabiter~recherche~type{V~NC~NC|root~mod~suj}		moteur{NC|mod}		le{DET|det}		
+
+
+xxxxxxx>  cohabiter~recherche~type{V~NC~NC|root~mod~suj}		moteur{NC|mod}		Internet{NPP|mod}		
+
+
+100|493) ), les moteurs de type KM( savoir-faire, compétences internes à l' entreprise). 
+
+101|501) Nous avons donc, en complément du crayon et pour rendre l' étude du dessin plus agréable:- Le fusain, bâtonnet de bois carbonisé, qui donne des effets moins durs que le crayon. 
+
+xxxxxxx>  donner{V|mod}		effet{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  donner{V|mod}		effet{NC|obj}		dur{ADJ|mod}		
+
+
+102|509) Penser également au produit, vendu en aérosol, pour fixer vos dessins. 
+
+xxxxxxx>  à{P+D|a_obj}		produit{NC|obj}		,{PONCT|ponct}		
+
+
+xxxxxxx>  à{P+D|a_obj}		produit{NC|obj}		vendre{VPP|mod}		
+
+
+103|511) Chaque outil demande ou permet d' explorer des effets, dans ce cas la pratique nous dira ce qui nous convient. 
+
+xxxxxxx>  explorer~pratique{VINF~NC|obj~obj}		effet{NC|obj}		de{DET|det}		
+
+
+104|513) J' ai déjà rédigé mes séquences / séances dans les deux niveaux, par contre je bloque un_peu sur la description de ma séance choisie( principaux engrais + consquences sur l' environnement( eutrophisation, effet de serre... 
+
+xxxxxxx>  environnement{NC|obj}		effet{NC|mod}		de{P|dep}		
+
+
+105|528) même_si cette partie parle de la Consommation Domestique) ou dans la partie 3.4.1 Risques Chimiques( si on ne parles pas de produits chimiques et de leurs risques sur la santé dans la partie scientifique et technique alors c' est que je ne maîtrise plus du tout le sujet). 
+
+xxxxxxx>  de{P|de_obj}		produit{NC|obj}		chimique{ADJ|mod}		
+
+
+106|547) Vous devez en effet être sûr de ce que vous allez tracer. 
+
+107|554) à raison de deux heures par semaine( au_moins), vous devriez avoir rapidement de bons résultats. 
+
+xxxxxxx>  à{P|mod}		raison{NC|obj}		de{P|dep}		
+
+
+xxxxxxx>  à{P|mod}		raison{NC|obj}		){PONCT|ponct}		
+
+
+xxxxxxx>  avoir{VINF|obj}		résultat{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  avoir{VINF|obj}		résultat{NC|obj}		bon{ADJ|mod}		
+
+
+108|554) à raison de deux heures par semaine( au_moins), vous devriez avoir rapidement de bons résultats. 
+
+xxxxxxx>  à{P|mod}		raison{NC|obj}		de{P|dep}		
+
+
+xxxxxxx>  à{P|mod}		raison{NC|obj}		){PONCT|ponct}		
+
+
+xxxxxxx>  avoir{VINF|obj}		résultat{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  avoir{VINF|obj}		résultat{NC|obj}		bon{ADJ|mod}		
+
+
+109|566) Bref, dans notre quête à la sportive, pour des raisons de praticité et de budget, nous nous sommes donc décidés pour la C3RS, qui est, je pense, une des meilleures productions actuelles de Renault au niveau tenue de route, finition, performances et sex-appeal! 
+
+xxxxxxx>  pour{P|arg}		raison{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  pour{P|arg}		raison{NC|obj}		de{P|dep}		
+
+
+110|569) Au niveau conduite, on est tout_de_suite séduit pour sa maniabilité( on se croirait presque dans un kart), sa tenue de route impériale sur petite route ou sur autoroute et son bruit enchanteur qui se déchaîne passer 5000 tr / min. 
+
+111|573) Venant de véhicules mazout coupleux, j'ai été très agréablement surpris par la disponibilité et la stabilité du moteur à bas régime. 
+
+112|575) Par_la_suite, dès 5000 tr/ min, les choses sérieuses commencent, le moteur change de visage et le décaleur arbre à cames fait son office, on ressent alors une forte poussée et une montée en régime qui semble inépuisable dans une mélodie enivrante. 
+
+xxxxxxx>  changer{V|mod}		moteur{NC|suj}		le{DET|det}		
+
+
+113|575) Par_la_suite, dès 5000 tr/ min, les choses sérieuses commencent, le moteur change de visage et le décaleur arbre à cames fait son office, on ressent alors une forte poussée et une montée en régime qui semble inépuisable dans une mélodie enivrante. 
+
+xxxxxxx>  changer{V|mod}		moteur{NC|suj}		le{DET|det}		
+
+
+114|577) Pour le chapitre intérieur, la finition est très bonne sur cette Clio3, le tableau de bord est moderne et l'ergonomie des commandes a été bien travaillée( notamment en comparaison de la Mégane 2). 
+
+xxxxxxx>  en{P|ats}		comparaison{NC|obj}		de{P|dep}		
+
+
+115|583) - Le balancier est de type« lyre» avec un motif émaillé blanc sur fond vert. 
+
+xxxxxxx>  avec{P|mod}		motif{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  avec{P|mod}		motif{NC|obj}		émailler{VPP|mod}		
+
+
+116|597) Lors_de l' apprentissage, on apprend à placer correctement ses mains et ses bras( ce sont nos" surfaces motrices") par_rapport_à l' eau pour être de_plus_en_plus efficace. 
+
+117|613) Les étapes de nucléation et de croissance ont été étudiées en détail en faisant varier des paramètres expérimentaux tels que la concentration de sodium dans la source mais aussi la température du gaz porteur hélium. 
+
+xxxxxxx>  dans{P|dep}		source{NC|obj}		le{DET|det}		
+
+
+118|615) Manipulations cohérentes d' atomes uniques dans des pinces optiques Utilisation de fullerènes pour le profilage en profondeur de polymères Ionisation thermoïonique et fragmentation d' agrégats: une étude par imagerie Vers la réalisation d' un laser à atomes Caractérisation de sources attosecondes et photoassociation de molécules froides Photoassociation d' atomes alcalino- terreux ultrafroids dans un réseau optique Contrôle optique de phonons cohérents dans le bismuth Dynamique d' atomes et de molécules soumis à des champs lasers intenses et brefs Size-Specific Reactivity of Metal Clusters. 
+
+xxxxxxx>  de{P|dep}		source{NC|obj}		attoseconde{NC|mod}		
+
+
+119|616) Cross Section Measurements and Identification of Chemisorbed Species Effet du rayonnement ionisant sur des biomolécules adsorbées sur des nanoparticules d' or Spectroscopie photoassociative des états moléculaires faiblement liés du rubidium: Analyse par la méthode de Lu-Fano.Étude de la réalisation d' une lentille à atomes Electron interferometry with nano gratings Photodissociation de molecules biologiques en phase gazeuse: quel lien avec la conformation? 
+
+120|617) Méthodes de mécanique quantique pour la nanophotonique Incorporation d' effets d' énergie de point zéro dans des méthodes de dynamique classique et mixte classique-quantique Interactions dipolaires dans un gaz quantique 
+
+xxxxxxx>  de{P|dep}		effet{NC|obj}		de{P|dep}		
+
+
+121|622) La commune est ensuite dévastée par plusieurs incendies: le 19 avril 1803, 27 maisons, 12 granges et 14 écuries; 
+
+122|625) à tout_de_suite sur Cash Generation Pro! 
+
+123|626) Glaucome: formes et aides visuelles- Essilor Progressivement, une perte de la vision périphérique apparaît dans un premier temps et centrale ensuite... 
+
+124|628) samedi 31 mars 2007 Semaine du Développement Durable: 1er au 7 avril 2007 Par Autourdubio vendredi 30 mars 2007 Des décharges de l' industrie chimique suisse très dangereuses pour l' environnement Par Autourdubio Sineo: un laveur de voiture écolo Par Autourdubio jeudi 29 mars 2007 L' Antipode Café: quand spectacle rime avec commerce équitable Par Autourdubio mercredi 28 mars 2007 Une étude montre encore les bienfaits des produits de l' agriculture bio Par Autourdubio lundi 26 mars 2007 Anémone, la comédienne, apporte son soutien au combat contre les OGM Par Autourdubio dimanche 25 mars 2007 Le Peuple des Dunes mobilise contre l' extraction du sable du Morbihan Par Autourdubio samedi 24 mars 2007 Les régions et la protection de l' environnement Par Autourdubio vendredi 23 mars 2007 Nicolas Hulot s' est fait avoir par les candidats à la présidentielle? 
+
+xxxxxxx>  de{P+D|dep}		produit{NC|obj}		de{P|dep}		
+
+
+125|642) Délai de livraison: 6 mois. 
+
+126|662) ( Source: Nager + Toute la natation. 
+
+127|665) J' ai été séduit par sa ligne, son look très 70' s, son palmarès et bien_sûr j' ai été envoûté par son moteur! 
+
+xxxxxxx>  par{P|p_obj}		moteur{NC|obj}		son{DET|det}		
+
+
+128|669) Ensuite le comportement: J' ai été bluffé! 
+
+129|670) Enfin le moteur: La sonorité est très sympa, grave au ralenti, rauque et métallique dans les tours. 
+
+xxxxxxx>  être~grave{V~ADJ|root~ats}		moteur{NC|mod}		le{DET|det}		
+
+
+130|671) Alpine a fait un super boulot sur le moteur, pour en tirer le maxi, il ne faut pas hésiter à taper dedans, il adore ça et en redemande même! 
+
+xxxxxxx>  sur{P|mod}		moteur{NC|obj}		le{DET|det}		
+
+
+131|678) La Redoute Médiacible 57, Rue de Blanchemaille 59082 Roubaix Cedex 2 FRANCE Tel.: 03_20_69_63_28 Fax: 03_20_24_91_34 Contact: ndelattr@redoute.fr( Mr Lionel OBIN) Description ORIGINE: Presse, catalogues, mailing, internet, parrainage. 
+
+132|679) Thèmes pour ce fichier Enfant- Famille- Habillement- Haut de gamme- Textile- Vente par correspondance- Vestimentaire Demande d' information LETTRA SYSTEME SA, au capital de 72.000 E- 41, rue Perier 92120 Montrouge- France Tél: 01.46.55.66.66- Fax: 01.46.55.88.14 immatricule au RCS de Nanterre sous le numéro B 348_029_802 Mentions Légales Nos autres produits: newsletter- emailing liens: recherche fichiers- recherche une société- actualités- déposer un appel d' offres- modifier un appel d' offres- comptage- liens utiles- s' abonner au gfm- commander le guide- offres d' emploi- se référencer sur le gfm- lire les appels d' offres gfm- s' abonner aux appels d' offres gfm- déposer vos communiqués- infos publicités- nous contacter 
+
+xxxxxxx>  numéro~recherche{NC~NC|obj~mod}		produit{NC|mod}		son{DET|det}		
+
+
+xxxxxxx>  numéro~recherche~lien{NC~NC~NC|obj~mod~mod}		produit{NC|mod}		autre{ADJ|mod}		
+
+
+133|682) Les tarifs des services varient en_fonction_des ressources du bénéficiaire. 
+
+xxxxxxx>  en_fonction_de{P|mod}		ressource{NC|obj}		de{P+D|dep}		
+
+
+134|693) Outre les classiques stands propres à tous les forums installés dans les salles de cours vidées pour l' occasion, les entreprises partenaires sont intervenues dans 3 table-rondes axées" métiers": Les télécoms au coeur de tous les métiers Les activités d' un ingénieur informaticien dans l' entreprise à l' embauche Les différents métiers de l' ingénieur financier En parallèle, le service information-emploi du groupe Grenoble INP a présenté les résultats de la dernière enquête 1er emploi de la Conférence des Grandes Écoles, ainsi_que les différents services offerts aux étudiants et aux jeunes diplômés de l' école. 
+
+xxxxxxx>  présenter{VPP|root}		résultat{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  présenter{VPP|root}		résultat{NC|obj}		de{P|dep}		
+
+
+135|697) Heureusement, ensuite tour redevient normal et l' opération peut reprendre normalement. 
+
+136|701) Age: 17 Inscrit le: 14 Oct 2005 Messages: 560 Humeur: Aucun pour le moment Bons amis: Johnny00, Jonas Quinn Sujet: Re: Repartit Dim 10 Sep- 17: 50 Pour info c est moi la source lol et donc je reprend car sheppard a tres mal compris! 
+
+137|706) ! Ewen Wild Sergent Age: 14 Inscrit le: 05 Jan 2006 Messages: 3242 Feuille de personnage Age du perso: 26 ans Expérience: Vétéran du Forum Barres de grades:( 3/10) Sujet: Re: Repartit Dim 10 Sep- 17: 53 Lui il sait tous ^^ donc quand je prend les sources de chez lui, la plus part du temps c' est vrai ^^. 
+
+xxxxxxx>  prendre~part{V~NC|obj~obj}		source{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  prendre~part{V~NC|obj~obj}		source{NC|obj}		de{P|dep}		
+
+
+138|711) Je regarde ça tout_de_suite monsieur. 
+
+139|717) Le 25 mars 2004 ont été, en effet, inaugurés par S. 
+
+xxxxxxx>  en{P|mod}		effet{NC|obj}		,{PONCT|ponct}		
+
+
+xxxxxxx>  en{P|mod}		effet{NC|obj}		inaugurer{VPP|mod}		
+
+
+140|724) Les élèves contrôlent ainsi la croissance des plantes par_rapport_à des facteurs définis( température, lumière, etc.). 
+
+xxxxxxx>  par_rapport_à{P|mod}		facteur{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  par_rapport_à{P|mod}		facteur{NC|obj}		définir{VPP|mod}		
+
+
+xxxxxxx>  par_rapport_à{P|mod}		facteur{NC|obj}		({PONCT|ponct}		
+
+
+xxxxxxx>  par_rapport_à{P|mod}		facteur{NC|obj}		température{NC|mod}		
+
+
+xxxxxxx>  par_rapport_à{P|mod}		facteur{NC|obj}		,{PONCT|ponct}		
+
+
+xxxxxxx>  par_rapport_à{P|mod}		facteur{NC|obj}		lumière{NC|mod}		
+
+
+xxxxxxx>  par_rapport_à{P|mod}		facteur{NC|obj}		,{PONCT|ponct}		
+
+
+xxxxxxx>  par_rapport_à{P|mod}		facteur{NC|obj}		etc.{ADV|mod}		
+
+
+xxxxxxx>  par_rapport_à{P|mod}		facteur{NC|obj}		){PONCT|ponct}		
+
+
+141|745) On appelle séquence d' entiers une suite finie ordonnée d' entiers relatifs. 
+
+xxxxxxx>  appeler{V|root}		suite{NC|mod}		un{DET|det}		
+
+
+xxxxxxx>  appeler~séquence{V~NC|root~obj}		suite{NC|mod}		finir{VPP|mod}		
+
+
+xxxxxxx>  appeler~séquence{V~NC|root~obj}		suite{NC|mod}		ordonner{VPP|mod}		
+
+
+142|756) On décide de réaliser le type abstrait séquence par un type produit formé d' un tableau contenant les éléments de la séquence et d' un entier contenant le nombre_d' éléments de la séquence. 
+
+143|762) E remettre en marche une 525I E34« le: Octobre 14, 2007, 08: 51: 24» Bonjour a tous, j' ai une 525I e34 moteur cassé, je pense à une bielle cassé, le moteur tourne mais fait un bruit infernal et ne tire plus rien, la distri, galet pompe a eau, joints de queue de soupapes, joint de cullassesont neuf, la voiture à 340 000km le ct et quasi vierge, elle est vert int velour beige. 
+
+xxxxxxx>  525I{NC|obj}		moteur{NC|mod}		casser{ADJ|mod}		
+
+
+xxxxxxx>  tourner{V|mod}		moteur{NC|suj}		le{DET|det}		
+
+
+144|762) E remettre en marche une 525I E34« le: Octobre 14, 2007, 08: 51: 24» Bonjour a tous, j' ai une 525I e34 moteur cassé, je pense à une bielle cassé, le moteur tourne mais fait un bruit infernal et ne tire plus rien, la distri, galet pompe a eau, joints de queue de soupapes, joint de cullassesont neuf, la voiture à 340 000km le ct et quasi vierge, elle est vert int velour beige. 
+
+xxxxxxx>  525I~e34{NC~ADJ|obj~mod}		moteur{NC|mod}		casser{ADJ|mod}		
+
+
+xxxxxxx>  tourner{V|mod}		moteur{NC|suj}		le{DET|det}		
+
+
+145|763) dimanche 31 décembre 2006 Un prix d' encouragement attribué par Bio Suisse Par Autourdubio samedi 30 décembre 2006 Inscription sur les listes électorales: dernier jour Par Autourdubio vendredi 29 décembre 2006 L' éco- participation: une taxe pour développer le recyclage Par Autourdubio jeudi 28 décembre 2006 Comment les riches détruisent la planète: un livre de Hervé Kempf Par Autourdubio mercredi 27 décembre 2006 La fonte des glaces une question brûlante: thème de la Journée mondiale de l' environnement 2007 Par Autourdubio mardi 26 décembre 2006 Un site consacré aux recettes bio Par Autourdubio lundi 25 décembre 2006 Le lycée Kyoto de Poitiers, exemplaire en matière environnementale Par Autourdubio dimanche 24 décembre 2006 L' Union Européenne peut et doit sortir l' agriculture biologique des 1 % de la production totale Par Autourdubio samedi 23 décembre 2006 La ministre de l' écologie et du développement durable crée un pôle consacré à l' emploi environnemental Par Autourdubio vendredi 22 décembre 2006 Pacte écologique de Nicolas Hulot: Arlette Laguiller ne le signera pas Par Autourdubio jeudi 21 décembre 2006 L' impact des haies sur les pratiques agricoles, la biodiversité et le paysage Par Autourdubio mercredi 20 décembre 2006 Les sapins de Noël contribueraient à préserver l' environnement Par Autourdubio mardi 19 décembre 2006 Valeur nutritive plus élevée pour les produits bio Par Autourdubio lundi 18 décembre 2006 Concert" Water for Life" de J.M. Jarre, dans les dunes de Merzouga au Maroc Par Autourdubio dimanche 17 décembre 2006 laroueverte.com: un site dédié au covoiturage régulier Par Autourdubio samedi 16 décembre 2006 Elections aux Chambres d' agriculture en janvier: quelle représentativité syndicale? 
+
+xxxxxxx>  signer~sapin{V~NC|mod~suj}		impact{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  signer~sapin~mercredi{V~NC~NC|mod~suj~mod}		impact{NC|obj}		de{P+D|dep}		
+
+
+xxxxxxx>  signer~sapin~mercredi{V~NC~NC|mod~suj~mod}		impact{NC|obj}		sur{P|dep}		
+
+
+xxxxxxx>  signer~sapin~mercredi~jeudi{V~NC~NC~NC|mod~suj~mod~mod}		impact{NC|obj}		,{PONCT|coord}		
+
+
+$$$$$$$>  signer~sapin~mercredi~jeudi{V~NC~NC~NC|mod~suj~mod~mod}		impact{NC|obj}		et{CC|coord}		
+
+
+xxxxxxx>  pour{P|mod}		produit{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  pour{P|mod}		produit{NC|obj}		bio{ADJ|mod}		
+
+
+146|763) dimanche 31 décembre 2006 Un prix d' encouragement attribué par Bio Suisse Par Autourdubio samedi 30 décembre 2006 Inscription sur les listes électorales: dernier jour Par Autourdubio vendredi 29 décembre 2006 L' éco- participation: une taxe pour développer le recyclage Par Autourdubio jeudi 28 décembre 2006 Comment les riches détruisent la planète: un livre de Hervé Kempf Par Autourdubio mercredi 27 décembre 2006 La fonte des glaces une question brûlante: thème de la Journée mondiale de l' environnement 2007 Par Autourdubio mardi 26 décembre 2006 Un site consacré aux recettes bio Par Autourdubio lundi 25 décembre 2006 Le lycée Kyoto de Poitiers, exemplaire en matière environnementale Par Autourdubio dimanche 24 décembre 2006 L' Union Européenne peut et doit sortir l' agriculture biologique des 1 % de la production totale Par Autourdubio samedi 23 décembre 2006 La ministre de l' écologie et du développement durable crée un pôle consacré à l' emploi environnemental Par Autourdubio vendredi 22 décembre 2006 Pacte écologique de Nicolas Hulot: Arlette Laguiller ne le signera pas Par Autourdubio jeudi 21 décembre 2006 L' impact des haies sur les pratiques agricoles, la biodiversité et le paysage Par Autourdubio mercredi 20 décembre 2006 Les sapins de Noël contribueraient à préserver l' environnement Par Autourdubio mardi 19 décembre 2006 Valeur nutritive plus élevée pour les produits bio Par Autourdubio lundi 18 décembre 2006 Concert" Water for Life" de J.M. Jarre, dans les dunes de Merzouga au Maroc Par Autourdubio dimanche 17 décembre 2006 laroueverte.com: un site dédié au covoiturage régulier Par Autourdubio samedi 16 décembre 2006 Elections aux Chambres d' agriculture en janvier: quelle représentativité syndicale? 
+
+xxxxxxx>  signer~sapin~mercredi~jeudi{V~NC~NC~NC|mod~suj~mod~mod}		impact{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  signer~sapin~mercredi~jeudi{V~NC~NC~NC|mod~suj~mod~mod}		impact{NC|obj}		de{P+D|dep}		
+
+
+xxxxxxx>  signer~sapin~mercredi~jeudi{V~NC~NC~NC|mod~suj~mod~mod}		impact{NC|obj}		sur{P|dep}		
+
+
+xxxxxxx>  signer~sapin~mercredi~jeudi{V~NC~NC~NC|mod~suj~mod~mod}		impact{NC|obj}		,{PONCT|coord}		
+
+
+$$$$$$$>  signer~sapin~mercredi~jeudi{V~NC~NC~NC|mod~suj~mod~mod}		impact{NC|obj}		et{CC|coord}		
+
+
+xxxxxxx>  pour{P|mod}		produit{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  pour{P|mod}		produit{NC|obj}		bio{ADJ|mod}		
+
+
+147|764) Par Autourdubio vendredi 15 décembre 2006 Les Verts veulent soutenir les caisses des écoles favorisant le bio Par Autourdubio jeudi 14 décembre 2006 Création du Centre international d' études supérieures en sciences agronomiques et de l' Institut des sciences et industries du vivant et de l' environnement Par Autourdubio mercredi 13 décembre 2006 Législation sur les OGM: la France risque des sanctions Par Autourdubio mardi 12 décembre 2006 Un comité pour préparer la conférence internationale sur l' environnement Par Autourdubio lundi 11 décembre 2006 Un impôt environnemental en Chine Par Autourdubio dimanche 10 décembre 2006 La Région Aquitaine ne subventionnera plus les entreprises fabriquant des produits étiquetés OGM Par Autourdubio samedi 9 décembre 2006 Greenpeace publie sa deuxième version du classement pour une high-tech responsable Par Autourdubio vendredi 8 décembre 2006 Collaboration renforcée entre le ministère de l' écologie et du développement durable et le CNRS Par Autourdubio jeudi 7 décembre 2006 Éthique de l' environnement et politique internationale: une publication de l' UNESCO Par Autourdubio mercredi 6 décembre 2006 Des catamarans écolos Par Autourdubio mardi 5 décembre 2006 L' économie du recyclage en plein boom Par Autourdubio lundi 4 décembre 2006 Le Projet REACH bientôt adopté par l' Union Européenne Par Autourdubio samedi 2 décembre 2006 Les huiles végétales pures bientôt utilisables comme biocarburant Par Autourdubio France Libertés a organisé les Rencontres internationales pour le droit d' accès à l' eau Par Autourdubio vendredi 1 décembre 2006 Cancer et incinérateur: le lien semble bien exister 
+
+xxxxxxx>  fabriquer{VPR|mod}		produit{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  fabriquer{VPR|mod}		produit{NC|obj}		étiqueter{VPP|mod}		
+
+
+148|765) Devenu la référence du marché, Solius désormais des avantages de l' Anti- Salissures Process qui préserve les murs et l' appareil des effets de la dégradation de la qualité de l' air CARACTERISTIQUES Horizontal de 750 à 2000 w. 
+
+xxxxxxx>  de{P+D|dep}		effet{NC|obj}		de{P|dep}		
+
+
+149|766) Nota: l' installation de la gamme verticale est déconseillée à des altitudes supérieures à 1000 m. ZOOM ATLANTIC Modèle: TATOU ASP Catégorie: PANNEAUX RAYONNANTS CLASSIQUES VOIR LES TARIFS Voir et choisir un produit de cette gamme en_fonction_de ses caractéristiques:- Puissance- Couleur- Prix- Autres caractéristiques LE TOUT CONFORT CONTEMPORAIN Tatou a la taille fine et ses courbes sont déliées. 
+
+xxxxxxx>  choisir{VINF|dep_coord}		produit{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  choisir{VINF|dep_coord}		produit{NC|obj}		de{P|dep}		
+
+
+150|767) La version ASP de Tatou est particulièrement innovante puisqu' elle a été conçue avec le process anti- salissures et offre ainsi une garantie contre les effets pervers liés à la dégradation de la qualité de l' air. 
+
+xxxxxxx>  contre{P|mod}		effet{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  contre{P|mod}		effet{NC|obj}		pervers{ADJ|mod}		
+
+
+xxxxxxx>  contre{P|mod}		effet{NC|obj}		lier{VPP|mod}		
+
+
+151|777) Je m' engage par_ailleurs, à ce que les résultats de cette recherche vous soit accessible d'_ici 12 à 18 mois. 
+
+xxxxxxx>  être~accessible{VS~ADJ|mod_rel~ats}		résultat{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  être~accessible{VS~ADJ|mod_rel~ats}		résultat{NC|suj}		de{P|dep}		
+
+
+152|778) Dans le cas où vous souhaiteriez apparaître comme partenaires dans la mise en oeuvre de cette recherche, veuillez m' en faire part car je prévois de lister ceux-ci lors_des remerciements préalables à la présentation des résultats. 
+
+153|787) Il fallait ensuite trouver des financements... 
+
+154|791) on tape la discussion autour_d' un moteur et pour certains on roulera avec pendant le reste du Trophy. 
+
+xxxxxxx>  autour_de{P|dep}		moteur{NC|obj}		un{DET|det}		
+
+
+155|795) Eh oui, il faut savoir se servir d' une boussole, et ne jamais l' utiliser dans l' habitacle, sinon le Nord pointe sur le moteur! 
+
+xxxxxxx>  sur{P|dep}		moteur{NC|obj}		le{DET|det}		
+
+
+156|797) Il fallait ensuite passer au ravitaillement essence, manger, vérifier l' état mécanique de la voiture qui souffre la journée, et pour les moins chanceux, passer au stand méca. 
+
+157|803) Pour les curieux, voici la liste de nos problèmes mécaniques( dans la moyenne haute des participants du Trophy): une surchauffe moteur( extinction et mise en roue libre dans le périphérique de Madrid... 
+
+158|833) Leur étude sur des gliobliastomas sont financés par les instituts nationaux de la santé et les résultats sont publiés en couverture du numéro de septembre de la revue américaine NATURE. 
+
+$$$$$$$>  et{CC|coord}		résultat{NC|dep_coord}		le{DET|det}		
+
+
+159|837) SOURCE: Université Médicale De New York 
+
+160|849) www.atoutimo.fr immoprestation recherche de bien immobilier pour les particuliers www.immoprestation.com Exclusive Immo Immobilier dans le Var: vente de maisons, appartements et terrains en Provence www.exclusive-immo.com Immobilier Lot et Garonne et Agen- Brigitte Basquet Conseil immobilier en Lot et Garonne une spécialiste dans_le_domaine_de l' immobilier sur Agen Brigitte Basquet www.winners-immo.com Publication D' annonces Immobiliere Gratuite Publication gratuite d' annonces immobilieres de particuliers annonces-immobiliere.monsite.wanadoo.fr Defiscalisation Immobiliere: Produit De Defiscalisation En Loi Robien Et Loi Gi Defiscalisation immobiliere en loi robien et loi girardin: programmes d investissement immobilier en loi robien et loi girardin. 
+
+161|854) En Espagne, le lycée français d' Alicante obtient 100 % de réussite dans les séries L et S, tandis_que le lycée Molière de Saragosse obtient un résultat identique dans les séries S et ES. 
+
+xxxxxxx>  obtenir{V|obj}		résultat{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  obtenir~lycée{V~NC|obj~suj}		résultat{NC|obj}		identique{ADJ|mod}		
+
+
+162|855) Le taux de réussite est remonté de 17,78 points au groupe scolaire Jean-Charcot d' El Jadida, Brevet des collèges 7 établissements ont amélioré leurs résultats par_rapport_à l' an dernier: ceux d' Alicante, de Murcie, de Dallas, de Nabatieh et d' Alep. 
+
+xxxxxxx>  améliorer{VPP|mod}		résultat{NC|obj}		son{DET|det}		
+
+
+163|866) Je commence: Apéritif: Je suis pas trop alcool mais je ne suis pas contre un cocktail de jus de fruit un_peu alcoolisé; 
+
+xxxxxxx>  de{P|dep}		fruit{NC|obj}		alcooliser{ADJ|mod}		
+
+
+164|867) RESULTATS DES PARIS DU GRENIER DU 6 JUIN 2007( 06/06/2007 publié dans: LES PARIS DU GRENIER) Epreuve de NAD: la bonne réponse attendue était Goldie Hawn Epreuve de FAB: la bonne réponse attendue était Montpellier Suite à divers remarques nous avons décidé de faire gagner toutes les bonnes réponses. 
+
+165|870) NIVEAU DE DIFFICULTE: 3 LES PARIS DU GRENIER: NAD COLLECTOR DU 6 JUIN( 06/06/2007 publié dans: LES PARIS DU GRENIER) En 1986, Yves Renier a sorti une chanson intitulée P.C.V. Suite à sa rupture avec qu' elle comedienne a t' il chanté cette chanson? 
+
+166|890) MON ACTEUR PREFERE SUITE( 02/06/2007 publié dans: CINEMA) Voilà donc vous avez trouvé qui était mon acteur préféré, c' était pas super facile à trouver je le reconnais. 
+
+167|903) s' alimenter sainement avec des produits bio Par Nath- aucun commentaire mercredi 14 novembre 2007 Le mariage écolo ou mariage bio, c' est tendance! 
+
+xxxxxxx>  avec{P|mod}		produit{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  avec{P|mod}		produit{NC|obj}		bio{ADJ|mod}		
+
+
+xxxxxxx>  avec{P|mod}		produit{NC|obj}		par{P|dep}		
+
+
+xxxxxxx>  avec{P|mod}		produit{NC|obj}		-{PONCT|ponct}		
+
+
+xxxxxxx>  avec{P|mod}		produit{NC|obj}		commentaire{NC|mod}		
+
+
+168|904) pour le moment Par Nath- aucun commentaire vendredi 9 novembre 2007 L' huile de palme: une bombe climatique à retardement Par Nath- 2 commentaires Le réchauffement climatique affectera les côtes africaines Par Nath- 2 commentaires jeudi 8 novembre 2007 Energio, un bureau d' étude pour la réalisation d' économies d' eau et d' énergie Par Nath- un commentaire Le sens des désirs alimentaires, séminaire d' Olivier Soulier Par Nath- aucun commentaire Jeu vidéo Ushuaïa:" A la poursuite des biotrafiquants" Par Nath- aucun commentaire jeudi 1 novembre 2007 Semaine de la Réduction des Déchets du 3 au 11 novembre 2007 
+
+xxxxxxx>  A{P|mod}		poursuite{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  A{P|mod}		poursuite{NC|obj}		de{P+D|dep}		
+
+
+xxxxxxx>  A{P|mod}		poursuite{NC|obj}		"{PONCT|ponct}		
+
+
+xxxxxxx>  A{P|mod}		poursuite{NC|obj}		par{P|dep}		
+
+
+169|910) Il est un des plus grands de la Gaule, tout_de_suite après celui d' Autun avec ses 42 rangées de gradins sur 130 mètres de diamètre et 13000 personnes peuvent s' y installer. 
+
+170|911) Ce qui se produit régulièrement quand il accueille le Festival de Jazz. 
+
+xxxxxxx>  ce{PRO|root}		produire{V|mod_rel}		qui{PROREL|suj}		
+
+
+xxxxxxx>  ce{PRO|root}		produire{V|mod_rel}		se{CLR|aff}		
+
+
+xxxxxxx>  ce{PRO|root}		produire{V|mod_rel}		régulièrement{ADV|mod}		
+
+
+xxxxxxx>  ce{PRO|root}		produire{V|mod_rel}		quand{CS|mod}		
+
+
+171|926) à croire qu' il_y_a un loup en cadeau à chaque livraison de sable... 
+
+xxxxxxx>  à{P|mod}		livraison{NC|obj}		chaque{DET|det}		
+
+
+xxxxxxx>  à{P|mod}		livraison{NC|obj}		de{P|dep}		
+
+
+172|932) Nous l' avons choisi blanche et sans option aucune, la Fiesta réunit déjà un équipement particulièrement fourni d' origine. 
+
+173|934) Son moteur sonore et vif était accouplé à une boite de vitesse pas très bien étagée et son châssis était loin_de la rigueur de certains autres. 
+
+xxxxxxx>  accoupler{VPP|root}		moteur{NC|suj}		son{DET|det}		
+
+
+xxxxxxx>  accoupler{VPP|root}		moteur{NC|suj}		sonore{ADJ|mod}		
+
+
+174|935) à cette époque bénie( en 1989), tu pouvais te payer une voiture de course abordable avec un vrai châssis, un moteur de compétition et une boite vitesses ad hoc( c' était d'_ailleurs tout ce qu' avait la Rallye! 
+
+xxxxxxx>  payer{VINF|obj}		moteur{NC|mod}		un{DET|det}		
+
+
+xxxxxxx>  payer~voiture{VINF~NC|obj~obj}		moteur{NC|mod}		de{P|dep}		
+
+
+$$$$$$$>  payer~voiture{VINF~NC|obj~obj}		moteur{NC|mod}		et{CC|coord}		
+
+
+175|936) Roadster à 2 places, long museau et arrière râblé, son moteur était une pièce de choix avec son double visage. 
+
+xxxxxxx>  être~pièce{V~NC|root~obj}		moteur{NC|suj}		son{DET|det}		
+
+
+176|943) Le moteur est coupleux et souple, avec un travail réussi de l' échappement chatouillant agréablement les tympans. 
+
+xxxxxxx>  être~coupleux{V~ADJ|root~ats}		moteur{NC|suj}		le{DET|det}		
+
+
+177|944) En_revanche le niveau sonore s' avère élevé, surtout moteur chaud. 
+
+xxxxxxx>  chaud{ADJ|mod}		moteur{ADJ|mod}		surtout{ADV|mod}		
+
+
+178|945) Souple et avenant, le moteur se plie à toutes les volontés de son conducteur, mais réserve des surprises si on vient le chercher. 
+
+xxxxxxx>  plier{V|root}		moteur{NC|suj}		le{DET|det}		
+
+
+179|948) Elle est, à mon sens, une des évolutions actuelles la plus cohérente des GTI: Châssis/ moteur/ boite réussis, prix contenu au regard de l' équipement. 
+
+180|952) Remarque: IDVI est un outil qui permet de présenter des documents WWW à_partir_de sources LaTeX. 
+
+xxxxxxx>  à_partir_de{P|mod}		source{NC|obj}		LaTeX{NPP|mod}		
+
+
+181|953) Remarque: le package' html' permet d' insérer dans le source LaTeX des commandes traitées de manière spéciale par le convertisseur latex2html. 
+
+xxxxxxx>  dans{P|mod}		source{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  dans{P|mod}		source{NC|obj}		LaTeX{NPP|mod}		
+
+
+xxxxxxx>  dans{P|mod}		source{NC|obj}		de{P+D|dep}		
+
+
+182|954) * Il est possible également d' utiliser hyperlatex, qui produit des documents HTML plus jolis pour peu que votre source LaTeX suive certaines conventions. 
+
+xxxxxxx>  utiliser{VINF|obj}		produire{V|mod}		qui{PROREL|suj}		
+
+
+------->  utiliser{VINF|obj}		produire{V|mod}		document{NC|obj}		
+
+
+xxxxxxx>  utiliser{VINF|obj}		produire{V|mod}		pour{P|mod}		
+
+
+xxxxxxx>  utiliser{VINF|obj}		produire{V|mod}		que{CS|obj}		
+
+
+183|954) * Il est possible également d' utiliser hyperlatex, qui produit des documents HTML plus jolis pour peu que votre source LaTeX suive certaines conventions. 
+
+xxxxxxx>  utiliser{VINF|obj}		produire{V|mod}		qui{PROREL|suj}		
+
+
+------->  utiliser{VINF|obj}		produire{V|mod}		document{NC|obj}		
+
+
+xxxxxxx>  utiliser{VINF|obj}		produire{V|mod}		pour{P|mod}		
+
+
+xxxxxxx>  utiliser{VINF|obj}		produire{V|mod}		que{CS|obj}		
+
+
+184|955) Pour plus de détails, voir: http://www.cis.ohio- state.edu_/_~gurari_/_TeX4ht_/_mn.html * HeVeA est un programme gratuit destiné à transformer un source LaTeX en HTML 4.0. 
+
+xxxxxxx>  transformer{VINF|obj}		source{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  transformer{VINF|obj}		source{NC|obj}		LaTeX{NPP|mod}		
+
+
+185|957) Donc toutes les nouvelles macros, tous les environnements que l' on peut définir sont correctement interprétés, que l' on peut charger des fichiers de style exotiques, etc. si l' on désire obtenir un résultat particulier dans la sortie HTML. 
+
+xxxxxxx>  obtenir{VINF|obj}		résultat{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  obtenir{VINF|obj}		résultat{NC|obj}		particulier{ADJ|mod}		
+
+
+186|961) Carlisle permet de gérer des documents HTML directement depuis le source LaTeX. 
+
+xxxxxxx>  depuis{P|mod}		source{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  depuis{P|mod}		source{NC|obj}		LaTeX{NPP|mod}		
+
+
+187|968) En effet, ceci m' a permis de bénéficier de très bons professeurs au conservatoire de Grenoble( Conservatoire National de région- CNR) et d' infracstructures adaptées. 
+
+188|969) J' avais dû arrêter la musique pendant mes deux années de prépa., et ce statut m' a permis de retrouver très rapidement mon niveau et de progesser ensuite. 
+
+189|988) Situé à Oñati( Gipuzkoa), ville d' origine du groupe, il assure aussi une veille technologique et développe une nouvelle activité avec Ulma Ingenierie. 
+
+xxxxxxx>  de{P|dep}		origine{NC|obj}		de{P+D|dep}		
+
+
+190|989) Cette entité offre des solutions intégrées avec chargement automatique des produits, emballage, pesage / étiquetage, mise en caisse, palettisation / dé-palettisation et prise en_compte des besoins logistique des clients à_partir_de barquettes ou de cartons. 
+
+xxxxxxx>  de{P+D|dep}		produit{NC|obj}		,{PONCT|coord}		
+
+
+xxxxxxx>  de{P+D|dep}		produit{NC|obj}		,{PONCT|coord}		
+
+
+xxxxxxx>  de{P+D|dep}		produit{NC|obj}		,{PONCT|coord}		
+
+
+191|993) amélioration de la conservation par l' emballage), les emballages actifs, intelligents, le contrôle et régulation Informatique et communication basé sur des PC-Industriels embarqués, la traçabilité et technologie RFID, et la robotique et vision( développement de systèmes de manipulation automatique de produits, système de préhension, vision artificielle et contrôle qualité). 
+
+192|1008) Fatigue des yeux au travail: correction visuelle Essilor Fatigue des yeux au travail: correction visuelle EssilorTaille du texteRésultats: les yeux piquent, brûlent, rougissent, larmoient, des maux de tête surviennent Pour limiter ces désagréments au maximum, quelques précautions élémentaires s' imposent:... 
+
+193|1010) De bons résultats, en Suède, à_partir_de la capture de neutrons( BNCT) Les données préliminaires montrent de bons résultats à la clinique suédoise du BNCT de Studsvik 2002-06-25 14 patients avec les tumeurs malignes de cerveau de gliome( glioblastome) ont maintenant été contrôlés après 6 mois de traitement à la clinique suédoise de Studsvik qui applique le protocole européen BNCT. 
+
+xxxxxxx>  montrer~résultat{V~NC|root~obj}		résultat{NC|suj}		un{DET|det}		
+
+
+xxxxxxx>  montrer~résultat~donnée{V~NC~NC|root~obj~suj}		résultat{NC|suj}		bon{ADJ|mod}		
+
+
+xxxxxxx>  montrer~résultat~donnée{V~NC~NC|root~obj~suj}		résultat{NC|suj}		,{PONCT|ponct}		
+
+
+xxxxxxx>  montrer~résultat~donnée{V~NC~NC|root~obj~suj}		résultat{NC|suj}		en{P|dep}		
+
+
+xxxxxxx>  montrer~résultat~donnée{V~NC~NC|root~obj~suj}		résultat{NC|suj}		,{PONCT|ponct}		
+
+
+xxxxxxx>  montrer~résultat~donnée{V~NC~NC|root~obj~suj}		résultat{NC|suj}		à_partir_de{P|dep}		
+
+
+xxxxxxx>  montrer~résultat~donnée{V~NC~NC|root~obj~suj}		résultat{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  montrer~résultat~donnée{V~NC~NC|root~obj~suj}		résultat{NC|obj}		bon{ADJ|mod}		
+
+
+194|1010) De bons résultats, en Suède, à_partir_de la capture de neutrons( BNCT) Les données préliminaires montrent de bons résultats à la clinique suédoise du BNCT de Studsvik 2002-06-25 14 patients avec les tumeurs malignes de cerveau de gliome( glioblastome) ont maintenant été contrôlés après 6 mois de traitement à la clinique suédoise de Studsvik qui applique le protocole européen BNCT. 
+
+xxxxxxx>  montrer~résultat~donnée{V~NC~NC|root~obj~suj}		résultat{NC|suj}		un{DET|det}		
+
+
+xxxxxxx>  montrer~résultat~donnée{V~NC~NC|root~obj~suj}		résultat{NC|suj}		bon{ADJ|mod}		
+
+
+xxxxxxx>  montrer~résultat~donnée{V~NC~NC|root~obj~suj}		résultat{NC|suj}		,{PONCT|ponct}		
+
+
+xxxxxxx>  montrer~résultat~donnée{V~NC~NC|root~obj~suj}		résultat{NC|suj}		en{P|dep}		
+
+
+xxxxxxx>  montrer~résultat~donnée{V~NC~NC|root~obj~suj}		résultat{NC|suj}		,{PONCT|ponct}		
+
+
+xxxxxxx>  montrer~résultat~donnée{V~NC~NC|root~obj~suj}		résultat{NC|suj}		à_partir_de{P|dep}		
+
+
+xxxxxxx>  montrer~résultat~donnée{V~NC~NC|root~obj~suj}		résultat{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  montrer~résultat~donnée{V~NC~NC|root~obj~suj}		résultat{NC|obj}		bon{ADJ|mod}		
+
+
+195|1011) Les résultats en_ce_qui_concerne la survie prolongée ne peuvent pas_encore être évalués en_raison_du trop faible recul. 
+
+xxxxxxx>  pouvoir{V|root}		résultat{NC|suj}		le{DET|det}		
+
+
+196|1014) Dans la médecine nucléaire un certain nombre_de produits et de services sont assurés pour l' usage médical avec un raccordement nucléaire. 
+
+xxxxxxx>  médecine{NC|obj}		produit{NC|mod}		nombre_de{DET|det}		
+
+
+$$$$$$$>  médecine~certain{NC~ADJ|obj~mod}		produit{NC|mod}		et{CC|coord}		
+
+
+197|1016) La condition nécessaire est que les traitements de BNCT maintenant en marche chez Studsvik montre des résultats cliniques positifs, sous_forme_de meilleure qualité de la vie pour les patients. 
+
+xxxxxxx>  de{P+D|dep}		résultat{NC|obj}		clinique{ADJ|mod}		
+
+
+xxxxxxx>  de{P+D|dep}		résultat{NC|obj}		positif{ADJ|mod}		
+
+
+198|1020) Meme si la comparaison n' est peut-etre pas très romantique, le corps humain est comme un moteur qui va faire une course: chaque pièce doit au préalable travailler en douceur, monter en température, se" faire" l' une à l' autre, avant_de pouvoir fournir un potentiel important. 
+
+xxxxxxx>  être~romantique{V~ADJ|obj~ats}		comparaison{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  comme{P|ats}		moteur{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  comme{P|ats}		moteur{NC|obj}		aller{V|mod_rel}		
+
+
+199|1020) Meme si la comparaison n' est peut-etre pas très romantique, le corps humain est comme un moteur qui va faire une course: chaque pièce doit au préalable travailler en douceur, monter en température, se" faire" l' une à l' autre, avant_de pouvoir fournir un potentiel important. 
+
+xxxxxxx>  être~romantique{V~ADJ|obj~ats}		comparaison{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  comme{P|ats}		moteur{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  comme{P|ats}		moteur{NC|obj}		aller{V|mod_rel}		
+
+
+200|1022) Certaines combinaisons s' auto- annulerons et ne produirons aucun effet bénéfique, d'_autres meme peuvent etre dé-stabilisantes, faire travailler le coeur ou le souffle d' une mauvaise facon, etc... 
+
+xxxxxxx>  produire{V|dep_coord}		effet{NC|obj}		aucun{DET|det}		
+
+
+xxxxxxx>  produire{V|dep_coord}		effet{NC|obj}		bénéfique{ADJ|mod}		
+
+
+201|1028) Ont leur attibue 2 causes principales: > Soit le mouvement effectué n' est pas un mouvement assez habituel pour le muscle, et il a donc engendré une sur-consommation d' oxygène, > Soit le nageur n' a pas ventilé suffisament durant l' exercice, ou n' a pas assez evacué les toxines de l' exercice précédent, ce qui mène au meme résultat: le muscle n' est plus suffisament et correctement alimenté en sang" propre", c' est à dire oxygéné. 
+
+xxxxxxx>  attibue{NC|obj}		cause{NC|mod}		principal{ADJ|mod}		
+
+
+202|1028) Ont leur attibue 2 causes principales: > Soit le mouvement effectué n' est pas un mouvement assez habituel pour le muscle, et il a donc engendré une sur-consommation d' oxygène, > Soit le nageur n' a pas ventilé suffisament durant l' exercice, ou n' a pas assez evacué les toxines de l' exercice précédent, ce qui mène au meme résultat: le muscle n' est plus suffisament et correctement alimenté en sang" propre", c' est à dire oxygéné. 
+
+xxxxxxx>  attibue~2{NC~ADJ|obj~mod}		cause{NC|mod}		principal{ADJ|mod}		
+
+
+203|1031) Par_la_suite, en suivant les nouvelles, j' avoue avoir aussi paniqué et eu un très mauvais préssentiment pour ceux innocents qui subissaient cet evenement et pour toute la suite qui paraissait dès le debut mal partie. 
+
+xxxxxxx>  pour{P|dep_coord}		suite{NC|obj}		tout{ADJ|mod}		
+
+
+xxxxxxx>  pour{P|dep_coord}		suite{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  pour{P|dep_coord}		suite{NC|obj}		paraître{V|mod_rel}		
+
+
+204|1031) Par_la_suite, en suivant les nouvelles, j' avoue avoir aussi paniqué et eu un très mauvais préssentiment pour ceux innocents qui subissaient cet evenement et pour toute la suite qui paraissait dès le debut mal partie. 
+
+xxxxxxx>  pour{P|dep_coord}		suite{NC|obj}		tout{ADJ|mod}		
+
+
+xxxxxxx>  pour{P|dep_coord}		suite{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  pour{P|dep_coord}		suite{NC|obj}		paraître{V|mod_rel}		
+
+
+205|1035) ... Eh oui, tout ça pour avouer que je suis plutot" tres" pessimiste sur l' issue de toute cette histoire, moi qui me croyais plutot optimiste en tout... 
+
+xxxxxxx>  sur{P|mod}		issue{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  sur{P|mod}		issue{NC|obj}		de{P|dep}		
+
+
+206|1036) . Alors moi, ce soir je souhaiterais rejoindre Miss Lulu dans les pensées pour ceux qui sont morts à_cause_de cet attentat contre des civils innocents et pour tous ceux morts par_la_suite à_cause_de la riposte injuste, mal menée et completement contre productive des Etats Unis d' Amérique. 
+
+207|1040) Le résultat est que les wikis se transforment souvent en sites très vivants, avec une rapidité de mise à jour impressionnante. 
+
+xxxxxxx>  être{V|root}		résultat{NC|suj}		le{DET|det}		
+
+
+208|1047) « Grâce_à l' évolution positive de nos résultats, nous sommes maintenant en mesure de poursuivre le développement de nos activités. 
+
+xxxxxxx>  de{P|dep}		résultat{NC|obj}		son{DET|det}		
+
+
+209|1052) « Nous travaillons actuellement sur la simplification de notre gamme de produits et de nos méthodes de fonctionnement internes. 
+
+210|1064) Ce document se présente en deux parties:- une étiquette énergie qui classe les logements de A à G du plus économe au plus dépensier,- une étiquette environnement pour connaître le niveau des émissions de gaz à effet de serre du bien. 
+
+xxxxxxx>  à{P|mod}		effet{NC|obj}		de{P|dep}		
+
+
+211|1067) Remarque c' est peut-être une allergie contractée suite aux 8 heures de philo par semaine imposées en terminale L( sans compter que mon prof était mauvais) _________________ Total Support To WATAIN! 
+
+212|1070) Disons( pour ce qui me vient à l' esprit là maintenant tout_de_suite):- Sophocle( LA Tragédie pour moi:" Antigone")- les trois grands: Racine, Corneille, Molière( j' ai pas fait L pour rien)- Dante of course- Baudelaire( oui je sais tous les metalleux aiment Baudelaire, et alors? 
+
+213|1092) Et ceci grâce_à trois grands axes de développement: une politique d' investissements continue pour proposer une offre de produits et de services constamment enrichie et améliorée, la consolidation et l' extension du réseau commercial avec des équipes de vente et de service et le déploiement de notre supply chain au plus près_du client» a clairement indiqué S. 
+
+214|1096) Tous les produits Imaje fabriqués à Shanghai sont certifiés EU, UL, CSA et GS, et respectent les principales normes internationales de sécurité. 
+
+xxxxxxx>  certifier{VPP|root}		produit{NC|suj}		tout{ADJ|mod}		
+
+
+xxxxxxx>  certifier{VPP|root}		produit{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  certifier{VPP|root}		produit{NC|suj}		Imaje{ADJ|mod}		
+
+
+xxxxxxx>  certifier{VPP|root}		produit{NC|suj}		fabriquer{VPP|mod}		
+
+
+215|1098) et le développement de logiciels & applicatifs exécutés sur PC, à Bangalore( Inde), Imaje veut développer des nouvelles générations de produits pour anticiper et satisfaire les besoins futurs de ses clients. 
+
+216|1101) D'_une_part, la performance, la qualité, la fiabilité, l' ergonomie, le tout au meilleur prix, d'_autre_part l' innovation par briques technologiques, avec la maîtrise du cycle de vie du produit, et dernier axe le respect de l' environnement dans le processus de développement de nos encres et machines. 
+
+217|1123) Activités Sûreté > Activité sûreté 2006 Activité sûreté 2006 Compte_tenu_de la pression des événements, l' année 2006 a vu l' élaboration, de déclarations, décisions ou dispositions législatives et réglementaire en_matière_de sûreté du transport ferroviaire, au-delà_de la poursuite du travail de réflexion et d' & échange d' expériences déjà lancé. 
+
+218|1128) Thèse de doctorat:" Théorie explicative de la réorganisation au travers du comportement des partenaires: le cas des défaillances d' entreprises" Ouvrages: Chapitres d' ouvrages: Publications dans des revues à comité de lecture: Publications dans les autres types de revue: Publications dans des actes de colloque:" Comportements des partenaires commerciaux et des salariés dans_le_cadre_d' un plan de continuation: quelques résultats empiriques", in La défaillance d' entreprises, Actes de la journée thématique, Montpellier, 2002. 
+
+xxxxxxx>  thèse~acte{NC~NC|root~mod}		résultat{NC|mod}		quelque{DET|det}		
+
+
+xxxxxxx>  thèse~acte{NC~NC|root~mod}		résultat{NC|mod}		empirique{ADJ|mod}		
+
+
+xxxxxxx>  thèse~acte~comportement{NC~NC~NC|root~mod~mod}		résultat{NC|mod}		"{PONCT|ponct}		
+
+
+219|1131) Cela permet de connaître la popularité d' une recherche sur le moteur du même nom. 
+
+xxxxxxx>  sur{P|dep}		moteur{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  sur{P|dep}		moteur{NC|obj}		de{P+D|dep}		
+
+
+220|1133) Comme l' indique Marissa Mayer( directrice des produits internet de Google) dans le communiqué de presse: Google permet de parcourir des milliards de requêtes du monde entier et de savoir à quoi pensent les gens. 
+
+xxxxxxx>  de{P+D|dep}		produit{NC|obj}		internet{NC|mod}		
+
+
+xxxxxxx>  de{P+D|dep}		produit{NC|obj}		){PONCT|ponct}		
+
+
+221|1134) Steve Rubel( Un spécialiste du marketing sur Internet, il tient un des blogs de référence sur ce sujet) de MicroPersuasion dit que Google Trends est un outil inestimable pour créer, tracker, vendre et mesurer l' impact d' une campagne de presse ou de promotion, spécialement pour un lancement. 
+
+xxxxxxx>  mesurer{VINF|dep_coord}		impact{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  mesurer{VINF|dep_coord}		impact{NC|obj}		de{P|dep}		
+
+
+222|1137) Figure 10: Impédance d' une trompette baroque Une comparaison avec la Figure 7 montre que la forme générale des courbes de résonance est tout_à_fait semblable pour la trompette en Ré baroque et pour l' instrument moderne en Sib. 
+
+xxxxxxx>  figure{NC|suj}		comparaison{NC|mod}		un{DET|det}		
+
+
+xxxxxxx>  figure~impédance{NC~NC|suj~mod}		comparaison{NC|mod}		avec{P|dep}		
+
+
+223|1139) Pour faciliter la comparaison du comportement musical des deux instruments, commençons par considérer le régime d' oscillation qui produit le La3 de la trompette en Ré( à 220 Hz dans l' accord moderne). 
+
+xxxxxxx>  faciliter{VINF|obj}		comparaison{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  faciliter{VINF|obj}		comparaison{NC|obj}		de{P+D|dep}		
+
+
+xxxxxxx>  régime{NC|obj}		produire{V|mod_rel}		qui{PROREL|suj}		
+
+
+------->  régime{NC|obj}		produire{V|mod_rel}		La3{NC|obj}		
+
+
+xxxxxxx>  régime{NC|obj}		produire{V|mod_rel}		en{P|mod}		
+
+
+xxxxxxx>  régime{NC|obj}		produire{V|mod_rel}		({PONCT|ponct}		
+
+
+xxxxxxx>  régime{NC|obj}		produire{V|mod_rel}		à{P|mod}		
+
+
+xxxxxxx>  régime{NC|obj}		produire{V|mod_rel}		dans{P|mod}		
+
+
+224|1139) Pour faciliter la comparaison du comportement musical des deux instruments, commençons par considérer le régime d' oscillation qui produit le La3 de la trompette en Ré( à 220 Hz dans l' accord moderne). 
+
+xxxxxxx>  régime{NC|obj}		produire{V|mod_rel}		qui{PROREL|suj}		
+
+
+------->  régime{NC|obj}		produire{V|mod_rel}		La3{NC|obj}		
+
+
+xxxxxxx>  régime{NC|obj}		produire{V|mod_rel}		en{P|mod}		
+
+
+xxxxxxx>  régime{NC|obj}		produire{V|mod_rel}		({PONCT|ponct}		
+
+
+xxxxxxx>  régime{NC|obj}		produire{V|mod_rel}		à{P|mod}		
+
+
+xxxxxxx>  régime{NC|obj}		produire{V|mod_rel}		dans{P|mod}		
+
+
+225|1141) Ce seul facteur rend le La3 de l' instrument baroque plus stable que le" Ut4" de l' instrument moderne. 
+
+xxxxxxx>  rendre~La3{V~NC|root~obj}		facteur{NC|suj}		ce{DET|det}		
+
+
+xxxxxxx>  rendre~La3{V~NC|root~obj}		facteur{NC|suj}		seul{ADJ|mod}		
+
+
+226|1150) C' est la note la plus haute dans la gamme de la trompette Baroque pour laquelle on a des effets coopératifs détectables des résonances suivantes de la colonne d' air. 
+
+xxxxxxx>  avoir{V|mod_rel}		effet{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  avoir{V|mod_rel}		effet{NC|obj}		coopératif{ADJ|mod}		
+
+
+xxxxxxx>  avoir{V|mod_rel}		effet{NC|obj}		détectable{ADJ|mod}		
+
+
+xxxxxxx>  avoir{V|mod_rel}		effet{NC|obj}		de{P+D|dep}		
+
+
+227|1162) Le pic 6 de la série de résonances avec trou ouvert donne un Ut5 # légèrement voilé qui a une hauteur stable dans le crescendo, mais sans aucun effet coopératif des pics de résonance placés plus hauts en fréquence; 
+
+xxxxxxx>  sans{P|dep_coord}		effet{NC|obj}		aucun{DET|det}		
+
+
+xxxxxxx>  sans{P|dep_coord}		effet{NC|obj}		coopératif{ADJ|mod}		
+
+
+xxxxxxx>  sans{P|dep_coord}		effet{NC|obj}		de{P+D|dep}		
+
+
+228|1165) L' acoustique de la trompette Notions préliminaires d' acoustique La" trompette d' eau", un analogue à ce qui se passe à l' intérieur d' une trompette La fonction des lèvres du musicien La fonction du tuyau et du pavillon- A l' intérieur de la colonne d' air La coopération requise pour un résultat musical La trompette baroque Le spectre interne de la trompette moderne Le spectre interne de la trompette baroque Relation entre le spectre interne et le timbre perçu La trompette de Menke Le problème d' une attaque propre 
+
+xxxxxxx>  pour{P|mod}		résultat{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  pour{P|mod}		résultat{NC|obj}		musical{ADJ|mod}		
+
+
+xxxxxxx>  pour{P|mod}		résultat{NC|obj}		trompette{NC|mod}		
+
+
+229|1176) Première main, 127_000 km d' origine, toutes les factures et carnet à jour, mais un rafraîchissement général à faire et le contrôle technique à passer. 
+
+230|1183) Le moteur KR est étonnant car il offre réellement un caractère à deux visages. 
+
+xxxxxxx>  être~étonnant{V~ADJ|root~ats}		moteur{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  être~étonnant{V~ADJ|root~ats}		moteur{NC|suj}		KR{NPP|mod}		
+
+
+231|1187) Remettre une calandre d' origine à 5 barrettes et non 4, travaux de carrosserie, les logos qui manquent, embrayage 
+
+232|1188) Pour la journée du 4 juillet( suite) 31 mai 2006 Dans_le_cadre_de la journée technique du 4 juillet 2006 d' ODIT France d' Evelyne Lehalle sur la Culture et les TIC, ci-joint quelques sites intéressants. 
+
+233|1204) Mark doit même relater les causes de l' accident de la femme enceinte devant une assemblée pleine à craquer. 
+
+xxxxxxx>  relater{VINF|obj}		cause{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  relater{VINF|obj}		cause{NC|obj}		de{P|dep}		
+
+
+234|1214) 100 cm Breton d' origine, Raymond Hains découvre en 1949, avec son ami et compatriote Villeglé, le pouvoir suggestif des affiches lacérées. 
+
+235|1215) En effet, les affichistes prélèvent dans l' univers urbain des oeuvres" toutes faites", des affiches déchirées par des mains anonymes. 
+
+236|1220) Ville( s) jumelée( s)- Wedel( Allemagne) Histoire de la commune DES ORIGINES A LA FIN DU XVIIIème SIECLE: Les origines de la ville demeurent assez imprécises. 
+
+xxxxxxx>  de{P+D|dep}		origine{NC|obj}		A{P|mod}		
+
+
+xxxxxxx>  Ville{NC|suj}		origine{NC|mod}		le{DET|det}		
+
+
+xxxxxxx>  Ville~histoire{NC~NC|suj~mod}		origine{NC|mod}		de{P|dep}		
+
+
+237|1220) Ville( s) jumelée( s)- Wedel( Allemagne) Histoire de la commune DES ORIGINES A LA FIN DU XVIIIème SIECLE: Les origines de la ville demeurent assez imprécises. 
+
+xxxxxxx>  de{P+D|dep}		origine{NC|obj}		A{P|mod}		
+
+
+xxxxxxx>  Ville~histoire{NC~NC|suj~mod}		origine{NC|mod}		le{DET|det}		
+
+
+xxxxxxx>  Ville~histoire{NC~NC|suj~mod}		origine{NC|mod}		de{P|dep}		
+
+
+238|1221) On peut toutefois se risquer, si l' on en juge par le résultat des fouilles archéologiques effectuées en 1997, à les fixer au premier siècle de notre ère. 
+
+xxxxxxx>  par{P|p_obj}		résultat{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  par{P|p_obj}		résultat{NC|obj}		de{P+D|dep}		
+
+
+239|1239) La dentelle se décline ainsi en noir et blanc, en quadrichromie et dans des motifs abstraits, décoratifs et variant à l' infini. 
+
+xxxxxxx>  dans{P|dep_coord}		motif{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  dans{P|dep_coord}		motif{NC|obj}		abstraire{ADJ|mod}		
+
+
+xxxxxxx>  dans{P|dep_coord}		motif{NC|obj}		,{PONCT|ponct}		
+
+
+xxxxxxx>  dans{P|dep_coord}		motif{NC|obj}		décoratif{ADJ|mod}		
+
+
+240|1244) Aujourd'_hui, Caudry produit sous le label" dentelle de Calais" une dentelle de qualité destinée aux plus prestigieuses maisons de Haute Couture. 
+
+xxxxxxx>  Caudry{NPP|root}		produire{VPP|mod}		sous{P|mod}		
+
+
+241|1246) LA DIVERSIFICATION INDUSTRIELLE: Si l' industrie textile et, en_particulier, la dentelle demeure le fondement du tissu industriel caudrésien avec dix entreprises qui exportent plus de 80 % d' un produit raffiné, l' essor économique repose désormais sur la diversification des activités. 
+
+xxxxxxx>  de{P|dep}		produit{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  de{P|dep}		produit{NC|obj}		raffiner{ADJ|mod}		
+
+
+242|1247) En effet, lorsqu' un certain essoufflement du secteur textile fut constaté vers 1960, les élus de l' époque, tout en maintenant les secteurs traditionnels, décidèrent de diversifier leurs actions et d' offrir aux éventuels investisseurs des conditions d' accueil optima. 
+
+243|1267) La France attache beaucoup d' importance à votre présence qui est, pour les Etats de la Méditerranée orientale, une source de richesse et de diversité. 
+
+xxxxxxx>  Méditerranée{NPP|obj}		source{NC|mod}		un{DET|det}		
+
+
+xxxxxxx>  Méditerranée~oriental{NPP~ADJ|obj~mod}		source{NC|mod}		de{P|dep}		
+
+
+244|1279) - TITRE: UNE BONNE RAISON POUR FAIRE LA FETE- Auteur: Simone Schmitzberger- Editeur: Bayard Poche- Genre: Roman- Sujet: C' est l' histoire d' un écureuil et d' une taupe qui, le jour du printemps vont à la violette. 
+
+xxxxxxx>  être~histoire{V~NC|root~ats}		raison{NC|suj}		un{DET|det}		
+
+
+xxxxxxx>  être~histoire~LA{V~NC~NC|root~ats~mod}		raison{NC|suj}		bon{ADJ|mod}		
+
+
+xxxxxxx>  être~histoire~LA{V~NC~NC|root~ats~mod}		raison{NC|suj}		pour{P|dep}		
+
+
+245|1292) - Avis: Mon avis sur le livre c' est que les enfants ont raison de prendre des Tom Tom et Nana parce_qu' il_y_a des gags. 
+
+246|1308) C' est pour cette raison que vous avez besoin d' une formation pour: apprendre les bases du travail sur Internet éviter les pièges être guidé pas à pas vers le succès être guidé pour éviter les erreurs être guidé pour réussir plus vite Comment réussir à gagner de l' argent sur Internet? 
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		ce{DET|det}		
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		avoir{V|mod_rel}		
+
+
+247|1313) Résultat: vous cherchez à gagner de l' argent mais vous en perdez avec une méthode qui en fait n' a rien de miraculeux car elle ne fonctionne pas. 
+
+248|1318) En effet seulement une partie des visiteurs d' un site Internet achètent effectivement surtout si ce dernier n' est pas entièrement consacré à la vente en ligne comme les sites des CDT. 
+
+249|1319) Il faut d'_abord prendre en considération le taux de« look to look», c'_est-à-dire le taux correspondant au taux de transformation entre le nombre_d' internautes qui auront fréquenté les dispositifs en ligne intégrant le moteur de réservation, et le nombre_d' internautes qui auront effectué au_moins une requête sur les moteurs de réservation. 
+
+xxxxxxx>  intégrer{VPR|mod}		moteur{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  intégrer{VPR|mod}		moteur{NC|obj}		de{P|dep}		
+
+
+xxxxxxx>  sur{P|mod}		moteur{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  sur{P|mod}		moteur{NC|obj}		de{P|dep}		
+
+
+250|1319) Il faut d'_abord prendre en considération le taux de« look to look», c'_est-à-dire le taux correspondant au taux de transformation entre le nombre_d' internautes qui auront fréquenté les dispositifs en ligne intégrant le moteur de réservation, et le nombre_d' internautes qui auront effectué au_moins une requête sur les moteurs de réservation. 
+
+xxxxxxx>  intégrer{VPR|mod}		moteur{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  intégrer{VPR|mod}		moteur{NC|obj}		de{P|dep}		
+
+
+xxxxxxx>  sur{P|mod}		moteur{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  sur{P|mod}		moteur{NC|obj}		de{P|dep}		
+
+
+251|1327) ZOOM ATLANTIC Modèle: DORIS CHROME Catégorie: RADIATEURS SECHE-SERVIETTES ELECTRIQUES CLASSIQUES VOIR LES TARIFS Voir et choisir un produit de cette gamme en_fonction_de ses caractéristiques:- Puissance- Couleur- Prix- Autres caractéristiques AVANTAGES Résolument contemporain, DORIS CHROME impose sa brillante présence à la cuisine comme à la salle de bains. 
+
+xxxxxxx>  choisir{VINF|dep_coord}		produit{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  choisir{VINF|dep_coord}		produit{NC|obj}		de{P|dep}		
+
+
+252|1329) ZOOM ATLANTIC Modèle: NEFERTITI Catégorie: RADIATEURS SECHE-SERVIETTES ELECTRIQUES CLASSIQUES VOIR LES TARIFS Voir et choisir un produit de cette gamme en_fonction_de ses caractéristiques:- Puissance- Couleur- Prix- Autres caractéristiques AVANTAGES Présenté ici dans sa version tout électrique, il existe aussi en électrique + ventilo, et, mixte élec + ch.central( visibles sur notre site dans la catégorie correspondante). 
+
+xxxxxxx>  choisir{VINF|dep_coord}		produit{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  choisir{VINF|dep_coord}		produit{NC|obj}		de{P|dep}		
+
+
+253|1332) ZOOM ATLANTIC Modèle: OLYMPE Catégorie: RADIATEURS SECHE-SERVIETTES ELECTRIQUES CLASSIQUES VOIR LES TARIFS Voir et choisir un produit de cette gamme en_fonction_de ses caractéristiques:- Puissance- Couleur- Prix- Autres caractéristiques AVANTAGES Pas de frisson après la douche, pas de serviette qui reste humide, pas de déperdition d' énergie, OLYMPE garantit le chauffage de la salle de bains et des serviettes en_même_temps. 
+
+xxxxxxx>  choisir{VINF|dep_coord}		produit{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  choisir{VINF|dep_coord}		produit{NC|obj}		de{P|dep}		
+
+
+254|1339) Les délais de livraison étaient de 5 ans à_partir_de la date de commande. 
+
+255|1354) Ainsi, la Mission laïque a -t-elle assumé, suite aux orientations budgétaires de l' AEFE, et en concertation avec les enseignants et les familles, le déconventionnement du lycée français de Las Palmas et du lycée Molière de Saragosse. 
+
+256|1361) Les variantes autorisées sont:- les variantes qui améliore le facteur solaire du vitrage,- les variantes relatives au système d' éclairement( sans modifier le principe constructif de la couverture). 
+
+xxxxxxx>  améliorer{V|mod_rel}		facteur{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  améliorer{V|mod_rel}		facteur{NC|obj}		solaire{ADJ|mod}		
+
+
+xxxxxxx>  améliorer{V|mod_rel}		facteur{NC|obj}		de{P+D|dep}		
+
+
+257|1395) En effet une entrée départementale voire régionale n' a pas forcément de sens pour un Internaute et de manière encore plus criante, si ce dernier est un étranger. 
+
+258|1402) En effet, lui aussi est là pour vous faire chuter et s' emparer du trésor. 
+
+259|1404) En effet, dans cette peinture atmosphérique où le bleu domine, la géométrie, quoique discrète, organise et structure toujours la toile. 
+
+260|1405) uvre majeure de son parcours, l' Ouverture de la nuit de 1973 appartient à une série de tableaux sur le même thème, où l' artiste cherche à rendre visible sur la toile les effets d' un rayon lumineux déchirant l' atmosphère. 
+
+xxxxxxx>  rendre{VINF|obj}		effet{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  rendre~visible{VINF~ADJ|obj~ats}		effet{NC|obj}		de{P|dep}		
+
+
+261|1408) Chaque personne laisse un message qu' il aura préalablement rédigé, et les autres membres du même forum en font de même, et ainsi_de_suite. 
+
+262|1416) Ensuite, tout fonctionne de la même manière:[ gras] et[ / gras],[ souligné] et[ / souligné],[ vert] et[ / vert],[ rouge] et[ / rouge]... 
+
+263|1424) Les modèles 6 et 7 sont ceux conçus à l' origine par Vincent Bach et utilisés sur les premiers instruments fabriqués à New York. 
+
+xxxxxxx>  à{P|mod}		origine{NC|obj}		le{DET|det}		
+
+
+264|1440) Age: 21 Inscrit le: 07 Aoû 2007 Messages: 579 Localisation: Méounes les Montrieux Var 83 Sujet: Enrenement pessoa Lun 10 Sep- 21: 52 Alors voila je me posai une question tout a l' heure en longeant mon grand Suelto, en effet cet enrenement lui va a merveille, lui qui manquait quelque peux d' equilibre au galop, je doit dire que l' evolutions est plus qu' encourageante! 
+
+265|1443) Ensuite il te sert à ce que ton cheval soit plus tonique dans son dos et son arrière main... 
+
+266|1448) Wilde cheyenne9786 Age: 21 Inscrit le: 07 Aoû 2007 Messages: 579 Localisation: Méounes les Montrieux Var 83 Sujet: Re: Enrenement pessoa Mar 11 Sep- 9: 56 C' etait un simple question, merci de vos reponse, c' est vrai Articia tu a raison surtout qu' en ce moment je lui ai augmenté les dose car il avait serieusement perdu de l' etat! 
+
+267|1452) Wilde cheyenne9786 Age: 21 Inscrit le: 07 Aoû 2007 Messages: 579 Localisation: Méounes les Montrieux Var 83 Sujet: Re: Enrenement pessoa Mar 11 Sep- 11: 00 je pense que vous avez raison, de tout de facon c' etai mon premier raisonement! 
+
+268|1456) Le pessoa a été très polémiqué par certains ostéos, peut être à raison je ne sais pas. 
+
+269|1460) _________________ ecuriesdeloree@voila.fr cheyenne9786 Age: 21 Inscrit le: 07 Aoû 2007 Messages: 579 Localisation: Méounes les Montrieux Var 83 Sujet: Re: Enrenement pessoa Mar 11 Sep- 13: 07 moi c' est mon ostéo qui me la conseillé pour Suelto, et effectivement elle avait raison mon cheval a fait de net progret surtout au nivau de l' equilibre au galop! 
+
+270|1482) Il simplifie alors les motifs en les réduisant à un agencement de formes géométriques de_plus_en_plus simples, se rapprochant de l' abstraction. 
+
+xxxxxxx>  simplifier{V|root}		motif{NC|obj}		le{DET|det}		
+
+
+271|1489) Résultats: NBC: pour_l'_instant, je n' ai réussi qu' à voir les pubs... 
+
+xxxxxxx>  réussir{VPP|root}		résultat{NC|mod}		:{PONCT|ponct}		
+
+
+xxxxxxx>  réussir{VPP|root}		résultat{NC|mod}		NBC{NPP|mod}		
+
+
+xxxxxxx>  réussir{VPP|root}		résultat{NC|mod}		:{PONCT|ponct}		
+
+
+xxxxxxx>  réussir{VPP|root}		résultat{NC|mod}		pour_l'instant{ADV|mod}		
+
+
+272|1494) Cours 1- Introduction Présentation générale de l' informatique graphique et de ses applications Dispositifs matériels Affichage Entrées Cours 2- Tracé des lignes, cercles, ellipses Graphique 2D: Rastérisation Rastérisation des lignes, des cercles, des ellipses Introduction à SRGP Cours 3- Remplissage Remplissage de rectangles, de polygones, d' arcs d' ellipses Remplissage par motifs Cours 4- Tracés de traits Tracé de lignes et d' arcs épais Styles de lignes( pointillés, etc.) Styles de pinceau( forme et motif) Cours 4bis- Courbes de Bézier Représentation matricielle Courbes multi-segments Dessin des courbes Cours 5- Clipping et autres techniques Clipping des lignes, des ellipses et des polygones Autres techniques du graphique 2D Dessin de caractères Bit Block Transfer 
+
+xxxxxxx>  par{P|dep}		motif{NC|obj}		Cours{NPP|mod}		
+
+
+273|1494) Cours 1- Introduction Présentation générale de l' informatique graphique et de ses applications Dispositifs matériels Affichage Entrées Cours 2- Tracé des lignes, cercles, ellipses Graphique 2D: Rastérisation Rastérisation des lignes, des cercles, des ellipses Introduction à SRGP Cours 3- Remplissage Remplissage de rectangles, de polygones, d' arcs d' ellipses Remplissage par motifs Cours 4- Tracés de traits Tracé de lignes et d' arcs épais Styles de lignes( pointillés, etc.) Styles de pinceau( forme et motif) Cours 4bis- Courbes de Bézier Représentation matricielle Courbes multi-segments Dessin des courbes Cours 5- Clipping et autres techniques Clipping des lignes, des ellipses et des polygones Autres techniques du graphique 2D Dessin de caractères Bit Block Transfer 
+
+xxxxxxx>  par{P|dep}		motif{NC|obj}		Cours{NPP|mod}		
+
+
+274|1508) En_revanche les séries citées plus haut sont vraiment sympas à voir, chacune pour des raisons particulières... 
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		particulier{ADJ|mod}		
+
+
+275|1517) ), je me suis mise en quête d' une 205 GTI, car elle correspondait le plus à ce que je recherchais: une voiture authentique, à l' ancienne, avec un moteur bien présent et efficace. 
+
+xxxxxxx>  avec{P|mod}		moteur{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  avec{P|mod}		moteur{NC|obj}		présent{ADJ|mod}		
+
+
+276|1524) Suite à cette initiation générale, la formation se décompose en deux modules traitant respectivement de la rhéologie des polymères fondus en_vue_de leur mise en oeuvre et de la rhéologie des formulations complexes pour lesquelles les polymères sont ajoutés en_tant_qu' additifs. 
+
+xxxxxxx>  décomposer~formation{V~NC|root~suj}		suite{NC|mod}		à{P|dep}		
+
+
+277|1549) Métaux sombres, toucher froid, motifs discrets façon carbone: les hommes devraient apprécier. 
+
+xxxxxxx>  toucher{VINF|dep}		motif{NC|mod}		discret{ADJ|mod}		
+
+
+------->  toucher~froid{VINF~ADJ|dep~mod}		motif{NC|mod}		façon{NC|mod}		
+
+
+278|1550) À 280 euros hors packs, il n' y a aucune raison de s' en priver. 
+
+xxxxxxx>  avoir{V|root}		raison{NC|obj}		aucun{DET|det}		
+
+
+xxxxxxx>  avoir{V|root}		raison{NC|obj}		de{P|dep}		
+
+
+279|1553) lol Posted by hchicha on 30 août 2007 at 10: 06 under Humeurs, Tassirth Bhein j' exagère un_peu mon titre là mais il s' agit bien de censure puisqu' un de mes commentaires vient tout simplement d' être supprimé sur un blog voisin sans raison apparente. 
+
+xxxxxxx>  sans{P|dep}		raison{NC|obj}		apparent{ADJ|mod}		
+
+
+280|1574) 15) Manque un arbre devant l' usine à droite Avec bien entendu un vote de chaque côté Titite a posté: lundi 12 novembre 2007_18: 18 Maintenant qu' on sait combien y' en a, on peut jouer Voilà le résultat: 1 Lapin dans le champs 2 Tas de terre au premier plan 3 Arbre roux en bas au milieu 4 Tas de terre au fond à droite plus grand 5 Manque les bennes bleues de l' usine 6 Manque un morceau de la haie de l' usine 7 Manque le logement d' habitation de l' usine 8 Manque un poteau dans le pré au milieu 9 Manque des moutons dans le pré de Mr P AU VOLEUR: rire2: 10 Une fenêtre en_plus à l' hôtel P 11 Manque la toiture de la maison de Mr M 12 Un poteau en_plus sur les crêts en haut 13 Trois poteaux en_plus dans le pré dessous la maison de Mr D 14? 
+
+xxxxxxx>  voilà{V|mod}		résultat{NC|suj}		le{DET|det}		
+
+
+281|1577) Amplitude diffusée par un atome: facteur de diffusion atomique La somme des amplitudes diffusées par les électrons d' un atome constitue l' amplitude diffusée par cet atome, c' est le facteur de diffusion f. 
+
+xxxxxxx>  amplitude~somme{NC~NC|suj~mod}		facteur{NC|mod}		de{P|dep}		
+
+
+xxxxxxx>  être{V|mod}		facteur{NC|ats}		le{DET|det}		
+
+
+xxxxxxx>  être{V|mod}		facteur{NC|ats}		de{P|dep}		
+
+
+282|1577) Amplitude diffusée par un atome: facteur de diffusion atomique La somme des amplitudes diffusées par les électrons d' un atome constitue l' amplitude diffusée par cet atome, c' est le facteur de diffusion f. 
+
+xxxxxxx>  amplitude~somme{NC~NC|suj~mod}		facteur{NC|mod}		de{P|dep}		
+
+
+xxxxxxx>  être{V|mod}		facteur{NC|ats}		le{DET|det}		
+
+
+xxxxxxx>  être{V|mod}		facteur{NC|ats}		de{P|dep}		
+
+
+283|1579) Cette variation est de la forme: Plus le volume occupé par le nuage électronique est important, plus le facteur de diffusion atomique f décroît rapidement avec q. 
+
+xxxxxxx>  être{V|root}		facteur{NC|ats}		le{DET|det}		
+
+
+xxxxxxx>  être~important{V~ADJ|root~ats}		facteur{NC|ats}		de{P|dep}		
+
+
+284|1581) à son arrivée, le système d' air conditionné est HS et un camion de livraison de pizza s' échoue dans le hall des urgences alors_que Doug lâche" Appelle la sécurité, quelqu'_un est garé sur ma place de parking". 
+
+xxxxxxx>  de{P|dep}		livraison{NC|obj}		de{P|dep}		
+
+
+285|1608) Au départ, la caméra est à l' origine, c'_est-à-dire que les repères R et Rc sont confondus. 
+
+xxxxxxx>  à{P|ats}		origine{NC|obj}		le{DET|det}		
+
+
+286|1610) On note cette matrice M C, P. Les matrices demandées dans la suite peuvent être exprimées sous_forme_de produit de matrices plus simples: il n' est pas nécessaire de développer tous les calculs. 
+
+xxxxxxx>  dans{P|mod}		suite{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  sous_forme_de{P|mod}		produit{NC|obj}		de{P|dep}		
+
+
+287|1610) On note cette matrice M C, P. Les matrices demandées dans la suite peuvent être exprimées sous_forme_de produit de matrices plus simples: il n' est pas nécessaire de développer tous les calculs. 
+
+xxxxxxx>  dans{P|mod}		suite{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  sous_forme_de{P|mod}		produit{NC|obj}		de{P|dep}		
+
+
+288|1619) à la mairie aux promoteurs? 
+
+289|1626) « Grâce_aux constantes innovations de ses entités, Sidel a l' ambition de devenir d'_ici_à 2010, l' indiscutable leader des équipements en emballage pour les produits liquides» conclut L. 
+
+xxxxxxx>  pour{P|mod}		produit{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  pour{P|mod}		produit{NC|obj}		liquide{ADJ|mod}		
+
+
+xxxxxxx>  pour{P|mod}		produit{NC|obj}		»{PONCT|ponct}		
+
+
+xxxxxxx>  pour{P|mod}		produit{NC|obj}		conclure{V|mod}		
+
+
+290|1627) Fatigue des yeux au travail: correction visuelle Essilor Eclairage:- placez l' écran perpendiculairement à la fenêtre( et non juste devant, pour éviter une trop grande différence d' intensité lumineuse)- faites la chasse aux reflets- réglez le contraste de l' écran en_fonction_de la luminosité ambiante et éliminez les sources lumineuses trop fortes... 
+
+xxxxxxx>  éliminer{V|dep_coord}		source{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  éliminer{V|dep_coord}		source{NC|obj}		lumineux{ADJ|mod}		
+
+
+xxxxxxx>  éliminer{V|dep_coord}		source{NC|obj}		fort{ADJ|mod}		
+
+
+291|1644) Des produits transgéniques et des espèces dites améliorées ont déjà fait disparaître le capital génétique mis au point par la nature pendant des centaines de milliers d' années d' évolution. 
+
+xxxxxxx>  disparaître~capital{VINF~NC|root~obj}		produit{NC|suj}		de{DET|det}		
+
+
+xxxxxxx>  disparaître~capital{VINF~NC|root~obj}		produit{NC|suj}		transgénique{ADJ|mod}		
+
+
+$$$$$$$>  disparaître~capital{VINF~NC|root~obj}		produit{NC|suj}		et{CC|coord}		
+
+
+292|1646) Ceci pour l' amener progressivement par_la_suite au bord de l' extinction. 
+
+xxxxxxx>  amener{VINF|obj}		par_la_suite{ADV|mod}		progressivement{ADV|mod}		
+
+
+293|1649) Des sociétés commerciales tentent d' introduire des gênes de croissance d' origine humaine ou animale dans des poissons comme le saumon, la carpe, la truite, le médaka( Japon) et le tilapia. 
+
+xxxxxxx>  de{P|dep}		origine{NC|obj}		humain{ADJ|mod}		
+
+
+294|1655) IAO Page de résultat: 1_2_3_4_5_6_7_8_9_10 > > = L' accès à ces sites en ligne est restreint par un mot de passe = L' accès à ces sites en ligne est libre Infos Pratiques| Plan du site| Nos Missions| Espace Documentalistes|| © SID- ISH, 2006 Tous droits réservés| mise à jour 2006-07-28 
+
+295|1656) LES NOUVELLES RÈGLES ENTRENT EN_VIGUEUR De nouvelles règles encadrant le cumul d' activités professionnelles publiques et privées entrent en_vigueur avec la publication d' un décret du 2 mai 2007 qui fait suite à la loi de modernisation de la fonction publique 1. 
+
+296|1657) Lire la suite... 
+
+xxxxxxx>  lire{VINF|root}		suite{NC|obj}		le{DET|det}		
+
+
+297|1659) Lire la suite... 
+
+xxxxxxx>  lire{VINF|root}		suite{NC|obj}		le{DET|det}		
+
+
+298|1661) Lire la suite... 
+
+xxxxxxx>  lire{VINF|root}		suite{NC|obj}		le{DET|det}		
+
+
+299|1663) Lire la suite... 
+
+xxxxxxx>  lire{VINF|root}		suite{NC|obj}		le{DET|det}		
+
+
+300|1676) Vous trouverez ci-dessous des exemples de résultats obtenus par ESPI. 
+
+301|1703) Quatre conseillers principaux d' éducation se partagent l' encadrement de l' internat à raison d' une nuit par semaine: Lundi: Dominique PATRY Mardi: Sylvie NGUYEN Mercredi: Eddy ASCHENAZI Jeudi: Solenne VERGER Les conseillers d' éducation sont constamment joignables à l' internat à_partir_de 18H30 jusqu'_au lendemain 8H sur le portable du lycée. 
+
+xxxxxxx>  à{P|mod}		raison{NC|obj}		de{P|dep}		
+
+
+302|1707) Frais scolaires 2007-2008 CATEGORIE ELEVES MONTANT ANNUEL Sur 180 jours TRIMESTRE Janvier/ Mars 53 jours TRIMESTRE Avril/ Juin 55 jours TRIMESTRE Sept./ Décembre 72 jours Interne 1 071.77E 327.25E 327.25E 417.28E Restauration La restauration est assurée en self-service aux horaires suivants: Petit-déjeûner: dès 7h00 pour échelonner les passages et jusqu'_à 7H45 Déjeûner: de 11h30 à 13h30 Dîner: de 18h30 à 19h30 impérativement sauf dérogation accordée par les CPE pour un motif précis. 
+
+xxxxxxx>  pour{P|mod}		motif{NC|obj}		un{DET|det}		
+
+
+xxxxxxx>  pour{P|mod}		motif{NC|obj}		précis{ADJ|mod}		
+
+
+303|1723) Médicaments Pour des raisons de sécurité, aucun médicament ne doit être conservé par les élèves. 
+
+xxxxxxx>  pour{P|dep}		raison{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  pour{P|dep}		raison{NC|obj}		de{P|dep}		
+
+
+304|1724) L' infirmerie est ouverte dès 7H15 et jusqu'_à 19H45 à cet effet. 
+
+xxxxxxx>  à{P|mod}		effet{NC|obj}		ce{DET|det}		
+
+
+305|1735) Trousseau et effets personnels( A prévoir pour le jour de la rentrée)- Un protège matelas- Une paire de draps- Une enveloppe de traversin- Des chaussons- Deux cadenas pour fermer l' armoire et le casier- Une couette si vous le souhaitez. 
+
+$$$$$$$>  et{CC|coord}		effet{NC|dep_coord}		personnel{ADJ|mod}		
+
+
+306|1737) Pour des raisons d' hygiène, il n' est pas autorisé de dormir dans un duvet. 
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de{P|dep}		
+
+
+307|1742) Le kit faisant grimper la puissance de l' ancienne mini devrait trouver une succession sur la toute dernière Mini COoper S et son nouveau moteur 1.6 turbo développé avec PSA et toujours bénéficier ainsi de la garantie et du SAV BMW. 
+
+$$$$$$$>  et{CC|coord}		moteur{NC|dep_coord}		son{DET|det}		
+
+
+$$$$$$$>  et{CC|coord}		moteur{NC|dep_coord}		nouveau{ADJ|mod}		
+
+
+$$$$$$$>  et{CC|coord}		moteur{NC|dep_coord}		1.6{ADJ|mod}		
+
+
+$$$$$$$>  et{CC|coord}		moteur{NC|dep_coord}		turbo{NC|mod}		
+
+
+308|1744) des tournées en France et l' enseignement du chant Jazz et Gospel, Colette a récemment retrouvé ses racines à_travers son nouvel album:« RACINES- Suite pour Madagascar». 
+
+309|1745) Le disque de huit titres raconte le parcours d' une femme métisse qui recherche ses origines, de l' Occident jusqu'_à Madagascar, terre nourricière. 
+
+xxxxxxx>  rechercher~terre{V~NC|mod_rel~mod}		origine{NC|obj}		son{DET|det}		
+
+
+310|1786) S ource d' energie à contrôler Les lactates sont formés à_partir_de la dégradation du glucose( source d' énergie, dans le muscle en condition anaérobie, c' est à dire lorsque la quantité d' oxygène apportée par le sang au muscle est insuffisante ou que la consommation d' oxygène est élevée. 
+
+xxxxxxx>  glucose{NC|obj}		source{NC|mod}		de{P|dep}		
+
+
+311|1787) C' est ce qui se produit lors_des exercices intenses de plus_ou_moins courte durée. 
+
+xxxxxxx>  ce{PRO|ats}		produire{V|mod_rel}		qui{PROREL|suj}		
+
+
+xxxxxxx>  ce{PRO|ats}		produire{V|mod_rel}		se{CLR|aff}		
+
+
+xxxxxxx>  ce{PRO|ats}		produire{V|mod_rel}		lors_de{P|mod}		
+
+
+312|1789) Le recours à d'_autres sources d' énergie pour pouvoir poursuivre la nage ou l' exercice est donc nécessaire. 
+
+xxxxxxx>  à{P|dep}		source{NC|obj}		d'autres{DET|det}		
+
+
+xxxxxxx>  à{P|dep}		source{NC|obj}		de{P|dep}		
+
+
+313|1790) Lors_d' un effort intense l' apport en oxygène est insuffisant et il se forme alors du lactate, produit de dégradation du glycogène( polymère du glucose). 
+
+xxxxxxx>  lactate~polymère{NC~NC|obj~mod}		produit{NC|mod}		de{P|dep}		
+
+
+314|1791) Le lactate musculaire ainsi produit traverse la cellule musculaire pour être véhiculé par le sang vers d'_autres organes( foie) ou simplement vers des fibres musculaires aérobies. 
+
+xxxxxxx>  lactate~musculaire{NC~ADJ|suj~mod}		produire{VPP|mod}		ainsi{ADV|mod}		
+
+
+315|1792) Pendant ou à la fin de l' exercice, il est ensuite transformé en gaz carbonique et eau pour donner de l' énergie aérobie sous_forme_d' ATP = adénosine triphosphate. 
+
+316|1800) Quand produit -on beaucoup de lactate? 
+
+xxxxxxx>  quand{CS|root}		produire{V|obj}		cln{CLS|suj}		
+
+
+xxxxxxx>  quand{CS|root}		produire{V|obj}		beaucoup{ADV|mod}		
+
+
+xxxxxxx>  quand{CS|root}		produire{V|obj}		de{P|de_obj}		
+
+
+317|1802) Ensuite c' est le 200 m 4 nages, puis les 200 m en_général( en nage libre, le record du monde est détenu par Ian Thorpe, 1' 41'' 10 en petit bassin et 1' 44" 06 en grand bassin). 
+
+318|1804) Cet exemple concerne les résultats de Thierry Pata, ancien champion de France du 200 brasse. 
+
+xxxxxxx>  concerner{V|root}		résultat{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  concerner~exemple{V~NC|root~suj}		résultat{NC|obj}		de{P|dep}		
+
+
+319|1808) U ne interprétation de spécialiste La prise de lactate Elle se pratique tout_de_suite après l' arrêt de l' exercice, à l' extrémité du doigt ou à l' oreille. 
+
+320|1811) Facteurs de variation La vitesse de nage L' entraînement spécifique à la force musculaire( un travail à intensité élevée avec des périodes de repos longues permet de développer les capacités anaérobies) L' entraînement spécifique à dominante cardio- vasculaire( intensité plus_ou_moins élevée sur longue distance avec un repos peu important, permettant de développer les capacités aérobies et de chercher à obtenir, avec un taux de lactate identique, un meilleur temps par_exemple sur 400 m) La tolérance à l' entraînement( baisse des lactates et diminution de la performance sur un 800 NL) La régularité d' allure La distance de nage: taux maximal de lactate sur 4 nages soit 400 ou 200 m et ensuite sur 100 et 800 NL; 
+
+xxxxxxx>  permettre{V|root}		facteur{NC|suj}		de{P|dep}		
+
+
+------->  permettre{V|root}		facteur{NC|suj}		vitesse{NC|mod}		
+
+
+------->  permettre{V|root}		facteur{NC|suj}		entraînement{NC|mod}		
+
+
+xxxxxxx>  permettre{V|root}		facteur{NC|suj}		à{P|dep}		
+
+
+xxxxxxx>  permettre{V|root}		facteur{NC|suj}		({PONCT|ponct}		
+
+
+------->  permettre{V|root}		facteur{NC|suj}		travail{NC|mod}		
+
+
+xxxxxxx>  permettre{V|root}		facteur{NC|suj}		avec{P|dep}		
+
+
+321|1811) Facteurs de variation La vitesse de nage L' entraînement spécifique à la force musculaire( un travail à intensité élevée avec des périodes de repos longues permet de développer les capacités anaérobies) L' entraînement spécifique à dominante cardio- vasculaire( intensité plus_ou_moins élevée sur longue distance avec un repos peu important, permettant de développer les capacités aérobies et de chercher à obtenir, avec un taux de lactate identique, un meilleur temps par_exemple sur 400 m) La tolérance à l' entraînement( baisse des lactates et diminution de la performance sur un 800 NL) La régularité d' allure La distance de nage: taux maximal de lactate sur 4 nages soit 400 ou 200 m et ensuite sur 100 et 800 NL; 
+
+xxxxxxx>  permettre{V|root}		facteur{NC|suj}		de{P|dep}		
+
+
+------->  permettre{V|root}		facteur{NC|suj}		vitesse{NC|mod}		
+
+
+------->  permettre{V|root}		facteur{NC|suj}		entraînement{NC|mod}		
+
+
+xxxxxxx>  permettre{V|root}		facteur{NC|suj}		à{P|dep}		
+
+
+xxxxxxx>  permettre{V|root}		facteur{NC|suj}		({PONCT|ponct}		
+
+
+------->  permettre{V|root}		facteur{NC|suj}		travail{NC|mod}		
+
+
+xxxxxxx>  permettre{V|root}		facteur{NC|suj}		avec{P|dep}		
+
+
+322|1813) En_revanche, la comparaison des lactates avec le niveau de performance peut permettre de détecter un état de surentraînement. 
+
+xxxxxxx>  pouvoir{V|root}		comparaison{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  pouvoir{V|root}		comparaison{NC|suj}		de{P+D|dep}		
+
+
+xxxxxxx>  pouvoir{V|root}		comparaison{NC|suj}		avec{P|dep}		
+
+
+323|1816) En effet, l' entraînement purement aérobie produit une baisse des lactates et le sujet n' est pas pour_autant fatigué. 
+
+324|1816) En effet, l' entraînement purement aérobie produit une baisse des lactates et le sujet n' est pas pour_autant fatigué. 
+
+325|1826) 29-Jan-08 LA SOIREE DANSANTE DE VOTRE MARIAGE- DORE Michel, vous propose une PRESTATION DE QUALITE- La soirée dansante de votre MARIAGE- Un matériel performant de haute technologie( matériel son, effets lumière)- Un programme musical... 
+
+------->  technologie{NC|obj}		effet{NC|mod}		lumière{NC|mod}		
+
+
+326|1828) 16-Jan-08 COSTUMES DE SUMO C' gonflé loisirs Bretagne vous propose la location de structures gonflables, Château gonflable, baby foot humain, costumes de sumo, mascottes peluche géantesâ¦ Livraison Bretagne et pays de loire... 
+
+xxxxxxx>  géantesâ¦{P|mod}		livraison{NC|obj}		Bretagne{NPP|mod}		
+
+
+$$$$$$$>  géantesâ¦{P|mod}		livraison{NC|obj}		et{CC|coord}		
+
+
+327|1829) 16-Jan-08 COSTUME MASCOTTE PELUCHE C' gonflé loisirs Bretagne vous propose la location de structures gonflables, Château gonflable, baby foot humain, costumes de sumo, mascottes peluche géantesâ¦ Livraison Bretagne et pays de loire... 
+
+xxxxxxx>  géantesâ¦{P|mod}		livraison{NC|obj}		Bretagne{NPP|mod}		
+
+
+$$$$$$$>  géantesâ¦{P|mod}		livraison{NC|obj}		et{CC|coord}		
+
+
+328|1830) 16-Jan-08 LOCATION CHATEAU GONFLABLE C' gonflé loisirs Bretagne vous propose la location de structures gonflables, Château gonflable, baby foot humain, costumes de sumo, mascottes peluche géantesâ¦ Livraison Bretagne et pays de loire... 
+
+xxxxxxx>  géantesâ¦{P|mod}		livraison{NC|obj}		Bretagne{NPP|mod}		
+
+
+$$$$$$$>  géantesâ¦{P|mod}		livraison{NC|obj}		et{CC|coord}		
+
+
+329|1848) Tatiana, une petite fille d' origine russe est admise dans le service du docteur Ross, souffrant de fièvre depuis une semaine. 
+
+xxxxxxx>  de{P|dep}		origine{NC|obj}		russe{ADJ|mod}		
+
+
+330|1849) Mais curieusement, la mère s' éclipse sans attendre les résultats des premières analyses. 
+
+xxxxxxx>  attendre{VINF|obj}		résultat{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  attendre{VINF|obj}		résultat{NC|obj}		de{P+D|dep}		
+
+
+331|1866) LE VIECULE EST ROULANT AVEC 28000 KM PREMIERE MISE EN CIRCULATION LE 17/12/88 LE TYPE CES LA GLD moteur yanmar PAR CONTRE JE... 
+
+332|1868) Kilométrage: 28345 km Roulante, de plus 1 autre moteur qui est mis avec pour le même prix A... 
+
+xxxxxxx>  de{P|dep}		moteur{NC|obj}		plus{ADV|mod}		
+
+
+xxxxxxx>  de{P|dep}		moteur{NC|obj}		1{DET|det}		
+
+
+xxxxxxx>  de{P|dep}		moteur{NC|obj}		autre{ADJ|mod}		
+
+
+333|1869) 1.200,00 EUR 29-Jan-08 MICROCAR MICROCAR GL 300 DIESEL 28345 KM LES 4 PNEU OK LA CARROSERIE OK ELLE EST DE COULEUR BLANCHE ELLE EST DE L' ANNER 1988 DE PLUS DANS LE PRIX DE VENTE IL YA UN AUTRE MOTEUR QUI EST... 
+
+334|1871) troc/ echange 28-Jan-08 licence taxi licence taxi sur Rennes et réciprocité, gare, aéroport, Gie Groupement radio- taxis 154.000,00 EUR 26-Jan-08 vend mobylette vend mobylette FOX( cause décès) avec coffre année 2004_3115 km acheté 1595 euros démarrage électrique ou au kit tél 02_99_71_27_45 1.000,00 EUR 25-Jan-08 TRACTEUR BELARUS( AVTO) MTZ 50, direction assistée, deux roues motrices, mécanique ok, batteries faibles, pneus AV bons, AR usagés, carosserie saine et sans gros choc, pas de rouille... 
+
+------->  mobylette{NC|suj}		cause{NC|mod}		décès{NC|mod}		
+
+
+335|1871) troc/ echange 28-Jan-08 licence taxi licence taxi sur Rennes et réciprocité, gare, aéroport, Gie Groupement radio- taxis 154.000,00 EUR 26-Jan-08 vend mobylette vend mobylette FOX( cause décès) avec coffre année 2004_3115 km acheté 1595 euros démarrage électrique ou au kit tél 02_99_71_27_45 1.000,00 EUR 25-Jan-08 TRACTEUR BELARUS( AVTO) MTZ 50, direction assistée, deux roues motrices, mécanique ok, batteries faibles, pneus AV bons, AR usagés, carosserie saine et sans gros choc, pas de rouille... 
+
+------->  mobylette{NC|suj}		cause{NC|mod}		décès{NC|mod}		
+
+
+336|1872) 1.500,00 EUR 25-Jan-08 Vends mobylette Vend mobylette Fox( cause déces) avec coffre année 2004_3115 km acheté 1595 euros démarrage électrique ou au kit 1.000,00 EUR 24-Jan-08 Super 5 Super 5 à vendre à l' état: 300 â¬ avec peu de frais appeler au 06.72.95.37.12 300,00 EUR 24-Jan-08 vend cause décé FIAT PUNTO ACTIVE 3portes, année 2003, 4cv, essence, très bon état. 
+
+xxxxxxx>  mobylette~kilomètre{NC~NC|mod~obj}		cause{NC|mod}		déce{ADJ|mod}		
+
+
+xxxxxxx>  vendre{V|root}		cause{NC|obj}		décé{VPP|mod}		
+
+
+337|1872) 1.500,00 EUR 25-Jan-08 Vends mobylette Vend mobylette Fox( cause déces) avec coffre année 2004_3115 km acheté 1595 euros démarrage électrique ou au kit 1.000,00 EUR 24-Jan-08 Super 5 Super 5 à vendre à l' état: 300 â¬ avec peu de frais appeler au 06.72.95.37.12 300,00 EUR 24-Jan-08 vend cause décé FIAT PUNTO ACTIVE 3portes, année 2003, 4cv, essence, très bon état. 
+
+xxxxxxx>  mobylette~kilomètre{NC~NC|mod~obj}		cause{NC|mod}		déce{ADJ|mod}		
+
+
+xxxxxxx>  vendre~euro{V~NC|root~suj}		cause{NC|obj}		décé{VPP|mod}		
+
+
+338|1873) à votre demande je peut programmer votre compteur kilometrique digital Les raisons peuvent etre... 
+
+xxxxxxx>  compteur{NC|obj}		raison{NC|mod}		le{DET|det}		
+
+
+339|1876) Commenter cette actualité| Lire l' article complet| Source: JeuxActu.com Call of duty 4 aura droit à ses nouvelles cartes le 07 Février 2008 à 16h07 Activision nous annonce l' imminence de l' arrivée de nouvelles maps multijoueur à télécharger pour son COD 4. 
+
+340|1877) Commenter cette actualité| Lire l' article complet| Source: jeuxvideopc.com Call of duty 4, bientôt de nouvelles cartes le 07 Février 2008 à 16h02 Activision confirme l' arrivée prochaine d' un contenu téléchargeable pour Call Of Duty 4: Modern Warfare sur Playstation 3 et Xbox 360. 
+
+341|1878) ] Commenter cette actualité| Lire l' article complet| Source: Jeuxvideo.fr Aucune publication Aucune publication Aucune publication Ces 7 derniers jours DICE: la remise des Interactive Achievements Awards le 08 Février 2008 à 13h10 Les traditionnels Interactive Achievements Awards ont été remis à_l'_occasion_du DICE, lors_d' une soirée de gala se tenant au Red Rock Casino de Las Vegas. 
+
+342|1881) Commenter cette actualité| Lire l' article complet| Source: 
+
+343|1882) Dans_le_cadre_du Téléthon 2006, la ville de Bessay sur Allier, la ville de Nohanent et la compagnie théâtrale L' Eclat dans les Yeux présentent" Marcelle", une comédie contemporaine de Eric Lourioux mise en scène par Dominique Lakanal à BESSAY sur ALLIER( 03340) le vendredi 8 décembre à 20h30 Salle Polyvalente de Bessay Tarif: 5 â¬- Gratuit pour les moins de 12 ans à NOHANENT( 63830) le samedi 9 décembre à 20h30 Maison de la Source- Salle des Lavoirs Tarif: 7 â¬ Dans un style drôle et coquin," Marcelle" conte les( més) aventures de Valeyre et Patrice qui voient débarquer dans leur vie Marcelle, une ancienne compagne de Patrice, elle-même poursuivie par Fabio, son amant dont elle ne veut plusâ¦ Marcelle est une comédie portée par un texte riche en subtilités comportant de nombreuses ficelles qui s' enchevêtrent au_fur_et_à_mesure de l' action pour amener l' histoire vers une chute inattendue. 
+
+xxxxxxx>  de{P|dep}		source{NPP|obj}		le{DET|det}		
+
+
+xxxxxxx>  de{P|dep}		source{NPP|obj}		-{PONCT|ponct}		
+
+
+xxxxxxx>  de{P|dep}		source{NPP|obj}		salle{NC|mod}		
+
+
+344|1892) Les Glioblastomes primaires qui surgissent expriment fortement le récepteur épidermique du facteur de croissance( EGFR) et son variant le ligand-indépendant, la variante III( EGFRvIII) d' Egfr; 
+
+xxxxxxx>  de{P+D|dep}		facteur{NC|obj}		de{P|dep}		
+
+
+345|1894) Résultats Mmp-9 latent a été détecté dans 90 % de tumeurs, et Mmp-9 actif a été trouvé dans 50 % de tumeurs. 
+
+xxxxxxx>  être{VPP|root}		résultat{NC|suj}		Mmp-9{NPP|mod}		
+
+
+xxxxxxx>  être{VPP|root}		résultat{NC|suj}		latent{ADJ|mod}		
+
+
+346|1896) Conclusions: Ces résultats identifient une association entre l' activation de Mmp-9 et le sous-type de glioblastome primaire et suggèrent que les patients ayant un glioblastome primaire, particulièrement ceux dont les tumeurs expriment EGFRvIII, puissent tirer bénéfice de la thérapie d' anti- MMP. 
+
+xxxxxxx>  identifier~association{V~NC|root~obj}		résultat{NC|suj}		ce{DET|det}		
+
+
+347|1901) Quelles en sont les conséquences? 
+
+xxxxxxx>  être{V|root}		conséquence{NC|ats}		le{DET|det}		
+
+
+348|1929) La réaction émotive de l' entraîneur devant une question, un comportement, incitera plus_ou_moins l' athlète à la confidence ou au dialogue. 
+
+349|1931) Les attitudes du coach deviennent alors le moteur du dialogue et de l' accompagnement. 
+
+350|1940) l' entraîneur manifeste aussi de l' indifférence quant_aux résultats obtenus par le nageur. 
+
+351|1944) Dans tous les cas, ses attitudes auront des conséquences psychologiques sur le nageur. 
+
+xxxxxxx>  avoir{V|root}		conséquence{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  avoir~attitude{V~NC|root~suj}		conséquence{NC|obj}		psychologique{ADJ|mod}		
+
+
+xxxxxxx>  avoir~attitude{V~NC|root~suj}		conséquence{NC|obj}		sur{P|dep}		
+
+
+352|1945) Il manquera également de créativité et d' un minimum d' agressivité, source de performance. 
+
+xxxxxxx>  minimum{NC|obj}		source{NC|mod}		de{P|dep}		
+
+
+353|1946) Quand l' entraîneur est sur l' axe autoritarisme-hostilité, le nageur a tendance à se renfermer sans exprimer ses sentiments et à générer de l' auto- agressivité, source de conflits internes comme de la timidité ou de l' anxiété. 
+
+xxxxxxx>  agressivité{NC|obj}		source{NC|mod}		de{P|dep}		
+
+
+354|1956) Christ a pris ses fonctions le 1er juin et remplace Anders Hildeman of SCA qui occupait cette fonction depuis février suite au départ de Wim Hoebert. 
+
+355|1964) Les libertés prisent avec le scenar d' origine donnent une bonne densité au film sans le dénaturer, les répliques cultes de Rutger Hauer sont bien là, bref du bon remake! 
+
+356|1971) Malheureusement la 309 avait deux défauts principaux: d'_une_part elle est bien trop puissante et exigeante pour l' utilité que j' en avais( c-à-d aller chercher ma fille chez la nourrice principalement), ensuite elle n' a jamais plu à ma femme malgré sa ligne intemporelle 
+
+357|1974) GDG.fr:" Avez -vous déjà acheté une GTI neuve ou très récente par le passé" Oui, j' ai découvert le monde magique des gti avec une Saxo VTS 8 soupapes( 90ch) que j' ai remplacé ensuite pas la même en 16v. 
+
+358|1984) Ensuite je crains de ne_pas pouvoir m' empêcher d' apporter quelques modifications" classiques" sur la voiture: accastillage neuf, réglages de trains 
+
+359|1985) J' ai en effet troqué le grand volant en plastique d' origine contre un plus petit, en cuir avec branches" à troutrous". 
+
+xxxxxxx>  en{P|mod}		effet{NC|obj}		troquer{VPP|mod}		
+
+
+360|1985) J' ai en effet troqué le grand volant en plastique d' origine contre un plus petit, en cuir avec branches" à troutrous". 
+
+xxxxxxx>  en{P|mod}		effet{NC|obj}		troquer{VPP|mod}		
+
+
+361|1987) Mis à part le volant je n' ai encore apporté que peu de modifications, me contentant de repasser les feux arrières en couleurs d' origine( le propriétaire précédent les ayant passés en blanc intégral). 
+
+362|1989) Parmi les modifications que j' effectuerai certainement, une inversion de carrossage des trains" actuellement en carrossage positif d' origine) sera certainement la plus importante. 
+
+363|1991) Newsletter du 05/04/2002: Le public système rachète salines Le français aldo cardoso nommé pdg par intérim d' andersen worldwide Bates corporate renforce son équipe Em.tv commercialisera les droits marketing du mondial 2006 Newsletter du 04/04/2002: Bddp & fils, agence française la plus érotique Nouveaux clients pour l' agence pléiades Le directeur artistique christophe paviot publie un recueil de nouvelles L' agence britannique hotwire pr s' installe à paris Mpg grossit en allemagne Newsletter du 03/04/2002: Business attitude s' apprête à quitter publicis pour grrrey marketing services Leagas delaney se lance dans la consultation ing Newsletter du 02/04/2002: Une campagne contre les discriminations raciales confiée à bbdo corporate Nomen crée lyria pour rail france suisse Wegener direct marketing france lance une campagne d' image Dragon rouge, partenaire d' une nouvelle agence de design produit Newsletter du 31/03/2002: Draft france s' étoffe et crée un département consulting Rsl devient d' arcy business Publicis méditerranée reprend coyotte Apco france déménage Newsletter du 29/03/2002: Universal mccann gagne huit nouveaux budgets Les agences brésiliennes attendent 640 millions de dollars grâce_à la coupe du monde. 
+
+364|1992) Les toilettes des bars, c' est loomédia Newsletter du 28/03/2002: Betc euro rscg chargée de repositionner la peugeot 607 Ipsos affiche une baisse de son résultat net part du groupe en 2001 Sr teleperformance: profits en_hausse de 4,7 % en 2001 Mediasystem lance talent@venue Newsletter du 27/03/2002: Ursamaior a le vent en poupe Le groupe victor déménage Altedia maintient sa croissance en 2001 Newsletter du 26/03/2002: Les fondateurs de stratélite rebondissent avec the crm company Ems rachète tonicom Pour perrier, ogilvy & mather renoue avec la saga des tee-shirts Bddptequilainteractive et tequila en duo pour palm Newsletter du 25/03/2002: Médiatisés et tns media intelligence, alliés dans la veille audiovisuelle Création de tournages voyages conseil Mpg et carat champions du new business Newsletter du 22/03/2002: Ipc rejoint leo burnett et devient be Initiative media lance matrix, un outil de médiaplanning plurimédia La composition du jury du 25e grand prix stratégies de la publicité Newsletter du 21/03/2002: Ddb organise son pôle crm sous la marque groupe rapp Mediaedge: cia met en_place ses équipes de management Euro rscg motivforce en forme Nouveau pdg et réorganisation chez bates worldwide Nouveaux budgets pour l' agence rangoon Newsletter du 20/03/2002: Ipsos-asi réorganise sa direction Magnesium rejoint le groupe publicis Créatifs cédée à alpha 2ème communication-mediartis commence bien l' année Liliane fretté communication déménage Newsletter du 19/03/2002: Angie rachète pointe noire productions Bénéfices en_hausse pour taylor nelson sofres Sensation! 
+
+xxxxxxx>  de{P|dep}		résultat{NC|obj}		son{DET|det}		
+
+
+xxxxxxx>  de{P|dep}		résultat{NC|obj}		net{ADJ|mod}		
+
+
+xxxxxxx>  de{P|dep}		résultat{NC|obj}		part{NC|mod}		
+
+
+xxxxxxx>  de{P|dep}		résultat{NC|obj}		en{P|dep}		
+
+
+365|1994) marketing services lance une offre d' e-mailing Lancement d' un collectif en_faveur_de la libéralisation de la publicité politique Newsletter du 15/03/2002: Shanghaï fusionne avec artbreakers Tlb se dote d' un centre d' appels Rangoon gagne cinq nouveaux budgets Le bvp actualise ses recommandations enfant Newsletter du 14/03/2002: Aegis fait preuve de pessimisme pour 2002 Valoris a maintenu sa croissance en 2001 Un ancien de wieden & kennedy lance une nouvelle agence Le singe signe la campagne de relance des inrockuptibles Newsletter du 13/03/2002: Draft france s' étoffe et crée un département consulting Rsl devient d' arcy business Publicis méditerranée reprend coyotte Apco france déménage Newsletter du 08/03/2002: Harrison & wolf s' associe avec pricewaterhousecoopers Saguez & partners complète son réseau all around design Trois nouveaux budgets pour fleishman-hillard france Tbwa paris crée tbwaretail avec henri baché Newsletter du 06/03/2002: Publicis consultants prépare sa réorganisation Sept nouveaux adhérents au syntec etudes marketing et opinion Le chiffre d' affaires de publicis en_hausse de 41,2 % Auditoire déménage Précision sur editum Newsletter du 05/03/2002: Ipsos-médiangles crée un département presse d' entreprise Rapprochement entre id1524 et le public système Alice emménage chez lowe François decaux se lance en indépendant Newsletter du 04/03/2002: Idenium remporte les relations presse de draft worldwide france Le collectif 500 lance un manifeste Mediacom gagne electronic arts et le syndicat des antiquaires Sept nouveaux adhérents au syntec etudes marketing et opinion Privé de champion, editum ferme ses portes Newsletter du 01/03/2002: Pema groupe et de bonneville orlandini: c' est fini Wunderman s' attend à une activité stable pour 2002 Scarlett met en_place le diagnostic marques chaudes Tequila remporte le sncf senior Mccann momentum se réorganise Newsletter du 28/02/2002: 2,5 millions d' euros de nouveaux budgets pour ubi bene Trois nouveaux membres à l' anaé De nouveaux budgets pour oxygen Harrison & wolf et steria révisent leur collaboration Newsletter du 27/02/2002: Bach & partenaires mène une campagne d' autopromotion K agency gagne rexona et special k Précisions d' euro rscg works et du nouvel eldorado Création de babylone, agence conseil en création d' événements Newsletter du 26/02/2002: Bddptequilainteractive va réaliser l' intranet de la cnav Laurence perez, ex-publicisetnous, crée vox populi L' agence by récupère céline et se place pour dunhill Newsletter du 25/02/2002: Deux annonceurs pour loomedia, la régie qui affiche dans les toilettes L' agence eliotrope participe au lancement du réseau international plexus Noé rachète anstett L' agence concrètement déménage Clm/ bbdo fait ses débuts pour uncle ben' s Newsletter du 22/02/2002: Nouveaux clients pour les agences beau fixe, les 100 ciels et media book Publicis consultants conseille la société générale Havas advertising sports met en_place une offre européenne de sponsoring Newsletter du 18/02/2002: Capital events se renforce dans la santé Le chiffre d' affaires 2001 d' ipsos en_hausse de 46 % Le réseau ten accueille trois nouveaux partenaires Bertrand tierny quitte la présidence de mccann momentum Un phénix pour jd relations Newsletter du 15/02/2002: Festival de cannes: mercedes erra au jury film, olivier altmann et gabriel gaultier au print Publicis consultants rachète johnston & associates aux etats-unis La marge brute de havas advertising en_hausse de 24,8 % Eurokapi étoffe son équipe Trois nouveaux budgets pour oko Newsletter du 14/02/2002: High co en compétition pour le stade france Sr teleperformance: activité en_hausse de 30 % en 2001 Quatre nouveaux clients pour next step Interpublic: les barons quittent le board Eurodirect marketing crée une joint-venture avec bertelsmann Newsletter du 13/02/2002: Claritas lance spectra europe Sophie renard, président intérimaire du syntec rp Les cartes de voeux soumises au vote chez gibory consultant Deux nouveaux budgets chez creapress Le chiffre d' affaires de publicis en forte hausse en 2001 grâce_à ses acquisitions Newsletter du 12/02/2002: Médiapost prend le contrôle de delta diffusion Jean-louis azizollah revient avec jla and partners Quatre nouveaux clients pour lewis communications Mccann réorganise ses activités médias en france Newsletter du 11/02/2002: L' agence lyonnaise mga se régénère Saguez & partners signe la nouvelle identité visuelle de pomme de pain Exmachina: 60 emplois sauvés sur 158 Patrice saugeron, pdg de mccann, s' entoure d' un comité exécutif Newsletter du 08/02/2002: Young & rubicam gagne la carte imagine r Louis xiv ddb fait ses débuts avec la poste et bouygues telecom Chiffre d' affaires quasi stable pour le public système Leagas delaney paris centre en or à new york Tarak ben amar, repreneur d' exmachina Newsletter du 07/02/2002: Clio 2002: les jurys sont au complet Cinq nouveaux clients pour actus high tech L' agence stratéus entièrement certifiée iso 9001 Quatre agences françaises primées au new york festival Newsletter du 06/02/2002: W & cie gagne des budgets dans le grand ouest Omd lance un outil d' optimisation et de construction des campagnes de marketing direct Deux nouveaux clients internationaux pour text 100 Trimedia communications france étoffe son pôle high-tech Ebb and flow, nouvelle agence de marketing relationnel Newsletter du 05/02/2002: Publicis renforce sa filiale japonaise Altaï engrange plusieurs budgets Carré noir et dragon rouge en finale sur la maif Rebondissement dans la liquidation d' exmachina Newsletter du 04/02/2002: Sri devient c-sports communication Le groupe sogec rebaptise son pôle conseil Nex & com crée nex & com travel Consodata investit en chine Le groupe leo burnett france rachète ipc Newsletter du 01/02/2002: Le chiffre d' affaires d' altedia en_hausse de 40 % High co a connu une croissance de 19 % en 2001 Market place gérera ses relations publiques avec idenium Le groupe transatlantic acquiert medialab technology Nombre_de pages de résultats: 
+
+366|1995) Et ben, il est pas content le big boss Guigui Fallait pas l' enerver l' invité( e) N' empêche qu' il a raison, critiquer c' est bien, mais en apportant des remarques pertinentes et dans le respect des autres, c' est mieux. 
+
+367|2014) ? a + les p' tits Re: Aimons la nature[ 1427] freedom Activité: Milicien 53 messages postés Posté le: 20/11/2007 à 10: 49( Lu 229 fois) Répondre Citer Salut l' invité pas invité qui s' invite sans invitation et qu' a bien raison. 
+
+368|2022) Mise en ligne le: vendredi 20 mai 2005 COPIE AUTORISÉE Conditions: lien obligatoire vers l'article- usage non commercial- mention legiculture- pas plus de 6 articles repris par site web- html seulement( ni presse, ni pdf)- En_dehors_de ce cadre, les copies feront l'objet de poursuites 
+
+369|2038) En effet, il ne sert à rien d' introduire des poissons dans un cours d' eau si celui-ci n' est pas capable de fournir la nourriture nécesaire à la survie des dits poissons. 
+
+370|2046) Il y eu quelques résultats mais plus d' échecs.Les associations qui très tôt ont curé les ruisseaux et renaturé des frayères ont mieux tiré leur épingle du jeu. 
+
+xxxxxxx>  avoir{VPP|root}		résultat{NC|obj}		quelque{DET|det}		
+
+
+$$$$$$$>  avoir{VPP|root}		résultat{NC|obj}		mais{CC|coord}		
+
+
+371|2051) La cause en est le vandalisme. 
+
+xxxxxxx>  être~vandalisme{V~NC|root~ats}		cause{NC|suj}		le{DET|det}		
+
+
+372|2093) Département de la neurochirurgie, de l' université médicale et pharmaceutique de Toyama, Toyama, Japon kuri3312@ms.toyama-mpu.ac.jp p21-Ras, le produit de protéine Ras est suractivé dans les astrocytomes malins même en l' absence de mutation génétique. 
+
+xxxxxxx>  département{NC|suj}		produit{NC|mod}		le{DET|det}		
+
+
+xxxxxxx>  département{NC|suj}		produit{NC|mod}		de{P|dep}		
+
+
+373|2096) Le traitement quotidien des souris infectée par des cellules tumorales U87 avec B1620 100 ou 50 au magnésium kg( -1) a eu comme conséquence l' inhibition significative de la croissance de tumeur. 
+
+374|2098) Ces résultats suggèrent que le mécanisme de l' effet inhibiteur de la croissance tumorale de B1620 repose sur l' antiangiogenèse, l' induction d' apoptose et le retour du phénotype transformé. 
+
+xxxxxxx>  suggérer{V|root}		résultat{NC|suj}		ce{DET|det}		
+
+
+xxxxxxx>  de{P|dep}		effet{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  de{P|dep}		effet{NC|obj}		inhibiteur{ADJ|mod}		
+
+
+xxxxxxx>  de{P|dep}		effet{NC|obj}		de{P|dep}		
+
+
+375|2098) Ces résultats suggèrent que le mécanisme de l' effet inhibiteur de la croissance tumorale de B1620 repose sur l' antiangiogenèse, l' induction d' apoptose et le retour du phénotype transformé. 
+
+xxxxxxx>  suggérer{V|root}		résultat{NC|suj}		ce{DET|det}		
+
+
+xxxxxxx>  de{P|dep}		effet{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  de{P|dep}		effet{NC|obj}		inhibiteur{ADJ|mod}		
+
+
+xxxxxxx>  de{P|dep}		effet{NC|obj}		de{P|dep}		
+
+
+376|2105) La présidence espagnole de l'UE a estimé quant_à elle que les résultats obtenus sont conformes aux objectifs de l'Union européenne: recherche de la paix civile, respect des principes démocratiques et solution politique à la crise. 
+
+xxxxxxx>  être~conforme{V~ADJ|mod_rel~ats}		résultat{NC|suj}		les{DET|det}		
+
+
+xxxxxxx>  être~conforme{V~ADJ|mod_rel~ats}		résultat{NC|suj}		obtenir{VPP|mod}		
+
+
+377|2113) Résultat, les Ratsirakistes, qui sont en fait de plus des électrons libres et qui s'agitent pour leur propre survie, n'ont pas bougé d'un pouce, n'étant pas concernés par l'accord de Dakar. 
+
+378|2120) Ici, l'on fabrique, on produit mais on ne vend rien. 
+
+xxxxxxx>  fabriquer{V|root}		produire{V|mod}		cln{CLS|suj}		
+
+
+$$$$$$$>  fabriquer{V|root}		produire{V|mod}		mais{CC|coord}		
+
+
+379|2126) Et pourtant, les résultats du premier tour démontrent à l'envi que Didier Ratsiraka fut loin d'avoir obtenu une majorité écrasante, voire une majorité simple, dans ses supposés fiefs provinciaux. 
+
+xxxxxxx>  démontrer{V|dep_coord}		résultat{NC|suj}		le{DET|det}		
+
+
+xxxxxxx>  démontrer{V|dep_coord}		résultat{NC|suj}		de{P+D|dep}		
+
+
+380|2131) Pourquoi ne_pas avoir écrit tout_de_suite un référendum« est» organisé... 
+
+381|2136) Suite à cette réaction d'Amara Essy, le quotidien indépendant Tribune n'a pas manqué de mettre l'accent sur l'impuissance de la communauté internationale à imposer à M. Ratsiraka la levée des barrages, une exigence à laquelle il devait se plier dès la signature de l'accord de Dakar, selon la lettre du même accord. 
+
+xxxxxxx>  manquer{VPP|root}		suite{NC|suj}		à{P|dep}		
+
+
+xxxxxxx>  manquer{VPP|root}		suite{NC|suj}		,{PONCT|ponct}		
+
+
+------->  manquer{VPP|root}		suite{NC|suj}		quotidien{NC|mod}		
+
+
+382|2150) Loïc Blanchon, école doctorale des Sciences de la vie et de la santé( biologie moléculaire et physiologie): Facteurs de transcription de type Krüppel Like Factor et tissus placentaires: profils d' expression et régulation d' un gène placentaire PSG5. 
+
+xxxxxxx>  Loïc{NPP|root}		facteur{NC|mod}		de{P|dep}		
+
+
+383|2162) C' est la raison pour laquelle, un arrêté municipal n° 2004/19 du 20 janvier 2004 a été pris, afin_de sensibiliser les maîtres et éduquer leur compagnon à quatre pattes. 
+
+xxxxxxx>  être{V|root}		raison{NC|ats}		le{DET|det}		
+
+
+384|2173) à titre de comparaison, le véhicule le plus rapide jamais construit par l' homme, la sonde spatiale Ulysse, se déplace à un petit 44 kilomètres par seconde. 
+
+385|2178) Encore par comparaison, ce chiffre représente 4 fois la masse du Queen Elizabeth. 
+
+386|2182) Ce kit est composé d' accessoires d' origines SEAT qui respectent les standards de qualité et d' esthétique de la marque. 
+
+xxxxxxx>  de{P|dep}		origine{NC|obj}		SEAT{NPP|mod}		
+
+
+xxxxxxx>  de{P|dep}		origine{NC|obj}		respecter{V|mod_rel}		
+
+
+387|2197) En effet, lorsque le médecin du travail estime que le salarié accidenté ne peut être maintenu à son poste, une seconde visite médicale est prévue par l' article R. 
+
+388|2205) À l' issue de la deuxième visite, si, l' inaptitude est constatée, l' employeur a un mois pour chercher au salarié un autre poste conforme aux indications du médecin du travail. 
+
+xxxxxxx>  à{P|mod}		issue{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  à{P|mod}		issue{NC|obj}		de{P|dep}		
+
+
+389|2207) Mise en ligne le: mercredi 22 mars 2006 COPIE AUTORISÉE Conditions: lien obligatoire vers l'article- usage non commercial- mention legiculture- pas plus de 6 articles repris par site web- html seulement( ni presse, ni pdf)- En_dehors_de ce cadre, les copies feront l'objet de poursuites 
+
+390|2217) On note ensuite un pare choc arrière aérodynamique spécifique qui intègre une double sortie d' échappement chromée séparée droite/ gauche. 
+
+391|2220) à l' intérieur, exclusivité et sportivité sont au rendez-vous, avec des seuils de porte spécifiques en aluminium siglés WTCC Edition', des tapis de sol SEAT Sport et un pommeau de levier de vitesse en carbone lui aussi d' origine SEAT Sport. 
+
+xxxxxxx>  de{P|root}		origine{NC|obj}		SEAT{NPP|mod}		
+
+
+xxxxxxx>  de{P|root}		origine{NC|obj}		sport{NC|mod}		
+
+
+392|2239) _________________ http://tenam.miniville.fr http://tenam.miniville.fr/ind http://tenam.miniville.fr/tra http://newworld.creatuforo.com/" Quand le gouvernement viole les droits du peuple, l'insurection est, pour le peuple et pour chaque partisan du peuple, le plus sacré des droits et le plus indispensable des devoirs." Mani Recrue Age: 16 Inscrit le: 28 Juin 2006 Messages: 567 Humeur: 100 % poete asgard, origine controlée. 
+
+xxxxxxx>  être{V|root}		origine{NC|mod}		controlé{ADJ|mod}		
+
+
+393|2253) Ceci est pour vous, comme pour les armées françaises, un motif de fierté supplémentaire. 
+
+xxxxxxx>  être{V|root}		motif{NC|ats}		un{DET|det}		
+
+
+xxxxxxx>  être{V|root}		motif{NC|ats}		de{P|dep}		
+
+
+394|2269) en conséquence je l' ai rebaptisé: Prédator Neslé Bubulle, un vrai nom de princesse! 
+
+395|2272) en conséquence je l' ai rebaptisé: Prédator Neslé Bubulle, un vrai nom de princesse! 
+
+396|2289) Le métabolite actif d' irinotecan, le camptothecin 7-ethyl-10-hydroxy( Sn-38), a eu des effets antitumoraux prometteurs sur les gliomes en essais cliniques. 
+
+xxxxxxx>  avoir{VPP|root}		effet{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  avoir~camptothecin{VPP~NC|root~suj}		effet{NC|obj}		antitumoral{ADJ|mod}		
+
+
+xxxxxxx>  avoir~camptothecin~métabolite{VPP~NC~NC|root~suj~suj}		effet{NC|obj}		prometteur{ADJ|mod}		
+
+
+xxxxxxx>  avoir~camptothecin~métabolite{VPP~NC~NC|root~suj~suj}		effet{NC|obj}		sur{P|dep}		
+
+
+397|2292) Les essais cliniques ont démontré que l' administration simultanée d' irinotecan et de certains antiépileptiques avait des effets moins efficaces. 
+
+xxxxxxx>  avoir{V|obj}		effet{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  avoir~administration{V~NC|obj~suj}		effet{NC|obj}		efficace{ADJ|mod}		
+
+
+398|2295) Irinotecan est un dérivé hydrosoluble de la camptothecine, un alkylant à l' origine d' extraits d' acuminate chinois de Camptotheque. 
+
+xxxxxxx>  à{P|mod}		origine{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  à{P|mod}		origine{NC|obj}		de{P|dep}		
+
+
+399|2297) Des études de laboratoire ont démontré qu' une combinaison des agents irinotecan( Cpt-11) et des nitrosourées BCNU avaient des effets antitumoraux plus importants et bien au-dessus_des effets additifs des agents pris séparément. 
+
+xxxxxxx>  avoir{V|obj}		effet{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  avoir~combinaison{V~NC|obj~suj}		effet{NC|obj}		antitumoraux{P+D|dep}		
+
+
+$$$$$$$>  avoir~combinaison{V~NC|obj~suj}		effet{NC|obj}		et{CC|coord}		
+
+
+------->  avoir~combinaison{V~NC|obj~suj}		effet{NC|obj}		additif{NC|mod}		
+
+
+xxxxxxx>  avoir~combinaison{V~NC|obj~suj}		effet{NC|obj}		prendre{VPP|mod}		
+
+
+400|2297) Des études de laboratoire ont démontré qu' une combinaison des agents irinotecan( Cpt-11) et des nitrosourées BCNU avaient des effets antitumoraux plus importants et bien au-dessus_des effets additifs des agents pris séparément. 
+
+xxxxxxx>  avoir~combinaison{V~NC|obj~suj}		effet{NC|obj}		de{DET|det}		
+
+
+xxxxxxx>  avoir~combinaison{V~NC|obj~suj}		effet{NC|obj}		antitumoraux{P+D|dep}		
+
+
+$$$$$$$>  avoir~combinaison{V~NC|obj~suj}		effet{NC|obj}		et{CC|coord}		
+
+
+------->  avoir~combinaison{V~NC|obj~suj}		effet{NC|obj}		additif{NC|mod}		
+
+
+xxxxxxx>  avoir~combinaison{V~NC|obj~suj}		effet{NC|obj}		prendre{VPP|mod}		
+
+
+401|2298) Ces études de laboratoire ont produit d' une épreuve récemment réalisée de la phase I de Cpt-11 + BCNU, qui maintenant est évaluée dans une épreuve formelle de la phase II pour des adultes avec le gliome malin nouvellement diagnostiqué ou récurrent. 
+
+402|2300) Sur 115 millions d' euros d' économies demandés en 2005 aux hôpitaux( respect de la prise en charge à 100 % des seuls médicaments liés à une ALD)," le résultat a été zéro", a souligné Frédéric van Roekeghem. 
+
+xxxxxxx>  être~zéro{VPP~NC|root~obj}		résultat{NC|suj}		le{DET|det}		
+
+
+403|2323) Mais Carter se sent coupable du décès finale du patient bien_qu' il n' en soit pas la cause directe. 
+
+xxxxxxx>  être{VS|obj}		cause{NC|obj}		le{DET|det}		
+
+
+xxxxxxx>  être{VS|obj}		cause{NC|obj}		direct{ADJ|mod}		
+
+
+404|2346) Définition: La base du réseau réciproque est définie à_partir_de la base du réseau direct, par les relations issues des produits scalaires de chacun des vecteurs de la base des réseaux par chacun des vecteurs de la base de l' autre réseau, soit 9 produits scalaires où: est la constante de définition du réseau réciproque qui sera prise( égale à 1 sauf spécification contraire). 
+
+xxxxxxx>  de{P+D|dep}		produit{NC|obj}		scalaire{NC|mod}		
+
+
+$$$$$$$>  soit{CC|coord}		produit{NC|dep_coord}		9{DET|det}		
+
+
+$$$$$$$>  soit{CC|coord}		produit{NC|dep_coord}		scalaire{NC|mod}		
+
+
+$$$$$$$>  soit{CC|coord}		produit{NC|dep_coord}		être{V|mod_rel}		
+
+
+$$$$$$$>  soit{CC|coord}		produit{NC|dep_coord}		){PONCT|ponct}		
+
+
+405|2346) Définition: La base du réseau réciproque est définie à_partir_de la base du réseau direct, par les relations issues des produits scalaires de chacun des vecteurs de la base des réseaux par chacun des vecteurs de la base de l' autre réseau, soit 9 produits scalaires où: est la constante de définition du réseau réciproque qui sera prise( égale à 1 sauf spécification contraire). 
+
+xxxxxxx>  de{P+D|dep}		produit{NC|obj}		scalaire{NC|mod}		
+
+
+$$$$$$$>  soit{CC|coord}		produit{NC|dep_coord}		9{DET|det}		
+
+
+$$$$$$$>  soit{CC|coord}		produit{NC|dep_coord}		scalaire{NC|mod}		
+
+
+$$$$$$$>  soit{CC|coord}		produit{NC|dep_coord}		être{V|mod_rel}		
+
+
+$$$$$$$>  soit{CC|coord}		produit{NC|dep_coord}		){PONCT|ponct}		
+
+

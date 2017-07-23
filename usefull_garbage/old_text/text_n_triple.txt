@@ -1,0 +1,3657 @@
+1|8) xxxxxxx>  cosmologie~être{NC~V|suj~root}		explication{NC|ats}		un{DET|det}		Explaining_the_facts
+
+
+xxxxxxx>  cosmologie~être{NC~V|suj~root}		explication{NC|ats}		de~ensemble{P~NC|dep~obj}		Explaining_the_facts
+
+
+xxxxxxx>  cosmologie~être{NC~V|suj~root}		explication{NC|ats}		un{DET|det}		FR_Attributing_cause
+
+
+xxxxxxx>  cosmologie~être{NC~V|suj~root}		explication{NC|ats}		de~ensemble{P~NC|dep~obj}		FR_Attributing_cause
+
+
+3|10) xxxxxxx>  indiquer~non~qualification{V~NC~NC|dep_coord~obj~mod}		issue{NC|suj}		le{DET|det}		Causation
+
+
+4|15) $$$$$$$>  et{CC|coord}		création{NC|dep_coord}		de~chorégraphie{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+5|22) xxxxxxx>  de{P|dep}		prévention{NC|obj}		de~conduite{P+D~NC|dep~obj}		Preventing
+
+
+6|24) xxxxxxx>  inter.ecoles@amicale-insat.fr~14/11/2007{NPP~NC|suj~mod}		résultat{NC|mod}		de~élection{P+D~NC|dep~obj}		Causation
+
+
+7|25) xxxxxxx>  équipe~prendre~nouveau{NC~V~ADJ|suj~root~mod}		fonction{NC|obj}		son{DET|det}		FR_Contingency-Objective_influence
+
+
+------->  équipe~prendre~nouveau{NC~V~ADJ|suj~root~mod}		fonction{NC|obj}		novembre~21{NC~ADJ|mod~mod}		FR_Contingency-Objective_influence
+
+
+9|31) xxxxxxx>  faire{VINF|obj}		remarque{NC|obj}		son{DET|det}		Evidence
+
+
+11|45) xxxxxxx>  arriver{VPP|root}		fruit{NC|suj}		le{DET|det}		Causation
+
+
+xxxxxxx>  arriver{VPP|root}		fruit{NC|suj}		de~labeur{P~NC|dep~obj}		Causation
+
+
+12|49) 13|52) xxxxxxx>  en_ce_qui_concerne{P|mod}		validation{NC|obj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  en_ce_qui_concerne{P|mod}		validation{NC|obj}		de~carte{P+D~NC|dep~obj}		Evidence
+
+
+14|58) xxxxxxx>  proposer~désormais{V~ADV|root~mod}		fonction{NC|obj}		un{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  proposer~désormais{V~ADV|root~mod}		fonction{NC|obj}		de~recherche{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+16|61) xxxxxxx>  tomber~enfin{VPP~ADV|root~mod}		résultat{NC|mod}		de~élection{P+D~NC|dep~obj}		Causation
+
+
+xxxxxxx>  tomber~enfin{VPP~ADV|root~mod}		résultat{NC|mod}		par{P|dep}		Causation
+
+
+xxxxxxx>  tomber~enfin{VPP~ADV|root~mod}		résultat{NC|mod}		,{PONCT|ponct}		Causation
+
+
+------->  tomber~enfin{VPP~ADV|root~mod}		résultat{NC|mod}		17/10/2006{NC|mod}		Causation
+
+
+xxxxxxx>  tomber~enfin{VPP~ADV|root~mod}		résultat{NC|suj}		le{DET|det}		Causation
+
+
+17|62) xxxxxxx>  voici~jeudi~octobre{V~NC~NC|root~obj~mod}		suite{NC|suj}		à~3h30{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  voici~jeudi~octobre{V~NC~NC|root~obj~mod}		résultat{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  voici~jeudi~octobre{V~NC~NC|root~obj~mod}		résultat{NC|obj}		de~scrutin{P+D~NC|dep~obj}		Causation
+
+
+xxxxxxx>  voici~jeudi~octobre{V~NC~NC|root~obj~mod}		résultat{NC|obj}		:{PONCT|ponct}		Causation
+
+
+------->  voici~jeudi~octobre{V~NC~NC|root~obj~mod}		résultat{NC|obj}		nombre~total{NC~ADJ|mod~mod}		Causation
+
+
+xxxxxxx>  prendre{V|mod}		fonction{NC|suj}		son{DET|det}		FR_Contingency-Objective_influence
+
+
+18|67) $$$$$$$>  et{CC|coord}		effet{NC|dep_coord}		de~communication{P~NC|dep~obj}		Causation
+
+
+20|69) xxxxxxx>  de{P+D|dep}		lancement{NC|obj}		de~radio{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  à{P+D|mod}		lancement{NC|obj}		de~radio{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  de{P+D|dep}		lancement{NC|obj}		de~radio{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+21|71) xxxxxxx>  suivre{VINF|obj}		réponse{NC|obj}		le{DET|det}		Response
+
+
+22|73) xxxxxxx>  dire~octobre~29th{V~NC~ADJ|root~mod~mod}		réponse{NC|suj}		un{DET|det}		Response
+
+
+xxxxxxx>  dire~octobre~29th{V~NC~ADJ|root~mod~mod}		réponse{NC|suj}		à{P|dep}		Response
+
+
+24|75) xxxxxxx>  enseigner~pas{VPP~ADV|obj~mod}		marques-là{NC|obj}		ce{DET|det}		Evidence
+
+
+25|80) xxxxxxx>  exposer{VPP|mod_rel}		création{NC|obj}		son{DET|det}		FR_Cause_to_start-Launch_process
+
+
+26|83) $$$$$$$>  pouvoir~entraîner~situation{V~VINF~NC|root~obj~obj}		cause{NC|mod}		et{CC|coord}		Causation
+
+
+xxxxxxx>  pouvoir~entraîner~situation{V~VINF~NC|root~obj~obj}		cause{NC|mod}		chez~personne{P~NC|dep~obj}		Causation
+
+
+$$$$$$$>  et{CC|coord}		symptôme{NC|dep_coord}		de~vision{P~NC|dep~obj}		Evidence
+
+
+28|87) xxxxxxx>  commentaire~appeler{NC~V|suj~obj}		réponse{NC|obj}		un{DET|det}		Response
+
+
+xxxxxxx>  commentaire~appeler{NC~V|suj~obj}		réponse{NC|obj}		de~intérêt{P~NC|dep~obj}		Response
+
+
+xxxxxxx>  trouver~déjà{V~ADV|dep_coord~mod}		réponse{NC|suj}		le{DET|det}		Response
+
+
+xxxxxxx>  utiliser{VINF|dep_coord}		moteur{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  utiliser{VINF|dep_coord}		moteur{NC|obj}		de~recherche{P~NC|dep~obj}		Causation
+
+
+29|91) xxxxxxx>  avoir{V|mod}		source{NC|obj}		le{DET|det}		Causation
+
+
+31|116) xxxxxxx>  en~normalement{P~ADV|mod~mod}		effet{NC|obj}		normalement{ADV|mod}		Causation
+
+
+xxxxxxx>  en~normalement{P~ADV|mod~mod}		effet{NC|obj}		avec~point{P~NC|dep~obj}		Causation
+
+
+32|118) xxxxxxx>  lors_de{P|mod}		résultat{NC|obj}		de~inter{P~NC|dep~obj}		Causation
+
+
+33|120) xxxxxxx>  être~star{V~NC|root~mod}		raison{NC|ats}		le{DET|det}		Causation
+
+
+xxxxxxx>  être~star{V~NC|root~mod}		raison{NC|ats}		le{DET|det}		FR_Reason
+
+
+xxxxxxx>  être~star{V~NC|root~mod}		raison{NC|ats}		le{DET|det}		Evidence
+
+
+34|130) 35|132) xxxxxxx>  perdre~individuel{VINF~ADJ|obj~mod}		contrôle{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  perdre~individuel{VINF~ADJ|obj~mod}		contrôle{NC|obj}		individuel{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  perdre~individuel{VINF~ADJ|obj~mod}		contrôle{NC|obj}		de~élément{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+36|134) xxxxxxx>  ainsi_que~expérimental{CS~ADJ|coord~mod}		démonstration{NC|dep_coord}		le{DET|det}		Evidence
+
+
+xxxxxxx>  ainsi_que~expérimental{CS~ADJ|coord~mod}		démonstration{NC|dep_coord}		expérimental{ADJ|mod}		Evidence
+
+
+xxxxxxx>  ainsi_que~expérimental{CS~ADJ|coord~mod}		démonstration{NC|dep_coord}		de~protocole{P~NC|dep~obj}		Evidence
+
+
+xxxxxxx>  ainsi_que~expérimental{CS~ADJ|coord~mod}		démonstration{NC|dep_coord}		»{PONCT|ponct}		Evidence
+
+
+xxxxxxx>  ainsi_que~expérimental{CS~ADJ|coord~mod}		démonstration{NC|dep_coord}		sur~couple{P~NC|dep~obj}		Evidence
+
+
+37|135) xxxxxxx>  de~attoseconde{P~NC|dep~mod}		source{NC|obj}		attoseconde{NC|mod}		Causation
+
+
+xxxxxxx>  reichle~2006{NC~NC|root~mod}		contrôle{NC|mod}		optique{ADJ|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  reichle~2006{NC~NC|root~mod}		contrôle{NC|mod}		optique{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  reichle~2006{NC~NC|root~mod}		contrôle{NC|mod}		de~phonon{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+38|136) 39|137) xxxxxxx>  de{P|dep}		effet{NC|obj}		de~énergie{P~NC|dep~obj}		Causation
+
+
+40|138) xxxxxxx>  de{P|dep}		fonctionnement{NC|obj}		de{P+D|dep}		FR_Contingency-Objective_influence
+
+
+42|148) $$$$$$$>  astigmatisme{NC|suj}		signe{NC|mod}		et{CC|coord}		Evidence
+
+
+44|164) xxxxxxx>  sans~probant{P~ADJ|dep_coord~mod}		résultat{NC|obj}		probant{ADJ|mod}		Causation
+
+
+46|168) xxxxxxx>  par~acharner{P~ADJ|p_obj~mod}		promoteur{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  par~acharner{P~ADJ|p_obj~mod}		promoteur{NC|obj}		immobilier{ADJ|mod}		Causation
+
+
+xxxxxxx>  par~acharner{P~ADJ|p_obj~mod}		promoteur{NC|obj}		acharner{ADJ|mod}		Causation
+
+
+47|173) xxxxxxx>  être~ami{V~NC|root~mod}		conséquence{NC|ats}		le{DET|det}		Causation
+
+
+xxxxxxx>  être~ami{V~NC|root~mod}		conséquence{NC|ats}		de~conspiration{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  être~ami{V~NC|root~mod}		conséquence{NC|ats}		à~sein{P+D~NC|dep~obj}		Causation
+
+
+48|175) xxxxxxx>  utiliser~produit~toxique{V~NC~ADJ|root~obj~mod}		produit{NC|suj}		le{DET|det}		Causation
+
+
+xxxxxxx>  utiliser~produit~toxique{V~NC~ADJ|root~obj~mod}		produit{NC|suj}		de~lavage{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  utiliser~produit~toxique{V~NC~ADJ|root~obj~mod}		produit{NC|suj}		:{PONCT|ponct}		Causation
+
+
+xxxxxxx>  utiliser~produit~toxique{V~NC~ADJ|root~obj~mod}		produit{NC|suj}		la_plupart{PRO|dep}		Causation
+
+
+xxxxxxx>  produit~utiliser{NC~V|suj~root}		produit{NC|obj}		de{DET|det}		Causation
+
+
+xxxxxxx>  produit~utiliser{NC~V|suj~root}		produit{NC|obj}		naturel{ADJ|mod}		Causation
+
+
+xxxxxxx>  produit~utiliser{NC~V|suj~root}		produit{NC|obj}		,{PONCT|ponct}		Causation
+
+
+xxxxxxx>  produit~utiliser{NC~V|suj~root}		produit{NC|obj}		en_tout_cas{ADV|mod}		Causation
+
+
+xxxxxxx>  produit~utiliser{NC~V|suj~root}		produit{NC|obj}		toxique~non{ADJ~ADV|mod~mod}		Causation
+
+
+49|180) xxxxxxx>  être~dernier{V~ADJ|root~mod}		produit{NC|suj}		ce{DET|det}		Causation
+
+
+xxxxxxx>  être~dernier{V~ADJ|root~mod}		produit{NC|suj}		dernier{ADJ|mod}		Causation
+
+
+51|188) xxxxxxx>  connaître~parfaitement{VPR~ADV|mod~mod}		effet{NC|obj}		son{DET|det}		Causation
+
+
+52|202) xxxxxxx>  à{P|mod}		raison{NC|obj}		de~lessive{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  à{P|mod}		raison{NC|obj}		de~lessive{P~NC|dep~obj}		FR_Reason
+
+
+xxxxxxx>  à{P|mod}		raison{NC|obj}		de~lessive{P~NC|dep~obj}		Evidence
+
+
+53|203) xxxxxxx>  avoir{VINF|mod}		impact{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  avoir{VINF|mod}		impact{NC|obj}		sur~usure{P~NC|dep~obj}		Causation
+
+
+54|207) xxxxxxx>  à~considérer{P~VPP|mod~mod}		effet{NC|obj}		de~serre{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  à~considérer{P~VPP|mod~mod}		effet{NC|obj}		considérer{VPP|mod}		Causation
+
+
+55|208) xxxxxxx>  en{P|p_obj}		source{NC|obj}		de~émission{P~NC|dep~obj}		Causation
+
+
+57|211) xxxxxxx>  citer{VINF|obj}		source{NC|obj}		le{DET|det}		Causation
+
+
+58|217) xxxxxxx>  être{V|root}		motivation{NC|ats}		le{DET|det}		FR_Reason
+
+
+59|221) xxxxxxx>  de~célèbre{P+D~ADJ|de_obj~mod}		moteur{NC|obj}		célèbre{ADJ|mod}		Causation
+
+
+xxxxxxx>  de~célèbre{P+D~ADJ|de_obj~mod}		moteur{NC|obj}		F2N{NPP|mod}		Causation
+
+
+xxxxxxx>  de~célèbre{P+D~ADJ|de_obj~mod}		moteur{NC|obj}		){PONCT|ponct}		Causation
+
+
+xxxxxxx>  de~célèbre{P+D~ADJ|de_obj~mod}		moteur{NC|obj}		être~ne{V~ADV|mod_rel~mod}		Causation
+
+
+60|223) xxxxxxx>  de{P|dep}		moteur{NC|obj}		un{DET|det}		Causation
+
+
+61|224) xxxxxxx>  à~multisoupape{P~ADJ|dep~mod}		moteur{NC|obj}		beaucoup{ADV|mod}		Causation
+
+
+xxxxxxx>  à~multisoupape{P~ADJ|dep~mod}		moteur{NC|obj}		de{P|det}		Causation
+
+
+xxxxxxx>  à~multisoupape{P~ADJ|dep~mod}		moteur{NC|obj}		multisoupape{ADJ|mod}		Causation
+
+
+xxxxxxx>  à~multisoupape{P~ADJ|dep~mod}		moteur{NC|obj}		de~époque{P~NC|dep~obj}		Causation
+
+
+62|225) xxxxxxx>  à{P|mod}		condition{NC|obj}		de~entretenir{P~VPP|dep~obj}		Make_possible_to_do
+
+
+63|228) xxxxxxx>  à{P|dep}		origine{NC|obj}		le{DET|det}		Causation
+
+
+64|229) xxxxxxx>  falloir{V|dep_coord}		preuve{NC|obj}		de{DET|det}		Evidence
+
+
+xxxxxxx>  falloir{V|dep_coord}		preuve{NC|obj}		télévisuel{ADJ|mod}		Evidence
+
+
+65|231) xxxxxxx>  il_y_a~autre{P~ADJ|dep~mod}		explication{NC|obj}		un{DET|det}		Explaining_the_facts
+
+
+xxxxxxx>  il_y_a~autre{P~ADJ|dep~mod}		explication{NC|obj}		autre{ADJ|mod}		Explaining_the_facts
+
+
+xxxxxxx>  il_y_a~autre{P~ADJ|dep~mod}		explication{NC|obj}		un{DET|det}		FR_Attributing_cause
+
+
+xxxxxxx>  il_y_a~autre{P~ADJ|dep~mod}		explication{NC|obj}		autre{ADJ|mod}		FR_Attributing_cause
+
+
+66|232) xxxxxxx>  éviter{V|mod}		remarque{NC|suj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  éviter{V|mod}		remarque{NC|suj}		de~style{P+D~NC|dep~obj}		Evidence
+
+
+67|233) xxxxxxx>  sujet~ouvrir{NC~ADJ|mod~mod}		réponse{NC|mod}		nouveau{ADJ|mod}		Response
+
+
+xxxxxxx>  merci~question~technique{NC~NC~ADJ|mod~mod~mod}		réponse{NC|mod}		pas{ADV|mod}		Response
+
+
+xxxxxxx>  merci~question~technique{NC~NC~ADJ|mod~mod~mod}		réponse{NC|mod}		un{DET|det}		Response
+
+
+xxxxxxx>  merci~question~technique{NC~NC~ADJ|mod~mod~mod}		réponse{NC|mod}		nouveau{ADJ|mod}		Response
+
+
+xxxxxxx>  Sujet~chaud{NPP~ADJ|mod~mod}		réponse{NC|mod}		nouveau{ADJ|mod}		Response
+
+
+xxxxxxx>  merci~question~technique{NC~NC~ADJ|mod~mod~mod}		réponse{NC|mod}		pas{ADV|mod}		Response
+
+
+xxxxxxx>  merci~question~technique{NC~NC~ADJ|mod~mod~mod}		réponse{NC|mod}		un{DET|det}		Response
+
+
+xxxxxxx>  merci~question~technique{NC~NC~ADJ|mod~mod~mod}		réponse{NC|mod}		nouveau{ADJ|mod}		Response
+
+
+68|234) $$$$$$$>  baisse~progressif{NC~ADJ|mod~mod}		Symptômes{NPP|mod}		et{CC|coord}		Evidence
+
+
+69|238) $$$$$$$>  protection~yeux{NC~NC|mod~obj}		prévention{NC|mod}		et{CC|coord}		Preventing
+
+
+70|239) xxxxxxx>  Petitjean{NPP|root}		fonction{NC|mod}		principal{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+------->  Petitjean{NPP|root}		fonction{NC|mod}		1998{NC|mod}		FR_Contingency-Objective_influence
+
+
+71|240) xxxxxxx>  de{P|dep}		contrôle{NC|obj}		de~entreprise{P+D~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  de{P|dep}		contrôle{NC|obj}		de~firme{P+D~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+72|251) xxxxxxx>  être{V|root}		effet{NC|suj}		de~rayonnement{P+D~NC|dep~obj}		Causation
+
+
+------->  être{V|root}		effet{NC|suj}		ioniser{VPR|mod}		Causation
+
+
+xxxxxxx>  être{V|root}		effet{NC|suj}		,{PONCT|ponct}		Causation
+
+
+------->  être{V|root}		effet{NC|suj}		but{NC|mod}		Causation
+
+
+xxxxxxx>  étudier{VINF|obj}		effet{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  étudier{VINF|obj}		effet{NC|obj}		de~rayonnement{P~NC|dep~obj}		Causation
+
+
+74|254) xxxxxxx>  réduire~notamment{VINF~ADV|obj~mod}		effet{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  réduire~notamment{VINF~ADV|obj~mod}		effet{NC|obj}		secondaire{ADJ|mod}		Causation
+
+
+xxxxxxx>  réduire~notamment{VINF~ADV|obj~mod}		effet{NC|obj}		de~radiothérapie{P+D~NC|dep~obj}		Causation
+
+
+75|255) xxxxxxx>  montrer~récemment{VPP~ADV|root~mod}		effet{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  montrer~récemment{VPP~ADV|root~mod}		effet{NC|obj}		radiosensibilisateur{ADJ|mod}		Causation
+
+
+xxxxxxx>  montrer~récemment{VPP~ADV|root~mod}		effet{NC|obj}		de~or{P~NC|dep~obj}		Causation
+
+
+76|257) xxxxxxx>  posséder~donc{V~ADV|root~mod}		effet{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  posséder~donc{V~ADV|root~mod}		effet{NC|obj}		radiosensibilisateur{ADJ|mod}		Causation
+
+
+xxxxxxx>  posséder~donc{V~ADV|root~mod}		effet{NC|obj}		important{ADJ|mod}		Causation
+
+
+77|259) xxxxxxx>  de~attoseconde{P~NC|dep~mod}		source{NC|obj}		attoseconde{NC|mod}		Causation
+
+
+xxxxxxx>  manipulation~cohérent{NC~ADJ|root~mod}		contrôle{NC|mod}		optique{ADJ|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  manipulation~cohérent{NC~ADJ|root~mod}		contrôle{NC|mod}		optique{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  manipulation~cohérent{NC~ADJ|root~mod}		contrôle{NC|mod}		de~phonon{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+78|260) xxxxxxx>  de{P|dep}		effet{NC|obj}		de~énergie{P~NC|dep~obj}		Causation
+
+
+79|261) xxxxxxx>  et~général{CC~ADJ|coord~mod}		condition{NC|dep_coord}		général{ADJ|mod}		Make_possible_to_do
+
+
+xxxxxxx>  et~général{CC~ADJ|coord~mod}		condition{NC|dep_coord}		de~utilisation{P~NC|dep~obj}		Make_possible_to_do
+
+
+80|262) 81|263) xxxxxxx>  et~général{CC~ADJ|coord~mod}		condition{NC|dep_coord}		général{ADJ|mod}		Make_possible_to_do
+
+
+xxxxxxx>  et~général{CC~ADJ|coord~mod}		condition{NC|dep_coord}		de~utilisation{P~NC|dep~obj}		Make_possible_to_do
+
+
+82|264) xxxxxxx>  à~propre{P~ADJ|mod~mod}		condition{NC|obj}		son{DET|det}		Make_possible_to_do
+
+
+xxxxxxx>  à~propre{P~ADJ|mod~mod}		condition{NC|obj}		propre{ADJ|mod}		Make_possible_to_do
+
+
+xxxxxxx>  à~propre{P~ADJ|mod~mod}		condition{NC|obj}		de~utilisation{P~NC|dep~obj}		Make_possible_to_do
+
+
+83|269) xxxxxxx>  de{P|dep}		marque{NC|obj}		le{DET|det}		Evidence
+
+
+85|277) xxxxxxx>  être{V|root}		raison{NC|ats}		le{DET|det}		Causation
+
+
+xxxxxxx>  être{V|root}		raison{NC|ats}		le{DET|det}		FR_Reason
+
+
+xxxxxxx>  être{V|root}		raison{NC|ats}		le{DET|det}		Evidence
+
+
+86|281) xxxxxxx>  être{V|root}		conclusion{NC|mod}		le{DET|det}		Causation
+
+
+xxxxxxx>  être{V|root}		conclusion{NC|mod}		saillant~plus{ADJ~ADV|mod~mod}		Causation
+
+
+87|283) xxxxxxx>  lycée~être~français{NC~V~ADJ|suj~obj~mod}		facteur{NC|ats}		un{DET|det}		Causation
+
+
+xxxxxxx>  lycée~être~français{NC~V~ADJ|suj~obj~mod}		facteur{NC|ats}		de~attractivité{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  lycée~être~français{NC~V~ADJ|suj~obj~mod}		facteur{NC|ats}		favorable{ADJ|mod}		Causation
+
+
+xxxxxxx>  lycée~être~français{NC~V~ADJ|suj~obj~mod}		facteur{NC|ats}		à~investissement{P+D~NC|dep~obj}		Causation
+
+
+88|285) xxxxxxx>  pour{P|dep_coord}		création{NC|obj}		le{DET|det}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  pour{P|dep_coord}		création{NC|obj}		de~fondation{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+90|299) xxxxxxx>  de{P|dep}		épreuve{NC|obj}		le{DET|det}		Evidence
+
+
+92|303) xxxxxxx>  à{P|mod}		fondement{NC|obj}		son{DET|det}		FR_Reason
+
+
+xxxxxxx>  à{P|mod}		fondement{NC|obj}		son{DET|det}		Evidence
+
+
+93|309) xxxxxxx>  avoir~peur{V~NC|obj~obj}		facteur{NC|suj}		le{DET|det}		Causation
+
+
+94|313) xxxxxxx>  à{P|dep}		création{NC|obj}		le{DET|det}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  à{P|dep}		création{NC|obj}		de~poste{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+96|325) xxxxxxx>  comme~technique{P~ADJ|mod~mod}		contrainte{NC|obj}		un{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  comme~technique{P~ADJ|mod~mod}		contrainte{NC|obj}		technique{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  comme~technique{P~ADJ|mod~mod}		contrainte{NC|obj}		de~mise{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+97|329) xxxxxxx>  de{P|de_obj}		réflexe{NC|obj}		de~évitement{P~NC|dep~obj}		Response
+
+
+98|332) xxxxxxx>  lors_de{P|mod}		impulsion{NC|obj}		le{DET|det}		FR_Cause_to_start-Launch_process
+
+
+100|337) xxxxxxx>  accomplir~mission~multiple{V~NC~ADJ|root~obj~mod}		prévention{NC|mod}		de~acte{P+D~NC|dep~obj}		Preventing
+
+
+101|340) xxxxxxx>  utiliser{VINF|obj}		fonction{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+102|342) xxxxxxx>  à{P|mod}		origine{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  à{P|mod}		origine{NC|obj}		de~fonction{P+D~NC|dep~obj}		Causation
+
+
+xxxxxxx>  de~multiple{P+D~ADJ|dep~mod}		fonction{NC|obj}		multiple{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  de~multiple{P+D~ADJ|dep~mod}		fonction{NC|obj}		système~accomplir{NC~V|suj~mod_rel}		FR_Contingency-Objective_influence
+
+
+103|344) xxxxxxx>  apporter{VINF|obj}		facteur{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  apporter{VINF|obj}		facteur{NC|obj}		de~sélectivité{P~NC|dep~obj}		Causation
+
+
+104|345) $$$$$$$>  et{CC|coord}		produit{NC|dep_coord}		de~fragmentation{P~NC|dep~obj}		Causation
+
+
+$$$$$$$>  et{CC|coord}		produit{NC|dep_coord}		devoir~mettre{V~VINF|mod_rel~obj}		Causation
+
+
+105|346) xxxxxxx>  combiner{V|root}		source{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  combiner{V|root}		source{NC|obj}		pulser{ADJ|mod}		Causation
+
+
+xxxxxxx>  combiner{V|root}		source{NC|obj}		de~ion{P~NC|dep~obj}		Causation
+
+
+106|348) xxxxxxx>  de~attoseconde{P~NC|dep~mod}		source{NC|obj}		attoseconde{NC|mod}		Causation
+
+
+xxxxxxx>  manipulation~cohérent{NC~ADJ|root~mod}		contrôle{NC|mod}		optique{ADJ|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  manipulation~cohérent{NC~ADJ|root~mod}		contrôle{NC|mod}		optique{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  manipulation~cohérent{NC~ADJ|root~mod}		contrôle{NC|mod}		de~phonon{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+107|349) xxxxxxx>  de{P|dep}		effet{NC|obj}		de~énergie{P~NC|dep~obj}		Causation
+
+
+109|356) xxxxxxx>  intituler{V|dep_coord}		réplique{NC|obj}		de{DET|det}		Response
+
+
+xxxxxxx>  intituler{V|dep_coord}		réplique{NC|obj}		à~idée{P+D~NC|dep~obj}		Response
+
+
+110|361) xxxxxxx>  David~appel{NPP~NC|suj~mod}		origine{NC|mod}		le{DET|det}		Causation
+
+
+xxxxxxx>  David~appel{NPP~NC|suj~mod}		origine{NC|mod}		juif{ADJ|mod}		Causation
+
+
+xxxxxxx>  David~appel{NPP~NC|suj~mod}		origine{NC|mod}		de~québécois{P+D~NC|dep~obj}		Causation
+
+
+111|372) xxxxxxx>  être~satisfaisant{V~ADJ|root~ats}		fonctionnement{NC|suj}		son{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  être~satisfaisant{V~ADJ|root~ats}		fonctionnement{NC|suj}		actuel{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+112|375) xxxxxxx>  améliorer{VINF|obj}		fonctionnement{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  améliorer{VINF|obj}		fonctionnement{NC|obj}		de~institution{P+D~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+113|376) xxxxxxx>  à{P+D|mod}		contrôle{NC|obj}		de~subsidiarité{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  de~social{P~ADJ|dep~mod}		impact{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  de~social{P~ADJ|dep~mod}		impact{NC|obj}		social{ADJ|mod}		Causation
+
+
+114|381) xxxxxxx>  de~multiple{P~ADJ|dep~mod}		manifestation{NC|obj}		multiple{ADJ|mod}		Evidence
+
+
+115|385) xxxxxxx>  être{V|root}		motivation{NC|ats}		le{DET|det}		FR_Reason
+
+
+116|387) xxxxxxx>  au_sein_de{P|mod}		marque{NC|obj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  au_sein_de{P|mod}		marque{NC|obj}		à~losange{P+D~NC|dep~obj}		Evidence
+
+
+117|391) xxxxxxx>  séduire~toujours{V~ADV|root~mod}		moteur{NC|suj}		le{DET|det}		Causation
+
+
+121|415) xxxxxxx>  citer~avoir~grand{VPP~V~ADJ|suj~obj~mod}		cause{NC|obj}		de{P|dep}		Causation
+
+
+122|417) xxxxxxx>  regarder{V|dep_coord}		produit{NC|obj}		le{DET|det}		Causation
+
+
+123|421) xxxxxxx>  vut~alumer{V~VINF|root~mod}		marque{NC|obj}		son{DET|det}		Evidence
+
+
+xxxxxxx>  vut~alumer{V~VINF|root~mod}		marque{NC|obj}		maudire{ADJ|mod}		Evidence
+
+
+xxxxxxx>  etais~allumer{CC~VINF|obj~obj}		marque{NC|suj}		son{DET|det}		Evidence
+
+
+124|422) xxxxxxx>  de{P+D|dep}		moteur{NC|obj}		de~recherche{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  paradoxe{NC|suj}		moteur{NC|mod}		le{DET|det}		Causation
+
+
+xxxxxxx>  paradoxe{NC|suj}		moteur{NC|mod}		de~recherche{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  dans{P|mod}		résultat{NC|obj}		son{DET|det}		Causation
+
+
+xxxxxxx>  évoluer~souvent{V~ADV|mod~mod}		moteur{NC|suj}		le{DET|det}		Causation
+
+
+xxxxxxx>  évoluer~souvent{V~ADV|mod~mod}		moteur{NC|suj}		de~recherche{P~NC|dep~obj}		Causation
+
+
+125|423) xxxxxxx>  être~nombreux{V~ADJ|root~ats}		moteur{NC|mod}		de{DET|det}		Causation
+
+
+------->  être~nombreux{V~ADJ|root~ats}		moteur{NC|mod}		percevoir~souvent{VPP~ADV|mod~mod}		Causation
+
+
+xxxxxxx>  opposer{V|mod_rel}		moteur{NC|suj}		le{DET|det}		Causation
+
+
+xxxxxxx>  opposer{V|mod_rel}		moteur{NC|suj}		de~recherche{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de{DET|det}		Causation
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de~respect{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de{DET|det}		FR_Reason
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de~respect{P~NC|dep~obj}		FR_Reason
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de{DET|det}		Evidence
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de~respect{P~NC|dep~obj}		Evidence
+
+
+126|426) xxxxxxx>  de{P+D|dep}		moteur{NC|obj}		de~recherche{P~NC|dep~obj}		Causation
+
+
+127|427) $$$$$$$>  et{CC|coord}		moteur{NC|dep_coord}		de~recherche{P~NC|dep~obj}		Causation
+
+
+128|429) xxxxxxx>  et~alternatif{CC~ADJ|coord~mod}		moteur{NC|dep_coord}		alternatif{ADJ|mod}		Causation
+
+
+xxxxxxx>  de{P+D|dep}		moteur{NC|obj}		de~recherche{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  améliorer~façon{VINF~NC|obj~obj}		moteur{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  améliorer~façon{VINF~NC|obj~obj}		moteur{NC|obj}		de~recherche{P~NC|dep~obj}		Causation
+
+
+129|430) xxxxxxx>  ressembler{V|root}		moteur{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  ressembler{V|root}		moteur{NC|obj}		de~futur{P+D~NC|dep~obj}		Causation
+
+
+130|432) xxxxxxx>  complément~champagne~encore{NC~NC~ADV|suj~mod~mod}		moteur{NC|mod}		de~entreprise{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  de{P+D|dep}		moteur{NC|obj}		de~recherche{P~NC|dep~obj}		Causation
+
+
+131|433) xxxxxxx>  cohabiter~recherche{V~NC|root~mod}		moteur{NC|mod}		le{DET|det}		Causation
+
+
+------->  cohabiter~recherche{V~NC|root~mod}		moteur{NC|mod}		Internet{NPP|mod}		Causation
+
+
+132|434) 133|440) xxxxxxx>  donner{V|mod}		effet{NC|obj}		de{DET|det}		Causation
+
+
+xxxxxxx>  donner{V|mod}		effet{NC|obj}		dur~moins{ADJ~ADV|mod~mod}		Causation
+
+
+134|448) xxxxxxx>  à~vendre{P+D~VPP|a_obj~mod}		produit{NC|obj}		,{PONCT|ponct}		Causation
+
+
+xxxxxxx>  à~vendre{P+D~VPP|a_obj~mod}		produit{NC|obj}		vendre{VPP|mod}		Causation
+
+
+137|452) xxxxxxx>  explorer~pratique{VINF~NC|obj~obj}		effet{NC|obj}		de{DET|det}		Causation
+
+
+138|455) xxxxxxx>  environnement~eutrophisation{NC~NC|obj~mod}		effet{NC|mod}		de~serre{P~NC|dep~obj}		Causation
+
+
+139|457) xxxxxxx>  espérer{VPR|obj}		réponse{NC|obj}		qques{DET|det}		Response
+
+
+------->  espérer{VPR|obj}		réponse{NC|obj}		pouvoir~éclairer{V~VINF|mod_rel~obj}		Response
+
+
+140|465) xxxxxxx>  pour{P|mod}		réponse{NC|obj}		son{DET|det}		Response
+
+
+xxxxxxx>  en_ce_qui_concerne{P|mod}		réponse{NC|obj}		son{DET|det}		Response
+
+
+xxxxxxx>  en_ce_qui_concerne{P|mod}		réponse{NC|obj}		Patrice{NPP|mod}		Response
+
+
+141|466) xxxxxxx>  faire{VINF|obj}		preuve{NC|obj}		de~vulgarisation{P~NC|dep~obj}		Evidence
+
+
+142|468) xxxxxxx>  de~chimique{P~ADJ|de_obj~mod}		produit{NC|obj}		chimique{ADJ|mod}		Causation
+
+
+144|499) xxxxxxx>  à{P|mod}		raison{NC|obj}		de~heure{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  à{P|mod}		raison{NC|obj}		){PONCT|ponct}		Causation
+
+
+xxxxxxx>  à{P|mod}		raison{NC|obj}		de~heure{P~NC|dep~obj}		FR_Reason
+
+
+xxxxxxx>  à{P|mod}		raison{NC|obj}		){PONCT|ponct}		FR_Reason
+
+
+xxxxxxx>  à{P|mod}		raison{NC|obj}		de~heure{P~NC|dep~obj}		Evidence
+
+
+xxxxxxx>  à{P|mod}		raison{NC|obj}		){PONCT|ponct}		Evidence
+
+
+xxxxxxx>  avoir~rapidement{VINF~ADV|obj~mod}		résultat{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  avoir~rapidement{VINF~ADV|obj~mod}		résultat{NC|obj}		bon{ADJ|mod}		Causation
+
+
+145|504) xxxxxxx>  être{V|root}		motivation{NC|ats}		le{DET|det}		FR_Reason
+
+
+146|508) xxxxxxx>  pour{P|arg}		raison{NC|obj}		de{DET|det}		Causation
+
+
+xxxxxxx>  pour{P|arg}		raison{NC|obj}		de~praticité{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  pour{P|arg}		raison{NC|obj}		de{DET|det}		FR_Reason
+
+
+xxxxxxx>  pour{P|arg}		raison{NC|obj}		de~praticité{P~NC|dep~obj}		FR_Reason
+
+
+xxxxxxx>  pour{P|arg}		raison{NC|obj}		de{DET|det}		Evidence
+
+
+xxxxxxx>  pour{P|arg}		raison{NC|obj}		de~praticité{P~NC|dep~obj}		Evidence
+
+
+147|511) xxxxxxx>  faire~limite~trop{V~NC~ADV|root~obj~mod}		réaction{NC|suj}		un{DET|det}		Response
+
+
+xxxxxxx>  faire~limite~trop{V~NC~ADV|root~obj~mod}		réaction{NC|suj}		nombreux{ADJ|mod}		Response
+
+
+xxxxxxx>  faire~limite~trop{V~NC~ADV|root~obj~mod}		réaction{NC|suj}		sur~net{P~NC|dep~obj}		Response
+
+
+149|514) xxxxxxx>  changer{V|mod}		moteur{NC|suj}		le{DET|det}		Causation
+
+
+150|516) xxxxxxx>  en{P|ats}		comparaison{NC|obj}		de~Mégane{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  en{P|ats}		comparaison{NC|obj}		de~Mégane{P~NC|dep~obj}		FR_Reason
+
+
+xxxxxxx>  en{P|ats}		comparaison{NC|obj}		de~Mégane{P~NC|dep~obj}		Evidence
+
+
+152|520) xxxxxxx>  avec~émailler{P~VPP|mod~mod}		motif{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  avec~émailler{P~VPP|mod~mod}		motif{NC|obj}		émailler~blanc{VPP~ADJ|mod~mod}		Causation
+
+
+xxxxxxx>  avec~émailler{P~VPP|mod~mod}		motif{NC|obj}		un{DET|det}		FR_Reason
+
+
+xxxxxxx>  avec~émailler{P~VPP|mod~mod}		motif{NC|obj}		émailler~blanc{VPP~ADJ|mod~mod}		FR_Reason
+
+
+153|522) xxxxxxx>  interaction~devenir{NC~VPP|suj~dep_coord}		réflexe{NC|obj}		de{DET|det}		Response
+
+
+155|533) xxxxxxx>  Jean-Yves~an{NPP~NC|root~mod}		indicateur{NC|mod}		un{DET|det}		Evidence
+
+
+xxxxxxx>  Jean-Yves~an{NPP~NC|root~mod}		indicateur{NC|mod}		de~évolution{P~NC|dep~obj}		Evidence
+
+
+xxxxxxx>  Jean-Yves~an{NPP~NC|root~mod}		indicateur{NC|mod}		"{PONCT|ponct}		Evidence
+
+
+156|534) 157|536) xxxxxxx>  formation~décompenser{NC~V|suj~root}		création{NC|obj}		le{DET|det}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  formation~décompenser{NC~V|suj~root}		création{NC|obj}		de~centre{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+158|537) xxxxxxx>  varier{VINF|obj}		paramètre{NC|obj}		de{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  varier{VINF|obj}		paramètre{NC|obj}		expérimental{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  varier{VINF|obj}		paramètre{NC|obj}		tel{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  dans{P|dep}		source{NC|obj}		le{DET|det}		Causation
+
+
+159|538) xxxxxxx>  en_fonction_de~deux{P~ADJ|mod~mod}		paramètre{NC|obj}		ce{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  en_fonction_de~deux{P~ADJ|mod~mod}		paramètre{NC|obj}		deux{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  dissipation{NC|dep_coord}		fonction{NC|mod}		de~température{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+160|539) xxxxxxx>  de~attoseconde{P~NC|dep~mod}		source{NC|obj}		attoseconde{NC|mod}		Causation
+
+
+xxxxxxx>  manipulation~cohérent{NC~ADJ|root~mod}		contrôle{NC|mod}		optique{ADJ|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  manipulation~cohérent{NC~ADJ|root~mod}		contrôle{NC|mod}		optique{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  manipulation~cohérent{NC~ADJ|root~mod}		contrôle{NC|mod}		de~phonon{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+161|540) 162|541) xxxxxxx>  de{P|dep}		effet{NC|obj}		de~énergie{P~NC|dep~obj}		Causation
+
+
+163|553) $$$$$$$>  perte~graduel{NC~ADJ|mod~mod}		symptôme{NC|mod}		et{CC|coord}		Evidence
+
+
+164|555) xxxxxxx>  de{P+D|dep}		produit{NC|obj}		de~agriculture{P~NC|dep~obj}		Causation
+
+
+165|557) xxxxxxx>  de{P|dep}		automobile{NC|obj}		le{DET|det}		FR_Reason
+
+
+xxxxxxx>  de{P|dep}		automobile{NC|obj}		de{P|dep}		FR_Reason
+
+
+166|562) xxxxxxx>  être{V|dep_coord}		preuve{NC|ats}		de~fainéantise{P~NC|dep~obj}		Evidence
+
+
+168|567) xxxxxxx>  de~écrire{P~VPP|dep~mod}		confirmation{NC|obj}		un{DET|det}		Evidence
+
+
+xxxxxxx>  de~écrire{P~VPP|dep~mod}		confirmation{NC|obj}		écrire{VPP|mod}		Evidence
+
+
+171|575) xxxxxxx>  posséder~1{V~NC|root~mod}		contrainte{NC|obj}		2{DET|det}		FR_Contingency-Objective_influence
+
+
+173|584) xxxxxxx>  être~indispensable{V~ADJ|root~mod}		condition{NC|suj}		le{DET|det}		Make_possible_to_do
+
+
+xxxxxxx>  être~indispensable{V~ADJ|root~mod}		condition{NC|suj}		indispensable{ADJ|mod}		Make_possible_to_do
+
+
+xxxxxxx>  être~indispensable{V~ADJ|root~mod}		condition{NC|suj}		pour~adopter{P~VINF|dep~obj}		Make_possible_to_do
+
+
+176|592) xxxxxxx>  être{V|root}		motivation{NC|ats}		le{DET|det}		FR_Reason
+
+
+177|595) xxxxxxx>  par{P|p_obj}		moteur{NC|obj}		son{DET|det}		Causation
+
+
+178|598) xxxxxxx>  compter~jauge{V~NC|mod~mod}		indicateur{NC|mod}		de~batterie{P~NC|dep~obj}		Evidence
+
+
+179|601) xxxxxxx>  être~grave{V~ADJ|root~ats}		moteur{NC|mod}		le{DET|det}		Causation
+
+
+180|602) xxxxxxx>  sur{P|mod}		moteur{NC|obj}		le{DET|det}		Causation
+
+
+181|604) xxxxxxx>  de~village{P~NC|dep~mod}		manifestation{NC|obj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  de~village{P~NC|dep~mod}		manifestation{NC|obj}		de~inauguration{P~NC|dep~obj}		Evidence
+
+
+xxxxxxx>  de~village{P~NC|dep~mod}		manifestation{NC|obj}		«{PONCT|ponct}		Evidence
+
+
+xxxxxxx>  de~village{P~NC|dep~mod}		manifestation{NC|obj}		village~nautique{NC~ADJ|mod~mod}		Evidence
+
+
+xxxxxxx>  de~village{P~NC|dep~mod}		manifestation{NC|obj}		»{PONCT|ponct}		Evidence
+
+
+xxxxxxx>  de~village{P~NC|dep~mod}		manifestation{NC|obj}		de~parc{P+D~NC|dep~obj}		Evidence
+
+
+182|605) xxxxxxx>  à_l'issue_de{P|mod}		manifestation{NC|obj}		le{DET|det}		Evidence
+
+
+183|607) xxxxxxx>  de~1{P~ADJ|dep~mod}		attribution{NC|obj}		1{ADJ|mod}		FR_Attributing_cause
+
+
+184|608) xxxxxxx>  de~village{P~NC|dep~mod}		manifestation{NC|obj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  de~village{P~NC|dep~mod}		manifestation{NC|obj}		de~inauguration{P~NC|dep~obj}		Evidence
+
+
+xxxxxxx>  de~village{P~NC|dep~mod}		manifestation{NC|obj}		«{PONCT|ponct}		Evidence
+
+
+xxxxxxx>  de~village{P~NC|dep~mod}		manifestation{NC|obj}		village~nautique{NC~ADJ|mod~mod}		Evidence
+
+
+xxxxxxx>  de~village{P~NC|dep~mod}		manifestation{NC|obj}		»{PONCT|ponct}		Evidence
+
+
+xxxxxxx>  de~village{P~NC|dep~mod}		manifestation{NC|obj}		de~parc{P+D~NC|dep~obj}		Evidence
+
+
+186|611) xxxxxxx>  numéro~newsletter{NC~NC|obj~mod}		produit{NC|mod}		son{DET|det}		Causation
+
+
+xxxxxxx>  numéro~newsletter{NC~NC|obj~mod}		produit{NC|mod}		autre{ADJ|mod}		Causation
+
+
+187|613) xxxxxxx>  en_fonction_de{P|mod}		ressource{NC|obj}		de~bénéficiaire{P+D~NC|dep~obj}		Causation
+
+
+188|617) xxxxxxx>  allocation~vieillesse{NC~NC|mod~mod}		attribution{NC|mod}		le{DET|det}		FR_Attributing_cause
+
+
+xxxxxxx>  allocation~vieillesse{NC~NC|mod~mod}		attribution{NC|mod}		de~aide{P~NC|dep~obj}		FR_Attributing_cause
+
+
+xxxxxxx>  allocation~attribution{NC~NC|mod~mod}		attribution{NC|mod}		le{DET|det}		FR_Attributing_cause
+
+
+xxxxxxx>  allocation~attribution{NC~NC|mod~mod}		attribution{NC|mod}		de~carte{P~NC|dep~obj}		FR_Attributing_cause
+
+
+189|618) xxxxxxx>  journée~être{NC~V|suj~root}		manifestation{NC|ats}		un{DET|det}		Evidence
+
+
+------->  journée~être{NC~V|suj~root}		manifestation{NC|ats}		initier{VPP|mod}		Evidence
+
+
+$$$$$$$>  journée~être{NC~V|suj~root}		manifestation{NC|ats}		et{CC|coord}		Evidence
+
+
+190|619) xxxxxxx>  service~présenter~information-emploi{NC~VPP~ADJ|suj~root~mod}		résultat{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  service~présenter~information-emploi{NC~VPP~ADJ|suj~root~mod}		résultat{NC|obj}		de~enquête{P~NC|dep~obj}		Causation
+
+
+191|632) 192|636) xxxxxxx>  prendre~part~plus{V~NC~ADV|obj~obj~mod}		source{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  prendre~part~plus{V~NC~ADV|obj~obj~mod}		source{NC|obj}		de{P|dep}		Causation
+
+
+193|644) xxxxxxx>  en~inaugurer{P~VPP|mod~mod}		effet{NC|obj}		,{PONCT|ponct}		Causation
+
+
+xxxxxxx>  en~inaugurer{P~VPP|mod~mod}		effet{NC|obj}		inaugurer{VPP|mod}		Causation
+
+
+194|647) xxxxxxx>  dans{P|mod}		condition{NC|obj}		de{DET|det}		Make_possible_to_do
+
+
+xxxxxxx>  dans{P|mod}		condition{NC|obj}		de~travail{P~NC|dep~obj}		Make_possible_to_do
+
+
+195|650) xxxxxxx>  diminuer~ainsi{V~ADV|root~mod}		contrainte{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  diminuer~ainsi{V~ADV|root~mod}		contrainte{NC|obj}		de~emploi{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+196|651) xxxxxxx>  par_rapport_à~etc.{P~ADV|mod~mod}		facteur{NC|obj}		de{DET|det}		Causation
+
+
+xxxxxxx>  par_rapport_à~etc.{P~ADV|mod~mod}		facteur{NC|obj}		définir{VPP|mod}		Causation
+
+
+xxxxxxx>  par_rapport_à~etc.{P~ADV|mod~mod}		facteur{NC|obj}		({PONCT|ponct}		Causation
+
+
+xxxxxxx>  par_rapport_à~etc.{P~ADV|mod~mod}		facteur{NC|obj}		température{NC|mod}		Causation
+
+
+xxxxxxx>  par_rapport_à~etc.{P~ADV|mod~mod}		facteur{NC|obj}		,{PONCT|ponct}		Causation
+
+
+xxxxxxx>  par_rapport_à~etc.{P~ADV|mod~mod}		facteur{NC|obj}		lumière{NC|mod}		Causation
+
+
+xxxxxxx>  par_rapport_à~etc.{P~ADV|mod~mod}		facteur{NC|obj}		,{PONCT|ponct}		Causation
+
+
+xxxxxxx>  par_rapport_à~etc.{P~ADV|mod~mod}		facteur{NC|obj}		etc.{ADV|mod}		Causation
+
+
+xxxxxxx>  par_rapport_à~etc.{P~ADV|mod~mod}		facteur{NC|obj}		){PONCT|ponct}		Causation
+
+
+197|653) xxxxxxx>  voir~jour{VINF~NC|obj~mod}		démonstration{NC|obj}		quelque{DET|det}		Evidence
+
+
+198|656) xxxxxxx>  dans~très{P~ADV|mod~mod}		condition{NC|obj}		de{P|det}		Make_possible_to_do
+
+
+xxxxxxx>  dans~très{P~ADV|mod~mod}		condition{NC|obj}		très{ADV|mod}		Make_possible_to_do
+
+
+xxxxxxx>  dans~très{P~ADV|mod~mod}		condition{NC|obj}		de~épreuve{P+D~NC|dep~obj}		Make_possible_to_do
+
+
+xxxxxxx>  de{P+D|dep}		épreuve{NC|obj}		de~baccalauréat{P+D~NC|dep~obj}		Evidence
+
+
+200|667) xxxxxxx>  appeler~séquence{V~NC|root~obj}		suite{NC|mod}		un{DET|det}		Causation
+
+
+------->  appeler~séquence{V~NC|root~obj}		suite{NC|mod}		finir{VPP|mod}		Causation
+
+
+------->  appeler~séquence{V~NC|root~obj}		suite{NC|mod}		ordonner~relatif{VPP~ADJ|mod~mod}		Causation
+
+
+201|668) xxxxxxx>  réaliser~ci-dessous{VINF~ADV|dep_coord~mod}		fonction{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  réaliser~ci-dessous{VINF~ADV|dep_coord~mod}		fonction{NC|obj}		deux{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  spécifier{VINF|suj}		fonction{NC|mod}		3.a{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  spécifier{VINF|suj}		fonction{NC|mod}		le{DET|mod}		FR_Contingency-Objective_influence
+
+
+------->  spécifier{VINF|suj}		fonction{NC|mod}		concaténation{NC|mod}		FR_Contingency-Objective_influence
+
+
+202|669) xxxxxxx>  séquence~3.b{NC~NC|obj~mod}		fonction{NC|mod}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  séquence~3.b{NC~NC|obj~mod}		fonction{NC|mod}		sous-séquence{ADV|mod}		FR_Contingency-Objective_influence
+
+
+203|670) xxxxxxx>  réaliser~suivant{VINF~ADJ|dep_coord~mod}		fonction{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  réaliser~suivant{VINF~ADJ|dep_coord~mod}		fonction{NC|obj}		suivant{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  utiliser~deux{VINF~ADJ|obj~mod}		fonction{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  utiliser~deux{VINF~ADJ|obj~mod}		fonction{NC|obj}		deux{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  utiliser~deux{VINF~ADJ|obj~mod}		fonction{NC|obj}		de~question{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+204|671) xxxxxxx>  définir{VINF|obj}		fonction{NC|obj}		un{DET|det}		FR_Contingency-Objective_influence
+
+
+------->  définir{VINF|obj}		fonction{NC|obj}		prendre~séquence{V~NC|mod_rel~obj}		FR_Contingency-Objective_influence
+
+
+205|672) xxxxxxx>  retourner~séquence~4_9_12_17_25_32{V~NC~ADJ|root~obj~mod}		fonction{NC|suj}		ce{DET|det}		FR_Contingency-Objective_influence
+
+
+206|674) 207|676) xxxxxxx>  question~point{NC~NC|mod~mod}		condition{NC|mod}		un{DET|det}		Make_possible_to_do
+
+
+xxxxxxx>  question~point{NC~NC|mod~mod}		condition{NC|mod}		nécessaire{ADJ|mod}		Make_possible_to_do
+
+
+208|677) xxxxxxx>  être~suffisant{V~ADJ|obj~ats}		condition{NC|suj}		ce{DET|det}		Make_possible_to_do
+
+
+209|678) xxxxxxx>  525I~e34{NC~ADJ|obj~mod}		moteur{NC|mod}		casser{ADJ|mod}		Causation
+
+
+xxxxxxx>  tourner{V|mod}		moteur{NC|suj}		le{DET|det}		Causation
+
+
+210|679) xxxxxxx>  sapin~signer{NC~V|suj~mod}		impact{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  sapin~signer{NC~V|suj~mod}		impact{NC|obj}		de~haie{P+D~NC|dep~obj}		Causation
+
+
+xxxxxxx>  sapin~signer{NC~V|suj~mod}		impact{NC|obj}		sur~pratique{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  sapin~signer{NC~V|suj~mod}		impact{NC|obj}		,{PONCT|coord}		Causation
+
+
+$$$$$$$>  sapin~signer{NC~V|suj~mod}		impact{NC|obj}		et{CC|coord}		Causation
+
+
+xxxxxxx>  pour~bio{P~ADJ|mod~mod}		produit{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  pour~bio{P~ADJ|mod~mod}		produit{NC|obj}		bio{ADJ|mod}		Causation
+
+
+211|680) xxxxxxx>  jeudi~2006{NC~ADJ|mod~mod}		création{NC|mod}		de{P+D|dep}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  fabriquer~étiqueter{VPR~VPP|mod~mod}		produit{NC|obj}		de{DET|det}		Causation
+
+
+------->  fabriquer~étiqueter{VPR~VPP|mod~mod}		produit{NC|obj}		étiqueter{VPP|mod}		Causation
+
+
+212|681) xxxxxxx>  de{P+D|dep}		effet{NC|obj}		de~dégradation{P~NC|dep~obj}		Causation
+
+
+213|682) xxxxxxx>  à~silencieux{P+D~ADJ|dep~mod}		fonctionnement{NC|obj}		silencieux~très{ADJ~ADV|mod~mod}		FR_Contingency-Objective_influence
+
+
+215|684) xxxxxxx>  choisir{VINF|dep_coord}		produit{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  choisir{VINF|dep_coord}		produit{NC|obj}		de~gamme{P~NC|dep~obj}		Causation
+
+
+216|685) xxxxxxx>  contre~lier{P~VPP|mod~mod}		effet{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  contre~lier{P~VPP|mod~mod}		effet{NC|obj}		pervers{ADJ|mod}		Causation
+
+
+xxxxxxx>  contre~lier{P~VPP|mod~mod}		effet{NC|obj}		lier{VPP|mod}		Causation
+
+
+217|686) xxxxxxx>  à~silencieux{P+D~ADJ|dep~mod}		fonctionnement{NC|obj}		silencieux~très{ADJ~ADV|mod~mod}		FR_Contingency-Objective_influence
+
+
+220|692) 221|694) xxxxxxx>  sur{P|mod}		réponse{NC|obj}		le{DET|det}		Response
+
+
+222|698) xxxxxxx>  être~accessible{VS~ADJ|mod_rel~ats}		résultat{NC|suj}		le{DET|det}		Causation
+
+
+xxxxxxx>  être~accessible{VS~ADJ|mod_rel~ats}		résultat{NC|suj}		de~recherche{P~NC|dep~obj}		Causation
+
+
+224|701) xxxxxxx>  de{P|dep}		manifestation{NC|obj}		certain{DET|det}		Evidence
+
+
+xxxxxxx>  monde~etc.~d'ailleurs{NC~ADV~ADV|obj~mod~mod}		manifestation{NC|mod}		autant{ADV|mod}		Evidence
+
+
+xxxxxxx>  monde~etc.~d'ailleurs{NC~ADV~ADV|obj~mod~mod}		manifestation{NC|mod}		de{P|det}		Evidence
+
+
+225|706) xxxxxxx>  sur{P|mod}		confirmation{NC|obj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  sur{P|mod}		confirmation{NC|obj}		de~inscription{P~NC|dep~obj}		Evidence
+
+
+226|716) xxxxxxx>  autour_de{P|dep}		moteur{NC|obj}		un{DET|det}		Causation
+
+
+227|718) xxxxxxx>  sur{P|dep}		moteur{NC|obj}		le{DET|det}		Causation
+
+
+228|729) xxxxxxx>  à{P|dep_coord}		condition{NC|obj}		de~raccorder{P~VINF|dep~obj}		Make_possible_to_do
+
+
+229|733) xxxxxxx>  dans~décembre{P~NC|dep~mod}		Mobiles{NPP|obj}		magazine~n°111{NC~ADJ|mod~mod}		FR_Reason
+
+
+xxxxxxx>  dans~décembre{P~NC|dep~mod}		Mobiles{NPP|obj}		,{PONCT|ponct}		FR_Reason
+
+
+xxxxxxx>  dans~décembre{P~NC|dep~mod}		Mobiles{NPP|obj}		décembre~2007{NC~NC|mod~mod}		FR_Reason
+
+
+230|742) $$$$$$$>  et{CC|coord}		résultat{NC|dep_coord}		le{DET|det}		Causation
+
+
+231|744) xxxxxxx>  avoir{VINF|obj}		fonction{NC|obj}		deux{DET|det}		FR_Contingency-Objective_influence
+
+
+232|746) 233|748) xxxxxxx>  de{P|dep}		automobile{NC|obj}		le{DET|det}		FR_Reason
+
+
+236|767) xxxxxxx>  lycée~obtenir{NC~V|suj~obj}		résultat{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  lycée~obtenir{NC~V|suj~obj}		résultat{NC|obj}		identique{ADJ|mod}		Causation
+
+
+237|768) xxxxxxx>  établissement~améliorer{NC~VPP|suj~mod}		résultat{NC|obj}		son{DET|det}		Causation
+
+
+238|769) xxxxxxx>  niveau~RESULTATS{NC~NC|suj~mod}		réponse{NC|mod}		le{DET|det}		Response
+
+
+xxxxxxx>  niveau~RESULTATS{NC~NC|suj~mod}		réponse{NC|mod}		bon{ADJ|mod}		Response
+
+
+------->  niveau~RESULTATS{NC~NC|suj~mod}		réponse{NC|mod}		attendre{VPP|mod}		Response
+
+
+239|775) xxxxxxx>  de~alcooliser{P~ADJ|dep~mod}		fruit{NC|obj}		alcooliser~un_peu{ADJ~ADV|mod~mod}		Causation
+
+
+240|776) xxxxxxx>  RESULTATS{NC|suj}		réponse{NC|mod}		le{DET|det}		Response
+
+
+xxxxxxx>  RESULTATS{NC|suj}		réponse{NC|mod}		bon{ADJ|mod}		Response
+
+
+------->  RESULTATS{NC|suj}		réponse{NC|mod}		attendre{VPP|mod}		Response
+
+
+xxxxxxx>  Goldie~réponse~attendre{NPP~NC~VPP|obj~mod~mod}		Epreuve{NPP|mod}		de{P|dep}		Evidence
+
+
+xxxxxxx>  Goldie{NPP|obj}		réponse{NC|mod}		le{DET|det}		Response
+
+
+xxxxxxx>  Goldie{NPP|obj}		réponse{NC|mod}		bon{ADJ|mod}		Response
+
+
+------->  Goldie{NPP|obj}		réponse{NC|mod}		attendre{VPP|mod}		Response
+
+
+xxxxxxx>  à~divers{P~ADJ|mod~mod}		remarque{NC|obj}		divers{ADJ|mod}		Evidence
+
+
+xxxxxxx>  gagner{VINF|obj}		réponse{NC|obj}		tout{ADJ|mod}		Response
+
+
+xxxxxxx>  gagner{VINF|obj}		réponse{NC|obj}		le{DET|det}		Response
+
+
+xxxxxxx>  gagner{VINF|obj}		réponse{NC|obj}		bon{ADJ|mod}		Response
+
+
+242|779) xxxxxxx>  de{P|dep}		EPREUVE{NPP|obj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  niveau~RESULTATS{NC~NC|suj~mod}		réponse{NC|mod}		le{DET|det}		Response
+
+
+xxxxxxx>  niveau~RESULTATS{NC~NC|suj~mod}		réponse{NC|mod}		bon{ADJ|mod}		Response
+
+
+------->  niveau~RESULTATS{NC~NC|suj~mod}		réponse{NC|mod}		attendre{VPP|mod}		Response
+
+
+243|780) xxxxxxx>  avoir~aussi{VPR~ADV|mod~mod}		réponse{NC|obj}		le{DET|det}		Response
+
+
+xxxxxxx>  avoir~aussi{VPR~ADV|mod~mod}		réponse{NC|obj}		bon{ADJ|mod}		Response
+
+
+244|781) xxxxxxx>  Epreuve{NPP|root}		réponse{NC|mod}		le{DET|det}		Response
+
+
+xxxxxxx>  Epreuve{NPP|root}		réponse{NC|mod}		bon{ADJ|mod}		Response
+
+
+245|784) xxxxxxx>  de{P|dep}		EPREUVE{NPP|obj}		le{DET|det}		Evidence
+
+
+246|785) xxxxxxx>  de{P|dep}		EPREUVE{NPP|obj}		le{DET|det}		Evidence
+
+
+247|788) xxxxxxx>  RESULTATS~04/06/2007~publier{NC~NC~VPP|suj~mod~mod}		réponse{NC|mod}		le{DET|det}		Response
+
+
+xxxxxxx>  RESULTATS~04/06/2007~publier{NC~NC~VPP|suj~mod~mod}		réponse{NC|mod}		bon{ADJ|mod}		Response
+
+
+------->  RESULTATS~04/06/2007~publier{NC~NC~VPP|suj~mod~mod}		réponse{NC|mod}		attendre{VPP|mod}		Response
+
+
+248|794) xxxxxxx>  de{P|dep}		EPREUVE{NPP|obj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  de{P|dep}		réponse{NC|obj}		son{DET|det}		Response
+
+
+249|795) xxxxxxx>  à~rude{P~ADJ|mod~mod}		épreuve{NC|obj}		rude{ADJ|mod}		Evidence
+
+
+250|798) xxxxxxx>  donner{VPP|root}		indice{NC|suj}		de{DET|det}		Evidence
+
+
+252|802) xxxxxxx>  donner{V|root}		indice{NC|obj}		quelque{DET|det}		Evidence
+
+
+253|806) xxxxxxx>  avec~commentaire{P~NC|mod~mod}		produit{NC|obj}		de{DET|det}		Causation
+
+
+xxxxxxx>  avec~commentaire{P~NC|mod~mod}		produit{NC|obj}		bio{ADJ|mod}		Causation
+
+
+xxxxxxx>  avec~commentaire{P~NC|mod~mod}		produit{NC|obj}		par{P|dep}		Causation
+
+
+xxxxxxx>  avec~commentaire{P~NC|mod~mod}		produit{NC|obj}		-{PONCT|ponct}		Causation
+
+
+xxxxxxx>  avec~commentaire{P~NC|mod~mod}		produit{NC|obj}		commentaire{NC|mod}		Causation
+
+
+254|807) xxxxxxx>  A{P|mod}		poursuite{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  A{P|mod}		poursuite{NC|obj}		de~biotrafiquant{P+D~NC|dep~obj}		Causation
+
+
+xxxxxxx>  A{P|mod}		poursuite{NC|obj}		"{PONCT|ponct}		Causation
+
+
+xxxxxxx>  A{P|mod}		poursuite{NC|obj}		par{P|dep}		Causation
+
+
+256|828) xxxxxxx>  à{P|mod}		livraison{NC|obj}		chaque{DET|det}		Causation
+
+
+xxxxxxx>  à{P|mod}		livraison{NC|obj}		de~sable{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  à{P|mod}		livraison{NC|obj}		chaque{DET|det}		FR_Reason
+
+
+xxxxxxx>  à{P|mod}		livraison{NC|obj}		de~sable{P~NC|dep~obj}		FR_Reason
+
+
+xxxxxxx>  à{P|mod}		livraison{NC|obj}		chaque{DET|det}		Evidence
+
+
+xxxxxxx>  à{P|mod}		livraison{NC|obj}		de~sable{P~NC|dep~obj}		Evidence
+
+
+257|830) xxxxxxx>  être{V|root}		motivation{NC|ats}		le{DET|det}		FR_Reason
+
+
+259|835) xxxxxxx>  accoupler~sonore{VPP~ADJ|root~mod}		moteur{NC|suj}		son{DET|det}		Causation
+
+
+xxxxxxx>  accoupler~sonore{VPP~ADJ|root~mod}		moteur{NC|suj}		sonore{ADJ|mod}		Causation
+
+
+260|836) xxxxxxx>  payer~voiture{VINF~NC|obj~obj}		moteur{NC|mod}		un{DET|det}		Causation
+
+
+xxxxxxx>  payer~voiture{VINF~NC|obj~obj}		moteur{NC|mod}		de~compétition{P~NC|dep~obj}		Causation
+
+
+$$$$$$$>  payer~voiture{VINF~NC|obj~obj}		moteur{NC|mod}		et{CC|coord}		Causation
+
+
+261|837) xxxxxxx>  être~pièce{V~NC|root~obj}		moteur{NC|suj}		son{DET|det}		Causation
+
+
+262|842) xxxxxxx>  être~coupleux{V~ADJ|root~ats}		moteur{NC|suj}		le{DET|det}		Causation
+
+
+263|843) xxxxxxx>  plier~souple{V~ADJ|root~mod}		moteur{NC|suj}		le{DET|det}		Causation
+
+
+265|847) xxxxxxx>  à~grand{P~ADJ|mod~mod}		marque{NC|obj}		ce{DET|det}		Evidence
+
+
+xxxxxxx>  à~grand{P~ADJ|mod~mod}		marque{NC|obj}		grand{ADJ|mod}		Evidence
+
+
+266|848) xxxxxxx>  dans{P|dep}		fonction{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  dans{P|dep}		fonction{NC|obj}		de~protéine{P+D~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  Aspects~qualitatif{NPP~ADJ|mod~mod}		fonction{NC|mod}		de~protéine{P+D~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+267|849) xxxxxxx>  à_partir_de{P|mod}		source{NC|obj}		LaTeX{NPP|mod}		Causation
+
+
+268|851) xxxxxxx>  dans{P|mod}		source{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  dans{P|mod}		source{NC|obj}		LaTeX{NPP|mod}		Causation
+
+
+xxxxxxx>  dans{P|mod}		source{NC|obj}		de~commande{P+D~NC|dep~obj}		Causation
+
+
+269|852) 270|854) xxxxxxx>  transformer{VINF|obj}		source{NC|obj}		un{DET|det}		Causation
+
+
+------->  transformer{VINF|obj}		source{NC|obj}		LaTeX{NPP|mod}		Causation
+
+
+271|855) xxxxxxx>  obtenir~particulier{VINF~ADJ|obj~mod}		résultat{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  obtenir~particulier{VINF~ADJ|obj~mod}		résultat{NC|obj}		particulier{ADJ|mod}		Causation
+
+
+272|859) xxxxxxx>  depuis{P|mod}		source{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  depuis{P|mod}		source{NC|obj}		LaTeX{NPP|mod}		Causation
+
+
+274|867) xxxxxxx>  pour{P|mod}		manifestation{NC|obj}		tout{DET|det}		Evidence
+
+
+xxxxxxx>  pour{P|mod}		manifestation{NC|obj}		AGREE{NPP|mod}		Evidence
+
+
+275|868) xxxxxxx>  prévoir~groupe{V~NC|root~obj}		contrôle{NC|obj}		un{DET|det}		FR_Contingency-Objective_influence
+
+
+------->  prévoir~groupe{V~NC|root~obj}		contrôle{NC|obj}		renforcer{VPP|mod}		FR_Contingency-Objective_influence
+
+
+276|870) xxxxxxx>  Posté~être{NC~V|suj~mod}		réponse{NC|suj}		le{DET|det}		Response
+
+
+277|873) xxxxxxx>  devoir~adresser{V~VPP|mod~obj}		réponse{NC|suj}		le{DET|det}		Response
+
+
+279|885) xxxxxxx>  de{P|dep}		origine{NC|obj}		de~groupe{P+D~NC|dep~obj}		Causation
+
+
+280|886) xxxxxxx>  de{P+D|dep}		produit{NC|obj}		,{PONCT|coord}		Causation
+
+
+xxxxxxx>  de{P+D|dep}		produit{NC|obj}		,{PONCT|coord}		Causation
+
+
+xxxxxxx>  de{P+D|dep}		produit{NC|obj}		,{PONCT|coord}		Causation
+
+
+281|887) xxxxxxx>  dynamique{NC|obj}		atténuation{NC|mod}		de~bruit{P+D~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+$$$$$$$>  dynamique{NC|obj}		atténuation{NC|mod}		et{CC|coord}		FR_Contingency-Objective_influence
+
+
+282|888) xxxxxxx>  emballage~intelligent{NC~ADJ|root~mod}		contrôle{NC|mod}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+$$$$$$$>  emballage~intelligent{NC~ADJ|root~mod}		contrôle{NC|mod}		et{CC|coord}		FR_Contingency-Objective_influence
+
+
+283|893) xxxxxxx>  être~pas{V~ADV|root~mod}		mobile-baladeur{NC|ats}		le{DET|det}		FR_Reason
+
+
+xxxxxxx>  être~pas{V~ADV|root~mod}		mobile-baladeur{NC|ats}		premier{ADJ|mod}		FR_Reason
+
+
+------->  être~pas{V~ADV|root~mod}		mobile-baladeur{NC|ats}		MP3{NC|mod}		FR_Reason
+
+
+284|897) xxxxxxx>  de~design{P+D~NC|dep~mod}		mobile-baladeur{NC|obj}		design{NC|mod}		FR_Reason
+
+
+285|904) xxxxxxx>  dans~actuellement{P~ADV|mod~mod}		Mobiles{NPP|obj}		magazine~n°111{NC~ADJ|mod~mod}		FR_Reason
+
+
+xxxxxxx>  dans~actuellement{P~ADV|mod~mod}		Mobiles{NPP|obj}		,{PONCT|ponct}		FR_Reason
+
+
+xxxxxxx>  dans~actuellement{P~ADV|mod~mod}		Mobiles{NPP|obj}		décembre~2007{NC~NC|mod~mod}		FR_Reason
+
+
+xxxxxxx>  dans~actuellement{P~ADV|mod~mod}		Mobiles{NPP|obj}		,{PONCT|ponct}		FR_Reason
+
+
+xxxxxxx>  dans~actuellement{P~ADV|mod~mod}		Mobiles{NPP|obj}		actuellement{ADV|mod}		FR_Reason
+
+
+286|905) xxxxxxx>  sur{P|mod}		mobile{NC|obj}		le{DET|det}		FR_Reason
+
+
+287|910) xxxxxxx>  correction~tout{NC~ADJ|mod~mod}		indice{NC|obj}		le{DET|det}		Evidence
+
+
+289|914) xxxxxxx>  montrer~résultat~bon{V~NC~ADJ|root~obj~mod}		résultat{NC|suj}		un{DET|det}		Causation
+
+
+xxxxxxx>  montrer~résultat~bon{V~NC~ADJ|root~obj~mod}		résultat{NC|suj}		bon{ADJ|mod}		Causation
+
+
+xxxxxxx>  montrer~résultat~bon{V~NC~ADJ|root~obj~mod}		résultat{NC|suj}		,{PONCT|ponct}		Causation
+
+
+xxxxxxx>  montrer~résultat~bon{V~NC~ADJ|root~obj~mod}		résultat{NC|suj}		en{P|dep}		Causation
+
+
+xxxxxxx>  montrer~résultat~bon{V~NC~ADJ|root~obj~mod}		résultat{NC|suj}		,{PONCT|ponct}		Causation
+
+
+xxxxxxx>  montrer~résultat~bon{V~NC~ADJ|root~obj~mod}		résultat{NC|suj}		à_partir_de~capture{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  donnée~montrer~préliminaire{NC~V~ADJ|suj~root~mod}		résultat{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  donnée~montrer~préliminaire{NC~V~ADJ|suj~root~mod}		résultat{NC|obj}		bon{ADJ|mod}		Causation
+
+
+290|916) xxxxxxx>  pouvoir~évaluer{V~VPP|root~obj}		résultat{NC|suj}		le{DET|det}		Causation
+
+
+291|920) xxxxxxx>  commencer{VPP|mod}		épreuve{NC|suj}		de{P+D|det}		Evidence
+
+
+xxxxxxx>  commencer{VPP|mod}		épreuve{NC|suj}		clinique{ADJ|mod}		Evidence
+
+
+xxxxxxx>  commencer{VPP|mod}		épreuve{NC|suj}		pour~traitement{P~NC|dep~obj}		Evidence
+
+
+292|922) xxxxxxx>  médecine~certain{NC~ADJ|obj~mod}		produit{NC|mod}		nombre_de{DET|det}		Causation
+
+
+$$$$$$$>  médecine~certain{NC~ADJ|obj~mod}		produit{NC|mod}		et{CC|coord}		Causation
+
+
+293|923) xxxxxxx>  être~nécessaire{V~ADJ|root~mod}		condition{NC|suj}		le{DET|det}		Make_possible_to_do
+
+
+xxxxxxx>  être~nécessaire{V~ADJ|root~mod}		condition{NC|suj}		nécessaire{ADJ|mod}		Make_possible_to_do
+
+
+xxxxxxx>  de~positif{P+D~ADJ|dep~mod}		résultat{NC|obj}		clinique{ADJ|mod}		Causation
+
+
+xxxxxxx>  de~positif{P+D~ADJ|dep~mod}		résultat{NC|obj}		positif{ADJ|mod}		Causation
+
+
+294|924) xxxxxxx>  lancer~appliquer{VPP~VPP|root~obj}		épreuve{NC|suj}		un{DET|det}		Evidence
+
+
+xxxxxxx>  lancer~appliquer{VPP~VPP|root~obj}		épreuve{NC|suj}		clinique{ADJ|mod}		Evidence
+
+
+295|926) xxxxxxx>  être~romantique{V~ADJ|obj~ats}		comparaison{NC|suj}		le{DET|det}		Causation
+
+
+xxxxxxx>  être~romantique{V~ADJ|obj~ats}		comparaison{NC|suj}		le{DET|det}		FR_Reason
+
+
+xxxxxxx>  être~romantique{V~ADJ|obj~ats}		comparaison{NC|suj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  comme{P|ats}		moteur{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  comme{P|ats}		moteur{NC|obj}		aller~faire{V~VINF|mod_rel~obj}		Causation
+
+
+296|929) xxxxxxx>  de~beaucoup{P~ADV|de_obj~mod}		paramètre{NC|obj}		beaucoup{ADV|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  de~beaucoup{P~ADV|de_obj~mod}		paramètre{NC|obj}		de{P|det}		FR_Contingency-Objective_influence
+
+
+298|932) xxxxxxx>  produire~ne{V~ADV|dep_coord~mod}		effet{NC|obj}		aucun{DET|det}		Causation
+
+
+xxxxxxx>  produire~ne{V~ADV|dep_coord~mod}		effet{NC|obj}		bénéfique{ADJ|mod}		Causation
+
+
+299|938) xxxxxxx>  attibue~2{NC~ADJ|obj~mod}		cause{NC|mod}		principal{ADJ|mod}		Causation
+
+
+300|940) xxxxxxx>  pour~tout{P~ADJ|dep_coord~mod}		suite{NC|obj}		tout{ADJ|mod}		Causation
+
+
+xxxxxxx>  pour~tout{P~ADJ|dep_coord~mod}		suite{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  pour~tout{P~ADJ|dep_coord~mod}		suite{NC|obj}		paraître~partie{V~NC|mod_rel~obj}		Causation
+
+
+301|943) xxxxxxx>  sur{P|mod}		issue{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  sur{P|mod}		issue{NC|obj}		de~histoire{P~NC|dep~obj}		Causation
+
+
+302|944) xxxxxxx>  à_cause_de~injuste{P~ADJ|dep~mod}		riposte{NC|obj}		le{DET|det}		Response
+
+
+xxxxxxx>  à_cause_de~injuste{P~ADJ|dep~mod}		riposte{NC|obj}		injuste{ADJ|mod}		Response
+
+
+303|949) xxxxxxx>  être{V|root}		résultat{NC|suj}		le{DET|det}		Causation
+
+
+304|953) $$$$$$$>  pouvoir~correspondre{V~VINF|root~obj}		prévention{NC|suj}		et{CC|coord}		Preventing
+
+
+xxxxxxx>  pouvoir~correspondre{V~VINF|root~obj}		prévention{NC|suj}		:{PONCT|ponct}		Preventing
+
+
+------->  pouvoir~correspondre{V~VINF|root~obj}		prévention{NC|suj}		fatigue~récurrent{NC~ADJ|mod~mod}		Preventing
+
+
+xxxxxxx>  pouvoir~correspondre{V~VINF|root~obj}		prévention{NC|suj}		devant~écran{P~NC|mod~obj}		Preventing
+
+
+305|955) xxxxxxx>  de{P|dep}		résultat{NC|obj}		son{DET|det}		Causation
+
+
+306|961) xxxxxxx>  de~interne{P~ADJ|dep~mod}		fonctionnement{NC|obj}		interne{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+307|976) xxxxxxx>  à{P|mod}		effet{NC|obj}		de~serre{P~NC|dep~obj}		Causation
+
+
+309|985) xxxxxxx>  de~tout{P~ADJ|mod~mod}		condition{NC|obj}		tout{ADJ|mod}		Make_possible_to_do
+
+
+xxxxxxx>  de~tout{P~ADJ|mod~mod}		condition{NC|obj}		le{DET|det}		Make_possible_to_do
+
+
+311|1000) xxxxxxx>  certifier~fabriquer{VPP~VPP|root~mod}		produit{NC|suj}		tout{ADJ|mod}		Causation
+
+
+xxxxxxx>  certifier~fabriquer{VPP~VPP|root~mod}		produit{NC|suj}		le{DET|det}		Causation
+
+
+xxxxxxx>  certifier~fabriquer{VPP~VPP|root~mod}		produit{NC|suj}		Imaje{ADJ|mod}		Causation
+
+
+------->  certifier~fabriquer{VPP~VPP|root~mod}		produit{NC|suj}		fabriquer{VPP|mod}		Causation
+
+
+312|1001) xxxxxxx>  de~qualité{P~NC|dep~mod}		contrôle{NC|obj}		qualité{NC|mod}		FR_Contingency-Objective_influence
+
+
+316|1009) xxxxxxx>  passer~probablement~très{V~ADV~ADV|root~mod~mod}		réponse{NC|suj}		le{DET|det}		Response
+
+
+xxxxxxx>  passer~probablement~très{V~ADV~ADV|root~mod~mod}		réponse{NC|suj}		à~offre{P~NC|dep~obj}		Response
+
+
+317|1017) xxxxxxx>  de{P|dep}		lancement{NC|obj}		de~procédure{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+318|1018) xxxxxxx>  candidat~apporter{NC~V|suj~root}		preuve{NC|obj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  candidat~apporter{NC~V|suj~root}		preuve{NC|obj}		de~capacité{P~NC|dep~obj}		Evidence
+
+
+319|1019) xxxxxxx>  apporter{VINF|dep}		preuve{NC|obj}		le{DET|det}		Evidence
+
+
+321|1022) xxxxxxx>  au-delà_de{P|mod}		poursuite{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  au-delà_de{P|mod}		poursuite{NC|obj}		de~travail{P+D~NC|dep~obj}		Causation
+
+
+322|1024) xxxxxxx>  être~séminaire{VPP~NC|root~mod}		réponse{NC|obj}		le{DET|det}		Response
+
+
+323|1025) xxxxxxx>  sur{P|dep}		prévention{NC|obj}		le{DET|det}		Preventing
+
+
+$$$$$$$>  sur{P|dep}		prévention{NC|obj}		et{CC|coord}		Preventing
+
+
+324|1027) xxxxxxx>  être~indispensable{V~ADJ|root~ats}		réponse{NC|suj}		un{DET|det}		Response
+
+
+xxxxxxx>  être~indispensable{V~ADJ|root~ats}		réponse{NC|suj}		efficace{ADJ|mod}		Response
+
+
+xxxxxxx>  être~indispensable{V~ADJ|root~ats}		réponse{NC|suj}		à~enjeu{P~NC|dep~obj}		Response
+
+
+325|1028) xxxxxxx>  distinction~1{NC~ADJ|root~mod}		fonction{NC|mod}		principal{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  distinction~1{NC~ADJ|root~mod}		fonction{NC|mod}		2001{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  distinction~1{NC~ADJ|root~mod}		fonction{NC|mod}		-{PONCT|ponct}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  distinction~1{NC~ADJ|root~mod}		fonction{NC|mod}		intervenant{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+326|1029) xxxxxxx>  thèse~théorie~explicatif{NC~NC~ADJ|root~mod~mod}		résultat{NC|mod}		quelque{DET|det}		Causation
+
+
+xxxxxxx>  thèse~théorie~explicatif{NC~NC~ADJ|root~mod~mod}		résultat{NC|mod}		empirique{ADJ|mod}		Causation
+
+
+xxxxxxx>  thèse~théorie~explicatif{NC~NC~ADJ|root~mod~mod}		résultat{NC|mod}		"{PONCT|ponct}		Causation
+
+
+327|1032) xxxxxxx>  sur{P|dep}		moteur{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  sur{P|dep}		moteur{NC|obj}		de~nom{P+D~NC|dep~obj}		Causation
+
+
+328|1033) xxxxxxx>  de~internet{P+D~NC|dep~mod}		produit{NC|obj}		internet{NC|mod}		Causation
+
+
+xxxxxxx>  de~internet{P+D~NC|dep~mod}		produit{NC|obj}		){PONCT|ponct}		Causation
+
+
+329|1035) xxxxxxx>  mesurer{VINF|dep_coord}		impact{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  mesurer{VINF|dep_coord}		impact{NC|obj}		de~campagne{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  pour{P|mod}		lancement{NC|obj}		un{DET|det}		FR_Cause_to_start-Launch_process
+
+
+330|1039) xxxxxxx>  figure~impédance{NC~NC|suj~mod}		comparaison{NC|mod}		un{DET|det}		Causation
+
+
+xxxxxxx>  figure~impédance{NC~NC|suj~mod}		comparaison{NC|mod}		avec~figure{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  figure~impédance{NC~NC|suj~mod}		comparaison{NC|mod}		un{DET|det}		FR_Reason
+
+
+xxxxxxx>  figure~impédance{NC~NC|suj~mod}		comparaison{NC|mod}		avec~figure{P~NC|dep~obj}		FR_Reason
+
+
+xxxxxxx>  figure~impédance{NC~NC|suj~mod}		comparaison{NC|mod}		un{DET|det}		Evidence
+
+
+xxxxxxx>  figure~impédance{NC~NC|suj~mod}		comparaison{NC|mod}		avec~figure{P~NC|dep~obj}		Evidence
+
+
+331|1041) xxxxxxx>  faciliter{VINF|obj}		comparaison{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  faciliter{VINF|obj}		comparaison{NC|obj}		de~comportement{P+D~NC|dep~obj}		Causation
+
+
+xxxxxxx>  faciliter{VINF|obj}		comparaison{NC|obj}		le{DET|det}		FR_Reason
+
+
+xxxxxxx>  faciliter{VINF|obj}		comparaison{NC|obj}		de~comportement{P+D~NC|dep~obj}		FR_Reason
+
+
+xxxxxxx>  faciliter{VINF|obj}		comparaison{NC|obj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  faciliter{VINF|obj}		comparaison{NC|obj}		de~comportement{P+D~NC|dep~obj}		Evidence
+
+
+332|1042) $$$$$$$>  et{CC|coord}		réponse{NC|dep_coord}		le{DET|det}		Response
+
+
+$$$$$$$>  et{CC|coord}		réponse{NC|dep_coord}		en~fréquence{P~NC|dep~obj}		Response
+
+
+333|1044) xxxxxxx>  conserver{V|obj}		influence{NC|obj}		son{DET|det}		FR_Contingency-Objective_influence
+
+
+334|1045) xxxxxxx>  rendre~La3{V~NC|root~obj}		facteur{NC|suj}		ce{DET|det}		Causation
+
+
+xxxxxxx>  rendre~La3{V~NC|root~obj}		facteur{NC|suj}		seul{ADJ|mod}		Causation
+
+
+335|1051) xxxxxxx>  grandir{V|obj}		influence{NC|suj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  grandir{V|obj}		influence{NC|suj}		de~pic{P+D~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+336|1052) xxxxxxx>  avoir{V|mod_rel}		effet{NC|obj}		de{DET|det}		Causation
+
+
+xxxxxxx>  avoir{V|mod_rel}		effet{NC|obj}		coopératif{ADJ|mod}		Causation
+
+
+xxxxxxx>  avoir{V|mod_rel}		effet{NC|obj}		détectable{ADJ|mod}		Causation
+
+
+xxxxxxx>  avoir{V|mod_rel}		effet{NC|obj}		de~résonance{P+D~NC|dep~obj}		Causation
+
+
+337|1060) xxxxxxx>  à_cause_de{P|mod}		influence{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  à_cause_de{P|mod}		influence{NC|obj}		de~pic{P+D~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+338|1062) xxxxxxx>  manifester{VINF|obj}		influence{NC|obj}		son{DET|det}		FR_Contingency-Objective_influence
+
+
+339|1064) xxxxxxx>  sans~coopératif{P~ADJ|dep_coord~mod}		effet{NC|obj}		aucun{DET|det}		Causation
+
+
+xxxxxxx>  sans~coopératif{P~ADJ|dep_coord~mod}		effet{NC|obj}		coopératif{ADJ|mod}		Causation
+
+
+xxxxxxx>  sans~coopératif{P~ADJ|dep_coord~mod}		effet{NC|obj}		de~pic{P+D~NC|dep~obj}		Causation
+
+
+340|1065) xxxxxxx>  par{P|p_obj}		influence{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  par{P|p_obj}		influence{NC|obj}		de~pic{P+D~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+341|1068) xxxxxxx>  passer{V|mod_rel}		fonction{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  passer{V|mod_rel}		fonction{NC|obj}		de~lèvre{P+D~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  musicien{NC|obj}		fonction{NC|mod}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  musicien{NC|obj}		fonction{NC|mod}		de~tuyau{P+D~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  pour~trompette{P~NC|mod~mod}		résultat{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  pour~trompette{P~NC|mod~mod}		résultat{NC|obj}		musical{ADJ|mod}		Causation
+
+
+xxxxxxx>  pour~trompette{P~NC|mod~mod}		résultat{NC|obj}		trompette~baroque{NC~ADJ|mod~mod}		Causation
+
+
+342|1078) xxxxxxx>  refaire~faire~bien{V~VPP~ADV|root~mod~mod}		réponse{NC|obj}		un{DET|det}		Response
+
+
+xxxxxxx>  refaire~faire~bien{V~VPP~ADV|root~mod~mod}		réponse{NC|obj}		autre{ADJ|mod}		Response
+
+
+xxxxxxx>  de{P|dep}		réponse{NC|obj}		son{DET|det}		Response
+
+
+343|1081) xxxxxxx>  être{V|root}		motivation{NC|ats}		le{DET|det}		FR_Reason
+
+
+344|1083) xxxxxxx>  et~technique{CC~ADJ|coord~mod}		contrôle{NC|dep_coord}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  et~technique{CC~ADJ|coord~mod}		contrôle{NC|dep_coord}		technique{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+345|1087) xxxxxxx>  être~étonnant{V~ADJ|root~ats}		moteur{NC|suj}		le{DET|det}		Causation
+
+
+------->  être~étonnant{V~ADJ|root~ats}		moteur{NC|suj}		KR{NPP|mod}		Causation
+
+
+348|1092) xxxxxxx>  sous~client{P~NC|mod~mod}		marque{NC|obj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  sous~client{P~NC|mod~mod}		marque{NC|obj}		"{PONCT|ponct}		Evidence
+
+
+xxxxxxx>  sous~client{P~NC|mod~mod}		marque{NC|obj}		by{ET|dep}		Evidence
+
+
+xxxxxxx>  sous~client{P~NC|mod~mod}		marque{NC|obj}		dahinden{ET|dep}		Evidence
+
+
+xxxxxxx>  sous~client{P~NC|mod~mod}		marque{NC|obj}		"{PONCT|ponct}		Evidence
+
+
+xxxxxxx>  sous~client{P~NC|mod~mod}		marque{NC|obj}		client~nouveau{NC~ADJ|mod~mod}		Evidence
+
+
+349|1093) xxxxxxx>  décrocher~oeil{V~NC|root~obj}		marque{NC|mod}		cest{DET|det}		Evidence
+
+
+xxxxxxx>  décrocher~oeil{V~NC|root~obj}		marque{NC|mod}		chic{ADJ|mod}		Evidence
+
+
+------->  décrocher~oeil{V~NC|root~obj}		marque{NC|mod}		Amnesty{NPP|mod}		Evidence
+
+
+$$$$$$$>  décrocher~oeil{V~NC|root~obj}		marque{NC|mod}		et{CC|coord}		Evidence
+
+
+xxxxxxx>  de~onlin{P~ADJ|dep~mod}		création{NC|obj}		onlin{ADJ|mod}		FR_Cause_to_start-Launch_process
+
+
+350|1109) xxxxxxx>  relater{VINF|obj}		cause{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  relater{VINF|obj}		cause{NC|obj}		de~accident{P~NC|dep~obj}		Causation
+
+
+351|1115) xxxxxxx>  de{P|dep}		lancement{NC|obj}		de~modèle{P+D~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+354|1119) xxxxxxx>  de{P|dep}		lancement{NC|obj}		de~modèle{P+D~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+357|1126) xxxxxxx>  de{P+D|dep}		origine{NC|obj}		A~fin{P~NC|mod~obj}		Causation
+
+
+xxxxxxx>  Ville~jumeler{NC~VPP|suj~mod}		origine{NC|mod}		le{DET|det}		Causation
+
+
+xxxxxxx>  Ville~jumeler{NC~VPP|suj~mod}		origine{NC|mod}		de~ville{P~NC|dep~obj}		Causation
+
+
+358|1127) xxxxxxx>  par{P|p_obj}		résultat{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  par{P|p_obj}		résultat{NC|obj}		de~fouille{P+D~NC|dep~obj}		Causation
+
+
+359|1145) $$$$$$$>  et{CC|coord}		création{NC|dep_coord}		le{DET|det}		FR_Cause_to_start-Launch_process
+
+
+$$$$$$$>  et{CC|coord}		création{NC|dep_coord}		de~maison{P+D~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+360|1148) xxxxxxx>  dans~décoratif{P~ADJ|dep_coord~mod}		motif{NC|obj}		de{DET|det}		Causation
+
+
+xxxxxxx>  dans~décoratif{P~ADJ|dep_coord~mod}		motif{NC|obj}		abstraire{ADJ|mod}		Causation
+
+
+xxxxxxx>  dans~décoratif{P~ADJ|dep_coord~mod}		motif{NC|obj}		,{PONCT|ponct}		Causation
+
+
+xxxxxxx>  dans~décoratif{P~ADJ|dep_coord~mod}		motif{NC|obj}		décoratif{ADJ|mod}		Causation
+
+
+xxxxxxx>  dans~décoratif{P~ADJ|dep_coord~mod}		motif{NC|obj}		de{DET|det}		FR_Reason
+
+
+xxxxxxx>  dans~décoratif{P~ADJ|dep_coord~mod}		motif{NC|obj}		abstraire{ADJ|mod}		FR_Reason
+
+
+xxxxxxx>  dans~décoratif{P~ADJ|dep_coord~mod}		motif{NC|obj}		,{PONCT|ponct}		FR_Reason
+
+
+xxxxxxx>  dans~décoratif{P~ADJ|dep_coord~mod}		motif{NC|obj}		décoratif{ADJ|mod}		FR_Reason
+
+
+361|1153) xxxxxxx>  dentelle~demeurer{NC~V|suj~mod_rel}		fondement{NC|obj}		le{DET|det}		FR_Reason
+
+
+xxxxxxx>  dentelle~demeurer{NC~V|suj~mod_rel}		fondement{NC|obj}		de~tissu{P+D~NC|dep~obj}		FR_Reason
+
+
+xxxxxxx>  dentelle~demeurer{NC~V|suj~mod_rel}		fondement{NC|obj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  dentelle~demeurer{NC~V|suj~mod_rel}		fondement{NC|obj}		de~tissu{P+D~NC|dep~obj}		Evidence
+
+
+xxxxxxx>  de~raffiner{P~ADJ|dep~mod}		produit{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  de~raffiner{P~ADJ|dep~mod}		produit{NC|obj}		raffiner{ADJ|mod}		Causation
+
+
+362|1154) xxxxxxx>  de{P+D|dep}		condition{NC|obj}		de~accueil{P~NC|dep~obj}		Make_possible_to_do
+
+
+363|1168) xxxxxxx>  Méditerranée~oriental{NPP~ADJ|obj~mod}		source{NC|mod}		un{DET|det}		Causation
+
+
+xxxxxxx>  Méditerranée~oriental{NPP~ADJ|obj~mod}		source{NC|mod}		de~richesse{P~NC|dep~obj}		Causation
+
+
+364|1170) xxxxxxx>  diversité~être{NC~V|suj~dep_coord}		condition{NC|ats}		le{DET|det}		Make_possible_to_do
+
+
+xxxxxxx>  diversité~être{NC~V|suj~dep_coord}		condition{NC|ats}		de~avenir{P~NC|dep~obj}		Make_possible_to_do
+
+
+365|1179) xxxxxxx>  être~histoire{V~NC|root~ats}		raison{NC|suj}		un{DET|det}		Causation
+
+
+xxxxxxx>  être~histoire{V~NC|root~ats}		raison{NC|suj}		bon{ADJ|mod}		Causation
+
+
+xxxxxxx>  être~histoire{V~NC|root~ats}		raison{NC|suj}		pour~FAIRE{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  être~histoire{V~NC|root~ats}		raison{NC|suj}		un{DET|det}		FR_Reason
+
+
+xxxxxxx>  être~histoire{V~NC|root~ats}		raison{NC|suj}		bon{ADJ|mod}		FR_Reason
+
+
+xxxxxxx>  être~histoire{V~NC|root~ats}		raison{NC|suj}		pour~FAIRE{P~NC|dep~obj}		FR_Reason
+
+
+xxxxxxx>  être~histoire{V~NC|root~ats}		raison{NC|suj}		un{DET|det}		Evidence
+
+
+xxxxxxx>  être~histoire{V~NC|root~ats}		raison{NC|suj}		bon{ADJ|mod}		Evidence
+
+
+xxxxxxx>  être~histoire{V~NC|root~ats}		raison{NC|suj}		pour~FAIRE{P~NC|dep~obj}		Evidence
+
+
+367|1211) xxxxxxx>  être~carpe{V~NC|obj~ats}		réponse{NC|suj}		son{DET|det}		Response
+
+
+368|1214) xxxxxxx>  pour{P|mod}		raison{NC|obj}		ce{DET|det}		Causation
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		besoin~avoir{NC~V|suj~mod_rel}		Causation
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		ce{DET|det}		FR_Reason
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		besoin~avoir{NC~V|suj~mod_rel}		FR_Reason
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		ce{DET|det}		Evidence
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		besoin~avoir{NC~V|suj~mod_rel}		Evidence
+
+
+370|1224) xxxxxxx>  connaître~bien{VPP~ADV|mod~mod}		condition{NC|suj}		le{DET|det}		Make_possible_to_do
+
+
+xxxxxxx>  connaître~bien{VPP~ADV|mod~mod}		condition{NC|suj}		de~rentabilité{P~NC|dep~obj}		Make_possible_to_do
+
+
+372|1226) xxxxxxx>  intégrer{VPR|mod}		moteur{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  intégrer{VPR|mod}		moteur{NC|obj}		de~réservation{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  sur{P|mod}		moteur{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  sur{P|mod}		moteur{NC|obj}		de~réservation{P~NC|dep~obj}		Causation
+
+
+373|1227) xxxxxxx>  de{P|dep}		fonctionnement{NC|obj}		de~centrale{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+374|1230) xxxxxxx>  choisir{VINF|dep_coord}		produit{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  choisir{VINF|dep_coord}		produit{NC|obj}		de~gamme{P~NC|dep~obj}		Causation
+
+
+375|1235) xxxxxxx>  choisir{VINF|dep_coord}		produit{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  choisir{VINF|dep_coord}		produit{NC|obj}		de~gamme{P~NC|dep~obj}		Causation
+
+
+376|1237) xxxxxxx>  choisir{VINF|dep_coord}		produit{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  choisir{VINF|dep_coord}		produit{NC|obj}		de~gamme{P~NC|dep~obj}		Causation
+
+
+379|1263) xxxxxxx>  améliorer{V|mod_rel}		facteur{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  améliorer{V|mod_rel}		facteur{NC|obj}		solaire{ADJ|mod}		Causation
+
+
+xxxxxxx>  améliorer{V|mod_rel}		facteur{NC|obj}		de~vitrage{P+D~NC|dep~obj}		Causation
+
+
+380|1264) xxxxxxx>  à~particulier{P~ADJ|mod~mod}		condition{NC|obj}		de{DET|det}		Make_possible_to_do
+
+
+xxxxxxx>  à~particulier{P~ADJ|mod~mod}		condition{NC|obj}		particulier{ADJ|mod}		Make_possible_to_do
+
+
+381|1265) xxxxxxx>  réserver~pas{VPP~ADV|root~mod}		condition{NC|mod}		de~participation{P~NC|dep~obj}		Make_possible_to_do
+
+
+$$$$$$$>  réserver~pas{VPP~ADV|root~mod}		condition{NC|mod}		et{CC|coord}		Make_possible_to_do
+
+
+382|1268) xxxxxxx>  transmettre~ci-dessous{VINF~ADV|obj~mod}		preuve{NC|obj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  transmettre~ci-dessous{VINF~ADV|obj~mod}		preuve{NC|obj}		de~qualification{P~NC|dep~obj}		Evidence
+
+
+xxxxxxx>  apporter{VINF|dep_coord}		preuve{NC|obj}		le{DET|det}		Evidence
+
+
+383|1272) xxxxxxx>  à~particulier{P~ADJ|mod~mod}		condition{NC|obj}		de{DET|det}		Make_possible_to_do
+
+
+xxxxxxx>  à~particulier{P~ADJ|mod~mod}		condition{NC|obj}		particulier{ADJ|mod}		Make_possible_to_do
+
+
+384|1279) xxxxxxx>  candidat~apporter{NC~V|suj~obj}		preuve{NC|obj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  candidat~apporter{NC~V|suj~obj}		preuve{NC|obj}		de~capacité{P~NC|dep~obj}		Evidence
+
+
+385|1280) xxxxxxx>  faire~référence{V~NC|root~obj}		preuve{NC|suj}		le{DET|det}		Evidence
+
+
+386|1281) xxxxxxx>  apporter{VINF|root}		preuve{NC|obj}		le{DET|det}		Evidence
+
+
+387|1282) xxxxxxx>  de{P|dep}		lancement{NC|obj}		de~procédure{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+391|1295) xxxxxxx>  être{V|root}		épreuve{NC|ats}		son{DET|det}		Evidence
+
+
+xxxxxxx>  être{V|root}		épreuve{NC|ats}		petit{ADJ|mod}		Evidence
+
+
+xxxxxxx>  être{V|root}		épreuve{NC|ats}		blogger.{ADJ|mod}		Evidence
+
+
+xxxxxxx>  être{V|root}		épreuve{NC|ats}		"{PONCT|ponct}		Evidence
+
+
+------->  être{V|root}		épreuve{NC|ats}		niveau~7{NC~ADJ|mod~mod}		Evidence
+
+
+xxxxxxx>  être{V|root}		épreuve{NC|ats}		:{PONCT|ponct}		Evidence
+
+
+------->  être{V|root}		épreuve{NC|ats}		Mon~premier{NC~ADJ|mod~mod}		Evidence
+
+
+393|1299) xxxxxxx>  rendre~visible{VINF~ADJ|obj~ats}		effet{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  rendre~visible{VINF~ADJ|obj~ats}		effet{NC|obj}		de~rayon{P~NC|dep~obj}		Causation
+
+
+394|1300) 395|1302) xxxxxxx>  représenter{V|mod}		réponse{NC|obj}		le{DET|det}		Response
+
+
+xxxxxxx>  représenter{V|mod}		réponse{NC|obj}		de~internaute{P+D~NC|dep~obj}		Response
+
+
+396|1303) xxxxxxx>  de{P|dep_coord}		réponse{NC|obj}		de~forum{P~NC|dep~obj}		Response
+
+
+397|1306) xxxxxxx>  voici~description{V~NC|suj~obj}		réponse{NC|obj}		pas{ADV|mod}		Response
+
+
+xxxxxxx>  voici~description{V~NC|suj~obj}		réponse{NC|obj}		de{P|det}		Response
+
+
+xxxxxxx>  voici~description{V~NC|suj~obj}		réponse{NC|obj}		nouveau{ADJ|mod}		Response
+
+
+xxxxxxx>  ou~nouveau{CC~ADJ|coord~mod}		réponse{NC|dep_coord}		plusieurs{DET|det}		Response
+
+
+xxxxxxx>  ou~nouveau{CC~ADJ|coord~mod}		réponse{NC|dep_coord}		nouveau{ADJ|mod}		Response
+
+
+xxxxxxx>  passage~dernier{NC~ADJ|obj~mod}		réponse{NC|mod}		un{DET|det}		Response
+
+
+xxxxxxx>  passage~dernier{NC~ADJ|obj~mod}		réponse{NC|mod}		nombreux{ADJ|mod}		Response
+
+
+xxxxxxx>  lire~déjà{VPP~ADV|dep_coord~mod}		réponse{NC|obj}		un{DET|det}		Response
+
+
+xxxxxxx>  lire~déjà{VPP~ADV|dep_coord~mod}		réponse{NC|obj}		nombreux{ADJ|mod}		Response
+
+
+398|1309) xxxxxxx>  à~supplémentaire{P~ADJ|mod~mod}		fonctionnalité{NC|obj}		certain{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  à~supplémentaire{P~ADJ|mod~mod}		fonctionnalité{NC|obj}		supplémentaire{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  à~supplémentaire{P~ADJ|mod~mod}		fonctionnalité{NC|obj}		de~forum{P+D~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+399|1314) xxxxxxx>  disposer~option~autre{V~NC~ADJ|root~obj~mod}		fonction{NC|mod}		autre{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+400|1317) xxxxxxx>  à{P|mod}		origine{NC|obj}		le{DET|det}		Causation
+
+
+401|1324) $$$$$$$>  et{CC|coord}		réponse{NC|dep_coord}		le{DET|det}		Response
+
+
+$$$$$$$>  et{CC|coord}		réponse{NC|dep_coord}		de~branche{P~NC|dep~obj}		Response
+
+
+402|1326) xxxxxxx>  avec~bon{P~ADJ|mod~mod}		réponse{NC|obj}		un{DET|det}		Response
+
+
+xxxxxxx>  avec~bon{P~ADJ|mod~mod}		réponse{NC|obj}		bon{ADJ|mod}		Response
+
+
+403|1329) xxxxxxx>  et~proche{CC~ADJ|coord~mod}		réponse{NC|dep_coord}		un{DET|det}		Response
+
+
+xxxxxxx>  et~proche{CC~ADJ|coord~mod}		réponse{NC|dep_coord}		proche~plus{ADJ~ADV|mod~mod}		Response
+
+
+xxxxxxx>  et~proche{CC~ADJ|coord~mod}		réponse{NC|dep_coord}		en~sib{P~NC|dep~obj}		Response
+
+
+405|1332) xxxxxxx>  et~meilleur{CC~ADJ|coord~mod}		réponse{NC|dep_coord}		un{DET|det}		Response
+
+
+xxxxxxx>  et~meilleur{CC~ADJ|coord~mod}		réponse{NC|dep_coord}		meilleur~un_peu{ADJ~ADV|mod~mod}		Response
+
+
+407|1335) xxxxxxx>  réglage~soit{NC~CC|suj~obj}		fonction{NC|ats}		de~travail{P+D~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+409|1343) xxxxxxx>  facon~premier{VINF~ADJ|obj~mod}		raisonement{NC|obj}		cln{CLS|suj}		Causation
+
+
+xxxxxxx>  facon~premier{VINF~ADJ|obj~mod}		raisonement{NC|obj}		etai{ADV|mod}		Causation
+
+
+xxxxxxx>  facon~premier{VINF~ADJ|obj~mod}		raisonement{NC|obj}		son{DET|det}		Causation
+
+
+xxxxxxx>  facon~premier{VINF~ADJ|obj~mod}		raisonement{NC|obj}		premier{ADJ|mod}		Causation
+
+
+xxxxxxx>  facon~premier{VINF~ADJ|obj~mod}		raisonement{NC|obj}		cln{CLS|suj}		FR_Reason
+
+
+xxxxxxx>  facon~premier{VINF~ADJ|obj~mod}		raisonement{NC|obj}		etai{ADV|mod}		FR_Reason
+
+
+xxxxxxx>  facon~premier{VINF~ADJ|obj~mod}		raisonement{NC|obj}		son{DET|det}		FR_Reason
+
+
+xxxxxxx>  facon~premier{VINF~ADJ|obj~mod}		raisonement{NC|obj}		premier{ADJ|mod}		FR_Reason
+
+
+xxxxxxx>  facon~premier{VINF~ADJ|obj~mod}		raisonement{NC|obj}		cln{CLS|suj}		Evidence
+
+
+xxxxxxx>  facon~premier{VINF~ADJ|obj~mod}		raisonement{NC|obj}		etai{ADV|mod}		Evidence
+
+
+xxxxxxx>  facon~premier{VINF~ADJ|obj~mod}		raisonement{NC|obj}		son{DET|det}		Evidence
+
+
+xxxxxxx>  facon~premier{VINF~ADJ|obj~mod}		raisonement{NC|obj}		premier{ADJ|mod}		Evidence
+
+
+411|1352) xxxxxxx>  maintenir{V|dep_coord}		réponse{NC|obj}		son{DET|det}		Response
+
+
+413|1355) 415|1371) xxxxxxx>  simplifier~alors{V~ADV|root~mod}		motif{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  simplifier~alors{V~ADV|root~mod}		motif{NC|obj}		le{DET|det}		FR_Reason
+
+
+416|1372) xxxxxxx>  sous{P|mod}		influence{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  sous{P|mod}		influence{NC|obj}		de{P|dep}		FR_Contingency-Objective_influence
+
+
+417|1376) xxxxxxx>  réussir~que{VPP~ADV|root~mod}		résultat{NC|mod}		:{PONCT|ponct}		Causation
+
+
+------->  réussir~que{VPP~ADV|root~mod}		résultat{NC|mod}		NBC{NPP|mod}		Causation
+
+
+xxxxxxx>  réussir~que{VPP~ADV|root~mod}		résultat{NC|mod}		:{PONCT|ponct}		Causation
+
+
+xxxxxxx>  réussir~que{VPP~ADV|root~mod}		résultat{NC|mod}		pour_l'instant{ADV|mod}		Causation
+
+
+418|1378) xxxxxxx>  par{P|dep}		motif{NC|obj}		Cours~tracé{NPP~NC|mod~mod}		Causation
+
+
+xxxxxxx>  par{P|dep}		motif{NC|obj}		Cours~tracé{NPP~NC|mod~mod}		FR_Reason
+
+
+419|1381) xxxxxxx>  être~modifier{VPP~VPP|root~mod}		fonction{NC|suj}		certain{DET|det}		FR_Contingency-Objective_influence
+
+
+420|1382) xxxxxxx>  de{P|dep}		lancement{NC|obj}		de~modèle{P+D~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+422|1384) xxxxxxx>  de{P|dep}		lancement{NC|obj}		de~modèle{P+D~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+423|1388) xxxxxxx>  pour~particulier{P~ADJ|mod~mod}		raison{NC|obj}		de{DET|det}		Causation
+
+
+xxxxxxx>  pour~particulier{P~ADJ|mod~mod}		raison{NC|obj}		particulier{ADJ|mod}		Causation
+
+
+xxxxxxx>  pour~particulier{P~ADJ|mod~mod}		raison{NC|obj}		de{DET|det}		FR_Reason
+
+
+xxxxxxx>  pour~particulier{P~ADJ|mod~mod}		raison{NC|obj}		particulier{ADJ|mod}		FR_Reason
+
+
+xxxxxxx>  pour~particulier{P~ADJ|mod~mod}		raison{NC|obj}		de{DET|det}		Evidence
+
+
+xxxxxxx>  pour~particulier{P~ADJ|mod~mod}		raison{NC|obj}		particulier{ADJ|mod}		Evidence
+
+
+424|1393) xxxxxxx>  à{P|mod}		création{NC|obj}		le{DET|det}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  à{P|mod}		création{NC|obj}		de~pièce{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+426|1398) xxxxxxx>  de{P|dep}		création{NC|obj}		le{DET|det}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  de{P|dep}		création{NC|obj}		de~pièce{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+427|1399) xxxxxxx>  être{V|root}		motivation{NC|ats}		le{DET|det}		FR_Reason
+
+
+428|1400) xxxxxxx>  de{P|dep}		Automobile-Sportive{NPP|obj}		le{DET|det}		FR_Reason
+
+
+429|1401) xxxxxxx>  avec~présent{P~ADJ|mod~mod}		moteur{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  avec~présent{P~ADJ|mod~mod}		moteur{NC|obj}		présent~bien{ADJ~ADV|mod~mod}		Causation
+
+
+430|1406) xxxxxxx>  présenter{VINF|root}		fondement{NC|obj}		le{DET|det}		FR_Reason
+
+
+$$$$$$$>  présenter{VINF|root}		fondement{NC|obj}		et{CC|coord}		FR_Reason
+
+
+xxxxxxx>  présenter{VINF|root}		fondement{NC|obj}		le{DET|det}		Evidence
+
+
+$$$$$$$>  présenter{VINF|root}		fondement{NC|obj}		et{CC|coord}		Evidence
+
+
+431|1407) xxxxxxx>  formation~décomposer{NC~V|suj~root}		suite{NC|mod}		à~initiation{P~NC|dep~obj}		Causation
+
+
+432|1408) xxxxxxx>  avoir~souvent~bien{V~ADV~ADV|root~mod~mod}		fonction{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+433|1409) xxxxxxx>  de{P|dep}		contrainte{NC|obj}		-{PONCT|ponct}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  de{P|dep}		contrainte{NC|obj}		Thixotropie~influence{NPP~NC|mod~mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  Thixotropie{NPP|mod}		influence{NC|mod}		de~température{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  Thixotropie{NPP|mod}		influence{NC|mod}		sur~viscosité{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  polymère~fondre{NC~ADJ|obj~mod}		influence{NC|mod}		de~masse{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+434|1417) xxxxxxx>  à{P+D|mod}		contrainte{NC|obj}		de~marché{P+D~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+436|1431) xxxxxxx>  toucher~froid{VINF~ADJ|dep~mod}		motif{NC|mod}		discret{ADJ|mod}		Causation
+
+
+------->  toucher~froid{VINF~ADJ|dep~mod}		motif{NC|mod}		façon~carbone{NC~NC|mod~mod}		Causation
+
+
+xxxxxxx>  toucher~froid{VINF~ADJ|dep~mod}		motif{NC|mod}		discret{ADJ|mod}		FR_Reason
+
+
+------->  toucher~froid{VINF~ADJ|dep~mod}		motif{NC|mod}		façon~carbone{NC~NC|mod~mod}		FR_Reason
+
+
+437|1432) xxxxxxx>  avoir~ne{V~ADV|root~mod}		raison{NC|obj}		aucun{DET|det}		Causation
+
+
+xxxxxxx>  avoir~ne{V~ADV|root~mod}		raison{NC|obj}		de~priver{P~VINF|dep~obj}		Causation
+
+
+xxxxxxx>  avoir~ne{V~ADV|root~mod}		raison{NC|obj}		aucun{DET|det}		FR_Reason
+
+
+xxxxxxx>  avoir~ne{V~ADV|root~mod}		raison{NC|obj}		de~priver{P~VINF|dep~obj}		FR_Reason
+
+
+xxxxxxx>  avoir~ne{V~ADV|root~mod}		raison{NC|obj}		aucun{DET|det}		Evidence
+
+
+xxxxxxx>  avoir~ne{V~ADV|root~mod}		raison{NC|obj}		de~priver{P~VINF|dep~obj}		Evidence
+
+
+438|1433) xxxxxxx>  dans~novembre{P~NC|dep~mod}		Mobiles{NPP|obj}		magazine~n°110{NC~ADJ|mod~mod}		FR_Reason
+
+
+xxxxxxx>  dans~novembre{P~NC|dep~mod}		Mobiles{NPP|obj}		,{PONCT|ponct}		FR_Reason
+
+
+xxxxxxx>  dans~novembre{P~NC|dep~mod}		Mobiles{NPP|obj}		novembre~2007{NC~NC|mod~mod}		FR_Reason
+
+
+439|1434) xxxxxxx>  Kerwitage~poursuivre{NC~V|suj~mod}		preuve{NC|suj}		le{DET|det}		Evidence
+
+
+440|1436) xxxxxxx>  sans~apparent{P~ADJ|dep~mod}		raison{NC|obj}		apparent{ADJ|mod}		Causation
+
+
+xxxxxxx>  sans~apparent{P~ADJ|dep~mod}		raison{NC|obj}		apparent{ADJ|mod}		FR_Reason
+
+
+xxxxxxx>  sans~apparent{P~ADJ|dep~mod}		raison{NC|obj}		apparent{ADJ|mod}		Evidence
+
+
+441|1456) xxxxxxx>  voilà{V|mod}		résultat{NC|suj}		le{DET|det}		Causation
+
+
+442|1457) xxxxxxx>  attendre{V|mod}		réponse{NC|obj}		le{DET|det}		Response
+
+
+443|1462) xxxxxxx>  amplitude~diffuser{NC~VPP|suj~mod}		facteur{NC|mod}		de~diffusion{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  être{V|mod}		facteur{NC|ats}		le{DET|det}		Causation
+
+
+xxxxxxx>  être{V|mod}		facteur{NC|ats}		de~diffusion{P~NC|dep~obj}		Causation
+
+
+444|1464) xxxxxxx>  être~volume~occuper{V~NC~VPP|root~mod~mod}		facteur{NC|ats}		le{DET|det}		Causation
+
+
+xxxxxxx>  être~volume~occuper{V~NC~VPP|root~mod~mod}		facteur{NC|ats}		de~diffusion{P~NC|dep~obj}		Causation
+
+
+445|1466) xxxxxxx>  de{P|dep}		livraison{NC|obj}		de~pizza{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  de{P|dep}		livraison{NC|obj}		de~pizza{P~NC|dep~obj}		FR_Reason
+
+
+xxxxxxx>  de{P|dep}		livraison{NC|obj}		de~pizza{P~NC|dep~obj}		Evidence
+
+
+447|1480) xxxxxxx>  justifier{V|root}		réponse{NC|obj}		son{DET|det}		Response
+
+
+448|1490) xxxxxxx>  à{P|ats}		origine{NC|obj}		le{DET|det}		Causation
+
+
+449|1492) xxxxxxx>  dans{P|mod}		suite{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  sous_forme_de{P|mod}		produit{NC|obj}		de~matrice{P~NC|dep~obj}		Causation
+
+
+450|1503) xxxxxxx>  pour~seul{P~ADJ|mod~mod}		réponse{NC|obj}		le{DET|det}		Response
+
+
+xxxxxxx>  pour~seul{P~ADJ|mod~mod}		réponse{NC|obj}		seul{ADJ|mod}		Response
+
+
+xxxxxxx>  pour~seul{P~ADJ|mod~mod}		réponse{NC|obj}		avoir{V|mod_rel}		Response
+
+
+452|1509) xxxxxxx>  dans~optimal{P~ADJ|mod~mod}		condition{NC|obj}		de{DET|det}		Make_possible_to_do
+
+
+xxxxxxx>  dans~optimal{P~ADJ|mod~mod}		condition{NC|obj}		optimal{ADJ|mod}		Make_possible_to_do
+
+
+453|1513) xxxxxxx>  pour~liquide{P~ADJ|mod~mod}		produit{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  pour~liquide{P~ADJ|mod~mod}		produit{NC|obj}		liquide{ADJ|mod}		Causation
+
+
+xxxxxxx>  pour~liquide{P~ADJ|mod~mod}		produit{NC|obj}		»{PONCT|ponct}		Causation
+
+
+xxxxxxx>  pour~liquide{P~ADJ|mod~mod}		produit{NC|obj}		conclure{V|mod}		Causation
+
+
+454|1514) xxxxxxx>  éliminer~fort{V~ADJ|dep_coord~mod}		source{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  éliminer~fort{V~ADJ|dep_coord~mod}		source{NC|obj}		lumineux{ADJ|mod}		Causation
+
+
+xxxxxxx>  éliminer~fort{V~ADJ|dep_coord~mod}		source{NC|obj}		fort~trop{ADJ~ADV|mod~mod}		Causation
+
+
+455|1526) xxxxxxx>  disparaître~capital~mettre{VINF~NC~VPP|root~obj~mod}		produit{NC|suj}		de{DET|det}		Causation
+
+
+xxxxxxx>  disparaître~capital~mettre{VINF~NC~VPP|root~obj~mod}		produit{NC|suj}		transgénique{ADJ|mod}		Causation
+
+
+$$$$$$$>  disparaître~capital~mettre{VINF~NC~VPP|root~obj~mod}		produit{NC|suj}		et{CC|coord}		Causation
+
+
+456|1531) xxxxxxx>  annoncer{V|obj}		conclusion{NC|suj}		le{DET|det}		Causation
+
+
+xxxxxxx>  annoncer{V|obj}		conclusion{NC|suj}		de~chercheur{P~NC|dep~obj}		Causation
+
+
+457|1533) xxxxxxx>  de~humain{P~ADJ|dep~mod}		origine{NC|obj}		humain{ADJ|mod}		Causation
+
+
+458|1537) xxxxxxx>  sous{P|ats}		contrôle{NC|obj}		de~quota{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+459|1540) xxxxxxx>  plate-forme~proposer{NC~V|suj~root}		fonctionnalité{NC|obj}		différent{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+461|1543) xxxxxxx>  de~1{P~ADJ|dep~mod}		fonction{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  de~1{P~ADJ|dep~mod}		fonction{NC|obj}		public{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  de~1{P~ADJ|dep~mod}		fonction{NC|obj}		1{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+462|1544) xxxxxxx>  lire{VINF|root}		suite{NC|obj}		le{DET|det}		Causation
+
+
+463|1547) xxxxxxx>  lire{VINF|root}		suite{NC|obj}		le{DET|det}		Causation
+
+
+464|1548) xxxxxxx>  avoir~ne{V~ADV|obj~mod}		incidence{NC|obj}		aucun{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  avoir~ne{V~ADV|obj~mod}		incidence{NC|obj}		sur~calcul{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  avoir~ne{V~ADV|obj~mod}		incidence{NC|obj}		à~taxe{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+465|1549) xxxxxxx>  lire{VINF|root}		suite{NC|obj}		le{DET|det}		Causation
+
+
+466|1551) xxxxxxx>  lire{VINF|root}		suite{NC|obj}		le{DET|det}		Causation
+
+
+468|1588) xxxxxxx>  de{P|dep}		fonctionnement{NC|obj}		de~internat{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+469|1589) xxxxxxx>  à{P|mod}		raison{NC|obj}		de~nuit{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  à{P|mod}		raison{NC|obj}		de~nuit{P~NC|dep~obj}		FR_Reason
+
+
+xxxxxxx>  à{P|mod}		raison{NC|obj}		de~nuit{P~NC|dep~obj}		Evidence
+
+
+470|1591) xxxxxxx>  dans{P|mod}		condition{NC|obj}		de{DET|det}		Make_possible_to_do
+
+
+xxxxxxx>  dans{P|mod}		condition{NC|obj}		de~vie{P~NC|dep~obj}		Make_possible_to_do
+
+
+471|1593) xxxxxxx>  pour~précis{P~ADJ|mod~mod}		motif{NC|obj}		un{DET|det}		Causation
+
+
+xxxxxxx>  pour~précis{P~ADJ|mod~mod}		motif{NC|obj}		précis{ADJ|mod}		Causation
+
+
+xxxxxxx>  pour~précis{P~ADJ|mod~mod}		motif{NC|obj}		un{DET|det}		FR_Reason
+
+
+xxxxxxx>  pour~précis{P~ADJ|mod~mod}		motif{NC|obj}		précis{ADJ|mod}		FR_Reason
+
+
+472|1598) 474|1609) xxxxxxx>  pour{P|dep}		raison{NC|obj}		de{DET|det}		Causation
+
+
+xxxxxxx>  pour{P|dep}		raison{NC|obj}		de~sécurité{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  pour{P|dep}		raison{NC|obj}		de{DET|det}		FR_Reason
+
+
+xxxxxxx>  pour{P|dep}		raison{NC|obj}		de~sécurité{P~NC|dep~obj}		FR_Reason
+
+
+xxxxxxx>  pour{P|dep}		raison{NC|obj}		de{DET|det}		Evidence
+
+
+xxxxxxx>  pour{P|dep}		raison{NC|obj}		de~sécurité{P~NC|dep~obj}		Evidence
+
+
+475|1610) xxxxxxx>  à{P|mod}		effet{NC|obj}		ce{DET|det}		Causation
+
+
+476|1621) xxxxxxx>  dans{P|mod}		condition{NC|obj}		de{DET|det}		Make_possible_to_do
+
+
+xxxxxxx>  dans{P|mod}		condition{NC|obj}		garantir~bien-être{VPR~NC|mod~obj}		Make_possible_to_do
+
+
+477|1622) xxxxxxx>  et~personnel{CC~ADJ|coord~mod}		effet{NC|dep_coord}		personnel{ADJ|mod}		Causation
+
+
+478|1624) xxxxxxx>  pour{P|mod}		raison{NC|obj}		de{DET|det}		Causation
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de~hygiène{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de{DET|det}		FR_Reason
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de~hygiène{P~NC|dep~obj}		FR_Reason
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de{DET|det}		Evidence
+
+
+xxxxxxx>  pour{P|mod}		raison{NC|obj}		de~hygiène{P~NC|dep~obj}		Evidence
+
+
+479|1625) xxxxxxx>  groupe~théâtre{NC~NC|obj~mod}		démonstration{NC|mod}		de~capoeira{P~NC|dep~obj}		Evidence
+
+
+480|1629) xxxxxxx>  et~turbo{CC~NC|coord~mod}		moteur{NC|dep_coord}		son{DET|det}		Causation
+
+
+xxxxxxx>  et~turbo{CC~NC|coord~mod}		moteur{NC|dep_coord}		nouveau{ADJ|mod}		Causation
+
+
+xxxxxxx>  et~turbo{CC~NC|coord~mod}		moteur{NC|dep_coord}		1.6{ADJ|mod}		Causation
+
+
+xxxxxxx>  et~turbo{CC~NC|coord~mod}		moteur{NC|dep_coord}		turbo~développer{NC~VPP|mod~mod}		Causation
+
+
+482|1633) xxxxxxx>  rechercher~terre~nourricier{V~NC~ADJ|mod_rel~mod~mod}		origine{NC|obj}		son{DET|det}		Causation
+
+
+483|1637) xxxxxxx>  sentir{VINF|obj}		influence{NC|obj}		un{DET|det}		FR_Contingency-Objective_influence
+
+
+484|1656) xxxxxxx>  être~pas{V~ADV|root~mod}		signe{NC|ats}		un{DET|det}		Evidence
+
+
+xxxxxxx>  être~pas{V~ADV|root~mod}		signe{NC|ats}		de~qualité{P~NC|dep~obj}		Evidence
+
+
+xxxxxxx>  être{V|mod}		signe{NC|ats}		un{DET|det}		Evidence
+
+
+xxxxxxx>  être{V|mod}		signe{NC|ats}		de~provenance{P~NC|dep~obj}		Evidence
+
+
+485|1678) xxxxxxx>  voir~malheureusement{V~ADV|root~mod}		marque{NC|suj}		({PONCT|ponct}		Evidence
+
+
+------->  voir~malheureusement{V~ADV|root~mod}		marque{NC|suj}		référence{NC|mod}		Evidence
+
+
+xxxxxxx>  voir~malheureusement{V~ADV|root~mod}		marque{NC|suj}		un{DET|det}		Evidence
+
+
+xxxxxxx>  voir~malheureusement{V~ADV|root~mod}		marque{NC|suj}		autre{ADJ|mod}		Evidence
+
+
+xxxxxxx>  voir~malheureusement{V~ADV|root~mod}		marque{NC|suj}		){PONCT|ponct}		Evidence
+
+
+xxxxxxx>  voir~malheureusement{V~ADV|root~mod}		marque{NC|suj}		:{PONCT|ponct}		Evidence
+
+
+xxxxxxx>  voir~malheureusement{V~ADV|root~mod}		marque{NC|suj}		là{ADV|mod}		Evidence
+
+
+486|1679) xxxxxxx>  à~autre{P~ADJ|mod~mod}		marque{NC|obj}		un{DET|det}		Evidence
+
+
+xxxxxxx>  à~autre{P~ADJ|mod~mod}		marque{NC|obj}		deuxième{ADJ|mod}		Evidence
+
+
+xxxxxxx>  à~autre{P~ADJ|mod~mod}		marque{NC|obj}		autre{ADJ|mod}		Evidence
+
+
+487|1682) xxxxxxx>  n{NC|suj}		indicateur{NC|mod}		de~aptitude{P~NC|dep~obj}		Evidence
+
+
+488|1687) xxxxxxx>  devenir{VPP|root}		indicateur{NC|ats}		un{DET|det}		Evidence
+
+
+xxxxxxx>  devenir{VPP|root}		indicateur{NC|ats}		excellent{ADJ|mod}		Evidence
+
+
+xxxxxxx>  devenir{VPP|root}		indicateur{NC|ats}		de~aptitude{P~NC|dep~obj}		Evidence
+
+
+489|1688) xxxxxxx>  glucose{NC|obj}		source{NC|mod}		de~énergie{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  en~anaérobie{P~ADJ|dep~mod}		condition{NC|obj}		anaérobie{ADJ|mod}		Make_possible_to_do
+
+
+490|1691) xxxxxxx>  à{P|dep}		source{NC|obj}		d'autres{DET|det}		Causation
+
+
+xxxxxxx>  à{P|dep}		source{NC|obj}		de~énergie{P~NC|dep~obj}		Causation
+
+
+491|1692) xxxxxxx>  lactate~polymère{NC~NC|obj~mod}		produit{NC|mod}		de~dégradation{P~NC|dep~obj}		Causation
+
+
+492|1702) xxxxxxx>  exemple~concerner{NC~V|suj~root}		résultat{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  exemple~concerner{NC~V|suj~root}		résultat{NC|obj}		de{P|dep}		Causation
+
+
+493|1706) xxxxxxx>  accutest~donner{NC~V|suj~root}		réponse{NC|obj}		un{DET|det}		Response
+
+
+xxxxxxx>  accutest~donner{NC~V|suj~root}		réponse{NC|obj}		rapide{ADJ|mod}		Response
+
+
+494|1709) xxxxxxx>  permettre~entraînement{V~NC|root~mod}		facteur{NC|suj}		de~variation{P~NC|dep~obj}		Causation
+
+
+------->  permettre~entraînement{V~NC|root~mod}		facteur{NC|suj}		vitesse{NC|mod}		Causation
+
+
+------->  permettre~entraînement{V~NC|root~mod}		facteur{NC|suj}		entraînement~spécifique{NC~ADJ|mod~mod}		Causation
+
+
+xxxxxxx>  permettre~entraînement{V~NC|root~mod}		facteur{NC|suj}		à~force{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  permettre~entraînement{V~NC|root~mod}		facteur{NC|suj}		({PONCT|ponct}		Causation
+
+
+------->  permettre~entraînement{V~NC|root~mod}		facteur{NC|suj}		travail{NC|mod}		Causation
+
+
+xxxxxxx>  permettre~entraînement{V~NC|root~mod}		facteur{NC|suj}		avec~période{P~NC|dep~obj}		Causation
+
+
+495|1711) xxxxxxx>  être{VS|obj}		indicateur{NC|ats}		un{DET|det}		Evidence
+
+
+xxxxxxx>  être{VS|obj}		indicateur{NC|ats}		de~fatigue{P~NC|dep~obj}		Evidence
+
+
+496|1712) xxxxxxx>  pouvoir~permettre{V~VINF|root~obj}		comparaison{NC|suj}		le{DET|det}		Causation
+
+
+xxxxxxx>  pouvoir~permettre{V~VINF|root~obj}		comparaison{NC|suj}		de~lactate{P+D~NC|dep~obj}		Causation
+
+
+xxxxxxx>  pouvoir~permettre{V~VINF|root~obj}		comparaison{NC|suj}		avec~niveau{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  pouvoir~permettre{V~VINF|root~obj}		comparaison{NC|suj}		le{DET|det}		FR_Reason
+
+
+xxxxxxx>  pouvoir~permettre{V~VINF|root~obj}		comparaison{NC|suj}		de~lactate{P+D~NC|dep~obj}		FR_Reason
+
+
+xxxxxxx>  pouvoir~permettre{V~VINF|root~obj}		comparaison{NC|suj}		avec~niveau{P~NC|dep~obj}		FR_Reason
+
+
+xxxxxxx>  pouvoir~permettre{V~VINF|root~obj}		comparaison{NC|suj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  pouvoir~permettre{V~VINF|root~obj}		comparaison{NC|suj}		de~lactate{P+D~NC|dep~obj}		Evidence
+
+
+xxxxxxx>  pouvoir~permettre{V~VINF|root~obj}		comparaison{NC|suj}		avec~niveau{P~NC|dep~obj}		Evidence
+
+
+498|1720) $$$$$$$>  respirer{V|root}		mobile{NC|suj}		et{CC|coord}		FR_Reason
+
+
+499|1722) ------->  technologie~matériel{NC~NC|obj~mod}		effet{NC|mod}		lumière{NC|mod}		Causation
+
+
+500|1724) xxxxxxx>  géantesâ¦{P|mod}		livraison{NC|obj}		Bretagne{NPP|mod}		Causation
+
+
+$$$$$$$>  géantesâ¦{P|mod}		livraison{NC|obj}		et{CC|coord}		Causation
+
+
+xxxxxxx>  géantesâ¦{P|mod}		livraison{NC|obj}		Bretagne{NPP|mod}		FR_Reason
+
+
+$$$$$$$>  géantesâ¦{P|mod}		livraison{NC|obj}		et{CC|coord}		FR_Reason
+
+
+xxxxxxx>  géantesâ¦{P|mod}		livraison{NC|obj}		Bretagne{NPP|mod}		Evidence
+
+
+$$$$$$$>  géantesâ¦{P|mod}		livraison{NC|obj}		et{CC|coord}		Evidence
+
+
+501|1725) xxxxxxx>  géantesâ¦{P|mod}		livraison{NC|obj}		Bretagne{NPP|mod}		Causation
+
+
+$$$$$$$>  géantesâ¦{P|mod}		livraison{NC|obj}		et{CC|coord}		Causation
+
+
+xxxxxxx>  géantesâ¦{P|mod}		livraison{NC|obj}		Bretagne{NPP|mod}		FR_Reason
+
+
+$$$$$$$>  géantesâ¦{P|mod}		livraison{NC|obj}		et{CC|coord}		FR_Reason
+
+
+xxxxxxx>  géantesâ¦{P|mod}		livraison{NC|obj}		Bretagne{NPP|mod}		Evidence
+
+
+$$$$$$$>  géantesâ¦{P|mod}		livraison{NC|obj}		et{CC|coord}		Evidence
+
+
+502|1726) xxxxxxx>  géantesâ¦{P|mod}		livraison{NC|obj}		Bretagne{NPP|mod}		Causation
+
+
+$$$$$$$>  géantesâ¦{P|mod}		livraison{NC|obj}		et{CC|coord}		Causation
+
+
+xxxxxxx>  géantesâ¦{P|mod}		livraison{NC|obj}		Bretagne{NPP|mod}		FR_Reason
+
+
+$$$$$$$>  géantesâ¦{P|mod}		livraison{NC|obj}		et{CC|coord}		FR_Reason
+
+
+xxxxxxx>  géantesâ¦{P|mod}		livraison{NC|obj}		Bretagne{NPP|mod}		Evidence
+
+
+$$$$$$$>  géantesâ¦{P|mod}		livraison{NC|obj}		et{CC|coord}		Evidence
+
+
+504|1741) xxxxxxx>  de~russe{P~ADJ|dep~mod}		origine{NC|obj}		russe{ADJ|mod}		Causation
+
+
+505|1742) xxxxxxx>  attendre{VINF|obj}		résultat{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  attendre{VINF|obj}		résultat{NC|obj}		de~analyse{P+D~NC|dep~obj}		Causation
+
+
+506|1749) xxxxxxx>  imagerie~etc{NC~ADV|mod~mod}		contrôle{NC|mod}		destructif~non{ADJ~ADV|mod~mod}		FR_Contingency-Objective_influence
+
+
+507|1752) xxxxxxx>  croiser~significatif{VINF~ADJ|obj~mod}		indicateur{NC|obj}		de{DET|det}		Evidence
+
+
+xxxxxxx>  croiser~significatif{VINF~ADJ|obj~mod}		indicateur{NC|obj}		significatif{ADJ|mod}		Evidence
+
+
+508|1753) xxxxxxx>  croiser~significatif{VINF~ADJ|obj~mod}		indicateur{NC|obj}		de{DET|det}		Evidence
+
+
+xxxxxxx>  croiser~significatif{VINF~ADJ|obj~mod}		indicateur{NC|obj}		significatif{ADJ|mod}		Evidence
+
+
+509|1754) xxxxxxx>  croiser~significatif{VINF~ADJ|obj~mod}		indicateur{NC|obj}		de{DET|det}		Evidence
+
+
+xxxxxxx>  croiser~significatif{VINF~ADJ|obj~mod}		indicateur{NC|obj}		significatif{ADJ|mod}		Evidence
+
+
+510|1755) xxxxxxx>  agent~territorial~état{NC~NC~NC|root~mod~mod}		condition{NC|mod}		de~emploi{P~NC|dep~obj}		Make_possible_to_do
+
+
+511|1757) xxxxxxx>  de~territorial{P+D~ADJ|dep~mod}		fonctionnaire{NC|obj}		territorial{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+512|1758) xxxxxxx>  détailler~tout{VPP~ADJ|root~mod}		indicateur{NC|suj}		tout{ADJ|mod}		Evidence
+
+
+xxxxxxx>  détailler~tout{VPP~ADJ|root~mod}		indicateur{NC|suj}		ce{DET|det}		Evidence
+
+
+513|1759) $$$$$$$>  ou{CC|coord}		marque{NC|dep_coord}		un{DET|det}		Evidence
+
+
+xxxxxxx>  utiliser~ci-dessus{VINF~ADV|obj~mod}		fonction{NC|obj}		son{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  utiliser~ci-dessus{VINF~ADV|obj~mod}		fonction{NC|obj}		de~recherche{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+515|1764) xxxxxxx>  de~autre{P~ADJ|dep~mod}		moteur{NC|obj}		plus{ADV|mod}		Causation
+
+
+xxxxxxx>  de~autre{P~ADJ|dep~mod}		moteur{NC|obj}		1{DET|det}		Causation
+
+
+xxxxxxx>  de~autre{P~ADJ|dep~mod}		moteur{NC|obj}		autre{ADJ|mod}		Causation
+
+
+518|1767) ------->  mobylette{NC|suj}		cause{NC|mod}		décès{NC|mod}		Causation
+
+
+519|1768) xxxxxxx>  mobylette~kilomètre~acheter{NC~NC~VPP|mod~obj~mod}		cause{NC|mod}		déce{ADJ|mod}		Causation
+
+
+------->  euro~vendre~mobylette{NC~V~NC|suj~root~mod}		cause{NC|obj}		décé{VPP|mod}		Causation
+
+
+520|1770) xxxxxxx>  moto{NC|root}		marque{NC|mod}		tout{ADJ|mod}		Evidence
+
+
+521|1771) xxxxxxx>  compteur~digital~kilometrique{NC~ADJ~ADV|obj~mod~mod}		raison{NC|mod}		le{DET|det}		Causation
+
+
+xxxxxxx>  compteur~digital~kilometrique{NC~ADJ~ADV|obj~mod~mod}		raison{NC|mod}		le{DET|det}		FR_Reason
+
+
+xxxxxxx>  compteur~digital~kilometrique{NC~ADJ~ADV|obj~mod~mod}		raison{NC|mod}		le{DET|det}		Evidence
+
+
+527|1782) xxxxxxx>  de~salle{P~NC|dep~mod}		source{NPP|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  de~salle{P~NC|dep~mod}		source{NPP|obj}		-{PONCT|ponct}		Causation
+
+
+xxxxxxx>  de~salle{P~NC|dep~mod}		source{NPP|obj}		salle{NC|mod}		Causation
+
+
+528|1789) xxxxxxx>  être{V|root}		conclusion{NC|ats}		le{DET|det}		Causation
+
+
+xxxxxxx>  être{V|root}		conclusion{NC|ats}		de~recherche{P~NC|dep~obj}		Causation
+
+
+529|1791) xxxxxxx>  de{P+D|dep}		facteur{NC|obj}		de~croissance{P~NC|dep~obj}		Causation
+
+
+530|1793) ------->  être~détecter{VPP~VPP|root~mod}		résultat{NC|suj}		Mmp-9{NPP|mod}		Causation
+
+
+xxxxxxx>  être~détecter{VPP~VPP|root~mod}		résultat{NC|suj}		latent{ADJ|mod}		Causation
+
+
+531|1794) xxxxxxx>  identifier~association{V~NC|root~obj}		résultat{NC|suj}		ce{DET|det}		Causation
+
+
+532|1795) xxxxxxx>  viser{V|mod_rel}		marqueur{NC|obj}		le{DET|det}		Evidence
+
+
+------->  viser{V|mod_rel}		marqueur{NC|obj}		mentionner{VPP|mod}		Evidence
+
+
+533|1799) xxxxxxx>  être{V|root}		conséquence{NC|ats}		le{DET|det}		Causation
+
+
+534|1807) xxxxxxx>  à{P|dep_coord}		condition{NC|obj}		un{DET|det}		Make_possible_to_do
+
+
+535|1810) xxxxxxx>  tenir~pas{VS~ADV|obj~mod}		fonction{NC|obj}		son{DET|det}		FR_Contingency-Objective_influence
+
+
+536|1816) xxxxxxx>  à{P|mod}		épreuve{NC|obj}		le{DET|det}		Evidence
+
+
+537|1817) xxxxxxx>  sur{P|mod}		consigne{NC|obj}		chaque{DET|det}		Evidence
+
+
+xxxxxxx>  sur{P|mod}		consigne{NC|obj}		de~exercice{P~NC|dep~obj}		Evidence
+
+
+538|1821) xxxxxxx>  de~admettre{P~ADJ|dep~mod}		fonctionnement{NC|obj}		admettre{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+539|1823) xxxxxxx>  comme~incoutournable{P~ADJ|mod~mod}		condition{NC|obj}		un{DET|det}		Make_possible_to_do
+
+
+xxxxxxx>  comme~incoutournable{P~ADJ|mod~mod}		condition{NC|obj}		incoutournable{ADJ|mod}		Make_possible_to_do
+
+
+xxxxxxx>  pour~quotidien{P~ADJ|mod~mod}		fonctionnement{NC|obj}		un{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  pour~quotidien{P~ADJ|mod~mod}		fonctionnement{NC|obj}		bon{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  pour~quotidien{P~ADJ|mod~mod}		fonctionnement{NC|obj}		quotidien{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+541|1826) xxxxxxx>  inciter~athlète{V~NC|root~obj}		réaction{NC|suj}		le{DET|det}		Response
+
+
+xxxxxxx>  inciter~athlète{V~NC|root~obj}		réaction{NC|suj}		émotif{ADJ|mod}		Response
+
+
+xxxxxxx>  inciter~athlète{V~NC|root~obj}		réaction{NC|suj}		de~entraîneur{P~NC|dep~obj}		Response
+
+
+xxxxxxx>  inciter~athlète{V~NC|root~obj}		réaction{NC|suj}		devant~question{P~NC|dep~obj}		Response
+
+
+xxxxxxx>  inciter~athlète{V~NC|root~obj}		réaction{NC|suj}		,{PONCT|ponct}		Response
+
+
+------->  inciter~athlète{V~NC|root~obj}		réaction{NC|suj}		comportement{NC|mod}		Response
+
+
+542|1828) xxxxxxx>  devenir~alors{V~ADV|root~mod}		moteur{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  devenir~alors{V~ADV|root~mod}		moteur{NC|obj}		de~dialogue{P+D~NC|dep~obj}		Causation
+
+
+543|1830) xxxxxxx>  dans{P|mod}		réponse{NC|obj}		son{DET|det}		Response
+
+
+544|1832) xxxxxxx>  de{P|dep_coord}		encouragement{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+547|1839) xxxxxxx>  dans~quotidien{P~ADJ|mod~mod}		fonctionnement{NC|obj}		son{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  dans~quotidien{P~ADJ|mod~mod}		fonctionnement{NC|obj}		quotidien{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+548|1840) xxxxxxx>  attitude~avoir{NC~V|suj~root}		conséquence{NC|obj}		de{DET|det}		Causation
+
+
+xxxxxxx>  attitude~avoir{NC~V|suj~root}		conséquence{NC|obj}		psychologique{ADJ|mod}		Causation
+
+
+xxxxxxx>  attitude~avoir{NC~V|suj~root}		conséquence{NC|obj}		sur~nageur{P~NC|dep~obj}		Causation
+
+
+549|1843) xxxxxxx>  minimum{NC|obj}		source{NC|mod}		de~performance{P~NC|dep~obj}		Causation
+
+
+550|1844) xxxxxxx>  agressivité{NC|obj}		source{NC|mod}		de~conflit{P~NC|dep~obj}		Causation
+
+
+552|1851) xxxxxxx>  prendre~juin~1er{VPP~NC~ADJ|root~mod~mod}		fonction{NC|obj}		son{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  occuper~suite{V~NC|mod_rel~obj}		fonction{NC|obj}		ce{DET|det}		FR_Contingency-Objective_influence
+
+
+553|1852) xxxxxxx>  occuper{VPP|root}		fonction{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  occuper{VPP|root}		fonction{NC|obj}		de~Dircteur{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+554|1856) xxxxxxx>  être~bref{V~ADJ|mod~ats}		réplique{NC|suj}		le{DET|det}		Response
+
+
+xxxxxxx>  être~bref{V~ADJ|mod~ats}		réplique{NC|suj}		culte{ADJ|mod}		Response
+
+
+xxxxxxx>  être~bref{V~ADJ|mod~ats}		réplique{NC|suj}		de{P|dep}		Response
+
+
+555|1865) xxxxxxx>  être{V|root}		motivation{NC|ats}		le{DET|det}		FR_Reason
+
+
+556|1869) xxxxxxx>  faire{VINF|obj}		manifestation{NC|obj}		quelque{DET|det}		Evidence
+
+
+------->  faire{VINF|obj}		manifestation{NC|obj}		Mini{NPP|mod}		Evidence
+
+
+557|1877) xxxxxxx>  en~troquer{P~VPP|mod~mod}		effet{NC|obj}		troquer~volant{VPP~NC|mod~mod}		Causation
+
+
+560|1882) xxxxxxx>  être~autre{V~ADJ|root~mod}		réponse{NC|suj}		tout{ADJ|mod}		Response
+
+
+xxxxxxx>  être~autre{V~ADJ|root~mod}		réponse{NC|suj}		le{DET|det}		Response
+
+
+xxxxxxx>  être~autre{V~ADJ|root~mod}		réponse{NC|suj}		autre{ADJ|mod}		Response
+
+
+561|1883) xxxxxxx>  cuisine~tv{NC~ADJ|obj~mod}		création{NC|mod}		de~agence{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+562|1885) xxxxxxx>  de~part{P~NC|dep~mod}		résultat{NC|obj}		son{DET|det}		Causation
+
+
+xxxxxxx>  de~part{P~NC|dep~mod}		résultat{NC|obj}		net{ADJ|mod}		Causation
+
+
+xxxxxxx>  de~part{P~NC|dep~mod}		résultat{NC|obj}		part{NC|mod}		Causation
+
+
+xxxxxxx>  de~part{P~NC|dep~mod}		résultat{NC|obj}		en~Sr{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  toilette~être{NC~V|suj~root}		création{NC|ats}		audiovisuel{ADJ|det}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  toilette~être{NC~V|suj~root}		création{NC|ats}		de~tournage{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+------->  toilette~être{NC~V|suj~root}		création{NC|ats}		voyage{NC|mod}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  sous~groupe{P~NC|mod~mod}		marque{NC|obj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  sous~groupe{P~NC|mod~mod}		marque{NC|obj}		groupe~rapp{NC~ADJ|mod~mod}		Evidence
+
+
+563|1887) xxxxxxx>  campagne~faire{NC~V|suj~aux_caus}		preuve{NC|ats}		de~pessimisme{P~NC|dep~obj}		Evidence
+
+
+xxxxxxx>  eldorado~agence{NC~NC|obj~mod}		création{NC|mod}		de~babylone{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  en{P|dep_coord}		création{NC|obj}		de~événement{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  à{P+D|mod}		lancement{NC|obj}		de~réseau{P+D~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  prendre{V|mod}		contrôle{NC|suj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  prendre{V|mod}		contrôle{NC|suj}		de~delta{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+564|1888) xxxxxxx>  apporter~pertinent{VPR~ADJ|obj~mod}		remarque{NC|obj}		de{DET|det}		Evidence
+
+
+xxxxxxx>  apporter~pertinent{VPR~ADJ|obj~mod}		remarque{NC|obj}		pertinent{ADJ|mod}		Evidence
+
+
+565|1897) xxxxxxx>  ben~nature{V~NC|root~obj}		réaction{NC|obj}		aucun{DET|det}		Response
+
+
+xxxxxxx>  ben~nature{V~NC|root~obj}		réaction{NC|obj}		sur{P|dep}		Response
+
+
+569|1916) xxxxxxx>  parrait~judicieux{V~ADJ|root~ats}		raisonnement{NC|suj}		son{DET|det}		Causation
+
+
+xxxxxxx>  parrait~judicieux{V~ADJ|root~ats}		raisonnement{NC|suj}		son{DET|det}		FR_Reason
+
+
+xxxxxxx>  parrait~judicieux{V~ADJ|root~ats}		raisonnement{NC|suj}		son{DET|det}		Evidence
+
+
+573|1942) xxxxxxx>  avoir{VPP|root}		résultat{NC|obj}		quelque{DET|det}		Causation
+
+
+$$$$$$$>  avoir{VPP|root}		résultat{NC|obj}		mais{CC|coord}		Causation
+
+
+574|1946) xxxxxxx>  être~vandalisme{V~NC|root~ats}		cause{NC|suj}		le{DET|det}		Causation
+
+
+575|1951) xxxxxxx>  et~littéraire{CC~ADJ|coord~mod}		création{NC|dep_coord}		le{DET|det}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  et~littéraire{CC~ADJ|coord~mod}		création{NC|dep_coord}		littéraire{ADJ|mod}		FR_Cause_to_start-Launch_process
+
+
+576|1955) xxxxxxx>  sous{P|dep}		signe{NC|obj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  sous{P|dep}		signe{NC|obj}		de~eau{P~NC|dep~obj}		Evidence
+
+
+xxxxxxx>  sous{P|dep}		signe{NC|obj}		à~jour{P~NC|dep~obj}		Evidence
+
+
+577|1968) xxxxxxx>  recruter{V|root}		contrôleur{NC|obj}		un{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  recruter{V|root}		contrôleur{NC|obj}		assistant{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  recruter{V|root}		contrôleur{NC|obj}		de~gestion{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+578|1970) xxxxxxx>  de{P|dep}		indicateur{NC|obj}		de~productivité{P~NC|dep~obj}		Evidence
+
+
+579|1971) xxxxxxx>  de{P+D|dep}		contrôle{NC|obj}		de~gestion{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+580|1976) xxxxxxx>  suivre~activité{V~NC|root~mod}		création{NC|obj}		de~plateforme{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  plateforme{NC|obj}		création{NC|mod}		de~plateforme{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  approuver{VPP|mod}		création{NC|suj}		le{DET|det}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  approuver{VPP|mod}		création{NC|suj}		de{P|dep}		FR_Cause_to_start-Launch_process
+
+
+581|1984) xxxxxxx>  département~neurochirurgie{NC~NC|suj~obj}		produit{NC|mod}		le{DET|det}		Causation
+
+
+xxxxxxx>  département~neurochirurgie{NC~NC|suj~obj}		produit{NC|mod}		de~protéine{P~NC|dep~obj}		Causation
+
+
+583|1992) xxxxxxx>  suggérer{V|root}		résultat{NC|suj}		ce{DET|det}		Causation
+
+
+xxxxxxx>  de~inhibiteur{P~ADJ|dep~mod}		effet{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  de~inhibiteur{P~ADJ|dep~mod}		effet{NC|obj}		inhibiteur{ADJ|mod}		Causation
+
+
+xxxxxxx>  de~inhibiteur{P~ADJ|dep~mod}		effet{NC|obj}		de~croissance{P~NC|dep~obj}		Causation
+
+
+584|1996) xxxxxxx>  de{P|de_obj}		ressort{NC|obj}		deux{DET|det}		FR_Reason
+
+
+585|2002) xxxxxxx>  être~conforme{V~ADJ|mod_rel~ats}		résultat{NC|suj}		les{DET|det}		Causation
+
+
+------->  être~conforme{V~ADJ|mod_rel~ats}		résultat{NC|suj}		obtenir{VPP|mod}		Causation
+
+
+587|2012) xxxxxxx>  sous{P|dep}		contrôle{NC|obj}		de~partisan{P+D~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+588|2017) xxxxxxx>  démontrer~pourtant{V~ADV|dep_coord~mod}		résultat{NC|suj}		le{DET|det}		Causation
+
+
+xxxxxxx>  démontrer~pourtant{V~ADV|dep_coord~mod}		résultat{NC|suj}		de~tour{P+D~NC|dep~obj}		Causation
+
+
+589|2023) xxxxxxx>  manquer~pas{VPP~ADV|root~mod}		suite{NC|suj}		à~réaction{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  manquer~pas{VPP~ADV|root~mod}		suite{NC|suj}		,{PONCT|ponct}		Causation
+
+
+------->  manquer~pas{VPP~ADV|root~mod}		suite{NC|suj}		quotidien~indépendant{NC~ADJ|mod~mod}		Causation
+
+
+xxxxxxx>  à{P|dep}		réaction{NC|obj}		ce{DET|det}		Response
+
+
+xxxxxxx>  à{P|dep}		réaction{NC|obj}		d'Amara{NPP|mod}		Response
+
+
+xxxxxxx>  à{P|dep}		réaction{NC|obj}		Essy{NPP|mod}		Response
+
+
+590|2027) $$$$$$$>  et{CC|coord}		encouragement{NC|dep_coord}		un{DET|det}		FR_Contingency-Objective_influence
+
+
+$$$$$$$>  et{CC|coord}		encouragement{NC|dep_coord}		de~recevoir{P~VINF|dep~obj}		FR_Contingency-Objective_influence
+
+
+591|2029) xxxxxxx>  sur~hormonal{P~ADJ|dep_coord~mod}		contrôle{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  sur~hormonal{P~ADJ|dep_coord~mod}		contrôle{NC|obj}		hormonal{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  sur~hormonal{P~ADJ|dep_coord~mod}		contrôle{NC|obj}		de~activité{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+592|2030) xxxxxxx>  de~hormonal{P+D~ADJ|dep~mod}		contrôle{NC|obj}		hormonal{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+593|2031) xxxxxxx>  Loïc~école~doctoral{NPP~NC~ADJ|root~mod~mod}		facteur{NC|mod}		de~transcription{P~NC|dep~obj}		Causation
+
+
+594|2032) xxxxxxx>  pdf~école~doctoral{NC~NC~ADJ|root~mod~mod}		validation{NC|mod}		de~plate-forme{P~NC|dep~obj}		Evidence
+
+
+595|2040) xxxxxxx>  être{V|root}		raison{NC|ats}		le{DET|det}		Causation
+
+
+xxxxxxx>  être{V|root}		raison{NC|ats}		le{DET|det}		FR_Reason
+
+
+xxxxxxx>  être{V|root}		raison{NC|ats}		le{DET|det}		Evidence
+
+
+596|2041) xxxxxxx>  modifier~diamètre{V~NC|root~obj}		fonctionnement{NC|mod}		de~oeil{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+597|2042) $$$$$$$>  presbytie{NC|suj}		signe{NC|mod}		et{CC|coord}		Evidence
+
+
+601|2057) xxxxxxx>  proposer~kit~aérodynamique{V~NC~ADJ|root~obj~mod}		marque{NC|suj}		le{DET|det}		Evidence
+
+
+------->  proposer~kit~aérodynamique{V~NC~ADJ|root~obj~mod}		marque{NC|suj}		SEAT{NPP|mod}		Evidence
+
+
+602|2058) xxxxxxx>  de{P|dep}		origine{NC|obj}		SEAT{NPP|mod}		Causation
+
+
+xxxxxxx>  de{P|dep}		origine{NC|obj}		respecter~standard{V~NC|mod_rel~obj}		Causation
+
+
+xxxxxxx>  de{P|dep}		marque{NC|obj}		le{DET|det}		Evidence
+
+
+603|2062) $$$$$$$>  ,{PONCT|coord}		création{NC|dep_coord}		le{DET|det}		FR_Cause_to_start-Launch_process
+
+
+$$$$$$$>  ,{PONCT|coord}		création{NC|dep_coord}		de{P|dep}		FR_Cause_to_start-Launch_process
+
+
+605|2076) xxxxxxx>  à{P|mod}		issue{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  à{P|mod}		issue{NC|obj}		de~visite{P~NC|dep~obj}		Causation
+
+
+606|2078) xxxxxxx>  entre{P|mod}		contrainte{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  entre{P|mod}		contrainte{NC|obj}		de~entreprise{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+$$$$$$$>  entre{P|mod}		contrainte{NC|obj}		et{CC|coord}		FR_Contingency-Objective_influence
+
+
+608|2086) xxxxxxx>  de~sport{P~NC|root~mod}		origine{NC|obj}		SEAT{NPP|mod}		Causation
+
+
+xxxxxxx>  de~sport{P~NC|root~mod}		origine{NC|obj}		sport{NC|mod}		Causation
+
+
+610|2099) xxxxxxx>  être{V|mod_rel}		témoin{NC|suj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  être{V|mod_rel}		témoin{NC|suj}		,{PONCT|coord}		Evidence
+
+
+612|2109) xxxxxxx>  l'insurection~être{NC~V|suj~root}		origine{NC|mod}		controlé{ADJ|mod}		Causation
+
+
+614|2114) xxxxxxx>  dans~éminent{P~ADJ|mod~mod}		fonction{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  dans~éminent{P~ADJ|mod~mod}		fonction{NC|obj}		éminent{ADJ|mod}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  dans~éminent{P~ADJ|mod~mod}		fonction{NC|obj}		de~chef{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+615|2116) xxxxxxx>  de{P+D|dep}		attribution{NC|obj}		de~chef{P+D~NC|dep~obj}		FR_Attributing_cause
+
+
+616|2118) xxxxxxx>  prendre{VINF|obj}		fonction{NC|obj}		le{DET|det}		FR_Contingency-Objective_influence
+
+
+xxxxxxx>  prendre{VINF|obj}		fonction{NC|obj}		de~président{P~NC|dep~obj}		FR_Contingency-Objective_influence
+
+
+617|2119) xxxxxxx>  être{V|root}		motif{NC|ats}		un{DET|det}		Causation
+
+
+xxxxxxx>  être{V|root}		motif{NC|ats}		de~fierté{P~NC|dep~obj}		Causation
+
+
+xxxxxxx>  être{V|root}		motif{NC|ats}		un{DET|det}		FR_Reason
+
+
+xxxxxxx>  être{V|root}		motif{NC|ats}		de~fierté{P~NC|dep~obj}		FR_Reason
+
+
+618|2123) xxxxxxx>  de{P|dep}		création{NC|obj}		de~système{P~NC|dep~obj}		FR_Cause_to_start-Launch_process
+
+
+621|2147) xxxxxxx>  vendre{V|root}		création{NC|obj}		son{DET|det}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  vendre{V|root}		création{NC|obj}		propre{ADJ|mod}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  vendre{V|root}		création{NC|obj}		,{PONCT|ponct}		FR_Cause_to_start-Launch_process
+
+
+------->  vendre{V|root}		création{NC|obj}		monture{NC|mod}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  vendre{V|root}		création{NC|obj}		,{PONCT|ponct}		FR_Cause_to_start-Launch_process
+
+
+------->  vendre{V|root}		création{NC|obj}		filigrane{NC|mod}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  vendre{V|root}		création{NC|obj}		,{PONCT|ponct}		FR_Cause_to_start-Launch_process
+
+
+------->  vendre{V|root}		création{NC|obj}		bijou{NC|mod}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  vendre{V|root}		création{NC|obj}		,{PONCT|ponct}		FR_Cause_to_start-Launch_process
+
+
+------->  vendre{V|root}		création{NC|obj}		argent{NC|mod}		FR_Cause_to_start-Launch_process
+
+
+xxxxxxx>  vendre{V|root}		création{NC|obj}		,{PONCT|ponct}		FR_Cause_to_start-Launch_process
+
+
+$$$$$$$>  vendre{V|root}		création{NC|obj}		ainsi_que{CC|coord}		FR_Cause_to_start-Launch_process
+
+
+622|2149) xxxxxxx>  de~spécial{P~ADJ|dep~mod}		création{NC|obj}		spécial{ADJ|mod}		FR_Cause_to_start-Launch_process
+
+
+623|2156) xxxxxxx>  camptothecin~avoir~7-ethyl-10-hydroxy{NC~VPP~ADJ|suj~root~mod}		effet{NC|obj}		de{DET|det}		Causation
+
+
+xxxxxxx>  camptothecin~avoir~7-ethyl-10-hydroxy{NC~VPP~ADJ|suj~root~mod}		effet{NC|obj}		antitumoral{ADJ|mod}		Causation
+
+
+xxxxxxx>  camptothecin~avoir~7-ethyl-10-hydroxy{NC~VPP~ADJ|suj~root~mod}		effet{NC|obj}		prometteur{ADJ|mod}		Causation
+
+
+xxxxxxx>  camptothecin~avoir~7-ethyl-10-hydroxy{NC~VPP~ADJ|suj~root~mod}		effet{NC|obj}		sur~gliome{P~NC|dep~obj}		Causation
+
+
+624|2157) xxxxxxx>  utiliser~injection~semaine{VPP~NC~NC|root~obj~mod}		épreuve{NC|suj}		le{DET|det}		Evidence
+
+
+xxxxxxx>  utiliser~injection~semaine{VPP~NC~NC|root~obj~mod}		épreuve{NC|suj}		clinique{ADJ|mod}		Evidence
+
+
+625|2159) xxxxxxx>  analyse~suggérer~préliminaire{NC~VPP~ADJ|suj~root~mod}		réponse{NC|obj}		de{DET|det}		Response
+
+
+626|2161) xxxxxxx>  être~concevoir{V~VPP|root~mod}		épreuve{NC|suj}		de{DET|det}		Evidence
+
+
+xxxxxxx>  être~concevoir{V~VPP|root~mod}		épreuve{NC|suj}		clinique{ADJ|mod}		Evidence
+
+
+------->  être~concevoir{V~VPP|root~mod}		épreuve{NC|suj}		concevoir{VPP|mod}		Evidence
+
+
+627|2162) xxxxxxx>  administration~avoir~simultané{NC~V~ADJ|suj~obj~mod}		effet{NC|obj}		de{DET|det}		Causation
+
+
+xxxxxxx>  administration~avoir~simultané{NC~V~ADJ|suj~obj~mod}		effet{NC|obj}		efficace~moins{ADJ~ADV|mod~mod}		Causation
+
+
+628|2164) xxxxxxx>  à{P|mod}		origine{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  à{P|mod}		origine{NC|obj}		de~extrait{P~NC|dep~obj}		Causation
+
+
+629|2166) xxxxxxx>  à{P|mod}		épreuve{NC|obj}		un{DET|det}		Evidence
+
+
+xxxxxxx>  à{P|mod}		épreuve{NC|obj}		de~phase{P~NC|dep~obj}		Evidence
+
+
+630|2167) xxxxxxx>  combinaison~avoir{NC~V|suj~obj}		effet{NC|obj}		de{DET|det}		Causation
+
+
+xxxxxxx>  combinaison~avoir{NC~V|suj~obj}		effet{NC|obj}		antitumoraux~important{P+D~ADJ|dep~obj}		Causation
+
+
+$$$$$$$>  combinaison~avoir{NC~V|suj~obj}		effet{NC|obj}		et{CC|coord}		Causation
+
+
+------->  combinaison~avoir{NC~V|suj~obj}		effet{NC|obj}		additif{NC|mod}		Causation
+
+
+------->  combinaison~avoir{NC~V|suj~obj}		effet{NC|obj}		prendre~séparément{VPP~ADV|mod~mod}		Causation
+
+
+631|2168) xxxxxxx>  de~réaliser{P~VPP|de_obj~mod}		épreuve{NC|obj}		un{DET|det}		Evidence
+
+
+xxxxxxx>  de~réaliser{P~VPP|de_obj~mod}		épreuve{NC|obj}		réaliser~récemment{VPP~ADV|mod~mod}		Evidence
+
+
+xxxxxxx>  dans~formel{P~ADJ|mod~mod}		épreuve{NC|obj}		un{DET|det}		Evidence
+
+
+xxxxxxx>  dans~formel{P~ADJ|mod~mod}		épreuve{NC|obj}		formel{ADJ|mod}		Evidence
+
+
+xxxxxxx>  dans~formel{P~ADJ|mod~mod}		épreuve{NC|obj}		de~phase{P~NC|dep~obj}		Evidence
+
+
+632|2171) xxxxxxx>  être~souligner{VPP~VPP|root~mod}		résultat{NC|suj}		le{DET|det}		Causation
+
+
+633|2194) xxxxxxx>  être~pas{VS~ADV|obj~mod}		cause{NC|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  être~pas{VS~ADV|obj~mod}		cause{NC|obj}		direct{ADJ|mod}		Causation
+
+
+635|2220) xxxxxxx>  de~scalaire{P+D~NC|dep~mod}		produit{NC|obj}		scalaire{NC|mod}		Causation
+
+
+xxxxxxx>  soit~scalaire{CC~NC|coord~mod}		produit{NC|dep_coord}		9{DET|det}		Causation
+
+
+xxxxxxx>  soit~scalaire{CC~NC|coord~mod}		produit{NC|dep_coord}		scalaire{NC|mod}		Causation
+
+
+xxxxxxx>  soit~scalaire{CC~NC|coord~mod}		produit{NC|dep_coord}		être~constant{V~ADJ|mod_rel~ats}		Causation
+
+
+xxxxxxx>  soit~scalaire{CC~NC|coord~mod}		produit{NC|dep_coord}		){PONCT|ponct}		Causation
+
+
+636|2221) 637|2222) xxxxxxx>  être~homothétique{V~ADJ|root~ats}		remarque{NC|suj}		2{ADJ|mod}		Evidence
+
+
+xxxxxxx>  être~homothétique{V~ADJ|root~ats}		remarque{NC|suj}		:{PONCT|ponct}		Evidence
+
+
+------->  être~homothétique{V~ADJ|root~ats}		remarque{NC|suj}		réseau~obtenir{NC~VPP|mod~mod}		Evidence
+
+
+638|2223) xxxxxxx>  être~réseau~direct{V~NC~ADJ|root~ats~mod}		remarque{NC|suj}		3{ADJ|mod}		Evidence
+
+
+xxxxxxx>  être~réseau~direct{V~NC~ADJ|root~ats~mod}		remarque{NC|suj}		:{PONCT|ponct}		Evidence
+
+
+------->  être~réseau~direct{V~NC~ADJ|root~ats~mod}		remarque{NC|suj}		réseau~réciproque{NC~ADJ|mod~mod}		Evidence
+
+

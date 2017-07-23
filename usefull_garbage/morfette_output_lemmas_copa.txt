@@ -1,0 +1,1183 @@
+Mon son D_poss-1ms
+corps corps N_C-ms
+projetait projeter V-indicatifimparfait3s
+une un D_ind-fs
+ombre ombre N_C-fs
+sur sur P
+la le D_def-fs
+pelouse pelouse N_C-fs
+
+Le le D_def-ms
+soleil soleil N_C-ms
+se se CL_refl-3ms
+levait lever V-indicatifimparfait3s
+
+La le D_def-fs
+pelouse pelouse N_C-fs
+a avoir V-indicatifpresent3s
+été être V-participepassems
+tondue tondre V-participepassefs
+
+La le D_def-fs
+femme femme N_C-fs
+tolérait tolérer V-indicatifimparfait3s
+le le D_def-ms
+comportement comportement N_C-ms
+difficile difficile A_qual-ms
+de de P
+son son D_poss-3ms
+amie amie N_C-ms
+
+La le D_def-fs
+femme femme N_C-fs
+savait savoir V-indicatifimparfait3s
+que que C_S
+son son D_poss-3ms
+amie amie N_C-ms
+traversait traverser V-indicatifimparfait3s
+une un D_ind-fs
+période période N_C-fs
+difficile difficile A_qual-fs
+
+La le D_def-fs
+femme femme N_C-fs
+pensait penser V-indicatifimparfait3s
+que que C_S
+son son D_poss-3ms
+amie amie N_C-ms
+profitait profiter V-indicatifimparfait3s
+de de P
+sa son D_poss-3fs
+gentillesse gentillesse N_C-fs
+
+Les le D_def-fp
+femmes femme N_C-fp
+se se CL_refl-3fp
+rencontrèrent rencontrer V-indicatifpasse-simple3p
+au à P+D_def
+café café N_C-ms
+
+Le le D_def-ms
+café café N_C-ms
+avait avoir V-indicatifimparfait3s
+réouvert réouvrir V-participepassems
+à à P
+un un D_ind-ms
+autre autre A_qual-ms
+endroit endroit N_C-ms
+
+Elles il CL_suj-3fp
+voulaient vouloir V-indicatifimparfait3p
+se se CL_refl-3fp
+donner donner V-infinitif
+de de P
+leurs son D_poss-3mp
+nouvelles nouveau A_qual-fp
+
+La le D_def-fs
+coureuse coureuse N_C-fs
+portait porter V-indicatifimparfait3s
+un un D_ind-ms
+short short N_C-ms
+
+La le D_def-fs
+météo météo N_C-fs
+prévoyait prévoir V-indicatifimparfait3s
+des un D_ind-fp
+températures température N_C-fp
+élevées élevé A_qual-fp
+
+Elle il CL_suj-3fs
+prévoyait prévoir V-indicatifimparfait3s
+de de P
+courir courir V-infinitif
+le le D_def-ms
+long long A_qual-ms
+de de P
+la le D_def-fs
+plage plage N_C-fs
+
+Les le D_def-mp
+invités invité N_C-mp
+de de P
+la le D_def-fs
+fête fête N_C-fs
+se se CL_refl-3fs
+cachèrent cacher V-indicatifpasse-simple3p
+derrière derrière P
+le le D_def-ms
+canapé canapé N_C-ms
+
+C c N_P-ms
+était être V-indicatifimparfait3s
+une un D_ind-fs
+fête fête N_C-fs
+surprise surprise N_C-fs
+
+C c N_P-ms
+était être V-indicatifimparfait3s
+une un D_ind-fs
+fête fête N_C-fs
+d aller_d P+D_def
+' ' PONCT_W
+anniversaire anniversaire N_C-ms
+
+Le le D_def-ms
+politicien politicien A_qual-ms
+a avoir V-indicatifpresent3s
+perdu perdre V-participepassems
+l l D_neg-ms
+élection élection N_C-fs
+
+Il il CL_suj-3ms
+a avoir V-indicatifpresent3s
+fait faire V-participepassems
+des un D_ind-fp
+publicités publicité N_C-fp
+de de P
+campagne campagne N_C-fs
+négatives négatif A_qual-fp
+
+Personne personne PRO_neg-3ms
+n n CL_obj-3ms
+a avoir V-indicatifpresent3s
+voté voter V-participepassems
+pour pour P
+lui lui PRO_pers-3ms
+
+La le D_def-fs
+tâche tâche N_C-fs
+est être V-indicatifpresent3s
+partie partir V-participepassefs
+de de P
+la le D_def-fs
+chemise chemise N_C-fs
+
+J j N_P-ms
+ai avoir V-indicatifpresent3s
+rapiécé rapiécer V-participepassems
+la le D_def-fs
+chemise chemise N_C-fs
+
+J j N_P-ms
+ai avoir V-indicatifpresent3s
+passé passer V-participepassems
+la le D_def-fs
+chemise chemise N_C-fs
+à à P
+la le D_def-fs
+javel javel N_C-fs
+
+L l D_def-ms
+homme homme N_C-ms
+a avoir V-indicatifpresent3s
+eu avoir V-participepassems
+un un D_ind-ms
+rabais rabais N_C-ms
+sur sur P
+ses son D_poss-3fs
+courses course N_C-fp
+
+Il il CL_suj-3ms
+a avoir V-indicatifpresent3s
+salué saluer V-participepassems
+le le D_def-ms
+caissier caissier N_C-ms
+
+Il il CL_suj-3ms
+a avoir V-indicatifpresent3s
+utilisé utiliser V-participepassems
+un un D_ind-ms
+coupon coupon N_C-ms
+
+Le le D_def-ms
+médecin médecin N_C-ms
+a avoir V-indicatifpresent3s
+mal mal ADV
+diagnostiqué diagnostiquer V-participepassems
+le le D_def-ms
+patient patient N_C-ms
+
+Le le D_def-ms
+patient patient N_C-ms
+a avoir V-indicatifpresent3s
+fait faire V-participepassems
+un un D_ind-ms
+procès procès N_C-ms
+au à P+D_def
+médecin médecin N_C-ms
+pour pour P
+faute faute N_C-fs
+professionnelle professionnel A_qual-fs
+
+Le le D_def-ms
+patient patient N_C-ms
+a avoir V-indicatifpresent3s
+dévoilé dévoiler V-participepassems
+des un D_ind-fp
+informations information N_C-fp
+confidentielles confidentiel A_qual-fp
+au à P+D_def
+médecin médecin N_C-ms
+
+The the ET
+customer customer ET
+filed filed ET
+a avoir V-indicatifpresent3s
+complaint complaint A_qual-ms
+with with N_C-ms
+the the A_qual-ms
+store store N_C-ms
+manager manager N_C-ms
+
+The the D_card-fp
+sales sale N_C-fp
+associate associat A_qual-fs
+undercharged undercharged ET
+the the ET
+customer customer ET
+
+The the D_card-fp
+sales sale N_C-fp
+associate associare V-participepassefs
+acted acted ADV
+rude rude A_qual-ms
+to to ET
+the the ET
+customer customer ET
+
+La le D_def-fs
+femme femme N_C-fs
+a avoir V-indicatifpresent3s
+réparé réparer V-participepassems
+le le D_def-ms
+robinet robinet N_C-ms
+
+Le le D_def-ms
+robinet robinet N_C-ms
+fuyait fuir V-indicatifimparfait3s
+
+Le le D_def-ms
+robinet robinet N_C-ms
+était être V-indicatifimparfait3s
+fermé fermé A_qual-ms
+
+La le D_def-fs
+vieille vieux A_qual-fs
+dame dame N_C-fs
+a avoir V-indicatifpresent3s
+eu avoir V-participepassems
+un un D_ind-ms
+infarctus infarctus N_C-ms
+
+La le D_def-fs
+fille fille N_C-fs
+de de P
+la le D_def-fs
+vieille vieux A_qual-fs
+dame dame N_C-fs
+est être V-indicatifpresent3s
+venue venir V-participepassefs
+nettoyer nettoyer V-infinitif
+sa son D_poss-3fs
+maison maison N_C-fs
+
+La le D_def-fs
+fille fille N_C-fs
+de de P
+la le D_def-fs
+vieille vieux A_qual-fs
+dame dame N_C-fs
+a avoir V-indicatifpresent3s
+emménagé emménager V-participepassems
+pour pour P
+s s V-infinitif
+occuper occuper V-infinitif
+d d ADV
+' i C_S
+elle il CL_suj-3fs
+
+La le D_def-fs
+mare mare N_C-fs
+a avoir V-indicatifpresent3s
+gelé geler V-participepassems
+pendant pendant P
+l l D_def-ms
+hiver hiver N_C-ms
+
+Les le D_def-fp
+gens gens N_C-fp
+ont avoir V-indicatifpresent3p
+fait faire V-participepassems
+du de P+D_def
+patin patin N_C-ms
+sur sur P
+la le D_def-fs
+mare mare N_C-fs
+
+Les le D_def-fp
+gens gens N_C-fp
+ont avoir V-indicatifpresent3p
+apporté apporter V-participepassems
+des un D_ind-mp
+bateaux bateau N_C-mp
+sur sur P
+la le D_def-fs
+mare mare N_C-fs
+
+Le le D_def-ms
+délinquant délinquant N_C-ms
+à à P
+violé violé A_qual-ms
+sa son D_poss-3fs
+probation probation N_C-fs
+
+Il il CL_suj-3ms
+a avoir V-indicatifpresent3s
+été être V-participepassems
+envoyé envoyer V-participepassems
+en en P
+prison prison N_C-fs
+
+Il il CL_suj-3ms
+a avoir V-indicatifpresent3s
+volé voler V-participepassems
+de de P
+l l D_def-ms
+argent argent N_C-ms
+de de P
+l l N_C-ms
+' e P
+église église N_C-fs
+
+J j N_P-ms
+ai avoir V-indicatifpresent3s
+arrosé arroser V-participepassems
+mon son D_poss-1ms
+ami ami A_qual-ms
+qui qui PRO_rel-3ms
+dormait dormir V-indicatifimparfait3s
+
+Mon son D_poss-1ms
+ami ami A_qual-ms
+s s N_C-ms
+est être V-indicatifpresent3s
+réveillé réveiller V-participepassems
+
+Mon son D_poss-1ms
+ami ami N_C-ms
+ronflait ronfler V-indicatifimparfait3s
+
+La le D_def-fs
+fille fille N_C-fs
+a avoir V-indicatifpresent3s
+eu avoir V-participepassems
+un un D_ind-ms
+cri cri N_C-ms
+de de P
+surprise surprise N_C-fs
+
+Son son D_poss-3ms
+ami ami N_C-ms
+lui lui CL_obj-3ms
+a avoir V-indicatifpresent3s
+mis mettre V-participepassems
+un un D_ind-ms
+cube cube N_C-ms
+de de P
+glace glace N_C-fs
+dans dans P
+le le D_def-ms
+dos dos N_C-ms
+
+Son son D_poss-3ms
+ami ami N_C-ms
+lui lui CL_obj-3ms
+a avoir V-indicatifpresent3s
+mis mettre V-participepassems
+une un D_ind-fs
+petite petit A_qual-fs
+tape tape N_C-fs
+dans dans P
+le le D_def-ms
+dos dos N_C-ms
+
+La le D_def-fs
+chemise chemise N_C-fs
+a avoir V-indicatifpresent3s
+rétréci rétrécir V-participepassems
+
+J j N_P-ms
+ai avoir V-indicatifpresent3s
+mis mettre V-participepassems
+de de P
+la le D_def-fs
+javelle javelle N_C-fs
+dessus dessus P
+
+Je il CL_suj-1ms
+l l CL_obj-3ms
+ai avoir V-indicatifpresent1s
+mise mettre V-participepassefs
+dans dans P
+le le D_def-ms
+séchoir séchoir N_C-ms
+
+Dehors dehors ADV
+il il CL_suj-3ms
+commença commencer V-indicatifpresent3s
+à à P
+faire faire V-infinitif
+sombre sombre A_qual-ms
+
+Des un D_ind-fp
+flocons flocon N_C-fp
+de de P
+neige neige N_C-fs
+commençèrent commençer V-indicatifpasse-simple3p
+à à P
+tomber tomber V-infinitif
+du du D_part-ms
+ciel ciel N_C-ms
+
+La le D_def-fs
+lune lune N_C-fs
+devint devenir V-indicatifpresent3s
+visible visible A_qual-fs
+dans dans P
+le le D_def-ms
+ciel ciel N_C-ms
+
+Je il CL_suj-1ms
+raccrochai raccrochavoir V-indicatifpresent1s
+le le D_def-ms
+téléphone téléphone N_C-ms
+
+L l N_P-ms
+interlocuteur interlocuteur N_C-ms
+me me CL_obj-1ms
+dit dire V-participepassems
+au à P+D_def
+revoir revoir V-infinitif
+
+L l N_P-ms
+interlocuteur interlocuteur N_C-ms
+me me CL_obj-1ms
+donna donner V-indicatifpasse-simple3s
+son son D_poss-3ms
+nom nom N_C-ms
+
+La le D_def-fs
+bague bague N_C-fs
+de de P
+la le D_def-fs
+femme femme N_C-fs
+a avoir V-indicatifpresent3s
+glissé glisser V-participepassems
+dans dans P
+la le D_def-fs
+douche douche N_C-fs
+
+La le D_def-fs
+femme femme N_C-fs
+polissait polir V-indicatifimparfait3s
+la le D_def-fs
+bague bague N_C-fs
+
+La le D_def-fs
+bague bague N_C-fs
+est être V-indicatifpresent3s
+tombé tomber V-participepassems
+dans dans P
+la le D_def-fs
+bonde bonde N_C-fs
+
+La le D_def-fs
+petite petit A_qual-fs
+fille fille N_C-fs
+a avoir V-indicatifpresent3s
+gagné gagner V-participepassems
+un un D_ind-ms
+trophée trophée N_C-ms
+
+Elle il CL_suj-3fs
+a avoir V-indicatifpresent3s
+gagné gagner V-participepassems
+un un D_ind-ms
+concours concours N_C-ms
+de de P
+dictée dictée N_C-fs
+
+Elle il CL_suj-3fs
+s s CL_refl-3fs
+est être V-indicatifpresent3s
+fait faire V-participepassems
+un un D_ind-ms
+nouvel nouveau A_qual-ms
+ami ami N_C-ms
+
+L l N_P-ms
+escorte escorter V-indicatifpresent3s
+de de P
+la le D_def-fs
+femme femme N_C-fs
+voulait vouloir V-indicatifimparfait3s
+avoir avoir V-infinitif
+l au V-participepassems
+' ' PONCT_W
+air air N_C-ms
+d d A_qual-ms
+' e P
+un un D_ind-ms
+gentleman gentleman N_C-ms
+
+Il il CL_suj-3ms
+lui lui CL_obj-3ms
+a avoir V-indicatifpresent3s
+ouvert ouvrir V-participepassems
+la le D_def-fs
+porte porte N_C-fs
+
+Il il CL_suj-3ms
+lui lui CL_obj-3ms
+a avoir V-indicatifpresent3s
+demandé demander V-participepassems
+si si C_S
+elle il CL_suj-3fs
+aimait aimer V-indicatifimparfait3s
+les le D_def-mp
+sushi sushi N_C-mp
+
+Le le D_def-ms
+champ champ N_C-ms
+avait avoir V-indicatifimparfait3s
+besoin besoin N_C-ms
+d d A_qual-ms
+irrigation irrigation N_C-fs
+
+Un un D_ind-ms
+canal canal N_C-ms
+a avoir V-indicatifpresent3s
+été être V-participepassems
+construit construire V-participepassems
+
+Une un D_ind-fs
+inondation inondation N_C-fs
+a avoir V-indicatifpresent3s
+eu avoir V-participepassems
+lieu lieu N_C-ms
+
+L l N_P-ms
+hotesse hotesse N_C-fs
+a avoir V-indicatifpresent3s
+annulé annuler V-participepassems
+la le D_def-fs
+fête fête N_C-fs
+
+Elle il CL_suj-3fs
+était être V-indicatifimparfait3s
+certaine certain A_qual-fs
+d d D_part-ms
+avoir avoir V-infinitif
+la le D_def-fs
+grippe grippe N_C-fs
+
+Elle il CL_suj-3fs
+avait avoir V-indicatifimparfait3s
+peur peur N_C-fs
+d d N_C-ms
+attrapper attrapper V-infinitif
+la le D_def-fs
+grippe grippe N_C-fs
+
+La le D_def-fs
+femme femme N_C-fs
+a avoir V-indicatifpresent3s
+donné donner V-participepassems
+son son D_poss-3ms
+numéro numéro N_C-ms
+de de P
+téléphone téléphone N_C-ms
+à à P
+l l A_qual-ms
+homme homme N_C-ms
+
+Elle il CL_suj-3fs
+était être V-indicatifimparfait3s
+attiré attirer V-participepassems
+par par P
+lui lui PRO_pers-3ms
+
+Il il CL_suj-3ms
+lui lui CL_obj-3ms
+répugnait répugner V-indicatifimparfait3s
+
+La le D_def-fs
+parachutiste parachutiste N_C-fs
+a avoir V-indicatifpresent3s
+plané planer V-participepassems
+jusqu jusqir V-participepassems
+au à P+D_def
+sol sol N_C-ms
+en en P
+toute tout D_ind-fs
+sécurité sécurité N_C-fs
+
+Elle il CL_suj-3fs
+a avoir V-indicatifpresent3s
+ouvert ouvrir V-participepassems
+son son D_poss-3fs
+parachute parachute N_C-fs
+
+Elle il CL_suj-3fs
+a avoir V-indicatifpresent3s
+sauté sauter V-participepassems
+de de P
+l l D_dem-ms
+avion avion N_C-ms
+
+Le le D_def-ms
+bébé bébé N_C-ms
+devenait devenir V-indicatifimparfait3s
+de de P
+mauvaise mauvais A_qual-fs
+humeur humeur N_C-fs
+
+Sa son D_poss-3fs
+mère mère N_C-fs
+lui lui CL_obj-3ms
+a avoir V-indicatifpresent3s
+fait faire V-participepassems
+faire faire V-infinitif
+une un D_ind-fs
+sieste sieste N_C-fs
+
+Sa son D_poss-3fs
+mère mère N_C-fs
+lui lui CL_obj-3ms
+a avoir V-indicatifpresent3s
+fait faire V-participepassems
+des un D_ind-fp
+couettes couette N_C-fp
+avec avec P
+ses son D_poss-3ms
+cheveux cheveu N_C-mp
+
+L l D_def-ms
+enfant enfant N_C-ms
+est être V-indicatifpresent3s
+devenu devenir V-participepassems
+immunisé immuniser V-participepassems
+à à P
+la le D_def-fs
+maladie maladie N_C-fs
+
+Il il CL_suj-3ms
+a avoir V-indicatifpresent3s
+évité éviter V-participepassems
+l l A_qual-ms
+exposition exposition N_C-fs
+à à P
+la le D_def-fs
+maladie maladie N_C-fs
+
+Il il CL_suj-3ms
+a avoir V-indicatifpresent3s
+reçu recevoir V-participepassems
+un un D_ind-ms
+vaccin vaccin N_C-ms
+contre contre P
+la le D_def-fs
+maladie maladie N_C-fs
+
+Le le D_def-ms
+jus jus N_C-ms
+de de P
+raisin raisin N_C-fs
+a avoir V-indicatifpresent3s
+fermenté fermenter V-participepassems
+
+Le le D_def-ms
+jus jus N_C-ms
+est être V-indicatifpresent3s
+devenu devenir V-participepassems
+du de P+D_def
+vin vin N_C-ms
+
+Le le D_def-ms
+jus jus N_C-ms
+s s CL_refl-3ms
+est être V-indicatifpresent3s
+évaporé évaporer V-participepassems
+
+Le le D_def-ms
+débat débat N_C-ms
+entre entre P
+les le D_def-mp
+amis ami N_C-mp
+s s A_qual-mp
+est être V-indicatifpresent3s
+prolongé prolonger V-participepassems
+de de P
+façon façon N_C-fs
+interminable interminable A_qual-fs
+
+Les le D_def-mp
+amis ami N_C-mp
+se se CL_refl-3mp
+sont être V-indicatifpresent3p
+mis mettre V-participepassemp
+d d D_def-ms
+accord accord N_C-ms
+
+Les le D_def-mp
+amis ami N_C-mp
+ont avoir V-indicatifpresent3p
+coupé couper V-participepassems
+les le D_def-mp
+cheveux cheveu N_C-mp
+en en P
+quatre quatre D_card-fp
+
+La le D_def-fs
+femme femme N_C-fs
+chantait chanter V-indicatifimparfait3s
+pour pour P
+elle lui PRO_pers-3fs
+- - PONCT_W
+même même ADV
+
+Elle il CL_suj-3fs
+était être V-indicatifimparfait3s
+nerveuse nerveux A_qual-fs
+
+Elle il CL_suj-3fs
+était être V-indicatifimparfait3s
+de de P
+bonne bon A_qual-fs
+humeur humeur N_C-fs
+
+L l D_def-ms
+homme homme N_C-ms
+détestait détester V-indicatifimparfait3s
+sa son D_poss-3fs
+nouvelle nouveau A_qual-fs
+coiffure coiffure N_C-fs
+
+Il il CL_suj-3ms
+portait porter V-indicatifimparfait3s
+un un D_ind-ms
+chapeau chapeau N_C-ms
+
+Il il CL_suj-3ms
+se il CL_refl-3ms
+laissa laissar V-indicatifpresent3s
+pousser pousser V-infinitif
+la le D_def-fs
+barbe barbe N_C-fs
+
+Les le D_def-mp
+policiers policier N_C-mp
+ont avoir V-indicatifpresent3p
+visé viser V-participepassems
+le le D_def-ms
+figutif figutif N_C-ms
+avec avec P
+leurs son D_poss-3fp
+armes arme N_C-fp
+
+Le le D_def-ms
+fugitif fugitif N_C-ms
+est être V-indicatifpresent3s
+tombé tomber V-participepassems
+au à P+D_def
+sol sol N_C-ms
+
+Le le D_def-ms
+fugitif fugitif N_C-ms
+a avoir V-indicatifpresent3s
+lâché lâcher V-participepassems
+son son D_poss-3ms
+pistolet pistolet N_C-ms
+
+Le le D_def-ms
+patient patient N_C-ms
+était être V-indicatifimparfait3s
+déshydraté déshydrater V-participepassems
+
+L l N_P-ms
+infirmière infirmière A_qual-ms
+a avoir V-indicatifpresent3s
+testé tester V-participepassems
+ses son D_poss-3fs
+réflexes réflexe N_C-fp
+
+L l N_P-ms
+infirmière infirmier A_qual-fs
+lui lui CL_obj-3ms
+a avoir V-indicatifpresent3s
+mis mettre V-participepassems
+une un D_ind-fs
+intraveineuse intraveineux A_qual-fs
+
+La le D_def-fs
+fille fille N_C-fs
+a avoir V-indicatifpresent3s
+trouvé trouver V-participepassems
+la le D_def-fs
+pièce pièce N_C-fs
+manquante manquant A_qual-fs
+du de P+D_def
+puzzle puzzle N_C-ms
+
+Elle il CL_suj-3fs
+a avoir V-indicatifpresent3s
+terminé terminer V-participepassems
+le le D_def-ms
+puzzle puzzle N_C-ms
+
+Elle il CL_suj-3fs
+a avoir V-indicatifpresent3s
+défait défaire V-participepassems
+le le D_def-ms
+puzzle puzzle N_C-ms
+
+L l D_def-ms
+homme homme N_C-ms
+a avoir V-indicatifpresent3s
+sauté sauter V-participepassems
+du de P+D_def
+lit lit N_C-ms
+précipitamment précipitamment ADV
+
+Il il CL_suj-3ms
+voulait vouloir V-indicatifimparfait3s
+éteindre éteindre V-infinitif
+le le D_def-ms
+réveil réveil N_C-ms
+
+Il il CL_suj-3ms
+voulait vouloir V-indicatifimparfait3s
+repasser repasser V-infinitif
+son son D_poss-3ms
+pantalon pantalon N_C-ms
+avant avant P
+de de P
+partir partir V-infinitif
+au à P+D_def
+travail travail N_C-ms
+
+Les le D_def-mp
+papiers papier N_C-mp
+étaient être V-indicatifimparfait3p
+en en P
+désordre désordre N_C-ms
+
+Je il CL_suj-1ms
+les il CL_obj-3mp
+ai avoir V-indicatifpresent1s
+photocopiés photocopier V-participepassemp
+
+Je il CL_suj-1ms
+les il CL_obj-3mp
+ai avoir V-indicatifpresent1s
+rangés ranger V-participepassemp
+alphabétiquement alphabétiquement ADV
+
+La le D_def-fs
+femme femme N_C-fs
+a avoir V-indicatifpresent3s
+gagné gagner V-participepassems
+à à P
+la le D_def-fs
+loterie loterie N_C-fs
+
+Elle il CL_suj-3fs
+a avoir V-indicatifpresent3s
+acheté acheter V-participepassems
+un un D_ind-ms
+yacht yacht N_C-ms
+
+Elle il CL_suj-3fs
+a avoir V-indicatifpresent3s
+rejoint rejoindre V-indicatifpresent3s
+une un D_ind-fs
+paroisse paroisse N_C-fs
+
+La le D_def-fs
+couturière couturière N_C-fs
+a avoir V-indicatifpresent3s
+poussé pousser V-participepassems
+l l D_neg-ms
+aiguille aiguille N_C-ms
+dans dans P
+le le D_def-ms
+tissu tissu N_C-ms
+
+Le le D_def-ms
+fil fil N_C-ms
+s s ET
+enroula enrouler V-indicatifpasse-simple3s
+autour autour ADV
+de de P
+l l V-infinitif
+' ' PONCT_W
+aiguille aiguille N_C-fs
+
+Le le D_def-ms
+fil fil N_C-ms
+est être V-indicatifpresent3s
+passé passer V-participepassems
+à à P
+travers travers N_C-ms
+le le D_def-ms
+tissu tissu N_C-ms
+
+La le D_def-fs
+femme femme N_C-fs
+a avoir V-indicatifpresent3s
+engagé engager V-participepassems
+un un D_ind-ms
+avocat avocat N_C-ms
+
+Elle il CL_suj-3fs
+a avoir V-indicatifpresent3s
+décidé décider V-participepassems
+de de P
+poursuivre poursuivre V-infinitif
+son son D_poss-3ms
+employeur employeur N_C-ms
+
+Elle il CL_suj-3fs
+a avoir V-indicatifpresent3s
+décidé décider V-participepassems
+de de P
+se se CL_refl-3ms
+présenter présenter V-infinitif
+aux à P+D_def
+élections élection N_C-fp
+
+Le le D_def-ms
+locataire locataire N_C-ms
+a avoir V-indicatifpresent3s
+perdu perdre V-participepassems
+les le D_def-mp
+clefs clef N_C-mp
+de de P
+son son D_poss-3ms
+appartement appartement N_C-ms
+
+Son son D_poss-3ms
+propriétaire propriétaire N_C-ms
+à à P
+ouvert ouvrir V-participepassems
+la le D_def-fs
+porte porte N_C-fs
+
+Son son D_poss-3ms
+propriétaire propriétaire N_C-ms
+à à P
+réparé réparer V-participepassems
+la le D_def-fs
+porte porte N_C-fs
+
+Ma son D_def-fs
+chanson chanson N_C-fs
+favorite favorite A_qual-fs
+est être V-indicatifpresent3s
+passée passer V-participepassefs
+à à P
+la le D_def-fs
+radio radio N_C-fs
+
+Je il CL_suj-1ms
+me me CL_refl-1ms
+suis être V-indicatifpresent1s
+bouché boucher V-participepassems
+les le D_def-fp
+oreilles oreille N_C-fp
+
+J j N_P-ms
+ai avoir V-indicatifpresent3s
+chanté chanter V-participepassems
+avec avec P
+
+Le le D_def-ms
+responsable responsable N_C-ms
+a avoir V-indicatifpresent3s
+décidé décider V-participepassems
+de de P
+ne ne ADV_neg
+pas pas ADV_neg
+recruter recruter V-infinitif
+le le D_def-ms
+candidat candidat N_C-ms
+
+Le le D_def-ms
+candidat candidat N_C-ms
+n n A_qual-ms
+a avoir V-indicatifpresent3s
+pas pas ADV_neg
+passé passer V-participepassems
+la le D_def-fs
+vérification vérification N_C-fs
+de de P
+son son D_poss-3ms
+dossier dossier N_C-ms
+
+Le le D_def-ms
+candidat candidat N_C-ms
+avait avoir V-indicatifimparfait3s
+de de P
+l l ET
+expérience expérience N_C-fs
+pour pour P
+cet ce D_dem-ms
+emploi emploi N_C-ms
+
+L l D_def-ms
+oeil oeil N_C-ms
+de de P
+l l N_C-ms
+' e P
+homme homme N_C-ms
+s s ADV
+' ' PONCT_W
+est être V-indicatifpresent3s
+infecté infecter V-participepassems
+
+Il il CL_suj-3ms
+est être V-indicatifpresent3s
+devenu devenir V-participepassems
+aveugle aveugle A_qual-ms
+
+Il il CL_suj-3ms
+a avoir V-indicatifpresent3s
+mis mettre V-participepassems
+des un D_ind-fp
+lunettes lunettes N_C-fp
+
+L l D_def-fs
+oiseau oiseau N_C-fs
+ne ne ADV_neg
+pouvait pouvoir V-indicatifimparfait3s
+pas pas ADV_neg
+voler voler V-infinitif
+
+Il il CL_suj-3ms
+a avoir V-indicatifpresent3s
+émigré émigrer V-participepassems
+pour pour P
+l l A_qual-ms
+hiver hiver N_C-ms
+
+Il il CL_suj-3ms
+s s CL_refl-3ms
+est être V-indicatifpresent3s
+blessé blesser V-participepassems
+à à P
+l l A_qual-ms
+' e P
+aile aile N_C-ms
+
+La le D_def-fs
+fille fille N_C-fs
+a avoir V-indicatifpresent3s
+fait faire V-participepassems
+un un D_ind-ms
+voeu voeu N_C-ms
+
+Elle il CL_suj-3fs
+a avoir V-indicatifpresent3s
+vu voir V-participepassems
+un un D_ind-ms
+chat chat N_C-ms
+noir noir A_qual-ms
+
+Elle il CL_suj-3fs
+a avoir V-indicatifpresent3s
+vu voir V-participepassems
+une un D_ind-fs
+étoile étoile N_C-fs
+filante filant A_qual-fs
+
+La le D_def-fs
+femme femme N_C-fs
+frissonait frissonait V-indicatifimparfait3s
+en en P
+sortant sortir V-participepresent
+de de P
+la le D_def-fs
+piscine piscine N_C-fs
+
+Elle il CL_suj-3fs
+s s CL_refl-3fs
+est être V-indicatifpresent3s
+enveloppée envelopper V-participepassefs
+dans dans P
+une un D_ind-fs
+serviette serviette N_C-fs
+
+Elle il CL_suj-3fs
+s s CL_refl-3fs
+est être V-indicatifpresent3s
+servie servir V-participepassefs
+une un D_ind-fs
+limonade limonade N_C-fs
+
+L l N_P-ms
+infirmière infirmier A_qual-fs
+prépara préparer V-indicatifpasse-simple3s
+la le D_def-fs
+seringue seringue N_C-fs
+pour pour P
+l l ET
+' e D_def-fs
+injection injection N_C-fs
+du de P+D_def
+patient patient N_C-ms
+
+Le le D_def-ms
+patient patient N_C-ms
+saigna saigner V-indicatifpresent3s
+
+Le le D_def-ms
+patient patient A_qual-ms
+se il CL_refl-3ms
+tendit tendre V-indicatifpresent3s
+
+L l D_def-ms
+homme homme N_C-ms
+a avoir V-indicatifpresent3s
+jeté jeter V-participepassems
+le le D_def-ms
+pain pain N_C-ms
+
+Il il CL_suj-3ms
+était être V-indicatifimparfait3s
+frais frais A_qual-ms
+
+Il il CL_suj-3ms
+était être V-indicatifimparfait3s
+dur dur A_qual-ms
+
+Les le D_def-mp
+enfants enfant N_C-mp
+ont avoir V-indicatifpresent3p
+renversé renverser V-participepassems
+une un D_ind-fs
+lampe lampe N_C-fs
+
+Ils il CL_suj-3mp
+faisaient faire V-indicatifimparfait3p
+une un D_ind-fs
+bataille bataille N_C-fs
+d aller_d P+D_def
+oreillers oreiller N_C-mp
+
+Ils il CL_suj-3mp
+sautaient sauter V-indicatifimparfait3p
+sur sur P
+le le D_def-ms
+lit lit N_C-ms
+

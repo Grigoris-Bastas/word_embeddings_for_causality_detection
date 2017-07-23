@@ -1,0 +1,1009 @@
+1|8)
+2|10)
+------->  indiquer{V|dep_coord}         issue{NC|suj}                 le{DET|det}                   
+3|28)
+------->  inter.ecoles@amicale-insat.fr{NPP|suj}résultat{NC|mod}             de{P+D|dep}                   
+4|35)
+5|48)
+------->  arriver{VPP|root}             fruit{NC|suj}                 le{DET|det}                   
+------->  arriver{VPP|root}             fruit{NC|suj}                 de{P|dep}                     
+6|63)
+7|64)
+------->  tomber{VPP|root}              résultat{NC|mod}             de{P+D|dep}                   
+------->  tomber{VPP|root}              résultat{NC|mod}             par{P|dep}                    
+------->  tomber{VPP|root}              résultat{NC|mod}             17/10/2006{NC|mod}            
+------->  tomber{VPP|root}              résultat{NC|suj}             le{DET|det}                   
+8|64)
+------->  tomber{VPP|root}              résultat{NC|mod}             de{P+D|dep}                   
+------->  tomber{VPP|root}              résultat{NC|mod}             par{P|dep}                    
+------->  tomber{VPP|root}              résultat{NC|mod}             17/10/2006{NC|mod}            
+------->  tomber{VPP|root}              résultat{NC|suj}             le{DET|det}                   
+9|65)
+------->  voici{V|root}                 suite{NC|suj}                 à{P|dep}                     
+------->  voici{V|root}                 résultat{NC|obj}             le{DET|det}                   
+------->  voici{V|root}                 résultat{NC|obj}             de{P+D|dep}                   
+------->  voici{V|root}                 résultat{NC|obj}             nombre{NC|mod}                
+10|65)
+------->  voici{V|root}                 suite{NC|suj}                 à{P|dep}                     
+------->  voici{V|root}                 résultat{NC|obj}             le{DET|det}                   
+------->  voici{V|root}                 résultat{NC|obj}             de{P+D|dep}                   
+------->  voici{V|root}                 résultat{NC|obj}             nombre{NC|mod}                
+11|72)
+12|76)
+13|84)
+14|94)
+------->  pouvoir{V|root}               cause{NC|mod}                 chez{P|dep}                   
+15|99)
+------->  utiliser{VINF|dep_coord}      moteur{NC|obj}                le{DET|det}                   
+------->  utiliser{VINF|dep_coord}      moteur{NC|obj}                de{P|dep}                     
+16|102)
+------->  avoir{V|mod}                  source{NC|obj}                le{DET|det}                   
+17|125)
+18|129)
+------->  en{P|mod}                     effet{NC|obj}                 normalement{ADV|mod}          
+------->  en{P|mod}                     effet{NC|obj}                 avec{P|dep}                   
+19|131)
+------->  lors_de{P|mod}                résultat{NC|obj}             de{P|dep}                     
+20|133)
+21|137)
+------->  être{V|root}                 raison{NC|ats}                le{DET|det}                   
+22|152)
+------->  de{P|dep}                     source{NC|obj}                attoseconde{NC|mod}           
+23|153)
+24|154)
+------->  de{P|dep}                     effet{NC|obj}                 de{P|dep}                     
+25|161)
+26|167)
+27|180)
+------->  sans{P|dep_coord}             résultat{NC|obj}             probant{ADJ|mod}              
+28|188)
+------->  par{P|p_obj}                  promoteur{NC|obj}             un{DET|det}                   
+------->  par{P|p_obj}                  promoteur{NC|obj}             immobilier{ADJ|mod}           
+------->  par{P|p_obj}                  promoteur{NC|obj}             acharner{ADJ|mod}             
+29|192)
+------->  être{V|root}                 conséquence{NC|ats}          le{DET|det}                   
+------->  être{V|root}                 conséquence{NC|ats}          de{P|dep}                     
+------->  être{V|root}                 conséquence{NC|ats}          à{P+D|dep}                   
+30|194)
+------->  utiliser{V|root}              produit{NC|suj}               le{DET|det}                   
+------->  utiliser{V|root}              produit{NC|suj}               de{P|dep}                     
+------->  utiliser{V|root}              produit{NC|suj}               la_plupart{PRO|dep}           
+------->  utiliser{V|root}              produit{NC|obj}               de{DET|det}                   
+------->  utiliser{V|root}              produit{NC|obj}               naturel{ADJ|mod}              
+------->  utiliser{V|root}              produit{NC|obj}               en_tout_cas{ADV|mod}          
+------->  utiliser{V|root}              produit{NC|obj}               toxique{ADJ|mod}              
+31|194)
+------->  utiliser{V|root}              produit{NC|suj}               le{DET|det}                   
+------->  utiliser{V|root}              produit{NC|suj}               de{P|dep}                     
+------->  utiliser{V|root}              produit{NC|suj}               la_plupart{PRO|dep}           
+------->  utiliser{V|root}              produit{NC|obj}               de{DET|det}                   
+------->  utiliser{V|root}              produit{NC|obj}               naturel{ADJ|mod}              
+------->  utiliser{V|root}              produit{NC|obj}               en_tout_cas{ADV|mod}          
+------->  utiliser{V|root}              produit{NC|obj}               toxique{ADJ|mod}              
+32|200)
+------->  être{V|root}                 produit{NC|suj}               ce{DET|det}                   
+------->  être{V|root}                 produit{NC|suj}               dernier{ADJ|mod}              
+33|204)
+34|206)
+------->  connaître{VPR|mod}           effet{NC|obj}                 son{DET|det}                  
+35|222)
+------->  à{P|mod}                     raison{NC|obj}                de{P|dep}                     
+36|223)
+------->  avoir{VINF|mod}               impact{NC|obj}                un{DET|det}                   
+------->  avoir{VINF|mod}               impact{NC|obj}                sur{P|dep}                    
+37|225)
+------->  à{P|mod}                     effet{NC|obj}                 de{P|dep}                     
+------->  à{P|mod}                     effet{NC|obj}                 considérer{VPP|mod}          
+38|226)
+------->  en{P|p_obj}                   source{NC|obj}                de{P|dep}                     
+39|228)
+40|229)
+------->  citer{VINF|obj}               source{NC|obj}                le{DET|det}                   
+41|234)
+------->  de{P+D|de_obj}                moteur{NC|obj}                célèbre{ADJ|mod}            
+------->  de{P+D|de_obj}                moteur{NC|obj}                F2N{NPP|mod}                  
+------->  de{P+D|de_obj}                moteur{NC|obj}                être{V|mod_rel}              
+42|238)
+------->  de{P|dep}                     moteur{NC|obj}                un{DET|det}                   
+43|239)
+------->  à{P|dep}                     moteur{NC|obj}                beaucoup{ADV|mod}             
+------->  à{P|dep}                     moteur{NC|obj}                de{P|det}                     
+------->  à{P|dep}                     moteur{NC|obj}                multisoupape{ADJ|mod}         
+------->  à{P|dep}                     moteur{NC|obj}                de{P|dep}                     
+44|240)
+45|244)
+------->  à{P|dep}                     origine{NC|obj}               le{DET|det}                   
+46|244)
+------->  à{P|dep}                     origine{NC|obj}               le{DET|det}                   
+47|245)
+48|269)
+------->  être{V|root}                 effet{NC|suj}                 de{P+D|dep}                   
+------->  être{V|root}                 effet{NC|suj}                 ioniser{VPR|mod}              
+------->  être{V|root}                 effet{NC|suj}                 but{NC|mod}                   
+------->  étudier{VINF|obj}            effet{NC|obj}                 le{DET|det}                   
+------->  étudier{VINF|obj}            effet{NC|obj}                 de{P|dep}                     
+49|269)
+------->  être{V|root}                 effet{NC|suj}                 de{P+D|dep}                   
+------->  être{V|root}                 effet{NC|suj}                 ioniser{VPR|mod}              
+------->  être{V|root}                 effet{NC|suj}                 but{NC|mod}                   
+------->  étudier{VINF|obj}            effet{NC|obj}                 le{DET|det}                   
+------->  étudier{VINF|obj}            effet{NC|obj}                 de{P|dep}                     
+50|271)
+51|272)
+------->  réduire{VINF|obj}            effet{NC|obj}                 le{DET|det}                   
+------->  réduire{VINF|obj}            effet{NC|obj}                 secondaire{ADJ|mod}           
+------->  réduire{VINF|obj}            effet{NC|obj}                 de{P+D|dep}                   
+52|273)
+------->  montrer{VPP|root}             effet{NC|obj}                 le{DET|det}                   
+------->  montrer{VPP|root}             effet{NC|obj}                 radiosensibilisateur{ADJ|mod} 
+------->  montrer{VPP|root}             effet{NC|obj}                 de{P|dep}                     
+53|275)
+------->  posséder{V|root}             effet{NC|obj}                 un{DET|det}                   
+------->  posséder{V|root}             effet{NC|obj}                 radiosensibilisateur{ADJ|mod} 
+------->  posséder{V|root}             effet{NC|obj}                 important{ADJ|mod}            
+54|277)
+------->  de{P|dep}                     source{NC|obj}                attoseconde{NC|mod}           
+55|279)
+------->  de{P|dep}                     effet{NC|obj}                 de{P|dep}                     
+56|281)
+57|281)
+58|281)
+59|301)
+------->  être{V|root}                 raison{NC|ats}                le{DET|det}                   
+60|305)
+------->  être{V|obj}                  facteur{NC|ats}               un{DET|det}                   
+------->  être{V|obj}                  facteur{NC|ats}               de{P|dep}                     
+------->  être{V|obj}                  facteur{NC|ats}               favorable{ADJ|mod}            
+------->  être{V|obj}                  facteur{NC|ats}               à{P+D|dep}                   
+61|321)
+62|329)
+------->  avoir{V|obj}                  facteur{NC|suj}               le{DET|det}                   
+63|359)
+64|360)
+65|361)
+66|370)
+------->  à{P|mod}                     origine{NC|obj}               le{DET|det}                   
+------->  à{P|mod}                     origine{NC|obj}               de{P+D|dep}                   
+67|372)
+------->  apporter{VINF|obj}            facteur{NC|obj}               le{DET|det}                   
+------->  apporter{VINF|obj}            facteur{NC|obj}               de{P|dep}                     
+68|374)
+69|375)
+------->  combiner{V|root}              source{NC|obj}                un{DET|det}                   
+------->  combiner{V|root}              source{NC|obj}                pulser{ADJ|mod}               
+------->  combiner{V|root}              source{NC|obj}                de{P|dep}                     
+70|377)
+------->  de{P|dep}                     source{NC|obj}                attoseconde{NC|mod}           
+71|378)
+------->  quantique{ADJ|mod}            effet{NC|root}                de{P+D|dep}                   
+------->  quantique{ADJ|mod}            effet{NC|root}                ioniser{VPR|mod}              
+------->  quantique{ADJ|mod}            effet{NC|root}                Analyse{NPP|mod}              
+------->  quantique{ADJ|mod}            effet{NC|root}                par{P|p_obj}                  
+------->  quantique{ADJ|mod}            effet{NC|root}                à{P|mod}                     
+------->  quantique{ADJ|mod}            effet{NC|root}                pour{P|dep}                   
+------->  quantique{ADJ|mod}            effet{NC|root}                dans{P|dep}                   
+------->  quantique{ADJ|mod}            effet{NC|root}                dans{P|dep}                   
+------->  de{P|dep}                     effet{NC|obj}                 de{P|dep}                     
+72|378)
+------->  quantique{ADJ|mod}            effet{NC|root}                de{P+D|dep}                   
+------->  quantique{ADJ|mod}            effet{NC|root}                ioniser{VPR|mod}              
+------->  quantique{ADJ|mod}            effet{NC|root}                Analyse{NPP|mod}              
+------->  quantique{ADJ|mod}            effet{NC|root}                par{P|p_obj}                  
+------->  quantique{ADJ|mod}            effet{NC|root}                à{P|mod}                     
+------->  quantique{ADJ|mod}            effet{NC|root}                pour{P|dep}                   
+------->  quantique{ADJ|mod}            effet{NC|root}                dans{P|dep}                   
+------->  quantique{ADJ|mod}            effet{NC|root}                dans{P|dep}                   
+------->  de{P|dep}                     effet{NC|obj}                 de{P|dep}                     
+73|383)
+74|398)
+------->  David{NPP|suj}                origine{NC|mod}               le{DET|det}                   
+------->  David{NPP|suj}                origine{NC|mod}               juif{ADJ|mod}                 
+------->  David{NPP|suj}                origine{NC|mod}               de{P+D|dep}                   
+75|425)
+76|426)
+------->  de{P|dep}                     impact{NC|obj}                le{DET|det}                   
+------->  de{P|dep}                     impact{NC|obj}                social{ADJ|mod}               
+77|447)
+------->  séduire{V|root}              moteur{NC|suj}                le{DET|det}                   
+78|449)
+79|450)
+80|451)
+81|482)
+------->  avoir{V|obj}                  cause{NC|obj}                 de{P|dep}                     
+82|487)
+------->  regarder{V|dep_coord}         produit{NC|obj}               le{DET|det}                   
+83|492)
+------->  de{P+D|dep}                   moteur{NC|obj}                de{P|dep}                     
+------->  paradoxe{NC|suj}              moteur{NC|mod}                le{DET|det}                   
+------->  paradoxe{NC|suj}              moteur{NC|mod}                de{P|dep}                     
+------->  dans{P|mod}                   résultat{NC|obj}             son{DET|det}                  
+------->  évoluer{V|mod}               moteur{NC|suj}                le{DET|det}                   
+------->  évoluer{V|mod}               moteur{NC|suj}                de{P|dep}                     
+84|492)
+------->  de{P+D|dep}                   moteur{NC|obj}                de{P|dep}                     
+------->  paradoxe{NC|suj}              moteur{NC|mod}                le{DET|det}                   
+------->  paradoxe{NC|suj}              moteur{NC|mod}                de{P|dep}                     
+------->  dans{P|mod}                   résultat{NC|obj}             son{DET|det}                  
+------->  évoluer{V|mod}               moteur{NC|suj}                le{DET|det}                   
+------->  évoluer{V|mod}               moteur{NC|suj}                de{P|dep}                     
+85|492)
+------->  de{P+D|dep}                   moteur{NC|obj}                de{P|dep}                     
+------->  paradoxe{NC|suj}              moteur{NC|mod}                le{DET|det}                   
+------->  paradoxe{NC|suj}              moteur{NC|mod}                de{P|dep}                     
+------->  dans{P|mod}                   résultat{NC|obj}             son{DET|det}                  
+------->  évoluer{V|mod}               moteur{NC|suj}                le{DET|det}                   
+------->  évoluer{V|mod}               moteur{NC|suj}                de{P|dep}                     
+86|492)
+------->  de{P+D|dep}                   moteur{NC|obj}                de{P|dep}                     
+------->  paradoxe{NC|suj}              moteur{NC|mod}                le{DET|det}                   
+------->  paradoxe{NC|suj}              moteur{NC|mod}                de{P|dep}                     
+------->  dans{P|mod}                   résultat{NC|obj}             son{DET|det}                  
+------->  évoluer{V|mod}               moteur{NC|suj}                le{DET|det}                   
+------->  évoluer{V|mod}               moteur{NC|suj}                de{P|dep}                     
+87|493)
+------->  être{V|root}                 moteur{NC|mod}                de{DET|det}                   
+------->  être{V|root}                 moteur{NC|mod}                percevoir{VPP|mod}            
+------->  opposer{V|mod_rel}            moteur{NC|suj}                le{DET|det}                   
+------->  opposer{V|mod_rel}            moteur{NC|suj}                de{P|dep}                     
+------->  pour{P|mod}                   raison{NC|obj}                de{DET|det}                   
+------->  pour{P|mod}                   raison{NC|obj}                de{P|dep}                     
+88|493)
+------->  être{V|root}                 moteur{NC|mod}                de{DET|det}                   
+------->  être{V|root}                 moteur{NC|mod}                percevoir{VPP|mod}            
+------->  opposer{V|mod_rel}            moteur{NC|suj}                le{DET|det}                   
+------->  opposer{V|mod_rel}            moteur{NC|suj}                de{P|dep}                     
+------->  pour{P|mod}                   raison{NC|obj}                de{DET|det}                   
+------->  pour{P|mod}                   raison{NC|obj}                de{P|dep}                     
+89|493)
+------->  être{V|root}                 moteur{NC|mod}                de{DET|det}                   
+------->  être{V|root}                 moteur{NC|mod}                percevoir{VPP|mod}            
+------->  opposer{V|mod_rel}            moteur{NC|suj}                le{DET|det}                   
+------->  opposer{V|mod_rel}            moteur{NC|suj}                de{P|dep}                     
+------->  pour{P|mod}                   raison{NC|obj}                de{DET|det}                   
+------->  pour{P|mod}                   raison{NC|obj}                de{P|dep}                     
+90|496)
+------->  de{P+D|dep}                   moteur{NC|obj}                de{P|dep}                     
+91|497)
+92|499)
+------->  de{P+D|dep}                   moteur{NC|obj}                de{P|dep}                     
+------->  améliorer{VINF|obj}          moteur{NC|obj}                le{DET|det}                   
+------->  améliorer{VINF|obj}          moteur{NC|obj}                de{P|dep}                     
+93|499)
+------->  de{P+D|dep}                   moteur{NC|obj}                de{P|dep}                     
+------->  améliorer{VINF|obj}          moteur{NC|obj}                le{DET|det}                   
+------->  améliorer{VINF|obj}          moteur{NC|obj}                de{P|dep}                     
+94|499)
+------->  de{P+D|dep}                   moteur{NC|obj}                de{P|dep}                     
+------->  améliorer{VINF|obj}          moteur{NC|obj}                le{DET|det}                   
+------->  améliorer{VINF|obj}          moteur{NC|obj}                de{P|dep}                     
+95|500)
+------->  ressembler{V|root}            moteur{NC|obj}                le{DET|det}                   
+------->  ressembler{V|root}            moteur{NC|obj}                de{P+D|dep}                   
+96|501)
+------->  complément{NC|suj}           moteur{NC|mod}                de{P|dep}                     
+------->  de{P+D|dep}                   moteur{NC|obj}                de{P|dep}                     
+97|501)
+------->  complément{NC|suj}           moteur{NC|mod}                de{P|dep}                     
+------->  de{P+D|dep}                   moteur{NC|obj}                de{P|dep}                     
+98|502)
+------->  cohabiter{V|root}             moteur{NC|mod}                le{DET|det}                   
+------->  cohabiter{V|root}             moteur{NC|mod}                Internet{NPP|mod}             
+99|502)
+------->  cohabiter{V|root}             moteur{NC|mod}                le{DET|det}                   
+------->  cohabiter{V|root}             moteur{NC|mod}                Internet{NPP|mod}             
+100|503)
+101|511)
+------->  donner{V|mod}                 effet{NC|obj}                 de{DET|det}                   
+------->  donner{V|mod}                 effet{NC|obj}                 dur{ADJ|mod}                  
+102|520)
+------->  à{P+D|a_obj}                 produit{NC|obj}               vendre{VPP|mod}               
+103|522)
+------->  explorer{VINF|obj}            effet{NC|obj}                 de{DET|det}                   
+104|524)
+------->  environnement{NC|obj}         effet{NC|mod}                 de{P|dep}                     
+105|541)
+------->  de{P|de_obj}                  produit{NC|obj}               chimique{ADJ|mod}             
+106|561)
+107|569)
+------->  à{P|mod}                     raison{NC|obj}                de{P|dep}                     
+------->  avoir{VINF|obj}               résultat{NC|obj}             un{DET|det}                   
+------->  avoir{VINF|obj}               résultat{NC|obj}             bon{ADJ|mod}                  
+108|569)
+------->  à{P|mod}                     raison{NC|obj}                de{P|dep}                     
+------->  avoir{VINF|obj}               résultat{NC|obj}             un{DET|det}                   
+------->  avoir{VINF|obj}               résultat{NC|obj}             bon{ADJ|mod}                  
+109|581)
+------->  pour{P|arg}                   raison{NC|obj}                de{DET|det}                   
+------->  pour{P|arg}                   raison{NC|obj}                de{P|dep}                     
+110|584)
+111|588)
+112|590)
+------->  changer{V|mod}                moteur{NC|suj}                le{DET|det}                   
+113|590)
+------->  changer{V|mod}                moteur{NC|suj}                le{DET|det}                   
+114|592)
+------->  en{P|ats}                     comparaison{NC|obj}           de{P|dep}                     
+115|598)
+------->  avec{P|mod}                   motif{NC|obj}                 un{DET|det}                   
+------->  avec{P|mod}                   motif{NC|obj}                 émailler{VPP|mod}            
+116|612)
+117|628)
+------->  dans{P|dep}                   source{NC|obj}                le{DET|det}                   
+118|630)
+------->  de{P|dep}                     source{NC|obj}                attoseconde{NC|mod}           
+119|631)
+120|632)
+------->  de{P|dep}                     effet{NC|obj}                 de{P|dep}                     
+121|640)
+122|643)
+123|644)
+124|646)
+------->  de{P+D|dep}                   produit{NC|obj}               de{P|dep}                     
+125|660)
+126|681)
+127|684)
+------->  par{P|p_obj}                  moteur{NC|obj}                son{DET|det}                  
+128|688)
+129|689)
+------->  être{V|root}                 moteur{NC|mod}                le{DET|det}                   
+130|690)
+------->  sur{P|mod}                    moteur{NC|obj}                le{DET|det}                   
+131|697)
+132|699)
+------->  numéro{NC|obj}               produit{NC|mod}               son{DET|det}                  
+------->  numéro{NC|obj}               produit{NC|mod}               autre{ADJ|mod}                
+133|702)
+------->  en_fonction_de{P|mod}         ressource{NC|obj}             de{P+D|dep}                   
+134|714)
+------->  présenter{VPP|root}          résultat{NC|obj}             le{DET|det}                   
+------->  présenter{VPP|root}          résultat{NC|obj}             de{P|dep}                     
+135|718)
+136|722)
+137|727)
+------->  prendre{V|obj}                source{NC|obj}                le{DET|det}                   
+------->  prendre{V|obj}                source{NC|obj}                de{P|dep}                     
+138|732)
+139|738)
+------->  en{P|mod}                     effet{NC|obj}                 inaugurer{VPP|mod}            
+140|746)
+------->  par_rapport_à{P|mod}         facteur{NC|obj}               de{DET|det}                   
+------->  par_rapport_à{P|mod}         facteur{NC|obj}               définir{VPP|mod}             
+------->  par_rapport_à{P|mod}         facteur{NC|obj}               température{NC|mod}          
+------->  par_rapport_à{P|mod}         facteur{NC|obj}               lumière{NC|mod}              
+------->  par_rapport_à{P|mod}         facteur{NC|obj}               etc.{ADV|mod}                 
+141|769)
+------->  appeler{V|root}               suite{NC|mod}                 un{DET|det}                   
+------->  appeler{V|root}               suite{NC|mod}                 finir{VPP|mod}                
+------->  appeler{V|root}               suite{NC|mod}                 ordonner{VPP|mod}             
+142|780)
+143|786)
+------->  525I{NC|obj}                  moteur{NC|mod}                casser{ADJ|mod}               
+------->  tourner{V|mod}                moteur{NC|suj}                le{DET|det}                   
+144|786)
+------->  525I{NC|obj}                  moteur{NC|mod}                casser{ADJ|mod}               
+------->  tourner{V|mod}                moteur{NC|suj}                le{DET|det}                   
+145|787)
+------->  signer{V|mod}                 impact{NC|obj}                le{DET|det}                   
+------->  signer{V|mod}                 impact{NC|obj}                de{P+D|dep}                   
+------->  signer{V|mod}                 impact{NC|obj}                sur{P|dep}                    
+------->  pour{P|mod}                   produit{NC|obj}               le{DET|det}                   
+------->  pour{P|mod}                   produit{NC|obj}               bio{ADJ|mod}                  
+146|787)
+------->  signer{V|mod}                 impact{NC|obj}                le{DET|det}                   
+------->  signer{V|mod}                 impact{NC|obj}                de{P+D|dep}                   
+------->  signer{V|mod}                 impact{NC|obj}                sur{P|dep}                    
+------->  pour{P|mod}                   produit{NC|obj}               le{DET|det}                   
+------->  pour{P|mod}                   produit{NC|obj}               bio{ADJ|mod}                  
+147|788)
+------->  fabriquer{VPR|mod}            produit{NC|obj}               de{DET|det}                   
+------->  fabriquer{VPR|mod}            produit{NC|obj}               étiqueter{VPP|mod}           
+148|789)
+------->  de{P+D|dep}                   effet{NC|obj}                 de{P|dep}                     
+149|790)
+------->  choisir{VINF|dep_coord}       produit{NC|obj}               un{DET|det}                   
+------->  choisir{VINF|dep_coord}       produit{NC|obj}               de{P|dep}                     
+150|791)
+------->  contre{P|mod}                 effet{NC|obj}                 le{DET|det}                   
+------->  contre{P|mod}                 effet{NC|obj}                 pervers{ADJ|mod}              
+------->  contre{P|mod}                 effet{NC|obj}                 lier{VPP|mod}                 
+151|801)
+------->  être{VS|mod_rel}             résultat{NC|suj}             le{DET|det}                   
+------->  être{VS|mod_rel}             résultat{NC|suj}             de{P|dep}                     
+152|802)
+153|811)
+154|816)
+------->  autour_de{P|dep}              moteur{NC|obj}                un{DET|det}                   
+155|820)
+------->  sur{P|dep}                    moteur{NC|obj}                le{DET|det}                   
+156|822)
+157|828)
+158|858)
+159|862)
+------->  York{NPP|mod}                 source{NC|root}               université{NC|mod}           
+------->  York{NPP|mod}                 source{NC|root}               de{P|dep}                     
+160|874)
+161|879)
+------->  obtenir{V|obj}                résultat{NC|obj}             un{DET|det}                   
+------->  obtenir{V|obj}                résultat{NC|obj}             identique{ADJ|mod}            
+162|880)
+------->  améliorer{VPP|mod}           résultat{NC|obj}             son{DET|det}                  
+163|891)
+------->  de{P|dep}                     fruit{NC|obj}                 alcooliser{ADJ|mod}           
+164|892)
+165|895)
+166|915)
+167|929)
+------->  avec{P|mod}                   produit{NC|obj}               de{DET|det}                   
+------->  avec{P|mod}                   produit{NC|obj}               bio{ADJ|mod}                  
+------->  avec{P|mod}                   produit{NC|obj}               par{P|dep}                    
+------->  avec{P|mod}                   produit{NC|obj}               commentaire{NC|mod}           
+168|930)
+------->  A{P|mod}                      poursuite{NC|obj}             le{DET|det}                   
+------->  A{P|mod}                      poursuite{NC|obj}             de{P+D|dep}                   
+------->  A{P|mod}                      poursuite{NC|obj}             par{P|dep}                    
+169|936)
+170|937)
+------->  ce{PRO|root}                  produire{V|mod_rel}           qui{PROREL|suj}               
+------->  ce{PRO|root}                  produire{V|mod_rel}           se{CLR|aff}                   
+------->  ce{PRO|root}                  produire{V|mod_rel}           régulièrement{ADV|mod}      
+------->  ce{PRO|root}                  produire{V|mod_rel}           quand{CS|mod}                 
+171|954)
+------->  à{P|mod}                     livraison{NC|obj}             chaque{DET|det}               
+------->  à{P|mod}                     livraison{NC|obj}             de{P|dep}                     
+172|960)
+173|962)
+------->  accoupler{VPP|root}           moteur{NC|suj}                son{DET|det}                  
+------->  accoupler{VPP|root}           moteur{NC|suj}                sonore{ADJ|mod}               
+174|963)
+------->  payer{VINF|obj}               moteur{NC|mod}                un{DET|det}                   
+------->  payer{VINF|obj}               moteur{NC|mod}                de{P|dep}                     
+175|964)
+------->  être{V|root}                 moteur{NC|suj}                son{DET|det}                  
+176|971)
+------->  être{V|root}                 moteur{NC|suj}                le{DET|det}                   
+177|972)
+------->  chaud{ADJ|mod}                moteur{ADJ|mod}               surtout{ADV|mod}              
+178|973)
+------->  plier{V|root}                 moteur{NC|suj}                le{DET|det}                   
+179|976)
+180|980)
+------->  à_partir_de{P|mod}           source{NC|obj}                LaTeX{NPP|mod}                
+181|981)
+------->  dans{P|mod}                   source{NC|obj}                le{DET|det}                   
+------->  dans{P|mod}                   source{NC|obj}                LaTeX{NPP|mod}                
+------->  dans{P|mod}                   source{NC|obj}                de{P+D|dep}                   
+182|982)
+------->  utiliser{VINF|obj}            produire{V|mod}               qui{PROREL|suj}               
+------->  utiliser{VINF|obj}            produire{V|mod}               document{NC|obj}              
+------->  utiliser{VINF|obj}            produire{V|mod}               pour{P|mod}                   
+------->  utiliser{VINF|obj}            produire{V|mod}               que{CS|obj}                   
+183|982)
+------->  utiliser{VINF|obj}            produire{V|mod}               qui{PROREL|suj}               
+------->  utiliser{VINF|obj}            produire{V|mod}               document{NC|obj}              
+------->  utiliser{VINF|obj}            produire{V|mod}               pour{P|mod}                   
+------->  utiliser{VINF|obj}            produire{V|mod}               que{CS|obj}                   
+184|983)
+------->  transformer{VINF|obj}         source{NC|obj}                un{DET|det}                   
+------->  transformer{VINF|obj}         source{NC|obj}                LaTeX{NPP|mod}                
+185|985)
+------->  obtenir{VINF|obj}             résultat{NC|obj}             un{DET|det}                   
+------->  obtenir{VINF|obj}             résultat{NC|obj}             particulier{ADJ|mod}          
+186|989)
+------->  depuis{P|mod}                 source{NC|obj}                le{DET|det}                   
+------->  depuis{P|mod}                 source{NC|obj}                LaTeX{NPP|mod}                
+187|996)
+188|997)
+189|1017)
+------->  de{P|dep}                     origine{NC|obj}               de{P+D|dep}                   
+190|1018)
+191|1022)
+192|1038)
+193|1040)
+------->  montrer{V|root}               résultat{NC|suj}             un{DET|det}                   
+------->  montrer{V|root}               résultat{NC|suj}             bon{ADJ|mod}                  
+------->  montrer{V|root}               résultat{NC|suj}             en{P|dep}                     
+------->  montrer{V|root}               résultat{NC|suj}             à_partir_de{P|dep}           
+------->  montrer{V|root}               résultat{NC|obj}             un{DET|det}                   
+------->  montrer{V|root}               résultat{NC|obj}             bon{ADJ|mod}                  
+194|1040)
+------->  montrer{V|root}               résultat{NC|suj}             un{DET|det}                   
+------->  montrer{V|root}               résultat{NC|suj}             bon{ADJ|mod}                  
+------->  montrer{V|root}               résultat{NC|suj}             en{P|dep}                     
+------->  montrer{V|root}               résultat{NC|suj}             à_partir_de{P|dep}           
+------->  montrer{V|root}               résultat{NC|obj}             un{DET|det}                   
+------->  montrer{V|root}               résultat{NC|obj}             bon{ADJ|mod}                  
+195|1041)
+------->  pouvoir{V|root}               résultat{NC|suj}             le{DET|det}                   
+196|1044)
+------->  médecine{NC|obj}             produit{NC|mod}               nombre_de{DET|det}            
+197|1046)
+------->  de{P+D|dep}                   résultat{NC|obj}             clinique{ADJ|mod}             
+------->  de{P+D|dep}                   résultat{NC|obj}             positif{ADJ|mod}              
+198|1050)
+------->  être{V|obj}                  comparaison{NC|suj}           le{DET|det}                   
+------->  comme{P|ats}                  moteur{NC|obj}                un{DET|det}                   
+------->  comme{P|ats}                  moteur{NC|obj}                aller{V|mod_rel}              
+199|1050)
+------->  être{V|obj}                  comparaison{NC|suj}           le{DET|det}                   
+------->  comme{P|ats}                  moteur{NC|obj}                un{DET|det}                   
+------->  comme{P|ats}                  moteur{NC|obj}                aller{V|mod_rel}              
+200|1052)
+------->  produire{V|dep_coord}         effet{NC|obj}                 aucun{DET|det}                
+------->  produire{V|dep_coord}         effet{NC|obj}                 bénéfique{ADJ|mod}          
+201|1058)
+------->  attibue{NC|obj}               cause{NC|mod}                 principal{ADJ|mod}            
+202|1058)
+------->  attibue{NC|obj}               cause{NC|mod}                 principal{ADJ|mod}            
+203|1061)
+------->  pour{P|dep_coord}             suite{NC|obj}                 tout{ADJ|mod}                 
+------->  pour{P|dep_coord}             suite{NC|obj}                 le{DET|det}                   
+------->  pour{P|dep_coord}             suite{NC|obj}                 paraître{V|mod_rel}          
+204|1061)
+------->  pour{P|dep_coord}             suite{NC|obj}                 tout{ADJ|mod}                 
+------->  pour{P|dep_coord}             suite{NC|obj}                 le{DET|det}                   
+------->  pour{P|dep_coord}             suite{NC|obj}                 paraître{V|mod_rel}          
+205|1065)
+------->  sur{P|mod}                    issue{NC|obj}                 le{DET|det}                   
+------->  sur{P|mod}                    issue{NC|obj}                 de{P|dep}                     
+206|1066)
+207|1070)
+------->  être{V|root}                 résultat{NC|suj}             le{DET|det}                   
+208|1077)
+------->  de{P|dep}                     résultat{NC|obj}             son{DET|det}                  
+209|1082)
+210|1095)
+------->  à{P|mod}                     effet{NC|obj}                 de{P|dep}                     
+211|1098)
+212|1101)
+213|1126)
+214|1130)
+------->  certifier{VPP|root}           produit{NC|suj}               tout{ADJ|mod}                 
+------->  certifier{VPP|root}           produit{NC|suj}               le{DET|det}                   
+------->  certifier{VPP|root}           produit{NC|suj}               Imaje{ADJ|mod}                
+------->  certifier{VPP|root}           produit{NC|suj}               fabriquer{VPP|mod}            
+215|1132)
+216|1135)
+217|1157)
+------->  au-delà_de{P|mod}            poursuite{NC|obj}             le{DET|det}                   
+------->  au-delà_de{P|mod}            poursuite{NC|obj}             de{P+D|dep}                   
+218|1162)
+------->  thèse{NC|root}               résultat{NC|mod}             quelque{DET|det}              
+------->  thèse{NC|root}               résultat{NC|mod}             empirique{ADJ|mod}            
+219|1165)
+------->  sur{P|dep}                    moteur{NC|obj}                le{DET|det}                   
+------->  sur{P|dep}                    moteur{NC|obj}                de{P+D|dep}                   
+220|1167)
+------->  de{P+D|dep}                   produit{NC|obj}               internet{NC|mod}              
+221|1168)
+------->  mesurer{VINF|dep_coord}       impact{NC|obj}                le{DET|det}                   
+------->  mesurer{VINF|dep_coord}       impact{NC|obj}                de{P|dep}                     
+222|1171)
+------->  figure{NC|suj}                comparaison{NC|mod}           un{DET|det}                   
+------->  figure{NC|suj}                comparaison{NC|mod}           avec{P|dep}                   
+223|1173)
+------->  faciliter{VINF|obj}           comparaison{NC|obj}           le{DET|det}                   
+------->  faciliter{VINF|obj}           comparaison{NC|obj}           de{P+D|dep}                   
+------->  régime{NC|obj}               produire{V|mod_rel}           qui{PROREL|suj}               
+------->  régime{NC|obj}               produire{V|mod_rel}           La3{NC|obj}                   
+------->  régime{NC|obj}               produire{V|mod_rel}           en{P|mod}                     
+------->  régime{NC|obj}               produire{V|mod_rel}           à{P|mod}                     
+------->  régime{NC|obj}               produire{V|mod_rel}           dans{P|mod}                   
+224|1173)
+------->  faciliter{VINF|obj}           comparaison{NC|obj}           le{DET|det}                   
+------->  faciliter{VINF|obj}           comparaison{NC|obj}           de{P+D|dep}                   
+------->  régime{NC|obj}               produire{V|mod_rel}           qui{PROREL|suj}               
+------->  régime{NC|obj}               produire{V|mod_rel}           La3{NC|obj}                   
+------->  régime{NC|obj}               produire{V|mod_rel}           en{P|mod}                     
+------->  régime{NC|obj}               produire{V|mod_rel}           à{P|mod}                     
+------->  régime{NC|obj}               produire{V|mod_rel}           dans{P|mod}                   
+225|1175)
+------->  rendre{V|root}                facteur{NC|suj}               ce{DET|det}                   
+------->  rendre{V|root}                facteur{NC|suj}               seul{ADJ|mod}                 
+226|1185)
+------->  avoir{V|mod_rel}              effet{NC|obj}                 de{DET|det}                   
+------->  avoir{V|mod_rel}              effet{NC|obj}                 coopératif{ADJ|mod}          
+------->  avoir{V|mod_rel}              effet{NC|obj}                 détectable{ADJ|mod}          
+------->  avoir{V|mod_rel}              effet{NC|obj}                 de{P+D|dep}                   
+227|1198)
+------->  sans{P|dep_coord}             effet{NC|obj}                 aucun{DET|det}                
+------->  sans{P|dep_coord}             effet{NC|obj}                 coopératif{ADJ|mod}          
+------->  sans{P|dep_coord}             effet{NC|obj}                 de{P+D|dep}                   
+228|1202)
+------->  pour{P|mod}                   résultat{NC|obj}             un{DET|det}                   
+------->  pour{P|mod}                   résultat{NC|obj}             musical{ADJ|mod}              
+------->  pour{P|mod}                   résultat{NC|obj}             trompette{NC|mod}             
+229|1215)
+230|1222)
+------->  être{V|root}                 moteur{NC|suj}                le{DET|det}                   
+------->  être{V|root}                 moteur{NC|suj}                KR{NPP|mod}                   
+231|1226)
+232|1227)
+233|1243)
+------->  relater{VINF|obj}             cause{NC|obj}                 le{DET|det}                   
+------->  relater{VINF|obj}             cause{NC|obj}                 de{P|dep}                     
+234|1253)
+235|1254)
+236|1259)
+------->  de{P+D|dep}                   origine{NC|obj}               A{P|mod}                      
+------->  Ville{NC|suj}                 origine{NC|mod}               le{DET|det}                   
+------->  Ville{NC|suj}                 origine{NC|mod}               de{P|dep}                     
+237|1259)
+------->  de{P+D|dep}                   origine{NC|obj}               A{P|mod}                      
+------->  Ville{NC|suj}                 origine{NC|mod}               le{DET|det}                   
+------->  Ville{NC|suj}                 origine{NC|mod}               de{P|dep}                     
+238|1260)
+------->  par{P|p_obj}                  résultat{NC|obj}             le{DET|det}                   
+------->  par{P|p_obj}                  résultat{NC|obj}             de{P+D|dep}                   
+239|1281)
+------->  dans{P|dep_coord}             motif{NC|obj}                 de{DET|det}                   
+------->  dans{P|dep_coord}             motif{NC|obj}                 abstraire{ADJ|mod}            
+------->  dans{P|dep_coord}             motif{NC|obj}                 décoratif{ADJ|mod}           
+240|1286)
+------->  Caudry{NPP|root}              produire{VPP|mod}             sous{P|mod}                   
+241|1288)
+------->  de{P|dep}                     produit{NC|obj}               un{DET|det}                   
+------->  de{P|dep}                     produit{NC|obj}               raffiner{ADJ|mod}             
+242|1289)
+243|1309)
+------->  Méditerranée{NPP|obj}       source{NC|mod}                un{DET|det}                   
+------->  Méditerranée{NPP|obj}       source{NC|mod}                de{P|dep}                     
+244|1321)
+------->  être{V|root}                 raison{NC|suj}                un{DET|det}                   
+------->  être{V|root}                 raison{NC|suj}                bon{ADJ|mod}                  
+------->  être{V|root}                 raison{NC|suj}                pour{P|dep}                   
+245|1335)
+246|1352)
+------->  pour{P|mod}                   raison{NC|obj}                ce{DET|det}                   
+------->  pour{P|mod}                   raison{NC|obj}                avoir{V|mod_rel}              
+247|1357)
+248|1363)
+249|1364)
+------->  intégrer{VPR|mod}            moteur{NC|obj}                le{DET|det}                   
+------->  intégrer{VPR|mod}            moteur{NC|obj}                de{P|dep}                     
+------->  sur{P|mod}                    moteur{NC|obj}                le{DET|det}                   
+------->  sur{P|mod}                    moteur{NC|obj}                de{P|dep}                     
+250|1364)
+------->  intégrer{VPR|mod}            moteur{NC|obj}                le{DET|det}                   
+------->  intégrer{VPR|mod}            moteur{NC|obj}                de{P|dep}                     
+------->  sur{P|mod}                    moteur{NC|obj}                le{DET|det}                   
+------->  sur{P|mod}                    moteur{NC|obj}                de{P|dep}                     
+251|1373)
+------->  choisir{VINF|dep_coord}       produit{NC|obj}               un{DET|det}                   
+------->  choisir{VINF|dep_coord}       produit{NC|obj}               de{P|dep}                     
+252|1375)
+------->  choisir{VINF|dep_coord}       produit{NC|obj}               un{DET|det}                   
+------->  choisir{VINF|dep_coord}       produit{NC|obj}               de{P|dep}                     
+253|1378)
+------->  choisir{VINF|dep_coord}       produit{NC|obj}               un{DET|det}                   
+------->  choisir{VINF|dep_coord}       produit{NC|obj}               de{P|dep}                     
+254|1386)
+255|1402)
+256|1409)
+------->  améliorer{V|mod_rel}         facteur{NC|obj}               le{DET|det}                   
+------->  améliorer{V|mod_rel}         facteur{NC|obj}               solaire{ADJ|mod}              
+------->  améliorer{V|mod_rel}         facteur{NC|obj}               de{P+D|dep}                   
+257|1444)
+258|1451)
+259|1453)
+260|1454)
+------->  rendre{VINF|obj}              effet{NC|obj}                 le{DET|det}                   
+------->  rendre{VINF|obj}              effet{NC|obj}                 de{P|dep}                     
+261|1457)
+262|1466)
+263|1474)
+------->  à{P|mod}                     origine{NC|obj}               le{DET|det}                   
+264|1490)
+265|1493)
+266|1498)
+267|1502)
+268|1506)
+269|1510)
+270|1532)
+------->  simplifier{V|root}            motif{NC|obj}                 le{DET|det}                   
+271|1540)
+------->  réussir{VPP|root}            résultat{NC|mod}             NBC{NPP|mod}                  
+------->  réussir{VPP|root}            résultat{NC|mod}             pour_l'instant{ADV|mod}       
+272|1545)
+------->  par{P|dep}                    motif{NC|obj}                 Cours{NPP|mod}                
+273|1545)
+------->  par{P|dep}                    motif{NC|obj}                 Cours{NPP|mod}                
+274|1559)
+------->  pour{P|mod}                   raison{NC|obj}                de{DET|det}                   
+------->  pour{P|mod}                   raison{NC|obj}                particulier{ADJ|mod}          
+275|1568)
+------->  avec{P|mod}                   moteur{NC|obj}                un{DET|det}                   
+------->  avec{P|mod}                   moteur{NC|obj}                présent{ADJ|mod}             
+276|1575)
+------->  décomposer{V|root}           suite{NC|mod}                 à{P|dep}                     
+277|1600)
+------->  toucher{VINF|dep}             motif{NC|mod}                 discret{ADJ|mod}              
+------->  toucher{VINF|dep}             motif{NC|mod}                 façon{NC|mod}                
+278|1601)
+------->  avoir{V|root}                 raison{NC|obj}                aucun{DET|det}                
+------->  avoir{V|root}                 raison{NC|obj}                de{P|dep}                     
+279|1604)
+------->  sans{P|dep}                   raison{NC|obj}                apparent{ADJ|mod}             
+280|1626)
+------->  voilà{V|mod}                 résultat{NC|suj}             le{DET|det}                   
+281|1629)
+------->  amplitude{NC|suj}             facteur{NC|mod}               de{P|dep}                     
+------->  être{V|mod}                  facteur{NC|ats}               le{DET|det}                   
+------->  être{V|mod}                  facteur{NC|ats}               de{P|dep}                     
+282|1629)
+------->  amplitude{NC|suj}             facteur{NC|mod}               de{P|dep}                     
+------->  être{V|mod}                  facteur{NC|ats}               le{DET|det}                   
+------->  être{V|mod}                  facteur{NC|ats}               de{P|dep}                     
+283|1631)
+------->  être{V|root}                 facteur{NC|ats}               le{DET|det}                   
+------->  être{V|root}                 facteur{NC|ats}               de{P|dep}                     
+284|1633)
+------->  de{P|dep}                     livraison{NC|obj}             de{P|dep}                     
+285|1662)
+------->  à{P|ats}                     origine{NC|obj}               le{DET|det}                   
+286|1664)
+------->  dans{P|mod}                   suite{NC|obj}                 le{DET|det}                   
+------->  sous_forme_de{P|mod}          produit{NC|obj}               de{P|dep}                     
+287|1664)
+------->  dans{P|mod}                   suite{NC|obj}                 le{DET|det}                   
+------->  sous_forme_de{P|mod}          produit{NC|obj}               de{P|dep}                     
+288|1673)
+289|1680)
+------->  pour{P|mod}                   produit{NC|obj}               le{DET|det}                   
+------->  pour{P|mod}                   produit{NC|obj}               liquide{ADJ|mod}              
+------->  pour{P|mod}                   produit{NC|obj}               conclure{V|mod}               
+290|1681)
+------->  éliminer{V|dep_coord}        source{NC|obj}                le{DET|det}                   
+------->  éliminer{V|dep_coord}        source{NC|obj}                lumineux{ADJ|mod}             
+------->  éliminer{V|dep_coord}        source{NC|obj}                fort{ADJ|mod}                 
+291|1698)
+------->  disparaître{VINF|root}       produit{NC|suj}               de{DET|det}                   
+------->  disparaître{VINF|root}       produit{NC|suj}               transgénique{ADJ|mod}        
+292|1700)
+------->  amener{VINF|obj}              par_la_suite{ADV|mod}         progressivement{ADV|mod}      
+293|1703)
+------->  de{P|dep}                     origine{NC|obj}               humain{ADJ|mod}               
+294|1709)
+295|1710)
+296|1711)
+------->  lire{VINF|root}               suite{NC|obj}                 le{DET|det}                   
+297|1713)
+------->  lire{VINF|root}               suite{NC|obj}                 le{DET|det}                   
+298|1715)
+------->  lire{VINF|root}               suite{NC|obj}                 le{DET|det}                   
+299|1717)
+------->  lire{VINF|root}               suite{NC|obj}                 le{DET|det}                   
+300|1731)
+301|1758)
+------->  à{P|mod}                     raison{NC|obj}                de{P|dep}                     
+302|1762)
+------->  pour{P|mod}                   motif{NC|obj}                 un{DET|det}                   
+------->  pour{P|mod}                   motif{NC|obj}                 précis{ADJ|mod}              
+303|1778)
+------->  pour{P|dep}                   raison{NC|obj}                de{DET|det}                   
+------->  pour{P|dep}                   raison{NC|obj}                de{P|dep}                     
+304|1779)
+------->  à{P|mod}                     effet{NC|obj}                 ce{DET|det}                   
+305|1791)
+306|1793)
+------->  pour{P|mod}                   raison{NC|obj}                de{DET|det}                   
+------->  pour{P|mod}                   raison{NC|obj}                de{P|dep}                     
+307|1798)
+308|1800)
+309|1801)
+------->  rechercher{V|mod_rel}         origine{NC|obj}               son{DET|det}                  
+310|1844)
+------->  glucose{NC|obj}               source{NC|mod}                de{P|dep}                     
+311|1845)
+------->  ce{PRO|ats}                   produire{V|mod_rel}           qui{PROREL|suj}               
+------->  ce{PRO|ats}                   produire{V|mod_rel}           se{CLR|aff}                   
+------->  ce{PRO|ats}                   produire{V|mod_rel}           lors_de{P|mod}                
+312|1847)
+------->  à{P|dep}                     source{NC|obj}                d'autres{DET|det}             
+------->  à{P|dep}                     source{NC|obj}                de{P|dep}                     
+313|1848)
+------->  lactate{NC|obj}               produit{NC|mod}               de{P|dep}                     
+314|1849)
+------->  lactate{NC|suj}               produire{VPP|mod}             ainsi{ADV|mod}                
+315|1850)
+316|1858)
+------->  quand{CS|root}                produire{V|obj}               cln{CLS|suj}                  
+------->  quand{CS|root}                produire{V|obj}               beaucoup{ADV|mod}             
+------->  quand{CS|root}                produire{V|obj}               de{P|de_obj}                  
+317|1860)
+318|1862)
+------->  concerner{V|root}             résultat{NC|obj}             le{DET|det}                   
+------->  concerner{V|root}             résultat{NC|obj}             de{P|dep}                     
+319|1866)
+320|1869)
+------->  permettre{V|root}             facteur{NC|suj}               de{P|dep}                     
+------->  permettre{V|root}             facteur{NC|suj}               vitesse{NC|mod}               
+------->  permettre{V|root}             facteur{NC|suj}               entraînement{NC|mod}         
+------->  permettre{V|root}             facteur{NC|suj}               à{P|dep}                     
+------->  permettre{V|root}             facteur{NC|suj}               travail{NC|mod}               
+------->  permettre{V|root}             facteur{NC|suj}               avec{P|dep}                   
+321|1869)
+------->  permettre{V|root}             facteur{NC|suj}               de{P|dep}                     
+------->  permettre{V|root}             facteur{NC|suj}               vitesse{NC|mod}               
+------->  permettre{V|root}             facteur{NC|suj}               entraînement{NC|mod}         
+------->  permettre{V|root}             facteur{NC|suj}               à{P|dep}                     
+------->  permettre{V|root}             facteur{NC|suj}               travail{NC|mod}               
+------->  permettre{V|root}             facteur{NC|suj}               avec{P|dep}                   
+322|1871)
+------->  pouvoir{V|root}               comparaison{NC|suj}           le{DET|det}                   
+------->  pouvoir{V|root}               comparaison{NC|suj}           de{P+D|dep}                   
+------->  pouvoir{V|root}               comparaison{NC|suj}           avec{P|dep}                   
+323|1874)
+324|1874)
+325|1884)
+------->  technologie{NC|obj}           effet{NC|mod}                 lumière{NC|mod}              
+326|1886)
+------->  géantesâ¦{P|mod}         livraison{NC|obj}             Bretagne{NPP|mod}             
+327|1887)
+------->  géantesâ¦{P|mod}         livraison{NC|obj}             Bretagne{NPP|mod}             
+328|1888)
+------->  géantesâ¦{P|mod}         livraison{NC|obj}             Bretagne{NPP|mod}             
+329|1906)
+------->  de{P|dep}                     origine{NC|obj}               russe{ADJ|mod}                
+330|1907)
+------->  attendre{VINF|obj}            résultat{NC|obj}             le{DET|det}                   
+------->  attendre{VINF|obj}            résultat{NC|obj}             de{P+D|dep}                   
+331|1924)
+332|1926)
+------->  de{P|dep}                     moteur{NC|obj}                plus{ADV|mod}                 
+------->  de{P|dep}                     moteur{NC|obj}                1{DET|det}                    
+------->  de{P|dep}                     moteur{NC|obj}                autre{ADJ|mod}                
+333|1927)
+334|1929)
+------->  mobylette{NC|suj}             cause{NC|mod}                 décès{NC|mod}               
+335|1929)
+------->  mobylette{NC|suj}             cause{NC|mod}                 décès{NC|mod}               
+336|1930)
+------->  mobylette{NC|mod}             cause{NC|mod}                 déce{ADJ|mod}                
+------->  vendre{V|root}                cause{NC|obj}                 décé{VPP|mod}               
+337|1930)
+------->  mobylette{NC|mod}             cause{NC|mod}                 déce{ADJ|mod}                
+------->  vendre{V|root}                cause{NC|obj}                 décé{VPP|mod}               
+338|1931)
+------->  compteur{NC|obj}              raison{NC|mod}                le{DET|det}                   
+339|1934)
+340|1935)
+341|1936)
+342|1939)
+343|1940)
+------->  de{P|dep}                     source{NPP|obj}               le{DET|det}                   
+------->  de{P|dep}                     source{NPP|obj}               salle{NC|mod}                 
+344|1950)
+------->  de{P+D|dep}                   facteur{NC|obj}               de{P|dep}                     
+345|1952)
+------->  être{VPP|root}               résultat{NC|suj}             Mmp-9{NPP|mod}                
+------->  être{VPP|root}               résultat{NC|suj}             latent{ADJ|mod}               
+346|1954)
+------->  identifier{V|root}            résultat{NC|suj}             ce{DET|det}                   
+347|1959)
+------->  être{V|root}                 conséquence{NC|ats}          le{DET|det}                   
+348|1988)
+349|1990)
+------->  devenir{V|root}               moteur{NC|obj}                le{DET|det}                   
+------->  devenir{V|root}               moteur{NC|obj}                de{P+D|dep}                   
+350|1999)
+351|2003)
+------->  avoir{V|root}                 conséquence{NC|obj}          de{DET|det}                   
+------->  avoir{V|root}                 conséquence{NC|obj}          psychologique{ADJ|mod}        
+------->  avoir{V|root}                 conséquence{NC|obj}          sur{P|dep}                    
+352|2004)
+------->  minimum{NC|obj}               source{NC|mod}                de{P|dep}                     
+353|2005)
+------->  agressivité{NC|obj}          source{NC|mod}                de{P|dep}                     
+354|2015)
+355|2023)
+356|2030)
+357|2033)
+358|2043)
+359|2044)
+------->  en{P|mod}                     effet{NC|obj}                 troquer{VPP|mod}              
+360|2044)
+------->  en{P|mod}                     effet{NC|obj}                 troquer{VPP|mod}              
+361|2046)
+362|2048)
+363|2050)
+------->  lancer{V|aux_tps}             produire{V|aux_tps}           Newsletter{NPP|suj}           
+------->  lancer{V|aux_tps}             produire{V|aux_tps}           de{P+D|mod}                   
+------->  lancer{V|aux_tps}             produire{V|aux_tps}           étoffer{V|mod}               
+------->  lancer{V|aux_tps}             produire{V|aux_tps}           devenir{V|aux_tps}            
+364|2051)
+------->  de{P|dep}                     résultat{NC|obj}             son{DET|det}                  
+------->  de{P|dep}                     résultat{NC|obj}             net{ADJ|mod}                  
+------->  de{P|dep}                     résultat{NC|obj}             part{NC|mod}                  
+------->  de{P|dep}                     résultat{NC|obj}             en{P|dep}                     
+365|2053)
+366|2054)
+367|2073)
+368|2081)
+369|2097)
+370|2105)
+------->  avoir{VPP|root}               résultat{NC|obj}             quelque{DET|det}              
+371|2110)
+------->  être{V|root}                 cause{NC|suj}                 le{DET|det}                   
+372|2153)
+------->  département{NC|suj}          produit{NC|mod}               le{DET|det}                   
+------->  département{NC|suj}          produit{NC|mod}               de{P|dep}                     
+373|2156)
+374|2158)
+------->  suggérer{V|root}             résultat{NC|suj}             ce{DET|det}                   
+------->  de{P|dep}                     effet{NC|obj}                 le{DET|det}                   
+------->  de{P|dep}                     effet{NC|obj}                 inhibiteur{ADJ|mod}           
+------->  de{P|dep}                     effet{NC|obj}                 de{P|dep}                     
+375|2158)
+------->  suggérer{V|root}             résultat{NC|suj}             ce{DET|det}                   
+------->  de{P|dep}                     effet{NC|obj}                 le{DET|det}                   
+------->  de{P|dep}                     effet{NC|obj}                 inhibiteur{ADJ|mod}           
+------->  de{P|dep}                     effet{NC|obj}                 de{P|dep}                     
+376|2165)
+------->  être{V|mod_rel}              résultat{NC|suj}             les{DET|det}                
+------->  être{V|mod_rel}              résultat{NC|suj}             obtenir{VPP|mod}              
+377|2173)
+378|2180)
+------->  fabriquer{V|root}             produire{V|mod}               cln{CLS|suj}                  
+379|2186)
+------->  démontrer{V|dep_coord}       résultat{NC|suj}             le{DET|det}                   
+------->  démontrer{V|dep_coord}       résultat{NC|suj}             de{P+D|dep}                   
+380|2191)
+381|2196)
+------->  manquer{VPP|root}             suite{NC|suj}                 à{P|dep}                     
+------->  manquer{VPP|root}             suite{NC|suj}                 quotidien{NC|mod}             
+382|2210)
+------->  Loïc{NPP|root}               facteur{NC|mod}               de{P|dep}                     
+383|2222)
+------->  être{V|root}                 raison{NC|ats}                le{DET|det}                   
+384|2233)
+385|2238)
+386|2242)
+------->  de{P|dep}                     origine{NC|obj}               SEAT{NPP|mod}                 
+------->  de{P|dep}                     origine{NC|obj}               respecter{V|mod_rel}          
+387|2258)
+388|2266)
+------->  à{P|mod}                     issue{NC|obj}                 le{DET|det}                   
+------->  à{P|mod}                     issue{NC|obj}                 de{P|dep}                     
+389|2268)
+390|2278)
+391|2281)
+------->  de{P|root}                    origine{NC|obj}               SEAT{NPP|mod}                 
+------->  de{P|root}                    origine{NC|obj}               sport{NC|mod}                 
+392|2300)
+------->  être{V|root}                 origine{NC|mod}               controlé{ADJ|mod}            
+393|2314)
+------->  être{V|root}                 motif{NC|ats}                 un{DET|det}                   
+------->  être{V|root}                 motif{NC|ats}                 de{P|dep}                     
+394|2330)
+395|2333)
+396|2350)
+------->  avoir{VPP|root}               effet{NC|obj}                 de{DET|det}                   
+------->  avoir{VPP|root}               effet{NC|obj}                 antitumoral{ADJ|mod}          
+------->  avoir{VPP|root}               effet{NC|obj}                 prometteur{ADJ|mod}           
+------->  avoir{VPP|root}               effet{NC|obj}                 sur{P|dep}                    
+397|2353)
+------->  avoir{V|obj}                  effet{NC|obj}                 de{DET|det}                   
+------->  avoir{V|obj}                  effet{NC|obj}                 efficace{ADJ|mod}             
+398|2356)
+------->  à{P|mod}                     origine{NC|obj}               le{DET|det}                   
+------->  à{P|mod}                     origine{NC|obj}               de{P|dep}                     
+399|2358)
+------->  avoir{V|obj}                  effet{NC|obj}                 de{DET|det}                   
+------->  avoir{V|obj}                  effet{NC|obj}                 antitumoraux{P+D|dep}         
+------->  avoir{V|obj}                  effet{NC|obj}                 additif{NC|mod}               
+------->  avoir{V|obj}                  effet{NC|obj}                 prendre{VPP|mod}              
+400|2358)
+------->  avoir{V|obj}                  effet{NC|obj}                 de{DET|det}                   
+------->  avoir{V|obj}                  effet{NC|obj}                 antitumoraux{P+D|dep}         
+------->  avoir{V|obj}                  effet{NC|obj}                 additif{NC|mod}               
+------->  avoir{V|obj}                  effet{NC|obj}                 prendre{VPP|mod}              
+401|2359)
+402|2361)
+------->  être{VPP|root}               résultat{NC|suj}             le{DET|det}                   
+403|2384)
+------->  être{VS|obj}                 cause{NC|obj}                 le{DET|det}                   
+------->  être{VS|obj}                 cause{NC|obj}                 direct{ADJ|mod}               
+404|2410)
+------->  de{P+D|dep}                   produit{NC|obj}               scalaire{NC|mod}              
+405|2410)
+------->  de{P+D|dep}                   produit{NC|obj}               scalaire{NC|mod}              

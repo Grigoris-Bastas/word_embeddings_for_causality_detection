@@ -1,0 +1,84 @@
+12|398) xxxxxxx>  lolote1958~timbre~français{NC~NC~ADJ|mod~mod~mod}		dupengfei{ADV|mod}		-{PONCT|ponct}		Causation
+
+
+------->  lolote1958~timbre~français{NC~NC~ADJ|mod~mod~mod}		dupengfei{ADV|mod}		Dominique{NPP|mod}		Causation
+
+
+------->  lolote1958~timbre~français{NC~NC~ADJ|mod~mod~mod}		dupengfei{ADV|mod}		lao{NC|obj}		Causation
+
+
+13|407) xxxxxxx>  forme~varier{NC~V|suj~root}		dur{ADJ|ats}		plus{ADV|mod}		Causation
+
+
+15|440) xxxxxxx>  effet{NC|obj}		dur{ADJ|mod}		moins{ADV|mod}		Causation
+
+
+xxxxxxx>  effet{NC|obj}		dur{ADJ|mod}		que~crayon{CS~NC|dep~obj}		Causation
+
+
+16|472) xxxxxxx>  cas~particulier{NC~ADJ|obj~mod}		reproductible{ADJ|mod}		non{ADV|mod}		Causation
+
+
+27|628) xxxxxxx>  pour{P|mod}		responsable{ADJ|obj}		de~accident{P~NC|dep~obj}		Causation
+
+
+28|629) xxxxxxx>  être~donc{V~ADV|dep_coord~mod}		responsable{ADJ|ats}		de~coma{P+D~NC|dep~obj}		Causation
+
+
+32|740) xxxxxxx>  glutamate~être{NC~V|suj~root}		responsable{ADJ|ats}		de~croissance{P~NC|dep~obj}		Causation
+
+
+33|755) $$$$$$$>  partenariat{NC|obj}		industriel{ADJ|mod}		ou{CC|coord}		Causation
+
+
+34|756) xxxxxxx>  financement{NC|obj}		conséquent{ADJ|mod}		plus{ADV|mod}		Causation
+
+
+35|804) xxxxxxx>  commentaire{NC|mod}		durable{ADJ|mod}		Développement{ADV|mod}		Causation
+
+
+39|894) xxxxxxx>  faire{VINF|obj}		séduisant{ADJ|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  faire{VINF|obj}		séduisant{ADJ|obj}		plus{ADV|mod}		Causation
+
+
+44|930) xxxxxxx>  nage~nage~4{NC~NC~ADJ|obj~mod~mod}		éducatif{ADJ|mod}		le{DET|det}		Causation
+
+
+47|1006) $$$$$$$>  développement~partout{NC~ADV|obj~mod}		durable{ADJ|mod}		et{CC|coord}		Causation
+
+
+xxxxxxx>  développement~partout{NC~ADV|obj~mod}		durable{ADJ|mod}		partout{ADV|mod}		Causation
+
+
+57|1241) xxxxxxx>  être{VPP|root}		dur{ADJ|ats}		avec{P|dep}		Causation
+
+
+58|1246) xxxxxxx>  être{VPP|mod}		dur{ADJ|ats}		avec{P|dep}		Causation
+
+
+63|1325) xxxxxxx>  latitude{NC|suj}		réduire{ADJ|mod}		d'accord{ADV|mod}		Causation
+
+
+68|1420) xxxxxxx>  choix{NC|ats}		séduisant{ADJ|mod}		vraiment{ADV|mod}		Causation
+
+
+69|1455) xxxxxxx>  vote~être~dernier{NC~V~ADJ|suj~root~mod}		dur{ADJ|ats}		un_peu{ADV|mod}		Causation
+
+
+76|1628) xxxxxxx>  foyer~association{NC~NC|obj~mod}		éducatif{ADJ|mod}		socio-{PREF|mod}		Causation
+
+
+93|1932) $$$$$$$>  pollution~agricole{NC~ADJ|dep_coord~mod}		industriel{ADJ|mod}		et{CC|coord}		Causation
+
+
+96|2001) xxxxxxx>  crise~malgache{NC~NC|obj~mod}		dur{ADJ|mod_rel}		qui{PROREL|dep}		Causation
+
+
+97|2033) $$$$$$$>  rat{NC|obj}		adulte{ADJ|mod}		ou{CC|coord}		Causation
+
+
+98|2063) xxxxxxx>  être{VINF|dep_coord}		assidu{ADJ|obj}		à~répétition{P+D~NC|dep~obj}		Causation
+
+

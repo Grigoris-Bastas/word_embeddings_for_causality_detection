@@ -1,0 +1,247 @@
+1|92) 2|93) ------->  arrete~là{V~ADV|root~mod}		parce_que{CS|mod}		pouvoir~passer{V~VINF|obj~obj}		Causation
+
+
+------->  arrete~là{V~ADV|root~mod}		parce_que{CS|mod}		pouvoir~passer{V~VINF|obj~obj}		Evidence
+
+
+3|127) 4|189) ------->  pouvoir~laver~couche{V~VINF~NC|root~obj~obj}		puisque{CS|mod}		selles~jeter{NC~VPP|suj~obj}		FR_Reason
+
+
+------->  pouvoir~laver~couche{V~VINF~NC|root~obj~obj}		puisque{CS|mod}		selles~jeter{NC~VPP|suj~obj}		Evidence
+
+
+5|201) ------->  sécher~coudre{VINF~VPP|obj~obj}		parce_que{CS|mod}		coudre{VPP|obj}		Causation
+
+
+------->  sécher~coudre{VINF~VPP|obj~obj}		parce_que{CS|mod}		coudre{VPP|obj}		Evidence
+
+
+6|247) 7|265) ------->  être~journée~calme{V~NC~ADJ|root~obj~mod}		parce_que{CS|mod}		impression~avoir{NC~V|suj~obj}		Causation
+
+
+------->  être~journée~calme{V~NC~ADJ|root~obj~mod}		parce_que{CS|mod}		impression~avoir{NC~V|suj~obj}		Evidence
+
+
+8|276) ------->  être~manque{V~NC|root~obj}		parce_que{CS|mod}		problème~connaître{NC~V|suj~obj}		Causation
+
+
+------->  être~manque{V~NC|root~obj}		parce_que{CS|mod}		problème~connaître{NC~V|suj~obj}		Evidence
+
+
+9|308) xxxxxxx>  mais~ouvrir{CC~VPP|coord~obj}		puisque{CS|dep_coord}		site~ouvrir{NC~VPP|suj~obj}		FR_Reason
+
+
+xxxxxxx>  mais~ouvrir{CC~VPP|coord~obj}		puisque{CS|dep_coord}		site~ouvrir{NC~VPP|suj~obj}		Evidence
+
+
+10|311) ------->  passer~mieux{V~ADV|root~mod}		sinon{CC|coord}		pouvoir~que{V~ADV|dep_coord~mod}		Evidence
+
+
+11|315) xxxxxxx>  être~dommage{V~NC|root~ats}		sinon{CC|coord}		pour~reunion{P~NC|dep_coord~obj}		Evidence
+
+
+12|420) ------->  porter~tre~nom{V~NC~NC|mod~obj~mod}		parce_que{CS|mod}		avoir{V|obj}		Causation
+
+
+------->  porter~tre~nom{V~NC~NC|mod~obj~mod}		parce_que{CS|mod}		avoir{V|obj}		Evidence
+
+
+13|421) xxxxxxx>  etais~aubliger{V~VINF|dep_coord~obj}		parce_que{CS|mod}		etais~allumer{CC~VINF|obj~obj}		Causation
+
+
+xxxxxxx>  etais~aubliger{V~VINF|dep_coord~obj}		parce_que{CS|mod}		etais~allumer{CC~VINF|obj~obj}		Evidence
+
+
+15|552) ------->  attendre~heure{V~NC|root~obj}		sinon{CC|coord}		vouloir~plus{V~ADV|dep_coord~mod}		Evidence
+
+
+16|563) ------->  dire~gauche{V~NC|mod~obj}		puisque{CS|mod}		avoir{V|obj}		FR_Reason
+
+
+------->  dire~gauche{V~NC|mod~obj}		puisque{CS|mod}		avoir{V|obj}		Evidence
+
+
+17|569) ------->  pus~souvent{VPP~ADV|obj~mod}		sinon{CS|mod}		adorer~forum{V~NC|obj~obj}		Evidence
+
+
+18|610) ------->  profil~clientèle~féminin{NC~NC~ADJ|root~mod~mod}		puisque{CS|mod}		relancer~client{V~NC|obj~obj}		FR_Reason
+
+
+------->  profil~clientèle~féminin{NC~NC~ADJ|root~mod~mod}		puisque{CS|mod}		relancer~client{V~NC|obj~obj}		Evidence
+
+
+19|638) ------->  forme~dire{NC~VPP|obj~mod}		sinon{CC|coord}		Scifi{NPP|dep_coord}		Evidence
+
+
+20|685) ------->  être~innovant{V~ADJ|root~ats}		puisque{CS|mod}		être~concevoir{VPP~VPP|obj~ats}		FR_Reason
+
+
+------->  être~innovant{V~ADJ|root~ats}		puisque{CS|mod}		être~concevoir{VPP~VPP|obj~ats}		Evidence
+
+
+21|718) ------->  utiliser~jamais{VINF~ADV|dep_coord~mod}		sinon{CC|coord}		Nord~pointe{NPP~NC|dep_coord~mod}		Evidence
+
+
+22|745) ------->  être~commencer~rapidement{VINF~VPP~ADV|root~mod~mod}		puisque{CS|mod}		médicament~connaître{NC~VPP|suj~obj}		FR_Reason
+
+
+------->  être~commencer~rapidement{VINF~VPP~ADV|root~mod~mod}		puisque{CS|mod}		pouvoir~combiner{V~VPP|mod_rel~obj}		FR_Reason
+
+
+------->  être~commencer~rapidement{VINF~VPP~ADV|root~mod~mod}		puisque{CS|mod}		médicament~connaître{NC~VPP|suj~obj}		Evidence
+
+
+------->  être~commencer~rapidement{VINF~VPP~ADV|root~mod~mod}		puisque{CS|mod}		pouvoir~combiner{V~VPP|mod_rel~obj}		Evidence
+
+
+23|760) ------->  devoir~équiper{V~VPP|root~obj}		sinon{CC|coord}		falloir~rajouter{V~VINF|dep_coord~obj}		Evidence
+
+
+24|773) xxxxxxx>  cela{PRO|root}		parce_que{CS|mod}		acheter~boite{VPP~NC|obj~obj}		Causation
+
+
+xxxxxxx>  cela{PRO|root}		parce_que{CS|mod}		acheter~boite{VPP~NC|obj~obj}		Evidence
+
+
+25|811) ------->  être~moment{V~NC|root~ats}		puisque{CS|mod}		falloir~choisir{V~VINF|obj~obj}		FR_Reason
+
+
+------->  être~moment{V~NC|root~ats}		puisque{CS|mod}		falloir~choisir{V~VINF|obj~obj}		Evidence
+
+
+26|816) ------->  être~seul{V~ADJ|dep_coord~ats}		sinon{CS|mod}		devoir~avoir{V~VINF|obj~obj}		Evidence
+
+
+27|817) ------->  supposer~défenseure{V~NC|root~obj}		parce_que{CS|obj}		suivre~pas{VPP~ADV|obj~mod}		Causation
+
+
+------->  supposer~défenseure{V~NC|root~obj}		parce_que{CS|obj}		suivre~pas{VPP~ADV|obj~mod}		Evidence
+
+
+28|820) 29|978) ------->  avoir~traduire~mal{V~VPP~ADV|root~obj~mod}		parce_que{CS|mod}		savoir~pas{V~ADV|obj~mod}		Causation
+
+
+------->  avoir~traduire~mal{V~VPP~ADV|root~obj~mod}		parce_que{CS|mod}		savoir~pas{V~ADV|obj~mod}		Evidence
+
+
+31|1053) ------->  avoir~tendance{V~NC|dep_coord~obj}		parce_que{CS|mod}		avoir~fréquence{V~NC|obj~obj}		Causation
+
+
+------->  avoir~tendance{V~NC|dep_coord~obj}		parce_que{CS|mod}		avoir~fréquence{V~NC|obj~obj}		Evidence
+
+
+32|1094) ------->  juge~ne{NC~ADV|mod~mod}		parce_que{CS|mod}		voiler~sinon{V~ADV|obj~mod}		Causation
+
+
+------->  juge~ne{NC~ADV|mod~mod}		parce_que{CS|mod}		voiler~sinon{V~ADV|obj~mod}		Evidence
+
+
+33|1159) 34|1177) ------->  être~princesse{V~NC|root~ats}		parce_que{CS|ats}		hésiter~pas{VPP~ADV|obj~mod}		Causation
+
+
+------->  être~princesse{V~NC|root~ats}		parce_que{CS|ats}		hésiter~pas{VPP~ADV|obj~mod}		Evidence
+
+
+35|1185) ------->  secret{NC|obj}		sinon{CC|coord}		Docteur{NC|dep_coord}		Evidence
+
+
+36|1196) $$$$$$$>  et{CC|coord}		parce_que{CS|dep_coord}		il_y_a~gag{V~NC|obj~obj}		Causation
+
+
+$$$$$$$>  et{CC|coord}		parce_que{CS|dep_coord}		il_y_a~gag{V~NC|obj~obj}		Evidence
+
+
+37|1202) 38|1203) ------->  aimer~bien{VPP~ADV|root~mod}		parce_que{CS|mod}		avoir~araignée{V~NC|obj~obj}		Causation
+
+
+------->  aimer~bien{VPP~ADV|root~mod}		parce_que{CS|mod}		avoir~araignée{V~NC|obj~obj}		Evidence
+
+
+39|1212) 40|1229) ------->  exister~salle{V~NC|root~obj}		parce_que{CS|mod}		être~rencontre{V~NC|obj~ats}		Causation
+
+
+------->  exister~salle{V~NC|root~obj}		parce_que{CS|mod}		être~rencontre{V~NC|obj~ats}		Evidence
+
+
+41|1339) ------->  être~exercice{V~NC|root~ats}		parce_que{CS|mod}		falloir~pousser{V~VINF|obj~obj}		Causation
+
+
+------->  être~exercice{V~NC|root~ats}		parce_que{CS|mod}		falloir~pousser{V~VINF|obj~obj}		Evidence
+
+
+42|1342) ------->  pessoa{V|root}		parce_que{CS|mod}		falloir~pousser{V~VINF|obj~obj}		Causation
+
+
+------->  pessoa{V|root}		parce_que{CS|mod}		falloir~pousser{V~VINF|obj~obj}		Evidence
+
+
+43|1345) ------->  pessoa~Enrenement{V~ADV|mod~mod}		sinon{CS|mod}		taire{VPP|obj}		Evidence
+
+
+44|1346) xxxxxxx>  utiliser~peu~bien{V~ADV~ADV|root~mod~mod}		sinon{CC|coord}		inutile{ADJ|dep_coord}		Evidence
+
+
+xxxxxxx>  utiliser~peu~bien{V~ADV~ADV|root~mod~mod}		sinon{CC|coord}		de~diaboliser{P~VINF|dep_coord~obj}		Evidence
+
+
+45|1358) ------->  décrier~beaucoup{VPP~ADV|mod~mod}		parce_que{CS|mod}		mettre{VPP|obj}		Causation
+
+
+------->  décrier~beaucoup{VPP~ADV|mod~mod}		parce_que{CS|mod}		mettre{VPP|obj}		Evidence
+
+
+46|1389) xxxxxxx>  le{DET|root}		parce_que{CS|ats}		gâter~côté{VPP~NC|obj~mod}		Causation
+
+
+xxxxxxx>  le{DET|root}		parce_que{CS|ats}		gâter~côté{VPP~NC|obj~mod}		Evidence
+
+
+47|1436) ------->  agir~bien{V~ADV|dep_coord~mod}		puisque{CS|mod}		venir~simplement{V~ADV|obj~mod}		FR_Reason
+
+
+------->  agir~bien{V~ADV|dep_coord~mod}		puisque{CS|mod}		venir~simplement{V~ADV|obj~mod}		Evidence
+
+
+48|1528) ------->  falloir~interdire~recherche{V~VINF~NC|obj~obj~obj}		puisque{CS|mod}		suffire{V|obj}		FR_Reason
+
+
+------->  falloir~interdire~recherche{V~VINF~NC|obj~obj~obj}		puisque{CS|mod}		suffire{V|obj}		Evidence
+
+
+49|1536) xxxxxxx>  être~surprenant{V~ADJ|root~ats}		dans_la_mesure_où{CS|mod}		il_y_a~surabondance{P~NC|obj~obj}		Causation
+
+
+xxxxxxx>  être~surprenant{V~ADJ|root~ats}		dans_la_mesure_où{CS|mod}		il_y_a~surabondance{P~NC|obj~obj}		Evidence
+
+
+50|1595) xxxxxxx>  devoir~formuler{V~VPP|root~obj}		sinon{CC|mod}		par~élève{P~NC|obj~obj}		Evidence
+
+
+xxxxxxx>  devoir~formuler{V~VPP|root~obj}		sinon{CC|mod}		avec~accord{P~NC|mod~obj}		Evidence
+
+
+52|1792) ------->  analyser{VPP|root}		puisque{CS|mod}		favoriser~expression{V~NC|obj~obj}		FR_Reason
+
+
+------->  analyser{VPP|root}		puisque{CS|mod}		favoriser~expression{V~NC|obj~obj}		Evidence
+
+
+53|1899) ------->  être~juste{V~ADJ|root~ats}		parce_que{CS|mod}		val~bien{NC~ADV|obj~mod}		Causation
+
+
+------->  être~juste{V~ADJ|root~ats}		parce_que{CS|mod}		val~bien{NC~ADV|obj~mod}		Evidence
+
+
+54|1901) ------->  aimer~bien{V~ADV|root~mod}		parce_que{CS|mod}		il_y_a{V|obj}		Causation
+
+
+------->  aimer~bien{V~ADV|root~mod}		parce_que{CS|mod}		il_y_a{V|obj}		Evidence
+
+
+55|1902) 56|1962) ------->  fatiguer~vite~plus{V~ADV~ADV|obj~mod~mod}		parce_que{CS|mod}		rendre~maladroit{V~ADJ|obj~ats}		Causation
+
+
+------->  fatiguer~vite~plus{V~ADV~ADV|obj~mod~mod}		parce_que{CS|mod}		rendre~maladroit{V~ADJ|obj~ats}		Evidence
+
+
+57|2125) 58|2185) 

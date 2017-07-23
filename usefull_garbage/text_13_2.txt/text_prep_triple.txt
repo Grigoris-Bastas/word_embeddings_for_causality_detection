@@ -1,0 +1,171 @@
+1|13)
+------->  ouvrir{VPP|root}              grâce_à{P|mod}              victoire{NC|obj}              
+2|42)
+------->  travail{NC|suj}               jusqu'à{P|dep}               2h{NC|obj}                    
+3|112)
+------->  arriver{VPP|mod}              à_la_suite_de{P|mod}         accident{NC|obj}              
+4|117)
+------->  que{CS|obj}                   à_cause_de{P|obj}            dérapage{NC|obj}             
+5|136)
+------->  dégager{V|root}              grâce_à{P|mod}              village{NC|obj}               
+6|142)
+------->  exprimer{V|mod}               grâce_à{P|mod}              Michel{NPP|obj}               
+7|145)
+------->  lancer{VPP|root}              grâce_à{P|mod}              avance{NC|obj}                
+8|151)
+------->  utiliser{VPP|mod}             jusqu'à{P|mod}               récemment{ADV|obj}           
+9|197)
+------->  pouvoir{V|root}               grâce_à{P|mod}              action{NC|obj}                
+10|233)
+------->  patienter{VPP|root}           jusqu'à{P|mod}               mois{NC|obj}                  
+11|268)
+------->  jours{NC|mod}                 jusqu'à{P|dep}               minuit{NC|obj}                
+12|270)
+------->  cibler{VPR|mod}               grâce_à{P|mod}              nanoparticule{NC|obj}         
+13|281)
+------->  provoquer{VPP|mod}            en_raison_de{P|mod}           accès{NC|obj}                
+14|308)
+------->  être{VPP|mod_rel}            jusqu'à{P|mod}               aujourd'hui{ADV|obj}          
+15|311)
+------->  souhaiter{VPP|dep_coord}      grâce_à{P|mod}              image{NC|obj}                 
+16|356)
+------->  pousser{VINF|obj}             jusqu'à{P|mod}               extension{NC|obj}             
+17|376)
+------->  permettre{V|dep}              grâce_à{P|mod}              marquage{NC|obj}              
+18|477)
+------->  évoluer{VPP|mod}             jusqu'à{P|mod}               arrivée{NC|obj}              
+19|509)
+------->  retrouver{V|root}             jusqu'à{P|mod}               période{NC|obj}              
+20|517)
+------->  dessin{NC|obj}                grâce_à{P|dep}              technique{NC|obj}             
+21|542)
+------->  être{V|root}                 grâce_à{P|ats}              cela{PRO|obj}                 
+22|546)
+------->  aller{VINF|dep_coord}         jusqu'à{P|mod}               transformer{VINF|obj}         
+23|602)
+------->  déplacer{V|mod}              grâce_à{P|mod}              jambe{NC|obj}                 
+24|641)
+------->  être{VPP|root}               grâce_à{P|mod}              Cash{NPP|obj}                 
+25|642)
+------->  pouvoir{V|root}               grâce_à{P|mod}              Convert{ET|dep}               
+26|645)
+------->  conserver{V|obj}              jusqu'à{P|mod}               âge{NC|obj}                  
+27|661)
+------->  visiter{VINF|obj}             jusqu'à{P|mod}               maintenant{ADV|obj}           
+28|704)
+------->  avoir{V|mod_rel}              grâce_à{P|mod}              capacité{NC|obj}             
+29|707)
+------->  établir{VINF|obj}            grâce_à{P|mod}              système{NC|obj}              
+30|751)
+------->  voir{VPP|root}                grâce_à{P|mod}              effort{NC|obj}                
+------->  voir{VPP|root}                grâce_à{P|mod}              complexe{NC|obj}              
+31|778)
+------->  répéter{VINF|root}          jusqu'à{P|de_obj}            ce{PRO|obj}                   
+32|810)
+33|864)
+------->  accroître{VINF|obj}          grâce_à{P|mod}              innovation{NC|obj}            
+34|868)
+------->  initier{V|root}               grâce_à{P|mod}              doublement{NC|obj}            
+35|878)
+------->  mettre{VPP|mod_rel}           à_cause_de{P|mod}            abus{NC|obj}                  
+36|968)
+------->  accueillir{VINF|obj}          grâce_à{P|mod}              pratique{NC|obj}              
+37|994)
+------->  circuler{V|aux_pass}          jusqu'à{P|mod}               Dalmas{NPP|obj}               
+38|995)
+------->  emmener{VINF|obj}             jusqu'à{P|mod}               Casterino{NPP|obj}            
+39|1031)
+------->  stocker{VINF|obj}             grâce_à{P|mod}              carte{NC|obj}                 
+40|1066)
+------->  être{V|mod_rel}              à_cause_de{P|mod}            attentat{NC|obj}              
+------->  celui{PRO|obj}                à_cause_de{P|dep}            riposte{NC|obj}               
+41|1066)
+------->  être{V|mod_rel}              à_cause_de{P|mod}            attentat{NC|obj}              
+------->  celui{PRO|obj}                à_cause_de{P|dep}            riposte{NC|obj}               
+42|1077)
+------->  être{V|root}                 grâce_à{P|mod}              évolution{NC|obj}            
+43|1079)
+------->  fabriquer{V|root}             grâce_à{P|mod}              développement{NC|obj}        
+44|1083)
+------->  améliorer{VPP|root}          grâce_à{P|mod}              mise{NC|obj}                  
+45|1114)
+------->  terminer{V|root}              jusqu'à{P|mod}               2h{NC|obj}                    
+46|1119)
+------->  maintenir{VPP|mod}            jusqu'à{P|mod}               2h{NC|obj}                    
+47|1126)
+48|1164)
+------->  comparer{VINF|obj}            jusqu'à{P|mod}               5{NC|obj}                     
+49|1172)
+------->  rapprocher{VPP|mod}           à_cause_de{P|mod}            longueur{NC|obj}              
+50|1184)
+------->  baisser{V|dep_coord}          jusqu'à{P|mod}               Si4{NC|obj}                   
+51|1194)
+------->  descendre{VINF|ato}           à_cause_de{P|mod}            influence{NC|obj}             
+52|1196)
+------->  monter{VINF|obj}              i_cause_de{P|mod}             présence{NC|obj}             
+53|1244)
+------->  devoir{V|root}                à_cause_de{P|mod}            fracture{NC|obj}              
+54|1308)
+------->  perpétuer{V|root}            grâce_à{P|mod}              lui{PRO|obj}                  
+55|1354)
+------->  amenera{V|root}               grâce_à{P|mod}              aprentissage{NC|obj}          
+56|1374)
+------->  acceuillent{V|root}           jusqu'à{P|mod}               serviette{NC|obj}             
+57|1376)
+------->  facile{ADJ|ats}               grâce_à{P|dep}              ouverture{NC|obj}             
+58|1439)
+------->  courtiser{VPP|dep_coord}      grâce_à{P|mod}              Internet{NPP|obj}             
+59|1441)
+------->  propriétaire{NC|suj}         en_raison_de{P|dep}           faiblesse{NC|obj}             
+60|1470)
+------->  repérer{VINF|obj}            grâce_à{P|mod}              coordonnée{NC|obj}           
+61|1512)
+------->  faire{VPP|root}               jusqu'à{P|mod}               ce{PRO|obj}                   
+62|1547)
+------->  pouvoir{V|root}               grâce_à{P|mod}              réseau{NC|obj}               
+63|1580)
+------->  dessiner{VPR|obj}             en_raison_de{P|mod}           croissance{NC|obj}            
+------->  dessiner{VPR|obj}             grâce_à{P|mod}              hausse{NC|obj}                
+64|1580)
+------->  dessiner{VPR|obj}             en_raison_de{P|mod}           croissance{NC|obj}            
+------->  dessiner{VPR|obj}             grâce_à{P|mod}              hausse{NC|obj}                
+65|1584)
+------->  entrer{V|root}                grâce_à{P|mod}              moyens{NC|obj}                
+66|1586)
+------->  être{V|root}                 en_raison_de{P|mod}           globalisation{NC|obj}         
+67|1680)
+68|1762)
+69|1768)
+------->  déplacer{VINF|obj}           jusqu'à{P|mod}               21H{NC|obj}                   
+70|1779)
+71|1781)
+------->  accorder{VPP|root}            jusqu'à{P|mod}               maximum{NC|obj}               
+72|1784)
+------->  ouvrir{VPP|root}              en_raison_de{P|mod}           fréquence{NC|obj}            
+73|1801)
+------->  rechercher{V|mod_rel}         jusqu'à{P|mod}               Madagascar{NPP|obj}           
+74|1867)
+------->  donner{V|root}                grâce_à{P|mod}              bandelette{NC|obj}            
+75|2049)
+------->  distinguer{VPP|mod}           grâce_à{P|mod}              ikea{NC|obj}                  
+76|2050)
+------->  attendre{V|dep_coord}         grâce_à{P|mod}              coupe{NC|obj}                 
+77|2053)
+------->  soumettre{VPP|mod}            grâce_à{P|mod}              acquisition{NC|obj}           
+78|2098)
+------->  être{V|root}                 à_cause_de{P|mod}            pêche{NC|obj}                
+79|2119)
+------->  présenter{V|mod}             jusqu'à{P|mod}               pénurie{NC|obj}              
+80|2142)
+------->  bénéficier{V|mod}           jusqu'à{P|mod}               dollar{NC|obj}                
+81|2228)
+------->  avoir{V|root}                 grâce_à{P|mod}              fuseaux{NC|obj}               
+82|2231)
+------->  aller{VINF|obj}               jusqu'à{P|mod}               maison{NC|obj}                
+83|2234)
+------->  courir{VINF|obj}              jusqu'à{P|mod}               kilomètre{NC|obj}            
+84|2261)
+------->  devenir{VPP|mod}              à_la_suite_de{P|mod}         accident{NC|obj}              
+85|2265)
+------->  reprendre{VINF|obj}           en_raison_de{P|mod}           absence{NC|obj}               
+86|2325)

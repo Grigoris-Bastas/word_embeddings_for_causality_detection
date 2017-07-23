@@ -1,0 +1,130 @@
+12|398) 08/02: lolote1958- Un timbre français pour l' année .. 08/02: Chloé Clafou ..- Un timbre français pour l' année .. 08/02: dupengfei- Dominique le" lao" de r .. 08/02: chris- Chine 2008 nous voilà, bonne ann.. D'_où venez -vous? 
+
+xxxxxxx>  lolote1958~timbre~français{NC~NC~ADJ|mod~mod~mod}		dupengfei{ADV|mod}		-{PONCT|ponct}		Causation
+
+
+------->  lolote1958~timbre~français{NC~NC~ADJ|mod~mod~mod}		dupengfei{ADV|mod}		Dominique{NPP|mod}		Causation
+
+
+------->  lolote1958~timbre~français{NC~NC~ADJ|mod~mod~mod}		dupengfei{ADV|mod}		lao{NC|obj}		Causation
+
+
+13|407) La forme et la position du front varie avec les nages: plus dur à gérer dans les nages symétriques( Brasse et Papillon), car elle se forme plus fortement en cycle de propulsion, et diminue en cycle de retour des bras. 
+
+xxxxxxx>  forme~varier{NC~V|suj~root}		dur{ADJ|ats}		plus{ADV|mod}		Causation
+
+
+15|440) Nous avons donc, en complément du crayon et pour rendre l' étude du dessin plus agréable:- Le fusain, bâtonnet de bois carbonisé, qui donne des effets moins durs que le crayon. 
+
+xxxxxxx>  effet{NC|obj}		dur{ADJ|mod}		moins{ADV|mod}		Causation
+
+
+xxxxxxx>  effet{NC|obj}		dur{ADJ|mod}		que~crayon{CS~NC|dep~obj}		Causation
+
+
+16|472) Il n' empêche que le dossier scientifique et technique est plus pratique à utiliser si ce dernier est le plus généraliste possible et ne traite pas d' un seul point particulier( ou d' un cas particulier non reproductible). 
+
+xxxxxxx>  cas~particulier{NC~ADJ|obj~mod}		reproductible{ADJ|mod}		non{ADV|mod}		Causation
+
+
+27|628) Aucun des deux ne semble être gravement blessé, mais Dan confie à Abby qu' il a peur que sa femme ne le tienne pour responsable de l' accident car elle lui reproche déjà la mort de leur premier enfant, décédé de mort blanche. 
+
+xxxxxxx>  pour{P|mod}		responsable{ADJ|obj}		de~accident{P~NC|dep~obj}		Causation
+
+
+28|629) Pendant ce temps, Dan apprend qu' il aurait grillé un feu rouge et serait donc responsable du coma dans lequel se trouve son fils. 
+
+xxxxxxx>  être~donc{V~ADV|dep_coord~mod}		responsable{ADJ|ats}		de~coma{P+D~NC|dep~obj}		Causation
+
+
+32|740) Le glutamate serait responsable de la croissance des glioblastomes affirme le Docteur Maiken Nedergaard de l' Université médicale de New-York La nouvelle fait la couverture du premier magazine scientifique américain... 
+
+xxxxxxx>  glutamate~être{NC~V|suj~root}		responsable{ADJ|ats}		de~croissance{P~NC|dep~obj}		Causation
+
+
+33|755) l' immunothérapie, la vaccinologie, être à promotion institutionnelle AP-HP, gérés par le Département de la Recherche Clinique et du Développement de l' AP-HP et pourront être co- financés par des partenariats industriels ou institutionnels. 
+
+$$$$$$$>  partenariat{NC|obj}		industriel{ADJ|mod}		ou{CC|coord}		Causation
+
+
+34|756) Les crédits alloués pourront permettre, par_exemple, de contribuer à la mise aux normes GMP dans l' attente d' un financement plus conséquent de type PHRC. 
+
+xxxxxxx>  financement{NC|obj}		conséquent{ADJ|mod}		plus{ADV|mod}		Causation
+
+
+35|804) Par Nath- aucun commentaire Développement durable: nouvel élément de différenciation? 
+
+xxxxxxx>  commentaire{NC|mod}		durable{ADJ|mod}		Développement{ADV|mod}		Causation
+
+
+39|894) Mais sa taille de guêpe pourrait bien en faire le plus séduisant. 
+
+xxxxxxx>  faire{VINF|obj}		séduisant{ADJ|obj}		le{DET|det}		Causation
+
+
+xxxxxxx>  faire{VINF|obj}		séduisant{ADJ|obj}		plus{ADV|mod}		Causation
+
+
+44|930) On y retrouve les nages spécifiques, les spécialités, les 4 nages, les travails en bras ou en jambes, les éducatifs, les exercices cadencés( par_exemple, les fartlek, les pyramides, les cycles avec contrainte,... 
+
+xxxxxxx>  nage~nage~4{NC~NC~ADJ|obj~mod~mod}		éducatif{ADJ|mod}		le{DET|det}		Causation
+
+
+47|1006) Nous avons obtenu le label Green Partner de Sony en 2003 et nous adhérons à l' IMS« Entreprendre pour la cité» pour structurer une démarche de développement durable et sociétal partout où Imaje est présent». 
+
+$$$$$$$>  développement~partout{NC~ADV|obj~mod}		durable{ADJ|mod}		et{CC|coord}		Causation
+
+
+xxxxxxx>  développement~partout{NC~ADV|obj~mod}		durable{ADJ|mod}		partout{ADV|mod}		Causation
+
+
+57|1241) J' ai été dur avec lui. 
+
+xxxxxxx>  être{VPP|root}		dur{ADJ|ats}		avec{P|dep}		Causation
+
+
+58|1246) Mer 19 Déc- 19: 46 Roland Mischler a écrit: J' ai été dur avec lui. 
+
+xxxxxxx>  être{VPP|mod}		dur{ADJ|ats}		avec{P|dep}		Causation
+
+
+63|1325) La latitude d'_accord réduite peut poser un problème en jouant dans un ensemble accordé un_peu haut ou si on utilise une coulisse d'_accord de sib. 
+
+xxxxxxx>  latitude{NC|suj}		réduire{ADJ|mod}		d'accord{ADV|mod}		Causation
+
+
+68|1420) À l' aise en photo et en MP3, habillé avec élégance, c' est un choix vraiment séduisant. 
+
+xxxxxxx>  choix{NC|ats}		séduisant{ADJ|mod}		vraiment{ADV|mod}		Causation
+
+
+69|1455) Un dernier vote pour ce soir( = 41), attendre 2 heures pour le prochain sera un_peu dur! 
+
+xxxxxxx>  vote~être~dernier{NC~V~ADJ|suj~root~mod}		dur{ADJ|ats}		un_peu{ADV|mod}		Causation
+
+
+76|1628) Une salle de musique est à la disposition des élèves membres du foyer socio- éducatif( association« L' Envol»). 
+
+xxxxxxx>  foyer~association{NC~NC|obj~mod}		éducatif{ADJ|mod}		socio-{PREF|mod}		Causation
+
+
+93|1932) C' est à dire l' assèchement des zones humides, les recalibrages des cours d' eau, le remembrement, les micro- centrales, les prélèvements d' eau et bien sur et surtout les pollutions diverses, agricoles, industrielles et domestiques. 
+
+$$$$$$$>  pollution~agricole{NC~ADJ|dep_coord~mod}		industriel{ADJ|mod}		et{CC|coord}		Causation
+
+
+96|2001) à Dakar, on a voulu sauver le capitaine des eaux en oubliant les matelots B ien naïfs ou peu au fait de la réalité malgache, le monde de la diplomatie qui a applaudi des deux mains après la signature, à Dakar, le jeudi 18 avril, d'un accord entre Didier Ratsiraka et Marc Ravalomanana, accord censé tracer la voie à un règlement pacifique de la crise politique malgache qui dure depuis le premier tour de l'élection présidentielle du 16 décembre dernier. 
+
+xxxxxxx>  crise~malgache{NC~NC|obj~mod}		dur{ADJ|mod_rel}		qui{PROREL|dep}		Causation
+
+
+97|2033) Magali Prod' homme, école doctorale doctorale des Sciences de la vie et de la santé( nutrition): Étude des rôles respectifs de l' insuline et des acides aminés dans la régulation de la synthèse protéique musculaire postprandiale chez le rat en croissance, adulte ou âgé. 
+
+$$$$$$$>  rat{NC|obj}		adulte{ADJ|mod}		ou{CC|coord}		Causation
+
+
+98|2063) Pour nous rejoindre, il suffit de chanter juste, de s' engager à travailler régulièrement et être assidu aux répétitions. 
+
+xxxxxxx>  être{VINF|dep_coord}		assidu{ADJ|obj}		à~répétition{P+D~NC|dep~obj}		Causation
+
+

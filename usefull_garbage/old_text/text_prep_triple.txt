@@ -1,0 +1,222 @@
+1|14) ------->  ouvrir~porte{VPP~NC|root~obj}		grâce_à{P|mod}		victoire~beau{NC~ADJ|obj~mod}		Causation
+
+
+2|104) ------->  arriver~accident{VPP~NC|mod~obj}		à_la_suite_de{P|mod}		accident{NC|obj}		Causation
+
+
+3|109) xxxxxxx>  que~dérapage{CS~NC|obj~obj}		à_cause_de{P|obj}		dérapage{NC|obj}		Causation
+
+
+4|119) ------->  dégager~charme~indéniable{V~NC~ADJ|root~obj~mod}		grâce_à{P|mod}		village{NC|obj}		Causation
+
+
+5|124) ------->  personnage~exprimer{NC~V|suj~mod}		grâce_à{P|mod}		Michel{NPP|obj}		Causation
+
+
+6|126) ------->  lancer~métrage~long{VPP~NC~ADJ|root~obj~mod}		grâce_à{P|mod}		avance{NC|obj}		Causation
+
+
+7|178) ------->  pouvoir~réduire{V~VPP|root~obj}		grâce_à{P|mod}		action{NC|obj}		Causation
+
+
+8|252) ------->  cibler~cellule~tumoral{VPR~NC~ADJ|mod~obj~mod}		grâce_à{P|mod}		nanoparticule{NC|obj}		Causation
+
+
+9|262) ------->  provoquer~accès{VPP~NC|mod~obj}		en_raison_de{P|mod}		accès{NC|obj}		Causation
+
+
+------->  provoquer~accès{VPP~NC|mod~obj}		en_raison_de{P|mod}		accès{NC|obj}		Evidence
+
+
+10|294) ------->  intervention~souhaiter{NC~VPP|suj~dep_coord}		grâce_à{P|mod}		image~bon{NC~ADJ|obj~mod}		Causation
+
+
+11|347) ------->  dispositif~permettre{NC~V|suj~dep}		grâce_à{P|mod}		marquage{NC|obj}		Causation
+
+
+12|446) ------->  dessin~technique{NC~NC|obj~obj}		grâce_à{P|dep}		technique~humide{NC~ADJ|obj~mod}		Causation
+
+
+13|469) xxxxxxx>  être{V|root}		grâce_à{P|ats}		cela{PRO|obj}		Causation
+
+
+14|524) ------->  déplacer{V|mod}		grâce_à{P|mod}		jambe{NC|obj}		Causation
+
+
+15|548) ------->  être~facile{VPP~ADJ|root~mod}		grâce_à{P|mod}		Cash{NPP|obj}		Causation
+
+
+16|549) xxxxxxx>  pouvoir~gagner{V~VINF|root~obj}		grâce_à{P|mod}		Convert{ET|dep}		Causation
+
+
+17|614) ------->  avoir~besoin{V~NC|mod_rel~obj}		grâce_à{P|mod}		capacité~relationnel{NC~ADJ|obj~mod}		Causation
+
+
+$$$$$$$>  avoir~besoin{V~NC|mod_rel~obj}		grâce_à{P|mod}		et{CC|coord}		Causation
+
+
+18|616) ------->  établir~contact{VINF~NC|obj~obj}		grâce_à{P|mod}		système~simple{NC~ADJ|obj~mod}		Causation
+
+
+19|655) ------->  voir~jour{VPP~NC|root~obj}		grâce_à{P|mod}		effort~financier{NC~ADJ|obj~mod}		Causation
+
+
+$$$$$$$>  voir~jour{VPP~NC|root~obj}		grâce_à{P|mod}		et{CC|coord}		Causation
+
+
+xxxxxxx>  voir~jour{VPP~NC|root~obj}		grâce_à{P|mod}		,{PONCT|ponct}		Causation
+
+
+------->  voir~jour{VPP~NC|root~obj}		grâce_à{P|mod}		complexe~sportif{NC~ADJ|obj~mod}		Causation
+
+
+20|712) xxxxxxx>  et~association{CC~NC|coord~obj}		grâce_à{P|dep_coord}		association{NC|obj}		Causation
+
+
+21|747) ------->  accroître~compétitivité{VINF~NC|obj~obj}		grâce_à{P|mod}		innovation~technologique{NC~ADJ|obj~mod}		Causation
+
+
+22|751) ------->  initier~appel~permanent{V~NC~ADJ|root~obj~mod}		grâce_à{P|mod}		doublement{NC|obj}		Causation
+
+
+23|766) ------->  mettre~gravement{VPP~ADV|mod_rel~mod}		à_cause_de{P|mod}		abus{NC|obj}		Causation
+
+
+24|840) ------->  accueillir~nécessaire~tout{VINF~ADJ~ADV|obj~ats~mod}		grâce_à{P|mod}		pratique~coter{NC~ADJ|obj~mod}		Causation
+
+
+25|898) ------->  stocker~écouteur~classique{VINF~NC~ADJ|obj~obj~mod}		grâce_à{P|mod}		carte~mémoire{NC~NC|obj~mod}		Causation
+
+
+26|916) ------->  évaluer{VPP|obj}		en_raison_de{P|mod}		recul~faible{NC~ADJ|obj~mod}		Causation
+
+
+------->  évaluer{VPP|obj}		en_raison_de{P|mod}		recul~faible{NC~ADJ|obj~mod}		Evidence
+
+
+27|944) ------->  être~mort{V~ADJ|mod_rel~ats}		à_cause_de{P|mod}		attentat{NC|obj}		Causation
+
+
+xxxxxxx>  celui~par_la_suite{PRO~ADV|obj~mod}		à_cause_de{P|dep}		riposte~injuste{NC~ADJ|obj~mod}		Causation
+
+
+28|955) ------->  être~maintenant{V~ADV|root~mod}		grâce_à{P|mod}		évolution~positif{NC~ADJ|obj~mod}		Causation
+
+
+29|958) ------->  fabriquer~carton~léger{V~NC~ADJ|root~obj~mod}		grâce_à{P|mod}		développement{NC|obj}		Causation
+
+
+30|963) ------->  situation~améliorer~financier{NC~VPP~ADJ|suj~root~mod}		grâce_à{P|mod}		mise{NC|obj}		Causation
+
+
+31|996) xxxxxxx>  et~axe{CC~NC|root~obj}		grâce_à{P|dep_coord}		ceci{PRO|obj}		Causation
+
+
+xxxxxxx>  et~axe{CC~NC|root~obj}		grâce_à{P|dep_coord}		axe~grand{NC~ADJ|obj~mod}		Causation
+
+
+32|1040) ------->  rapprocher~long{VPP~NC|mod~obj}		à_cause_de{P|mod}		longueur~grand{NC~ADJ|obj~mod}		Causation
+
+
+33|1060) ------->  descendre~Si4{VINF~NC|ato~obj}		à_cause_de{P|mod}		influence{NC|obj}		Causation
+
+
+34|1110) ------->  devoir~partir{V~VINF|root~obj}		à_cause_de{P|mod}		fracture{NC|obj}		Causation
+
+
+35|1165) xxxxxxx>  tradition~perpétuer{NC~V|suj~root}		grâce_à{P|mod}		lui{PRO|obj}		Causation
+
+
+36|1216) xxxxxxx>  amenera~forcément{V~ADV|root~mod}		grâce_à{P|mod}		:{PONCT|ponct}		Causation
+
+
+------->  amenera~forcément{V~ADV|root~mod}		grâce_à{P|mod}		aprentissage~pas{NC~ADV|obj~mod}		Causation
+
+
+37|1236) ------->  facile~très{ADJ~ADV|ats~mod}		grâce_à{P|dep}		ouverture~latèral{NC~ADJ|obj~mod}		Causation
+
+
+38|1285) ------->  courtiser~plus{VPP~ADV|dep_coord~mod}		grâce_à{P|mod}		Internet{NPP|obj}		Causation
+
+
+39|1287) ------->  propriétaire{NC|suj}		en_raison_de{P|dep}		faiblesse{NC|obj}		Causation
+
+
+------->  propriétaire{NC|suj}		en_raison_de{P|dep}		faiblesse{NC|obj}		Evidence
+
+
+40|1313) ------->  repérer~A{VINF~NC|obj~mod}		grâce_à{P|mod}		coordonnée{NC|obj}		Causation
+
+
+41|1380) ------->  pouvoir~bénéficier{V~VINF|root~obj}		grâce_à{P|mod}		réseau~nouveau{NC~ADJ|obj~mod}		Causation
+
+
+42|1412) ------->  dessiner~mode~nouveau{VPR~NC~ADJ|obj~obj~mod}		en_raison_de{P|mod}		croissance~global{NC~ADJ|obj~mod}		Causation
+
+
+------->  dessiner~mode~nouveau{VPR~NC~ADJ|obj~obj~mod}		en_raison_de{P|mod}		croissance~global{NC~ADJ|obj~mod}		Evidence
+
+
+------->  dessiner~mode~nouveau{VPR~NC~ADJ|obj~obj~mod}		grâce_à{P|mod}		hausse{NC|obj}		Causation
+
+
+43|1413) ------->  opérateur~entrer~touristique{NC~V~ADJ|suj~root~mod}		grâce_à{P|mod}		moyens~renforcer{NC~VPP|obj~mod}		Causation
+
+
+44|1415) ------->  être~nécessaire{V~ADJ|root~ats}		en_raison_de{P|mod}		globalisation{NC|obj}		Causation
+
+
+------->  être~nécessaire{V~ADJ|root~ats}		en_raison_de{P|mod}		globalisation{NC|obj}		Evidence
+
+
+45|1568) ------->  amende~diviser~maximum{NC~VPP~ADJ|suj~root~mod}		au_vu_de{P|mod}		retraite~petit{NC~ADJ|obj~mod}		FR_Reason
+
+
+------->  amende~diviser~maximum{NC~VPP~ADJ|suj~root~mod}		au_vu_de{P|mod}		retraite~petit{NC~ADJ|obj~mod}		Evidence
+
+
+46|1615) ------->  ouvrir~plus{VPP~ADV|root~mod}		en_raison_de{P|mod}		fréquence~grand{NC~ADJ|obj~mod}		Causation
+
+
+------->  ouvrir~plus{VPP~ADV|root~mod}		en_raison_de{P|mod}		fréquence~grand{NC~ADJ|obj~mod}		Evidence
+
+
+47|1706) ------->  donner~réponse~rapide{V~NC~ADJ|root~obj~mod}		grâce_à{P|mod}		bandelette~imprégner{NC~VPP|obj~mod}		Causation
+
+
+48|1883) ------->  distinguer~etats-uni{VPP~NC|mod~obj}		grâce_à{P|mod}		ikea~remise{NC~NC|obj~mod}		Causation
+
+
+49|1884) ------->  attendre~million{V~NC|dep_coord~obj}		grâce_à{P|mod}		coupe{NC|obj}		Causation
+
+
+50|1887) ------->  soumettre~vote{VPP~NC|mod~obj}		grâce_à{P|mod}		acquisition{NC|obj}		Causation
+
+
+51|1931) ------->  être~pas{V~ADV|root~mod}		à_cause_de{P|mod}		pêche{NC|obj}		Causation
+
+
+52|1939) ------->  prairie~disparaître~faucher{NC~V~ADJ|suj~root~mod}		du_fait_de{P|mod}		recul{NC|obj}		Causation
+
+
+------->  prairie~disparaître~faucher{NC~V~ADJ|suj~root~mod}		du_fait_de{P|mod}		recul{NC|obj}		Evidence
+
+
+53|2048) ------->  avoir~jour-là{V~NC|root~obj}		grâce_à{P|mod}		fuseaux~horaire{NC~ADJ|obj~mod}		Causation
+
+
+$$$$$$$>  avoir~jour-là{V~NC|root~obj}		grâce_à{P|mod}		et{CC|coord}		Causation
+
+
+54|2074) ------->  devenir~inapte{VPP~ADJ|mod~mod}		à_la_suite_de{P|mod}		accident{NC|obj}		Causation
+
+
+55|2075) ------->  reprendre~versement{VINF~NC|obj~obj}		en_raison_de{P|mod}		absence{NC|obj}		Causation
+
+
+------->  reprendre~versement{VINF~NC|obj~obj}		en_raison_de{P|mod}		absence{NC|obj}		Evidence
+
+
+56|2133) xxxxxxx>  et~concours{CC~NC|coord~obj}		grâce_à{P|dep_coord}		concours{NC|obj}		Causation
+
+

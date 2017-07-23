@@ -1,0 +1,1450 @@
+1|101) Bon je m arrete là parce_que je pourrai y passer la nuit... 
+1	Bon	bon	A	ADJ	g=m|n=s|s=qual	3	mod	_	_
+2	je	cln	CL	CLS	s=suj	3	suj	_	_
+3	m	m	N	NC	s=c	4	suj	_	_
+4	arrete	arrete	V	V	m=ind	0	root	_	_
+5	là	là	ADV	ADV	_	4	mod	_	_
+6	parce_que	parce_que	C	CS	s=s|marker=298	4	mod	_	_
+7	je	cln	CL	CLS	s=suj	8	suj	_	_
+8	pourrai	pouvoir	V	V	m=ind|n=s|p=1|t=fut	6	obj	_	_
+9	y	y	CL	CLO	p=3|s=obj	10	aff	_	_
+10	passer	passer	V	VINF	m=inf	8	obj	_	_
+11	la	le	D	DET	g=f|n=s|s=def	12	det	_	_
+12	nuit	nuit	N	NC	g=f|n=s|s=c	10	obj	_	_
+13	...	...	PONCT	PONCT	s=s	4	ponct	_	_
+
+xxxxxxx>  arrete~m{V~NC|root~suj}		parce_que{CS|mod}		pouvoir{V|obj}		
+
+
+2|142) Dans le" tunnel", parce_que c' en est un( certains longs métrages mettent entre cinq à six ans avant_de débarquer sur les écrans... 
+1	Dans	dans	P	P	_	0	root	_	_
+2	le	le	D	DET	g=m|n=s|s=def	4	det	_	_
+3	"	"	PONCT	PONCT	s=w	4	ponct	_	_
+4	tunnel	tunnel	N	NC	g=m|n=s|s=c	1	obj	_	_
+5	"	"	PONCT	PONCT	s=w	0	root	_	_
+6	,	,	PONCT	PONCT	s=w	7	ponct	_	_
+7	parce_que	parce_que	C	CS	s=s|marker=298	0	root	_	_
+8	c'	cln	CL	CLS	s=suj	10	suj	_	_
+9	en	en	CL	CLO	p=3|s=obj	10	aff	_	_
+10	est	être	V	V	m=ind|n=s|p=3|t=pst	7	obj	_	_
+11	un	un	D	DET	g=m|n=s|s=ind	16	det	_	_
+12	(	(	PONCT	PONCT	s=w	16	ponct	_	_
+13	certains	certain	D	DET	g=m|n=p	15	det	_	_
+14	longs	long	A	ADJ	g=m|n=p|s=qual	15	mod	_	_
+15	métrages	métrage	N	NC	g=m|n=p|s=c	16	suj	_	_
+16	mettent	mettre	V	V	m=ind|n=p|p=3|t=pst	10	ats	_	_
+17	entre	entre	P	P	_	16	dep	_	_
+18	cinq	cinq	D	DET	s=card	17	obj	_	_
+19	à	à	P	P	_	10	mod	_	_
+20	six	six	D	DET	s=card	21	det	_	_
+21	ans	an	N	NC	g=m|n=p|s=c	19	obj	_	_
+22	avant_de	avant_de	P	P	_|marker=110	10	ats	_	_
+23	débarquer	débarquer	V	VINF	m=inf	22	obj	_	_
+24	sur	sur	P	P	_	23	mod	_	_
+25	les	le	D	DET	n=p|s=def	26	det	_	_
+26	écrans	écran	N	NC	g=m|n=p|s=c	24	obj	_	_
+27	...	...	PONCT	PONCT	s=s	7	ponct	_	_
+
+3|213) Les couches très absorbantes utilisées pour la nuit mettent souvent plus de temps à sécher parce_qu' elles sont cousues dans des tissus très absorbants de manière à éviter les fuites une nuit entière. 
+1	Les	le	D	DET	n=p|s=def	2	det	_	_
+2	couches	couche	N	NC	g=f|n=p|s=c	9	suj	_	_
+3	très	très	ADV	ADV	_	4	mod	_	_
+4	absorbantes	absorbant	A	ADJ	g=f|n=p|s=qual	2	mod	_	_
+5	utilisées	utiliser	V	VPP	g=f|m=part|n=p|t=past	2	mod	_	_
+6	pour	pour	P	P	_	5	mod	_	_
+7	la	le	D	DET	g=f|n=s|s=def	8	det	_	_
+8	nuit	nuit	N	NC	g=f|n=s|s=c	6	obj	_	_
+9	mettent	mettre	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+10	souvent	souvent	ADV	ADV	_	9	mod	_	_
+11	plus	plus	ADV	ADV	s=neg	13	mod	_	_
+12	de	de	P	P	_	13	det	_	_
+13	temps	temps	N	NC	g=m|s=c	9	obj	_	_
+14	à	à	P	P	_	9	mod	_	_
+15	sécher	sécher	V	VINF	m=inf	14	obj	_	_
+16	parce_qu'	parce_que	C	CS	s=s|marker=298	15	mod	_	_
+17	elles	cln	CL	CLS	s=suj	19	suj	_	_
+18	sont	être	V	V	m=ind|n=p|p=3|t=pst	19	aux_pass	_	_
+19	cousues	coudre	V	VPP	g=f|m=part|n=p|t=past	16	obj	_	_
+20	dans	dans	P	P	_	19	mod	_	_
+21	des	de	D	DET	_	22	det	_	_
+22	tissus	tissu	N	NC	g=m|n=p|s=c	20	obj	_	_
+23	très	très	ADV	ADV	_	24	mod	_	_
+24	absorbants	absorbant	A	ADJ	g=m|n=p|s=qual	22	mod	_	_
+25	de	de	P	P	_	22	dep	_	_
+26	manière	manière	N	NC	g=f|n=s|s=c	25	obj	_	_
+27	à	à	P	P	_	19	mod	_	_
+28	éviter	éviter	V	VINF	m=inf	27	obj	_	_
+29	les	le	D	DET	n=p|s=def	30	det	_	_
+30	fuites	fuite	N	NC	g=f|n=p|s=c	28	obj	_	_
+31	une	un	D	DET	g=f|n=s|s=ind	32	det	_	_
+32	nuit	nuit	N	NC	g=f|n=s|s=c	28	mod	_	_
+33	entière	entier	A	ADJ	g=f|n=s|s=qual	32	mod	_	_
+34	.	.	PONCT	PONCT	s=s	9	ponct	_	_
+
+xxxxxxx>  sécher{VINF|obj}		parce_que{CS|mod}		coudre{VPP|obj}		
+
+
+4|260) Parce_que dans ce cas-là, c' est plutôt tout le monde au lit et de bonne heure. 
+1	Parce_que	parce_que	C	CS	s=s|marker=298	0	root	_	_
+2	dans	dans	P	P	_	7	mod	_	_
+3	ce	ce	D	DET	g=m|n=s|s=dem	4	det	_	_
+4	cas-là	cas-là	N	NC	s=c	2	obj	_	_
+5	,	,	PONCT	PONCT	s=w	7	ponct	_	_
+6	c'	cln	CL	CLS	s=suj	7	suj	_	_
+7	est	être	V	V	m=ind|n=s|p=3|t=pst	1	obj	_	_
+8	plutôt	plutôt	ADV	ADV	_	7	mod	_	_
+9	tout	tout	A	ADJ	g=m|n=s|s=ind	11	mod	_	_
+10	le	le	D	DET	g=m|n=s|s=def	11	det	_	_
+11	monde	monde	N	NC	g=m|n=s|s=c	7	mod	_	_
+12	au	à	P+D	P+D	s=def	7	mod	_	_
+13	lit	lit	N	NC	g=m|n=s|s=c	12	obj	_	_
+14	et	et	C	CC	s=c	12	coord	_	_
+15	de	de	P	P	_	14	dep_coord	_	_
+16	bonne	bon	A	ADJ	g=f|n=s|s=qual	17	mod	_	_
+17	heure	heure	N	NC	g=f|n=s|s=c	15	obj	_	_
+18	.	.	PONCT	PONCT	s=s	1	ponct	_	_
+
+5|275) Heureusement qu' hier au boulot c' était journée calme, parce_que la j' ai l' impression d' avoir un poid enorme sur mon dos. 
+1	Heureusement	heureusement	ADV	ADV	_	2	obj	_	_
+2	qu'	que	C	CS	s=s	7	mod	_	_
+3	hier	hier	ADV	ADV	_	2	obj	_	_
+4	au	à	P+D	P+D	s=def	2	obj	_	_
+5	boulot	boulot	N	NC	g=f|n=s|s=c	4	obj	_	_
+6	c'	cln	CL	CLS	s=suj	7	suj	_	_
+7	était	être	V	V	m=ind|n=s|p=3|t=impft	0	root	_	_
+8	journée	journée	N	NC	g=f|n=s|s=c	7	obj	_	_
+9	calme	calme	A	ADJ	n=s|s=qual	8	mod	_	_
+10	,	,	PONCT	PONCT	s=w	7	ponct	_	_
+11	parce_que	parce_que	C	CS	s=s|marker=298	7	mod	_	_
+12	la	le	D	DET	g=f|n=s|s=def	14	obj	_	_
+13	j'	cln	CL	CLS	s=suj	14	suj	_	_
+14	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	11	obj	_	_
+15	l'	le	D	DET	n=s|s=def	16	det	_	_
+16	impression	impression	N	NC	g=f|n=s|s=c	14	suj	_	_
+17	d'	de	P	P	_	14	de_obj	_	_
+18	avoir	avoir	V	VINF	m=inf	17	obj	_	_
+19	un	un	D	DET	g=m|n=s|s=ind	20	det	_	_
+20	poid	poid	N	NC	s=c	18	obj	_	_
+21	enorme	enorme	ADV	ADV	_	20	mod	_	_
+22	sur	sur	P	P	_	18	mod	_	_
+23	mon	son	D	DET	n=s|s=poss	24	det	_	_
+24	dos	dos	N	NC	g=m|s=c	22	obj	_	_
+25	.	.	PONCT	PONCT	s=s	7	ponct	_	_
+
+xxxxxxx>  être~journée{V~NC|root~obj}		parce_que{CS|mod}		avoir{V|obj}		
+
+
+6|293) " Parce_que le problème de la SemN INSA telle que les vieux la connaissaient, c' était aussi le manque de fréquentation insaïenne, et la désertion du campus qui suivait la semaine de partiels. 
+1	"	"	PONCT	PONCT	s=w	17	ponct	_	_
+2	Parce_que	parce_que	C	CS	s=s|marker=298	17	mod	_	_
+3	le	le	D	DET	g=m|n=s|s=def	4	det	_	_
+4	problème	problème	N	NC	g=m|n=s|s=c	14	suj	_	_
+5	de	de	P	P	_	4	dep	_	_
+6	la	le	D	DET	g=f|n=s|s=def	7	det	_	_
+7	SemN	SemN	N	NPP	s=p	5	obj	_	_
+8	INSA	INSA	N	NPP	s=p	7	mod	_	_
+9	telle	tel	A	ADJ	g=f|n=s|s=qual	8	mod	_	_
+10	que	que	C	CS	s=s	9	dep	_	_
+11	les	le	D	DET	n=p|s=def	12	det	_	_
+12	vieux	vieux	A	ADJ	g=m|s=qual	10	obj	_	_
+13	la	cla	CL	CLO	g=f|n=s|s=obj	14	obj	_	_
+14	connaissaient	connaître	V	V	m=ind|n=p|p=3|t=impft	2	obj	_	_
+15	,	,	PONCT	PONCT	s=w	17	ponct	_	_
+16	c'	cln	CL	CLS	s=suj	17	suj	_	_
+17	était	être	V	V	m=ind|n=s|p=3|t=impft	0	root	_	_
+18	aussi	aussi	ADV	ADV	_|marker=208	17	mod	_	_
+19	le	le	D	DET	g=m|n=s|s=def	20	det	_	_
+20	manque	manque	N	NC	n=s|s=c	17	obj	_	_
+21	de	de	P	P	_	20	dep	_	_
+22	fréquentation	fréquentation	N	NC	g=f|n=s|s=c	21	obj	_	_
+23	insaïenne	insaïen	A	ADJ	s=qual	22	mod	_	_
+24	,	,	PONCT	PONCT	s=w	17	ponct	_	_
+25	et	et	C	CC	s=c	17	coord	_	_
+26	la	le	D	DET	g=f|n=s|s=def	27	det	_	_
+27	désertion	désertion	N	NC	g=f|n=s|s=c	25	dep_coord	_	_
+28	du	de	P+D	P+D	s=def	27	dep	_	_
+29	campus	campus	N	NC	g=m|s=c	28	obj	_	_
+30	qui	qui	PRO	PROREL	s=rel	31	suj	_	_
+31	suivait	suivre	V	V	m=ind|n=s|p=3|t=impft	27	mod_rel	_	_
+32	la	le	D	DET	g=f|n=s|s=def	33	det	_	_
+33	semaine	semaine	N	NC	g=f|n=s|s=c	31	obj	_	_
+34	de	de	P	P	_	33	dep	_	_
+35	partiels	partiel	A	ADJ	g=m|n=p|s=qual	34	obj	_	_
+36	.	.	PONCT	PONCT	s=s	17	ponct	_	_
+
+xxxxxxx>  être~manque{V~NC|root~obj}		parce_que{CS|mod}		connaître{V|obj}		
+
+
+7|448) 08/02: lolote1958- Un timbre français pour l' année .. 08/02: Chloé Clafou ..- Un timbre français pour l' année .. 08/02: dupengfei- Dominique le" lao" de r .. 08/02: chris- Chine 2008 nous voilà, bonne ann.. D'_où venez -vous? 
+1	08/02	08/02	D	DET	s=card	3	det	_	_
+2	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+3	lolote1958	lolote1958	N	NC	s=c	44	mod	_	_
+4	-	-	PONCT	PONCT	s=w	3	ponct	_	_
+5	Un	un	D	DET	g=m|n=s|s=ind	6	det	_	_
+6	timbre	timbre	N	NC	g=m|n=s|s=c	3	mod	_	_
+7	français	français	A	ADJ	g=m|s=qual	6	mod	_	_
+8	pour	pour	P	P	_	6	dep	_	_
+9	l'	le	D	DET	n=s|s=def	10	det	_	_
+10	année	année	N	NC	g=f|n=s|s=c	8	obj	_	_
+11	..	..	ET	ET	_	10	dep	_	_
+12	08/02	08/02	ET	ET	s=card	10	dep	_	_
+13	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+14	Chloé	Chloé	N	NPP	g=f|n=s|s=p	3	mod	_	_
+15	Clafou	Clafou	N	NPP	s=p	3	mod	_	_
+16	..	..	ET	ET	_	15	dep	_	_
+17	-	-	PONCT	PONCT	s=w	3	ponct	_	_
+18	Un	un	D	DET	g=m|n=s|s=ind	19	det	_	_
+19	timbre	timbre	N	NC	g=m|n=s|s=c	3	mod	_	_
+20	français	français	A	ADJ	g=m|s=qual	19	mod	_	_
+21	pour	pour	P	P	_	19	dep	_	_
+22	l'	le	D	DET	n=s|s=def	23	det	_	_
+23	année	année	N	NC	g=f|n=s|s=c	21	obj	_	_
+24	..	..	ET	ET	_	23	dep	_	_
+25	08/02	08/02	ET	ET	s=card	23	dep	_	_
+26	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+27	dupengfei	dupengfei	ADV	ADV	_	3	mod	_	_
+28	-	-	PONCT	PONCT	s=w	27	ponct	_	_
+29	Dominique	Dominique	N	NPP	n=s|s=p	27	mod	_	_
+30	le	le	D	DET	g=m|n=s|s=def	32	det	_	_
+31	"	"	PONCT	PONCT	s=w	32	ponct	_	_
+32	lao	lao	N	NC	g=m|n=s|s=c	27	obj	_	_
+33	"	"	PONCT	PONCT	s=w	3	ponct	_	_
+34	de	de	P	P	_	3	dep	_	_
+35	r	r	V	VINF	m=inf	34	obj	_	_
+36	..	..	ET	ET	_	35	obj	_	_
+37	08/02	08/02	ET	ET	s=card	36	mod	_	_
+38	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+39	chris	chris	ADV	ADV	_	3	mod	_	_
+40	-	-	PONCT	PONCT	s=w	39	ponct	_	_
+41	Chine	Chine	N	NPP	g=f|n=s|s=p	44	suj	_	_
+42	2008	2008	N	NC	s=card	41	mod	_	_
+43	nous	clad	CL	CLO	s=obj	44	aff	_	_
+44	voilà	voilà	V	V	m=ind	0	root	_	_
+45	,	,	PONCT	PONCT	s=w	44	ponct	_	_
+46	bonne	bon	A	ADJ	g=f|n=s|s=qual	47	mod	_	_
+47	ann	ann	N	NC	s=c	44	mod	_	_
+48	..	..	PONCT	PONCT	s=w	44	ponct	_	_
+49	D'_où	d'où	P	P	_	44	mod	_	_
+50	venez	venir	V	V	m=ind|n=p|p=2|t=pst	49	obj	_	_
+51	-vous	cln	CL	CLS	s=suj	50	suj	_	_
+52	?	?	PONCT	PONCT	s=s	44	ponct	_	_
+
+xxxxxxx>  voilà~ann{V~NC|root~mod}		d'où{P|mod}		venir{V|obj}		
+
+
+8|480) Qui dit Pays du vent ça porte un tres bon nom parce_que a Konoha il fais tres chaud et las bas c' est tres bon pour faire de massage. 
+1	Qui	qui	PRO	PROWH	s=int	2	suj	_	_
+2	dit	dire	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	Pays	pays	N	NC	g=m|s=c	2	obj	_	_
+4	du	de	P+D	P+D	s=def	3	dep	_	_
+5	vent	vent	N	NC	g=m|n=s|s=c	4	obj	_	_
+6	ça	cela	PRO	PRO	g=m|n=s|s=dem	7	suj	_	_
+7	porte	porter	V	V	m=ind|n=s|p=3|t=pst	2	mod	_	_
+8	un	un	D	DET	g=m|n=s|s=ind	9	det	_	_
+9	tres	tre	N	NC	s=c	7	obj	_	_
+10	bon	bon	A	ADJ	g=m|n=s|s=qual	9	mod	_	_
+11	nom	nom	N	NC	g=m|n=s|s=c	9	mod	_	_
+12	parce_que	parce_que	C	CS	s=s|marker=298	7	mod	_	_
+13	a	avoir	V	V	m=ind|n=s|p=3|t=pst	12	obj	_	_
+14	Konoha	Konoha	N	NPP	s=p	13	obj	_	_
+15	il	cln	CL	CLS	s=suj	16	suj	_	_
+16	fais	faire	V	V	m=ind|n=s|p=2|t=pst	7	mod	_	_
+17	tres	tres	D	DET	_	18	det	_	_
+18	chaud	chaud	A	ADJ	g=m|n=s|s=qual	16	obj	_	_
+19	et	et	C	CC	s=c	18	coord	_	_
+20	las	las	A	ADJ	g=m|s=qual	19	dep_coord	_	_
+21	bas	bas	A	ADJ	g=m|s=qual	19	dep_coord	_	_
+22	c'	cln	CL	CLS	s=suj	23	suj	_	_
+23	est	être	V	V	m=ind|n=s|p=3|t=pst	2	mod	_	_
+24	tres	tres	D	DET	_	25	det	_	_
+25	bon	bon	A	ADJ	g=m|n=s|s=qual	23	ats	_	_
+26	pour	pour	P	P	_	25	dep	_	_
+27	faire	faire	V	VINF	m=inf	26	obj	_	_
+28	de	de	P	P	_	27	mod	_	_
+29	massage	massage	N	NC	g=m|n=s|s=c	28	obj	_	_
+30	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+xxxxxxx>  porter~tre{V~NC|mod~obj}		parce_que{CS|mod}		avoir{V|obj}		
+
+
+9|481) Sangoten vut sa marque maudite s' alumer et il etais aubliger de s' asseoir parce_que sa marque etais allumer. 
+1	Sangoten	Sangoten	N	NPP	s=p	2	suj	_	_
+2	vut	vut	V	V	m=ind	0	root	_	_
+3	sa	son	D	DET	g=f|n=s|s=poss	4	det	_	_
+4	marque	marque	N	NC	g=f|n=s|s=c	2	obj	_	_
+5	maudite	maudire	A	ADJ	g=f|m=part|n=s|s=qual|t=past	4	mod	_	_
+6	s'	se	CL	CLR	p=3|s=refl	7	aff	_	_
+7	alumer	alumer	V	VINF	m=inf	2	mod	_	_
+8	et	et	C	CC	s=c	2	coord	_	_
+9	il	cln	CL	CLS	s=suj	10	suj	_	_
+10	etais	etais	V	V	m=ind	8	dep_coord	_	_
+11	aubliger	aubliger	V	VINF	m=inf	10	obj	_	_
+12	de	de	P	P	_	11	obj	_	_
+13	s'	se	CL	CLR	p=3|s=refl	14	aff	_	_
+14	asseoir	asseoir	V	VINF	m=inf	12	obj	_	_
+15	parce_que	parce_que	C	CS	s=s|marker=298	10	mod	_	_
+16	sa	son	D	DET	g=f|n=s|s=poss	17	det	_	_
+17	marque	marque	N	NC	g=f|n=s|s=c	18	suj	_	_
+18	etais	etais	C	CC	s=c	15	obj	_	_
+19	allumer	allumer	V	VINF	m=inf	18	obj	_	_
+20	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+$$$$$$$>  etais{V|dep_coord}		parce_que{CS|mod}		etais{CC|obj}		
+
+
+10|619) Ainsi, ces indications se vérifient dans le nom de Montigny, soit comme le font les Archives de Cambrai, qu' on le situe" sur la croupe du coteau d'_où descend le riot dit de la Bruyère". 
+1	Ainsi	ainsi	ADV	ADV	_	6	mod	_	_
+2	,	,	PONCT	PONCT	s=w	6	ponct	_	_
+3	ces	ce	D	DET	n=p|s=dem	4	det	_	_
+4	indications	indication	N	NC	g=f|n=p|s=c	6	suj	_	_
+5	se	se	CL	CLR	p=3|s=refl	6	aff	_	_
+6	vérifient	vérifier	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+7	dans	dans	P	P	_	6	mod	_	_
+8	le	le	D	DET	g=m|n=s|s=def	9	det	_	_
+9	nom	nom	N	NC	g=m|n=s|s=c	7	obj	_	_
+10	de	de	P	P	_	9	dep	_	_
+11	Montigny	Montigny	N	NPP	g=m|n=s|s=p	10	obj	_	_
+12	,	,	PONCT	PONCT	s=w	6	ponct	_	_
+13	soit	soit	C	CC	s=c|marker=286	6	coord	_	_
+14	comme	comme	C	CS	s=s|marker=331	13	dep_coord	_	_
+15	le	cla	CL	CLO	g=m|n=s|s=obj	16	obj	_	_
+16	font	faire	V	V	m=ind|n=p|p=3|t=pst	14	obj	_	_
+17	les	le	D	DET	n=p|s=def	18	det	_	_
+18	Archives	archive	N	NC	g=f|n=p|s=c	16	suj	_	_
+19	de	de	P	P	_	18	dep	_	_
+20	Cambrai	Cambrai	N	NPP	g=m|n=s|s=p	19	obj	_	_
+21	,	,	PONCT	PONCT	s=w	16	ponct	_	_
+22	qu'	que	C	CS	s=s	16	mod	_	_
+23	on	cln	CL	CLS	s=suj	25	suj	_	_
+24	le	cla	CL	CLO	g=m|n=s|s=obj	25	obj	_	_
+25	situe	situer	V	V	m=ind|n=s|p=3|t=pst	22	obj	_	_
+26	"	"	PONCT	PONCT	s=w	25	ponct	_	_
+27	sur	sur	P	P	_	25	mod	_	_
+28	la	le	D	DET	g=f|n=s|s=def	29	det	_	_
+29	croupe	croupe	N	NC	g=f|n=s|s=c	27	obj	_	_
+30	du	de	P+D	P+D	s=def	29	dep	_	_
+31	coteau	coteau	N	NC	g=m|n=s|s=c	30	obj	_	_
+32	d'_où	d'où	P	P	_	25	mod	_	_
+33	descend	descendre	V	V	m=ind|n=s|p=3|t=pst	32	obj	_	_
+34	le	le	D	DET	g=m|n=s|s=def	35	det	_	_
+35	riot	riot	N	NC	s=c	0	root	_	_
+36	dit	dire	V	V	m=ind|n=s|p=3|t=pst	35	mod	_	_
+37	de	de	P	P	_	36	dep	_	_
+38	la	le	D	DET	g=f|n=s|s=def	39	det	_	_
+39	Bruyère	Bruyère	N	NPP	s=p	37	obj	_	_
+40	"	"	PONCT	PONCT	s=w	39	ponct	_	_
+41	.	.	PONCT	PONCT	s=s	35	ponct	_	_
+
+xxxxxxx>  situer{V|obj}		d'où{P|mod}		descendre{V|obj}		
+
+
+11|654) > Au_contraire, le retour bras tendu à l' horizontale a 2 inconvénients: 1) Le deltoïde( muscle de l' épaule, voir schéma) travaille d'_autant_plus_que le bras de levier est important. 
+1	>	suivre	V	V	m=ind|p=3|t=pst	0	root	_	_
+2	Au_contraire	au_contraire	ADV	ADV	_|marker=278	1	mod	_	_
+3	,	,	PONCT	PONCT	s=w	1	ponct	_	_
+4	le	le	D	DET	g=m|n=s|s=def	5	det	_	_
+5	retour	retour	N	NC	g=m|n=s|s=c	1	mod	_	_
+6	bras	bras	N	NC	g=m|s=c	5	mod	_	_
+7	tendu	tendre	V	VPP	g=m|m=part|n=s|t=past	5	mod	_	_
+8	à	à	P	P	_	7	mod	_	_
+9	l'	le	D	DET	n=s|s=def	10	det	_	_
+10	horizontale	horizontal	A	ADJ	g=f|n=s|s=qual	8	obj	_	_
+11	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1	mod	_	_
+12	2	2	D	DET	s=card	13	det	_	_
+13	inconvénients	inconvénient	N	NC	g=m|n=p|s=c	11	obj	_	_
+14	:	:	PONCT	PONCT	s=w	1	ponct	_	_
+15	1	1	A	ADJ	s=card	1	mod	_	_
+16	)	)	PONCT	PONCT	s=w	1	ponct	_	_
+17	Le	le	D	DET	g=m|n=s|s=def	18	det	_	_
+18	deltoïde	deltoïde	N	NC	n=s|s=c	1	mod	_	_
+19	(	(	PONCT	PONCT	s=w	18	ponct	_	_
+20	muscle	muscle	N	NC	g=m|n=s|s=c	18	mod	_	_
+21	de	de	P	P	_	20	dep	_	_
+22	l'	le	D	DET	n=s|s=def	23	det	_	_
+23	épaule	épaule	N	NC	g=f|n=s|s=c	21	obj	_	_
+24	,	,	PONCT	PONCT	s=w	1	ponct	_	_
+25	voir	voir	V	VINF	m=inf	1	mod	_	_
+26	schéma	schéma	N	NC	g=m|n=s|s=c	25	obj	_	_
+27	)	)	PONCT	PONCT	s=w	1	ponct	_	_
+28	travaille	travailler	V	V	m=ind|n=s|p=3|t=pst	1	dep	_	_
+29	d'_autant_plus_que	d'autant_plus_que	C	CS	s=s	1	mod	_	_
+30	le	le	D	DET	g=m|n=s|s=def	31	det	_	_
+31	bras	bras	N	NC	g=m|s=c	34	suj	_	_
+32	de	de	P	P	_	31	dep	_	_
+33	levier	levier	N	NC	g=m|n=s|s=c	32	obj	_	_
+34	est	être	V	V	m=ind|n=s|p=3|t=pst	29	obj	_	_
+35	important	important	A	ADJ	g=m|n=s|s=qual	34	ats	_	_
+36	.	.	PONCT	PONCT	s=s	1	ponct	_	_
+
+xxxxxxx>  suivre~deltoïde{V~NC|root~mod}		d'autant_plus_que{CS|mod}		être{V|obj}		
+
+
+12|656) 2) D'_autre_part, le retour du bras tendu entraîne un déséquilibre compensé par le déplacement des jambes dans le sens opposé( voir schéma), d'_où une nage" en lacet". 
+1	2	2	A	ADJ	s=card	10	mod	_	_
+2	)	)	PONCT	PONCT	s=w	10	ponct	_	_
+3	D'_autre_part	d'autre_part	ADV	ADV	_	10	mod	_	_
+4	,	,	PONCT	PONCT	s=w	10	ponct	_	_
+5	le	le	D	DET	g=m|n=s|s=def	6	det	_	_
+6	retour	retour	N	NC	g=m|n=s|s=c	10	suj	_	_
+7	du	de	P+D	P+D	s=def	6	dep	_	_
+8	bras	bras	N	NC	g=m|s=c	7	obj	_	_
+9	tendu	tendre	V	VPP	g=m|m=part|n=s|t=past	8	mod	_	_
+10	entraîne	entraîner	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+11	un	un	D	DET	g=m|n=s|s=ind	12	det	_	_
+12	déséquilibre	déséquilibre	N	NC	g=m|n=s|s=c	10	obj	_	_
+13	compensé	compenser	V	VPP	g=m|m=part|n=s|t=past	12	mod	_	_
+14	par	par	P	P	_	13	p_obj	_	_
+15	le	le	D	DET	g=m|n=s|s=def	16	det	_	_
+16	déplacement	déplacement	N	NC	g=m|n=s|s=c	14	obj	_	_
+17	des	de	P+D	P+D	s=def	16	dep	_	_
+18	jambes	jambe	N	NC	g=f|n=p|s=c	17	obj	_	_
+19	dans	dans	P	P	_	13	mod	_	_
+20	le	le	D	DET	g=m|n=s|s=def	21	det	_	_
+21	sens	sens	N	NC	g=m|s=c	19	obj	_	_
+22	opposé	opposer	V	VPP	g=m|m=part|n=s|t=past	21	mod	_	_
+23	(	(	PONCT	PONCT	s=w	10	ponct	_	_
+24	voir	voir	V	VINF	m=inf	10	mod	_	_
+25	schéma	schéma	N	NC	g=m|n=s|s=c	24	obj	_	_
+26	)	)	PONCT	PONCT	s=w	10	ponct	_	_
+27	,	,	PONCT	PONCT	s=w	10	ponct	_	_
+28	d'_où	d'où	P	P	_	10	mod	_	_
+29	une	un	D	DET	g=f|n=s|s=ind	30	det	_	_
+30	nage	nage	N	NC	g=f|n=s|s=c	28	obj	_	_
+31	"	"	PONCT	PONCT	s=w	30	ponct	_	_
+32	en	en	P	P	p=3	30	dep	_	_
+33	lacet	lacet	N	NC	g=m|n=s|s=c	32	obj	_	_
+34	"	"	PONCT	PONCT	s=w	10	ponct	_	_
+35	.	.	PONCT	PONCT	s=s	10	ponct	_	_
+
+------->  entraîner~déséquilibre{V~NC|root~obj}		d'où{P|mod}		nage{NC|obj}		
+
+
+13|863) Tout ça parce_qu' un jour j' ai acheté une boite de biscuits sablés qui avaient à peu près la même forme que ce petit personnage de Shrek. 
+1	Tout	tout	PRO	PRO	g=m|n=s|s=ind	2	mod	_	_
+2	ça	cela	PRO	PRO	g=m|n=s|s=dem	0	root	_	_
+3	parce_qu'	parce_que	C	CS	s=s|marker=298	2	mod	_	_
+4	un	un	D	DET	g=m|n=s|s=ind	5	det	_	_
+5	jour	jour	N	NC	g=m|n=s|s=c	8	mod	_	_
+6	j'	cln	CL	CLS	s=suj	8	suj	_	_
+7	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	8	aux_tps	_	_
+8	acheté	acheter	V	VPP	g=m|m=part|n=s|t=past	3	obj	_	_
+9	une	un	D	DET	g=f|n=s|s=ind	10	det	_	_
+10	boite	boite	N	NC	s=c	8	obj	_	_
+11	de	de	P	P	_	10	dep	_	_
+12	biscuits	biscuit	N	NC	g=m|n=p|s=c	11	obj	_	_
+13	sablés	sabler	A	ADJ	g=m|m=part|n=p|s=qual|t=past	12	mod	_	_
+14	qui	qui	PRO	PROREL	s=rel	15	suj	_	_
+15	avaient	avoir	V	V	m=ind|n=p|p=3|t=impft	10	mod_rel	_	_
+16	à	à	P	P	_	15	mod	_	_
+17	peu	peu	ADV	ADV	_	18	mod	_	_
+18	près	près	ADV	ADV	_	16	mod	_	_
+19	la	le	D	DET	g=f|n=s|s=def	21	det	_	_
+20	même	même	A	ADJ	n=s|s=qual	21	mod	_	_
+21	forme	forme	N	NC	g=f|n=s|s=c	16	obj	_	_
+22	que	que	C	CS	s=s	15	obj	_	_
+23	ce	ce	D	DET	g=m|n=s|s=dem	25	det	_	_
+24	petit	petit	A	ADJ	g=m|n=s|s=qual	25	mod	_	_
+25	personnage	personnage	N	NC	g=m|n=s|s=c	0	root	_	_
+26	de	de	P	P	_	25	dep	_	_
+27	Shrek	Shrek	N	NPP	s=p	26	obj	_	_
+28	.	.	PONCT	PONCT	s=s	25	ponct	_	_
+
+xxxxxxx>  cela{PRO|root}		parce_que{CS|mod}		acheter{VPP|obj}		
+
+
+14|919) l' Araignée||mercredi 29 novembre 2006||23: 36 || Quotes || # 116 || rss Tant qu' à faire dans le racoleur, une petite quote de l' Arène de France, l' émission la plus classe du monde, ce soir:( Une dame du public, passablement enragée et visiblement révoltée contre le retrait abusif de points, s' adressant à- je suppose parce_que j' ai pas suivi- une défenseure de la sécurité routière):" Il vous reste combien de points sur votre permis, à vous, Madame? 
+1	l'	le	D	DET	n=s|s=def	2	det	_	_
+2	Araignée||mercredi	Araignée||mercredi	N	NC	s=c	66	suj	_	_
+3	29	29	A	ADJ	s=card	2	mod	_	_
+4	novembre	novembre	N	NC	g=m|n=s|s=c	2	mod	_	_
+5	2006||23	2006||23	A	ADJ	s=qual	4	mod	_	_
+6	:	:	PONCT	PONCT	s=w	2	ponct	_	_
+7	36	36	D	DET	s=card	11	det	_	_
+8	||	||	ET	ET	_	11	dep	_	_
+9	Quotes	Quotes	ET	ET	_	11	dep	_	_
+10	||	||	ET	ET	_	11	dep	_	_
+11	#	#	ET	ET	_	2	mod	_	_
+12	116	116	D	DET	s=card	14	det	_	_
+13	||	||	ET	ET	_	14	dep	_	_
+14	rss	rss	ET	ET	_	2	mod	_	_
+15	Tant	tant	ADV	ADV	_	2	mod	_	_
+16	qu'	que	C	CS	s=s	2	mod	_	_
+17	à	à	P	P	_	16	obj	_	_
+18	faire	faire	V	VINF	m=inf	17	obj	_	_
+19	dans	dans	P	P	_	18	mod	_	_
+20	le	le	D	DET	g=m|n=s|s=def	21	det	_	_
+21	racoleur	racoleur	N	NC	g=m|n=s|s=c	19	obj	_	_
+22	,	,	PONCT	PONCT	s=w	18	ponct	_	_
+23	une	un	D	DET	g=f|n=s|s=ind	25	det	_	_
+24	petite	petit	A	ADJ	g=f|n=s|s=qual	25	mod	_	_
+25	quote	quote	N	NC	s=c	18	obj	_	_
+26	de	de	P	P	_	25	dep	_	_
+27	l'	le	D	DET	n=s|s=def	28	det	_	_
+28	Arène	Arène	N	NPP	s=p	26	obj	_	_
+29	de	de	P	P	_	28	dep	_	_
+30	France	France	N	NPP	g=m|n=s|s=p	29	obj	_	_
+31	,	,	PONCT	PONCT	s=w	18	ponct	_	_
+32	l'	le	D	DET	n=s|s=def	33	det	_	_
+33	émission	émission	N	NC	g=f|n=s|s=c	18	obj	_	_
+34	la	le	D	DET	g=f|n=s|s=def	36	det	_	_
+35	plus	plus	ADV	ADV	s=neg	36	mod	_	_
+36	classe	classe	N	NC	g=f|n=s|s=c	18	mod	_	_
+37	du	de	P+D	P+D	s=def	36	dep	_	_
+38	monde	monde	N	NC	g=m|n=s|s=c	37	obj	_	_
+39	,	,	PONCT	PONCT	s=w	18	ponct	_	_
+40	ce	ce	D	DET	g=m|n=s|s=dem	41	det	_	_
+41	soir	soir	N	NC	g=m|n=s|s=c	18	obj	_	_
+42	:	:	PONCT	PONCT	s=w	2	ponct	_	_
+43	(	(	PONCT	PONCT	s=w	2	ponct	_	_
+44	Une	un	D	DET	g=f|n=s|s=ind	45	det	_	_
+45	dame	dame	N	NC	g=f|n=s|s=c	2	mod	_	_
+46	du	de	P+D	P+D	s=def	45	dep	_	_
+47	public	public	N	NC	g=m|n=s|s=c	46	obj	_	_
+48	,	,	PONCT	PONCT	s=w	2	ponct	_	_
+49	passablement	passablement	ADV	ADV	_	50	mod	_	_
+50	enragée	enrager	V	VPP	g=f|m=part|n=s|t=past	2	mod	_	_
+51	et	et	C	CC	s=c	50	coord	_	_
+52	visiblement	visiblement	ADV	ADV	_	53	mod	_	_
+53	révoltée	révolter	V	VPP	g=f|m=part|n=s|t=past	51	dep_coord	_	_
+54	contre	contre	P	P	_	53	mod	_	_
+55	le	le	D	DET	g=m|n=s|s=def	56	det	_	_
+56	retrait	retrait	N	NC	g=m|n=s|s=c	54	obj	_	_
+57	abusif	abusif	A	ADJ	g=m|n=s|s=qual	56	mod	_	_
+58	de	de	P	P	_	56	dep	_	_
+59	points	point	N	NC	g=m|n=p|s=neg	58	obj	_	_
+60	,	,	PONCT	PONCT	s=w	53	ponct	_	_
+61	s'	se	CL	CLR	p=3|s=refl	62	obj	_	_
+62	adressant	adresser	V	VPR	m=part|t=pst	53	mod	_	_
+63	à	à	P	P	_	62	mod	_	_
+64	-	-	PONCT	PONCT	s=w	63	arg	_	_
+65	je	cln	CL	CLS	s=suj	66	suj	_	_
+66	suppose	supposer	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+67	parce_que	parce_que	C	CS	s=s|marker=298	66	obj	_	_
+68	j'	cln	CL	CLS	s=suj	71	suj	_	_
+69	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	71	aux_tps	_	_
+70	pas	pas	ADV	ADV	s=neg	71	mod	_	_
+71	suivi	suivre	V	VPP	g=m|m=part|n=s|t=past	67	obj	_	_
+72	-	-	PONCT	PONCT	s=w	66	ponct	_	_
+73	une	un	D	DET	g=f|n=s|s=ind	74	det	_	_
+74	défenseure	défenseure	N	NC	s=c	66	obj	_	_
+75	de	de	P	P	_	74	dep	_	_
+76	la	le	D	DET	g=f|n=s|s=def	77	det	_	_
+77	sécurité	sécurité	N	NC	g=f|n=s|s=c	75	obj	_	_
+78	routière	routier	A	ADJ	g=f|n=s|s=qual	77	mod	_	_
+79	)	)	PONCT	PONCT	s=w	74	ponct	_	_
+80	:	:	PONCT	PONCT	s=w	66	ponct	_	_
+81	"	"	PONCT	PONCT	s=w	66	ponct	_	_
+82	Il	cln	CL	CLS	s=suj	84	suj	_	_
+83	vous	clad	CL	CLO	s=obj	84	ats	_	_
+84	reste	rester	V	V	m=ind|n=s|p=3|t=pst	66	mod	_	_
+85	combien	combien	ADV	ADV	_	84	mod	_	_
+86	de	de	P	P	_	87	det	_	_
+87	points	point	N	NC	g=m|n=p|s=neg	84	obj	_	_
+88	sur	sur	P	P	_	84	mod	_	_
+89	votre	son	D	DET	n=s|s=poss	90	det	_	_
+90	permis	permis	N	NC	g=m|s=c	88	obj	_	_
+91	,	,	PONCT	PONCT	s=w	84	ponct	_	_
+92	à	à	P	P	_	84	mod	_	_
+93	vous	lui	PRO	PRO	n=p|s=pers	92	obj	_	_
+94	,	,	PONCT	PONCT	s=w	84	ponct	_	_
+95	Madame	Monsieur	N	NPP	g=f|n=s|s=p	84	mod	_	_
+96	?	?	PONCT	PONCT	s=s	66	ponct	_	_
+
+xxxxxxx>  supposer~défenseure{V~NC|root~obj}		parce_que{CS|obj}		suivre{VPP|obj}		
+
+
+15|922) parce_que question tartine t' en rate pas une! 
+1	parce_que	parce_que	C	CS	s=s|marker=298	0	root	_	_
+2	question	question	N	NC	g=f|n=s|s=c	3	suj	_	_
+3	tartine	tartiner	V	V	m=ind|n=s|p=3|t=pst	1	obj	_	_
+4	t'	cln	CL	CLO	n=s|s=obj	0	root	_	_
+5	en	en	P	P	p=3	0	root	_	_
+6	rate	rate	N	NC	g=f|n=s|s=c	5	obj	_	_
+7	pas	pas	ADV	ADV	s=neg	6	mod	_	_
+8	une	un	D	DET	g=f|n=s|s=ind	6	mod	_	_
+9	!	!	PONCT	PONCT	s=s	5	ponct	_	_
+
+16|1066) Heidegger j' ai vraiment du mal, comme avec la_plupart des philosophes en fait parce_que je ne sais pas s' ils sont mal traduits en français mais je trouve que leurs oeuvres sont très mal écrites. 
+1	Heidegger	Heidegger	N	NPP	s=p	3	suj	_	_
+2	j'	cln	CL	CLS	s=suj	3	suj	_	_
+3	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	0	root	_	_
+4	vraiment	vraiment	ADV	ADV	_	3	mod	_	_
+5	du	de	P+D	P+D	s=def	3	de_obj	_	_
+6	mal	mal	N	NC	g=m|n=s|s=c	5	obj	_	_
+7	,	,	PONCT	PONCT	s=w	3	ponct	_	_
+8	comme	comme	P	P	_	3	mod	_	_
+9	avec	avec	P	P	_	8	obj	_	_
+10	la_plupart	la_plupart	PRO	PRO	_	9	obj	_	_
+11	des	de	P+D	P+D	s=def	10	dep	_	_
+12	philosophes	philosophe	N	NC	n=p|s=c	11	obj	_	_
+13	en	en	P	P	p=3	3	mod	_	_
+14	fait	fait	N	NC	g=m|n=s|s=c	13	obj	_	_
+15	parce_que	parce_que	C	CS	s=s|marker=298	3	mod	_	_
+16	je	cln	CL	CLS	s=suj	18	suj	_	_
+17	ne	ne	ADV	ADV	s=neg	18	mod	_	_
+18	sais	savoir	V	V	m=ind|n=s|p=2|t=pst	15	obj	_	_
+19	pas	pas	ADV	ADV	s=neg	18	mod	_	_
+20	s'	se	CL	CLR	p=3|s=refl	24	aff	_	_
+21	ils	cln	CL	CLS	s=suj	24	suj	_	_
+22	sont	être	V	V	m=ind|n=p|p=3|t=pst	24	aux_pass	_	_
+23	mal	mal	ADV	ADV	_	24	mod	_	_
+24	traduits	traduire	V	VPP	g=m|m=part|n=p|t=past	3	obj	_	_
+25	en	en	P	P	p=3	24	mod	_	_
+26	français	français	N	NC	g=m|s=c	25	obj	_	_
+27	mais	mais	C	CC	s=c|marker=304	3	coord	_	_
+28	je	cln	CL	CLS	s=suj	29	suj	_	_
+29	trouve	trouver	V	V	m=ind|n=s|p=3|t=pst	27	dep_coord	_	_
+30	que	que	C	CS	s=s	29	obj	_	_
+31	leurs	son	D	DET	n=p|s=poss	32	det	_	_
+32	oeuvres	oeuvres	N	NC	g=f|n=p|s=c	36	suj	_	_
+33	sont	être	V	V	m=ind|n=p|p=3|t=pst	36	aux_pass	_	_
+34	très	très	ADV	ADV	_	36	mod	_	_
+35	mal	mal	ADV	ADV	_	36	mod	_	_
+36	écrites	écrire	V	VPP	g=f|m=part|n=p|t=past	30	obj	_	_
+37	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+xxxxxxx>  avoir{V|root}		parce_que{CS|mod}		savoir{V|obj}		
+
+
+17|1151) Le pic 8 détermine la vibration dans le jeu piano et le son a tendance à baisser un_peu dans un crescendo parce_que le pic16 a là aussi une fréquence légèrement inférieure au double de celle du pic 8. 
+1	Le	le	D	DET	g=m|n=s|s=def	2	det	_	_
+2	pic	pic	N	NC	g=m|n=s|s=c	4	suj	_	_
+3	8	8	A	ADJ	s=card	2	mod	_	_
+4	détermine	déterminer	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+5	la	le	D	DET	g=f|n=s|s=def	6	det	_	_
+6	vibration	vibration	N	NC	g=f|n=s|s=c	4	obj	_	_
+7	dans	dans	P	P	_	4	mod	_	_
+8	le	le	D	DET	g=m|n=s|s=def	9	det	_	_
+9	jeu	jeu	N	NC	g=m|n=s|s=c	7	obj	_	_
+10	piano	piano	ADV	ADV	_	9	mod	_	_
+11	et	et	C	CC	s=c	4	coord	_	_
+12	le	le	D	DET	g=m|n=s|s=def	13	det	_	_
+13	son	son	N	NC	g=m|n=s|s=poss	14	suj	_	_
+14	a	avoir	V	V	m=ind|n=s|p=3|t=pst	11	dep_coord	_	_
+15	tendance	tendance	N	NC	g=f|n=s|s=c	14	obj	_	_
+16	à	à	P	P	_	14	mod	_	_
+17	baisser	baisser	V	VINF	m=inf	16	obj	_	_
+18	un_peu	un_peu	ADV	ADV	_	17	mod	_	_
+19	dans	dans	P	P	_	17	mod	_	_
+20	un	un	D	DET	g=m|n=s|s=ind	21	det	_	_
+21	crescendo	crescendo	N	NC	g=m|n=s|s=c	19	obj	_	_
+22	parce_que	parce_que	C	CS	s=s|marker=298	14	mod	_	_
+23	le	le	D	DET	g=m|n=s|s=def	24	det	_	_
+24	pic16	pic16	N	NC	s=c	25	suj	_	_
+25	a	avoir	V	V	m=ind|n=s|p=3|t=pst	22	obj	_	_
+26	là	là	ADV	ADV	_	25	mod	_	_
+27	aussi	aussi	ADV	ADV	_|marker=208	25	mod	_	_
+28	une	un	D	DET	g=f|n=s|s=ind	29	det	_	_
+29	fréquence	fréquence	N	NC	g=f|n=s|s=c	25	obj	_	_
+30	légèrement	légèrement	ADV	ADV	_	31	mod	_	_
+31	inférieure	inférieur	A	ADJ	g=f|n=s|s=qual	29	mod	_	_
+32	au	à	P+D	P+D	s=def	25	a_obj	_	_
+33	double	double	A	ADJ	n=s|s=qual	32	obj	_	_
+34	de	de	P	P	_	33	dep	_	_
+35	celle	celui	PRO	PRO	g=f|n=s|s=dem	34	obj	_	_
+36	du	de	P+D	P+D	s=def	35	dep	_	_
+37	pic	pic	N	NC	g=m|n=s|s=c	36	obj	_	_
+38	8	8	A	ADJ	s=card	37	mod	_	_
+39	.	.	PONCT	PONCT	s=s	4	ponct	_	_
+
+xxxxxxx>  avoir~tendance{V~NC|dep_coord~obj}		parce_que{CS|mod}		avoir{V|obj}		
+
+
+18|1190) Je ne le juge ni sur son physique, parce_que sinon voila quoi, ce mec à un pas' d' nez quand meme, ni sur ces actes car rien n' est prouvé et meme si c' était le cas, il reste quand meme à mes yeux un grand feseur de bonnes chanson ^^ Il chante bien, danse bien, je n' écoute pas particulirment ces albums du matin au soir, mais j' aime pas mal de ces chansons. 
+1	Je	cln	CL	CLS	s=suj	4	suj	_	_
+2	ne	ne	ADV	ADV	s=neg	4	mod	_	_
+3	le	le	D	DET	g=m|n=s|s=def	4	det	_	_
+4	juge	juge	N	NC	g=m|n=s|s=c	44	mod	_	_
+5	ni	ni	C	CC	s=c	4	coord	_	_
+6	sur	sur	P	P	_	5	dep_coord	_	_
+7	son	son	D	DET	n=s|s=poss	8	det	_	_
+8	physique	physique	N	NC	n=s|s=c	6	obj	_	_
+9	,	,	PONCT	PONCT	s=w	4	ponct	_	_
+10	parce_que	parce_que	C	CS	s=s|marker=298	4	mod	_	_
+11	sinon	sinon	ADV	ADV	_|marker=285	12	mod	_	_
+12	voila	voiler	V	V	m=ind|n=s|p=3|t=past	10	obj	_	_
+13	quoi	quoi	PRO	PROWH	s=int	12	obj	_	_
+14	,	,	PONCT	PONCT	s=w	44	ponct	_	_
+15	ce	ce	D	DET	g=m|n=s|s=dem	16	det	_	_
+16	mec	mec	N	NC	g=m|n=s|s=c	44	suj	_	_
+17	à	à	P	P	_	16	dep	_	_
+18	un	un	D	DET	g=m|n=s|s=ind	19	det	_	_
+19	pas	pas	N	NC	g=m|s=neg	17	obj	_	_
+20	'	'	PONCT	PONCT	s=w	16	ponct	_	_
+21	d'	de	P	P	_	16	dep	_	_
+22	nez	nez	N	NC	g=m|s=c	21	obj	_	_
+23	quand	quand	C	CS	s=s|marker=144|marker=144	16	mod	_	_
+24	meme	meme	A	ADJ	s=qual	23	obj	_	_
+25	,	,	PONCT	PONCT	s=w	16	ponct	_	_
+26	ni	ni	C	CC	s=c	16	coord	_	_
+27	sur	sur	P	P	_	26	dep_coord	_	_
+28	ces	ce	D	DET	n=p|s=dem	29	det	_	_
+29	actes	acte	N	NC	g=m|n=p|s=c	27	obj	_	_
+30	car	car	C	CC	s=c|marker=68	16	coord	_	_
+31	rien	rien	PRO	PRO	n=s|s=neg	34	suj	_	_
+32	n'	ne	ADV	ADV	s=neg	34	mod	_	_
+33	est	être	V	V	m=ind|n=s|p=3|t=pst	34	aux_pass	_	_
+34	prouvé	prouver	V	VPP	g=m|m=part|n=s|t=past	30	dep_coord	_	_
+35	et	et	C	CC	s=c	34	coord	_	_
+36	meme	meme	ADV	ADV	_	35	mod	_	_
+37	si	si	C	CS	s=s|marker=349	35	dep_coord	_	_
+38	c'	cln	CL	CLS	s=suj	39	suj	_	_
+39	était	être	V	V	m=ind|n=s|p=3|t=impft	37	obj	_	_
+40	le	le	D	DET	g=m|n=s|s=def	41	det	_	_
+41	cas	cas	N	NC	g=m|s=c	39	obj	_	_
+42	,	,	PONCT	PONCT	s=w	44	ponct	_	_
+43	il	cln	CL	CLS	s=suj	44	suj	_	_
+44	reste	rester	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+45	quand	quand	C	CS	s=s	44	mod	_	_
+46	meme	meme	A	ADJ	s=qual	52	mod	_	_
+47	à	à	P	P	_	46	mod	_	_
+48	mes	son	D	DET	n=p|s=poss	49	det	_	_
+49	yeux	yeux	N	NC	g=m|n=p|s=c	47	obj	_	_
+50	un	un	D	DET	g=m|n=s|s=ind	52	det	_	_
+51	grand	grand	A	ADJ	g=m|n=s|s=qual	52	mod	_	_
+52	feseur	feseur	N	NC	s=c	58	suj	_	_
+53	de	de	P	P	_	52	dep	_	_
+54	bonnes	bon	A	ADJ	g=f|n=p|s=qual	55	mod	_	_
+55	chanson	chanson	N	NC	g=f|n=s|s=c	53	obj	_	_
+56	^^	^^	N	NPP	s=p	55	mod	_	_
+57	Il	cln	CL	CLS	s=suj	58	suj	_	_
+58	chante	chanter	V	V	m=ind|n=s|p=3|t=pst	45	obj	_	_
+59	bien	bien	ADV	ADV	_	58	mod	_	_
+60	,	,	PONCT	PONCT	s=w	58	ponct	_	_
+61	danse	danse	N	NC	g=f|n=s|s=c	58	mod	_	_
+62	bien	bien	ADV	ADV	_	61	mod	_	_
+63	,	,	PONCT	PONCT	s=w	66	ponct	_	_
+64	je	cln	CL	CLS	s=suj	66	suj	_	_
+65	n'	ne	ADV	ADV	s=neg	66	mod	_	_
+66	écoute	écoute	N	NC	g=f|n=s|s=c	58	obj	_	_
+67	pas	pas	ADV	ADV	s=neg	66	mod	_	_
+68	particulirment	particulirment	ADV	ADV	_	66	mod	_	_
+69	ces	ce	D	DET	n=p|s=dem	70	det	_	_
+70	albums	album	N	NC	g=m|n=p|s=c	58	mod	_	_
+71	du	de	P+D	P+D	s=def	70	dep	_	_
+72	matin	matin	N	NC	g=m|n=s|s=c	71	obj	_	_
+73	au	à	P+D	P+D	s=def	58	a_obj	_	_
+74	soir	soir	N	NC	g=m|n=s|s=c	73	obj	_	_
+75	,	,	PONCT	PONCT	s=w	44	ponct	_	_
+76	mais	mais	C	CC	s=c|marker=304	44	coord	_	_
+77	j'	cln	CL	CLS	s=suj	78	suj	_	_
+78	aime	aimer	V	V	m=ind|n=s|p=3|t=pst	76	dep_coord	_	_
+79	pas	pas	ADV	ADV	s=neg	78	mod	_	_
+80	mal	mal	A	ADJ	g=m|n=s|s=qual	78	ats	_	_
+81	de	de	P	P	_	78	mod	_	_
+82	ces	ce	D	DET	n=p|s=dem	83	det	_	_
+83	chansons	chanson	N	NC	g=f|n=p|s=c	81	obj	_	_
+84	.	.	PONCT	PONCT	s=s	44	ponct	_	_
+
+xxxxxxx>  juge{NC|mod}		parce_que{CS|mod}		voiler{V|obj}		
+
+
+19|1277) - TITRE: LA PRINCESSE ET LE CRAPAUD- Auteur: Marlène Jobert- Editeur: Atlas- Genre: Roman- Sujet: C' est une princesse qui promit à un crapaud de devenir son ami, parce_qu' il n' a pas hésité à aller rechercher sa balle en or dans l' étang mais elle ne tient pas sa promesse. 
+1	-	-	PONCT	PONCT	s=w	26	ponct	_	_
+2	TITRE	titre	N	NC	g=m|n=s|s=c	26	mod	_	_
+3	:	:	PONCT	PONCT	s=w	26	ponct	_	_
+4	LA	le	D	DET	g=f|n=s|s=def	5	det	_	_
+5	PRINCESSE	princesse	N	NC	n=s|s=c	26	suj	_	_
+6	ET	et	C	CC	s=c	5	coord	_	_
+7	LE	le	D	DET	g=m|n=s|s=def	8	det	_	_
+8	CRAPAUD	crapaud	N	NC	g=m|n=s|s=c	6	dep_coord	_	_
+9	-	-	PONCT	PONCT	s=w	8	ponct	_	_
+10	Auteur	Auteur	N	NPP	s=p	8	mod	_	_
+11	:	:	PONCT	PONCT	s=w	5	ponct	_	_
+12	Marlène	Marlène	N	NPP	s=p	5	mod	_	_
+13	Jobert	Jobert	N	NPP	s=p	5	mod	_	_
+14	-	-	PONCT	PONCT	s=w	13	ponct	_	_
+15	Editeur	Editeur	N	NPP	s=p	13	mod	_	_
+16	:	:	PONCT	PONCT	s=w	5	ponct	_	_
+17	Atlas	Atlas	N	NPP	g=m|n=s|s=p	5	mod	_	_
+18	-	-	PONCT	PONCT	s=w	17	ponct	_	_
+19	Genre	Genre	N	NPP	s=p	17	mod	_	_
+20	:	:	PONCT	PONCT	s=w	5	ponct	_	_
+21	Roman	Roman	N	NPP	g=m|n=s|s=p	5	mod	_	_
+22	-	-	PONCT	PONCT	s=w	5	ponct	_	_
+23	Sujet	Sujet	N	NPP	s=p	5	mod	_	_
+24	:	:	PONCT	PONCT	s=w	5	ponct	_	_
+25	C'	cln	CL	CLS	s=suj	26	suj	_	_
+26	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+27	une	un	D	DET	g=f|n=s|s=ind	28	det	_	_
+28	princesse	princesse	N	NC	n=s|s=c	26	ats	_	_
+29	qui	qui	PRO	PROREL	s=rel	30	suj	_	_
+30	promit	promettre	V	V	m=ind|n=s|p=3|t=past	28	mod_rel	_	_
+31	à	à	P	P	_	30	mod	_	_
+32	un	un	D	DET	g=m|n=s|s=ind	33	det	_	_
+33	crapaud	crapaud	N	NC	g=m|n=s|s=c	31	obj	_	_
+34	de	de	P	P	_	30	obj	_	_
+35	devenir	devenir	V	VINF	m=inf	34	obj	_	_
+36	son	son	D	DET	n=s|s=poss	37	det	_	_
+37	ami	ami	N	NC	g=m|n=s|s=c	35	obj	_	_
+38	,	,	PONCT	PONCT	s=w	26	ponct	_	_
+39	parce_qu'	parce_que	C	CS	s=s|marker=298	26	ats	_	_
+40	il	cln	CL	CLS	s=suj	44	suj	_	_
+41	n'	ne	ADV	ADV	s=neg	44	mod	_	_
+42	a	avoir	V	V	m=ind|n=s|p=3|t=pst	44	aux_tps	_	_
+43	pas	pas	ADV	ADV	s=neg	44	mod	_	_
+44	hésité	hésiter	V	VPP	g=m|m=part|n=s|t=past	39	obj	_	_
+45	à	à	P	P	_	44	mod	_	_
+46	aller	aller	V	VINF	m=inf	45	obj	_	_
+47	rechercher	rechercher	V	VINF	m=inf	46	obj	_	_
+48	sa	son	D	DET	g=f|n=s|s=poss	49	det	_	_
+49	balle	balle	N	NC	g=f|n=s|s=c	47	obj	_	_
+50	en	en	P	P	p=3	49	dep	_	_
+51	or	or	N	NC	s=c	50	obj	_	_
+52	dans	dans	P	P	_	47	mod	_	_
+53	l'	le	D	DET	n=s|s=def	54	det	_	_
+54	étang	étang	N	NC	g=m|n=s|s=c	52	obj	_	_
+55	mais	mais	C	CC	s=c|marker=304	26	coord	_	_
+56	elle	cln	CL	CLS	s=suj	58	suj	_	_
+57	ne	ne	ADV	ADV	s=neg	58	mod	_	_
+58	tient	tenir	V	V	m=ind|n=s|p=3|t=pst	55	dep_coord	_	_
+59	pas	pas	ADV	ADV	s=neg	58	mod	_	_
+60	sa	son	D	DET	g=f|n=s|s=poss	61	det	_	_
+61	promesse	promesse	N	NC	g=f|n=s|s=c	58	obj	_	_
+62	.	.	PONCT	PONCT	s=s	26	ponct	_	_
+
+xxxxxxx>  être~princesse{V~NC|root~ats}		parce_que{CS|ats}		hésiter{VPP|obj}		
+
+
+20|1292) - Avis: Mon avis sur le livre c' est que les enfants ont raison de prendre des Tom Tom et Nana parce_qu' il_y_a des gags. 
+1	-	-	PONCT	PONCT	s=w	10	ponct	_	_
+2	Avis	Avis	N	NPP	g=f|n=s|s=p	10	mod	_	_
+3	:	:	PONCT	PONCT	s=w	10	ponct	_	_
+4	Mon	Mon	N	NPP	s=p	10	suj	_	_
+5	avis	avis	N	NC	g=m|s=c	4	mod	_	_
+6	sur	sur	P	P	_	5	dep	_	_
+7	le	le	D	DET	g=m|n=s|s=def	8	det	_	_
+8	livre	livre	N	NC	n=s|s=c	6	obj	_	_
+9	c'	cln	CL	CLS	s=suj	10	suj	_	_
+10	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+11	que	que	C	CS	s=s	10	ats	_	_
+12	les	le	D	DET	n=p|s=def	13	det	_	_
+13	enfants	enfant	N	NC	n=p|s=c	14	suj	_	_
+14	ont	avoir	V	V	m=ind|n=p|p=3|t=pst	11	obj	_	_
+15	raison	raison	N	NC	g=f|n=s|s=c	14	obj	_	_
+16	de	de	P	P	_	14	mod	_	_
+17	prendre	prendre	V	VINF	m=inf	16	obj	_	_
+18	des	de	D	DET	_	19	det	_	_
+19	Tom	Tom	N	NPP	g=m|n=s|s=p	17	obj	_	_
+20	Tom	Tom	N	NPP	g=m|n=s|s=p	19	mod	_	_
+21	et	et	C	CC	s=c	19	coord	_	_
+22	Nana	Nana	N	NPP	g=f|n=s|s=p	21	dep_coord	_	_
+23	parce_qu'	parce_que	C	CS	s=s|marker=298	21	dep_coord	_	_
+24	il_y_a	il_y_a	V	V	m=ind	23	obj	_	_
+25	des	de	D	DET	_	26	det	_	_
+26	gags	gag	N	NC	g=m|n=p|s=c	24	obj	_	_
+27	.	.	PONCT	PONCT	s=s	10	ponct	_	_
+
+$$$$$$$>  et{CC|coord}		parce_que{CS|dep_coord}		il_y_a{V|obj}		
+
+
+21|1298) - Avis: J' ai bien aimé parce_qu' il a des araignées et de choses dégoûtantes. 
+1	-	-	PONCT	PONCT	s=w	7	ponct	_	_
+2	Avis	Avis	N	NPP	g=f|n=s|s=p	7	mod	_	_
+3	:	:	PONCT	PONCT	s=w	7	ponct	_	_
+4	J'	cln	CL	CLS	s=suj	7	suj	_	_
+5	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	7	aux_tps	_	_
+6	bien	bien	ADV	ADV	_	7	mod	_	_
+7	aimé	aimer	V	VPP	g=m|m=part|n=s|t=past	0	root	_	_
+8	parce_qu'	parce_que	C	CS	s=s|marker=298	7	mod	_	_
+9	il	cln	CL	CLS	s=suj	10	suj	_	_
+10	a	avoir	V	V	m=ind|n=s|p=3|t=pst	8	obj	_	_
+11	des	de	D	DET	_	12	det	_	_
+12	araignées	araignée	N	NC	g=f|n=p|s=c	10	obj	_	_
+13	et	et	C	CC	s=c	12	coord	_	_
+14	de	de	P	P	_	13	dep_coord	_	_
+15	choses	chose	N	NC	g=f|n=p|s=c	14	obj	_	_
+16	dégoûtantes	dégoûtant	A	ADJ	g=f|n=p|s=qual	15	mod	_	_
+17	.	.	PONCT	PONCT	s=s	7	ponct	_	_
+
+xxxxxxx>  aimer{VPP|root}		parce_que{CS|mod}		avoir{V|obj}		
+
+
+22|1325) Modèle présenté sur cette page en version tout électrique, existe aussi en électrique + ventilo, ou, mixte élec+chauffage central( modèles visibles dans la catégorie correpondante sur notre site) .Chaque salle de bains peut avoir son DORIS, parce_qu' il est la rencontre de la fiabilité et de l' esthétique. 
+1	Modèle	modèle	N	NC	g=m|n=s|s=c	11	mod	_	_
+2	présenté	présenter	V	VPP	g=m|m=part|n=s|t=past	1	mod	_	_
+3	sur	sur	P	P	_	2	mod	_	_
+4	cette	ce	D	DET	g=f|n=s|s=dem	5	det	_	_
+5	page	page	N	NC	n=s|s=c	3	obj	_	_
+6	en	en	P	P	p=3	2	mod	_	_
+7	version	version	N	NC	g=f|n=s|s=c	6	obj	_	_
+8	tout	tout	ADV	ADV	s=ind	9	mod	_	_
+9	électrique	électrique	A	ADJ	n=s|s=qual	7	mod	_	_
+10	,	,	PONCT	PONCT	s=w	11	ponct	_	_
+11	existe	exister	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+12	aussi	aussi	ADV	ADV	_|marker=208	11	mod	_	_
+13	en	en	P	P	p=3	11	mod	_	_
+14	électrique	électrique	A	ADJ	n=s|s=qual	13	obj	_	_
+15	+	+	P	P	_	11	mod	_	_
+16	ventilo	ventilo	N	NC	s=c	15	obj	_	_
+17	,	,	PONCT	PONCT	s=w	11	ponct	_	_
+18	ou	ou	C	CC	s=c	11	coord	_	_
+19	,	,	PONCT	PONCT	s=w	18	ponct	_	_
+20	mixte	mixte	A	ADJ	n=s|s=qual	21	mod	_	_
+21	élec+chauffage	élec+chauffage	N	NC	s=c	18	dep_coord	_	_
+22	central	central	A	ADJ	g=m|n=s|s=qual	21	mod	_	_
+23	(	(	PONCT	PONCT	s=w	21	ponct	_	_
+24	modèles	modèle	N	NC	g=m|n=p|s=c	21	mod	_	_
+25	visibles	visible	A	ADJ	n=p|s=qual	24	mod	_	_
+26	dans	dans	P	P	_	11	mod	_	_
+27	la	le	D	DET	g=f|n=s|s=def	28	det	_	_
+28	catégorie	catégorie	N	NC	g=f|n=s|s=c	26	obj	_	_
+29	correpondante	correpondant	A	ADJ	s=qual	28	mod	_	_
+30	sur	sur	P	P	_	28	dep	_	_
+31	notre	son	D	DET	n=s|s=poss	32	det	_	_
+32	site	site	N	NC	g=m|n=s|s=c	30	obj	_	_
+33	)	)	PONCT	PONCT	s=w	11	ponct	_	_
+34	.Chaque	.Chaque	D	DET	_	35	det	_	_
+35	salle	salle	N	NC	g=f|n=s|s=c	11	obj	_	_
+36	de	de	P	P	_	35	dep	_	_
+37	bains	bain	N	NC	g=m|n=p|s=c	36	obj	_	_
+38	peut	pouvoir	V	V	m=ind|n=s|p=3|t=pst	11	dep	_	_
+39	avoir	avoir	V	VINF	m=inf	38	obj	_	_
+40	son	son	D	DET	n=s|s=poss	41	det	_	_
+41	DORIS	doris	N	NC	s=c	39	obj	_	_
+42	,	,	PONCT	PONCT	s=w	11	ponct	_	_
+43	parce_qu'	parce_que	C	CS	s=s|marker=298	11	mod	_	_
+44	il	cln	CL	CLS	s=suj	45	suj	_	_
+45	est	être	V	V	m=ind|n=s|p=3|t=pst	43	obj	_	_
+46	la	le	D	DET	g=f|n=s|s=def	47	det	_	_
+47	rencontre	rencontre	N	NC	n=s|s=c	45	ats	_	_
+48	de	de	P	P	_	47	dep	_	_
+49	la	le	D	DET	g=f|n=s|s=def	50	det	_	_
+50	fiabilité	fiabilité	N	NC	g=f|n=s|s=c	48	obj	_	_
+51	et	et	C	CC	s=c	48	coord	_	_
+52	de	de	P	P	_	51	dep_coord	_	_
+53	l'	le	D	DET	n=s|s=def	54	det	_	_
+54	esthétique	esthétique	A	ADJ	n=s|s=qual	52	obj	_	_
+55	.	.	PONCT	PONCT	s=s	11	ponct	_	_
+
+xxxxxxx>  exister~salle{V~NC|root~obj}		parce_que{CS|mod}		être{V|obj}		
+
+
+23|1447) Pour moi les barres au sol est un exercice à part entière, mobilisant déjà suffisement le cheval, si tu y ajoute le pessoa( qui demande beaucoup d' efforts au cheval) je trouve ça" to much" aprés je ne suis pas une pro des ficelles _________________ Super Moderator Powaaa( parce_qu' il faut po pousser Mémé dans les orties) http://asidemaestro.canalblog.com http://www.belgium-amazone.com La sagesse, c' est d' avoir des rêves suffisament grands pour ne_pas les perdre de vue lorsqu' on les poursuit. 
+1	Pour	pour	P	P	_	7	mod	_	_
+2	moi	lui	PRO	PRO	n=s|s=pers	1	obj	_	_
+3	les	le	D	DET	n=p|s=def	4	det	_	_
+4	barres	barre	N	NC	g=f|n=p|s=c	7	suj	_	_
+5	au	à	P+D	P+D	s=def	4	dep	_	_
+6	sol	sol	N	NC	g=m|n=p|s=c	5	obj	_	_
+7	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+8	un	un	D	DET	g=m|n=s|s=ind	9	det	_	_
+9	exercice	exercice	N	NC	g=m|n=s|s=c	7	ats	_	_
+10	à	à	P	P	_	7	mod	_	_
+11	part	part	N	NC	n=s|s=c	10	obj	_	_
+12	entière	entier	A	ADJ	g=f|n=s|s=qual	11	mod	_	_
+13	,	,	PONCT	PONCT	s=w	7	ponct	_	_
+14	mobilisant	mobiliser	V	VPR	m=part|t=pst	7	mod	_	_
+15	déjà	déjà	ADV	ADV	_	14	mod	_	_
+16	suffisement	suffisement	ADV	ADV	_	14	mod	_	_
+17	le	le	D	DET	g=m|n=s|s=def	18	det	_	_
+18	cheval	cheval	N	NC	g=m|n=s|s=c	14	obj	_	_
+19	,	,	PONCT	PONCT	s=w	7	ponct	_	_
+20	si	si	C	CS	s=s|marker=349	7	mod	_	_
+21	tu	taire	V	VPP	g=m|m=part|n=s|t=past	20	obj	_	_
+22	y	y	CL	CLO	p=3|s=obj	23	aff	_	_
+23	ajoute	ajouter	V	V	m=ind|n=s|p=3|t=pst	7	mod	_	_
+24	le	le	D	DET	g=m|n=s|s=def	25	det	_	_
+25	pessoa	pessoa	N	NC	s=c	23	suj	_	_
+26	(	(	PONCT	PONCT	s=w	25	ponct	_	_
+27	qui	qui	PRO	PROREL	s=rel	28	suj	_	_
+28	demande	demander	V	V	m=ind|n=s|p=3|t=pst	25	mod_rel	_	_
+29	beaucoup	beaucoup	ADV	ADV	_	31	mod	_	_
+30	d'	de	P	P	_	31	det	_	_
+31	efforts	effort	N	NC	g=m|n=p|s=c	28	obj	_	_
+32	au	à	P+D	P+D	s=def	28	a_obj	_	_
+33	cheval	cheval	N	NC	g=m|n=s|s=c	32	obj	_	_
+34	)	)	PONCT	PONCT	s=w	7	ponct	_	_
+35	je	cln	CL	CLS	s=suj	36	suj	_	_
+36	trouve	trouver	V	V	m=ind|n=s|p=3|t=pst	7	mod	_	_
+37	ça	cela	PRO	PRO	g=m|n=s|s=dem	7	ats	_	_
+38	"	"	PONCT	PONCT	s=w	7	ponct	_	_
+39	to	to	ET	ET	_	40	dep	_	_
+40	much	much	ET	ET	_	7	mod	_	_
+41	"	"	PONCT	PONCT	s=w	40	ponct	_	_
+42	aprés	aprés	V	V	m=ind	7	mod	_	_
+43	je	cln	CL	CLS	s=suj	42	suj	_	_
+44	ne	ne	ADV	ADV	s=neg	45	mod	_	_
+45	suis	suivre	V	V	m=ind|n=s|p=2|t=pst	7	ats	_	_
+46	pas	pas	ADV	ADV	s=neg	45	mod	_	_
+47	une	un	D	DET	g=f|n=s|s=ind	48	det	_	_
+48	pro	pro	N	NC	n=s|s=c	45	obj	_	_
+49	des	de	P+D	P+D	s=def	48	dep	_	_
+50	ficelles	ficelle	N	NC	g=f|n=p|s=c	49	obj	_	_
+51	_________________	_________________	ET	ET	_	50	dep	_	_
+52	Super	Super	ET	ET	_	50	dep	_	_
+53	Moderator	Moderator	ET	ET	_	50	dep	_	_
+54	Powaaa	Powaaa	ET	ET	_	50	dep	_	_
+55	(	(	PONCT	PONCT	s=w	7	ponct	_	_
+56	parce_qu'	parce_que	C	CS	s=s|marker=298	7	mod	_	_
+57	il	cln	CL	CLS	s=suj	58	suj	_	_
+58	faut	falloir	V	V	m=ind|n=s|p=3|t=pst	56	obj	_	_
+59	po	po	ADV	ADV	_	58	mod	_	_
+60	pousser	pousser	V	VINF	m=inf	58	obj	_	_
+61	Mémé	Mémé	N	NPP	s=p	60	obj	_	_
+62	dans	dans	P	P	_	60	mod	_	_
+63	les	le	D	DET	n=p|s=def	64	det	_	_
+64	orties	ortie	N	NC	g=f|n=p|s=c	62	obj	_	_
+65	)	)	PONCT	PONCT	s=w	64	ponct	_	_
+66	http://asidemaestro.canalblog.com	http://asidemaestro.canalblog.com	ET	ET	_	64	dep	_	_
+67	http://www.belgium-amazone.com	http://www.belgium-amazone.com	ET	ET	_	64	dep	_	_
+68	La	le	D	DET	g=f|n=s|s=def	69	det	_	_
+69	sagesse	sagesse	N	NC	g=f|n=s|s=c	72	mod	_	_
+70	,	,	PONCT	PONCT	s=w	72	ponct	_	_
+71	c'	cln	CL	CLS	s=suj	72	suj	_	_
+72	est	être	V	V	m=ind|n=s|p=3|t=pst	7	mod	_	_
+73	d'	de	P	P	_	72	ats	_	_
+74	avoir	avoir	V	VINF	m=inf	73	obj	_	_
+75	des	de	D	DET	_	76	det	_	_
+76	rêves	rêve	N	NC	g=m|n=p|s=c	74	obj	_	_
+77	suffisament	suffisament	ADV	ADV	_	78	mod	_	_
+78	grands	grand	A	ADJ	g=m|n=p|s=qual	76	mod	_	_
+79	pour	pour	P	P	_	74	mod	_	_
+80	ne_pas	ne_pas	ADV	ADV	_	82	mod	_	_
+81	les	cla	CL	CLO	n=p|s=obj	82	obj	_	_
+82	perdre	perdre	V	VINF	m=inf	79	obj	_	_
+83	de	de	P	P	_	82	de_obj	_	_
+84	vue	vue	N	NC	g=f|n=s|s=c	83	obj	_	_
+85	lorsqu'	lorsque	C	CS	s=s	82	mod	_	_
+86	on	cln	CL	CLS	s=suj	88	suj	_	_
+87	les	cla	CL	CLO	n=p|s=obj	88	obj	_	_
+88	poursuit	poursuivre	V	V	m=ind|n=s|p=3|t=pst	85	obj	_	_
+89	.	.	PONCT	PONCT	s=s	7	ponct	_	_
+
+xxxxxxx>  être~exercice{V~NC|root~ats}		parce_que{CS|mod}		falloir{V|obj}		
+
+
+24|1451) Merci beaucoup Ptitesirene Admin Age: 30 Inscrit le: 30 Déc 2006 Messages: 2080 Localisation: Cestas( 33) Sujet: Re: Enrenement pessoa Mar 11 Sep- 10: 31 Bah les questions c' est fait pour être posées Aprés il_y_a tellement d' avsi que c' est à toi de faire ta cuisine _________________ Super Moderator Powaaa( parce_qu' il faut po pousser Mémé dans les orties) http://asidemaestro.canalblog.com http://www.belgium-amazone.com La sagesse, c' est d' avoir des rêves suffisament grands pour ne_pas les perdre de vue lorsqu' on les poursuit. 
+1	Merci	merci	N	NC	g=m|n=s|s=c	28	mod	_	_
+2	beaucoup	beaucoup	ADV	ADV	_	28	mod	_	_
+3	Ptitesirene	Ptitesirene	N	NPP	s=p	28	mod	_	_
+4	Admin	Admin	N	NPP	s=p	3	mod	_	_
+5	Age	Age	N	NPP	s=p	3	mod	_	_
+6	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+7	30	30	D	DET	s=card	8	det	_	_
+8	Inscrit	inscrit	N	NC	g=m|n=s|s=c	3	mod	_	_
+9	le	le	D	DET	g=m|n=s|s=def	14	det	_	_
+10	:	:	PONCT	PONCT	s=w	9	ponct	_	_
+11	30	30	D	DET	s=card	14	det	_	_
+12	Déc	Déc	ET	ET	_	14	dep	_	_
+13	2006	2006	ET	ET	s=card	14	dep	_	_
+14	Messages	Messages	ET	ET	_	8	dep	_	_
+15	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+16	2080	2080	D	DET	s=card	17	det	_	_
+17	Localisation	localisation	N	NC	g=f|n=s|s=c	3	mod	_	_
+18	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+19	Cestas	Cestas	N	NPP	g=m|n=s|s=p	3	mod	_	_
+20	(	(	PONCT	PONCT	s=w	3	ponct	_	_
+21	33	33	D	DET	s=card	3	det	_	_
+22	)	)	PONCT	PONCT	s=w	3	ponct	_	_
+23	Sujet	Sujet	N	NPP	s=p	3	mod	_	_
+24	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+25	Re	Re	N	NPP	g=m|n=s|s=p	3	mod	_	_
+26	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+27	Enrenement	Enrenement	N	NPP	s=p	28	suj	_	_
+28	pessoa	pessoa	V	V	m=ind	0	root	_	_
+29	Mar	Mar	N	NPP	s=p	28	obj	_	_
+30	11	11	D	DET	s=card	31	det	_	_
+31	Sep	Sep	N	NPP	s=p	29	mod	_	_
+32	-	-	PONCT	PONCT	s=w	29	ponct	_	_
+33	10	10	A	ADJ	s=card	29	mod	_	_
+34	:	:	PONCT	PONCT	s=w	29	ponct	_	_
+35	31	31	A	ADJ	s=card	29	mod	_	_
+36	Bah	Bah	N	NPP	s=p	29	mod	_	_
+37	les	le	D	DET	n=p|s=def	38	det	_	_
+38	questions	question	N	NC	g=f|n=p|s=c	29	mod	_	_
+39	c'	cln	CL	CLS	s=suj	41	suj	_	_
+40	est	être	V	V	m=ind|n=s|p=3|t=pst	41	aux_pass	_	_
+41	fait	faire	V	VPP	g=m|m=part|n=s|t=past	28	dep	_	_
+42	pour	pour	P	P	_	28	mod	_	_
+43	être	être	V	VINF	m=inf	44	aux_pass	_	_
+44	posées	poser	V	VPP	g=f|m=part|n=p|t=past	42	obj	_	_
+45	Aprés	Aprés	N	NPP	s=p	44	suj	_	_
+46	il_y_a	il_y_a	V	V	m=ind	44	dep	_	_
+47	tellement	tellement	ADV	ADV	_	49	mod	_	_
+48	d'	de	P	P	_	49	det	_	_
+49	avsi	avsi	N	NC	s=c	46	obj	_	_
+50	que	que	C	CS	s=s	52	obj	_	_
+51	c'	cln	CL	CLS	s=suj	52	suj	_	_
+52	est	être	V	V	m=ind|n=s|p=3|t=pst	49	mod_rel	_	_
+53	à	à	P	P	_	52	mod	_	_
+54	toi	lui	PRO	PRO	n=s|s=pers	53	obj	_	_
+55	de	de	P	P	_	52	ats	_	_
+56	faire	faire	V	VINF	m=inf	55	obj	_	_
+57	ta	son	D	DET	g=f|n=s|s=poss	58	det	_	_
+58	cuisine	cuisine	N	NC	g=f|n=s|s=c	56	obj	_	_
+59	_________________	_________________	ET	ET	_	58	mod	_	_
+60	Super	Super	ET	ET	_	58	mod	_	_
+61	Moderator	Moderator	ET	ET	_	58	mod	_	_
+62	Powaaa	Powaaa	ET	ET	_	58	mod	_	_
+63	(	(	PONCT	PONCT	s=w	28	ponct	_	_
+64	parce_qu'	parce_que	C	CS	s=s|marker=298	28	mod	_	_
+65	il	cln	CL	CLS	s=suj	66	suj	_	_
+66	faut	falloir	V	V	m=ind|n=s|p=3|t=pst	64	obj	_	_
+67	po	po	ADV	ADV	_	66	mod	_	_
+68	pousser	pousser	V	VINF	m=inf	66	obj	_	_
+69	Mémé	Mémé	N	NPP	s=p	68	obj	_	_
+70	dans	dans	P	P	_	68	mod	_	_
+71	les	le	D	DET	n=p|s=def	72	det	_	_
+72	orties	ortie	N	NC	g=f|n=p|s=c	70	obj	_	_
+73	)	)	PONCT	PONCT	s=w	28	ponct	_	_
+74	http://asidemaestro.canalblog.com	http://asidemaestro.canalblog.com	N	NPP	s=p	28	mod	_	_
+75	http://www.belgium-amazone.com	http://www.belgium-amazone.com	N	NPP	s=p	74	mod	_	_
+76	La	le	D	DET	g=f|n=s|s=def	77	det	_	_
+77	sagesse	sagesse	N	NC	g=f|n=s|s=c	74	mod	_	_
+78	,	,	PONCT	PONCT	s=w	80	ponct	_	_
+79	c'	cln	CL	CLS	s=suj	80	suj	_	_
+80	est	être	V	V	m=ind|n=s|p=3|t=pst	28	aux_pass	_	_
+81	d'	de	P	P	_	80	ats	_	_
+82	avoir	avoir	V	VINF	m=inf	81	obj	_	_
+83	des	de	D	DET	_	84	det	_	_
+84	rêves	rêve	N	NC	g=m|n=p|s=c	82	obj	_	_
+85	suffisament	suffisament	ADV	ADV	_	86	mod	_	_
+86	grands	grand	A	ADJ	g=m|n=p|s=qual	84	mod	_	_
+87	pour	pour	P	P	_	82	mod	_	_
+88	ne_pas	ne_pas	ADV	ADV	_	90	mod	_	_
+89	les	cla	CL	CLO	n=p|s=obj	90	obj	_	_
+90	perdre	perdre	V	VINF	m=inf	87	obj	_	_
+91	de	de	P	P	_	90	de_obj	_	_
+92	vue	vue	N	NC	g=f|n=s|s=c	91	obj	_	_
+93	lorsqu'	lorsque	C	CS	s=s	90	mod	_	_
+94	on	cln	CL	CLS	s=suj	96	suj	_	_
+95	les	cla	CL	CLO	n=p|s=obj	96	obj	_	_
+96	poursuit	poursuivre	V	V	m=ind|n=s|p=3|t=pst	93	obj	_	_
+97	.	.	PONCT	PONCT	s=s	28	ponct	_	_
+
+xxxxxxx>  pessoa~merci{V~NC|root~mod}		parce_que{CS|mod}		falloir{V|obj}		
+
+
+25|1463) Le pessoa a été beaucoup décrié parce_que mis entre toutes les mains( et surtout les peu expertes) il fait des dégats. 
+1	Le	le	D	DET	g=m|n=s|s=def	2	det	_	_
+2	pessoa	pessoa	N	NC	s=c	4	suj	_	_
+3	a	avoir	V	V	m=ind|n=s|p=3|t=pst	4	aux_tps	_	_
+4	été	être	V	VPP	m=part|t=past	0	root	_	_
+5	beaucoup	beaucoup	ADV	ADV	_	6	mod	_	_
+6	décrié	décrier	V	VPP	g=m|m=part|n=s|t=past	4	mod	_	_
+7	parce_que	parce_que	C	CS	s=s|marker=298	6	mod	_	_
+8	mis	mettre	V	VPP	g=m|m=part|t=past	7	obj	_	_
+9	entre	entre	P	P	_	8	mod	_	_
+10	toutes	tout	A	ADJ	g=f|n=p|s=ind	12	mod	_	_
+11	les	le	D	DET	n=p|s=def	12	det	_	_
+12	mains	main	N	NC	g=f|n=p|s=c	9	obj	_	_
+13	(	(	PONCT	PONCT	s=w	12	ponct	_	_
+14	et	et	C	CC	s=c	12	coord	_	_
+15	surtout	surtout	ADV	ADV	_|marker=178	14	mod	_	_
+16	les	le	D	DET	n=p|s=def	18	det	_	_
+17	peu	peu	ADV	ADV	_	18	mod	_	_
+18	expertes	expert	A	ADJ	g=f|n=p|s=qual	14	dep_coord	_	_
+19	)	)	PONCT	PONCT	s=w	12	ponct	_	_
+20	il	cln	CL	CLS	s=suj	21	suj	_	_
+21	fait	faire	V	V	m=ind|n=s|p=3|t=pst	12	mod	_	_
+22	des	de	D	DET	_	23	det	_	_
+23	dégats	dégat	N	NC	s=c	21	obj	_	_
+24	.	.	PONCT	PONCT	s=s	4	ponct	_	_
+
+xxxxxxx>  décrier{VPP|mod}		parce_que{CS|mod}		mettre{VPP|obj}		
+
+
+26|1509) si vous pouvez regardez les en V.O. parce_qu' on n' est pas gâtés côté traduction... 
+1	si	si	C	CS	s=s	4	mod	_	_
+2	vous	cln	CL	CLS	s=suj	3	suj	_	_
+3	pouvez	pouvoir	V	V	m=ind|n=p|p=2|t=pst	1	obj	_	_
+4	regardez	regarder	V	V	m=ind|n=p|p=2|t=pst	0	root	_	_
+5	les	le	D	DET	n=p|s=def	0	root	_	_
+6	en	en	P	P	p=3	5	dep	_	_
+7	V.O.	V.O.	N	NPP	s=p	6	obj	_	_
+8	parce_qu'	parce_que	C	CS	s=s|marker=298	5	ats	_	_
+9	on	cln	CL	CLS	s=suj	13	suj	_	_
+10	n'	ne	ADV	ADV	s=neg	13	mod	_	_
+11	est	être	V	V	m=ind|n=s|p=3|t=pst	13	aux_pass	_	_
+12	pas	pas	ADV	ADV	s=neg	13	mod	_	_
+13	gâtés	gâter	V	VPP	g=m|m=part|n=p|t=past	8	obj	_	_
+14	côté	côté	N	NC	g=m|n=s|s=c	13	mod	_	_
+15	traduction	traduction	N	NC	g=f|n=s|s=c	14	mod	_	_
+16	...	...	PONCT	PONCT	s=s	5	ponct	_	_
+
+xxxxxxx>  le{DET|root}		parce_que{CS|ats}		gâter{VPP|obj}		
+
+
+27|1650) Ceci n' est pas très surprenant dans_la_mesure_où il_y_a déjà surabondance des saumons d' élevage au niveau mondial. 
+1	Ceci	ceci	PRO	PRO	n=s|s=dem	3	suj	_	_
+2	n'	ne	ADV	ADV	s=neg	3	mod	_	_
+3	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+4	pas	pas	ADV	ADV	s=neg	3	mod	_	_
+5	très	très	ADV	ADV	_	3	mod	_	_
+6	surprenant	surprenant	A	ADJ	g=m|n=s|s=qual	3	ats	_	_
+7	dans_la_mesure_où	dans_la_mesure_où	C	CS	s=s	3	mod	_	_
+8	il_y_a	il_y_a	P	P	_	7	obj	_	_
+9	déjà	déjà	ADV	ADV	_	10	mod	_	_
+10	surabondance	surabondance	N	NC	g=f|n=s|s=c	8	obj	_	_
+11	des	de	P+D	P+D	s=def	10	dep	_	_
+12	saumons	saumon	N	NC	g=m|n=p|s=c	11	obj	_	_
+13	d'	de	P	P	_	12	dep	_	_
+14	élevage	élevage	N	NC	g=m|n=s|s=c	13	obj	_	_
+15	au	à	P+D	P+D	s=def	3	mod	_	_
+16	niveau	niveau	N	NC	g=m|n=s|s=c	15	obj	_	_
+17	mondial	mondial	A	ADJ	g=m|n=s|s=qual	16	mod	_	_
+18	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+xxxxxxx>  être~surprenant{V~ADJ|root~ats}		dans_la_mesure_où{CS|mod}		il_y_a{P|obj}		
+
+
+28|1762) Un jour rien que parce_que j' avais des lunettes de soleil il a mis au_moins 5 minutes avant_de me reconnaitre non sans_que je lui ai répété 5 ou 6 fois que j' étais une employée. 
+1	Un	un	D	DET	g=m|n=s|s=ind	2	det	_	_
+2	jour	jour	N	NC	g=m|n=s|s=c	0	root	_	_
+3	rien	rien	PRO	PRO	n=s|s=neg	2	dep	_	_
+4	que	que	PRO	PROREL	s=rel	7	obj	_	_
+5	parce_que	parce_que	C	CS	s=s|marker=298	7	mod	_	_
+6	j'	cln	CL	CLS	s=suj	7	suj	_	_
+7	avais	avoir	V	V	m=ind|n=s|p=2|t=impft	3	mod_rel	_	_
+8	des	de	D	DET	_	9	det	_	_
+9	lunettes	lunette	N	NC	g=f|n=p|s=c	7	suj	_	_
+10	de	de	P	P	_	9	dep	_	_
+11	soleil	soleil	N	NC	g=m|n=s|s=c	10	obj	_	_
+12	il	cln	CL	CLS	s=suj	14	suj	_	_
+13	a	avoir	V	V	m=ind|n=s|p=3|t=pst	14	aux_tps	_	_
+14	mis	mettre	V	VPP	g=m|m=part|t=past	7	obj	_	_
+15	au_moins	au_moins	ADV	ADV	_|marker=202	14	mod	_	_
+16	5	5	D	DET	s=card	17	det	_	_
+17	minutes	minute	N	NC	g=f|n=p|s=c	14	mod	_	_
+18	avant_de	avant_de	P	P	_|marker=110	14	mod	_	_
+19	me	clad	CL	CLO	s=obj	20	a_obj	_	_
+20	reconnaitre	reconnaitre	V	VINF	m=inf	18	obj	_	_
+21	non	non	ADV	ADV	s=neg	20	mod	_	_
+22	sans_que	sans_que	C	CS	s=s	20	mod	_	_
+23	je	cln	CL	CLS	s=suj	26	suj	_	_
+24	lui	cld	CL	CLO	n=s|s=obj	26	a_obj	_	_
+25	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	26	aux_tps	_	_
+26	répété	répéter	V	VPP	g=m|m=part|n=s|t=past	22	obj	_	_
+27	5	5	D	DET	s=card	30	det	_	_
+28	ou	ou	C	CC	s=c	30	coord	_	_
+29	6	6	D	DET	s=card	28	det	_	_
+30	fois	fois	N	NC	g=f|s=c	26	mod	_	_
+31	que	que	PRO	PROREL	s=rel	33	obj	_	_
+32	j'	cln	CL	CLS	s=suj	33	suj	_	_
+33	étais	être	V	V	m=ind|n=s|p=2|t=impft	30	mod_rel	_	_
+34	une	un	D	DET	g=f|n=s|s=ind	35	det	_	_
+35	employée	employé	N	NC	g=f|n=s|s=c	33	suj	_	_
+36	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+29|1978) D'_où de grandes chances d' arriver à la convaincre de passer une après-midi en famille et entre passionnés. 
+1	D'_où	d'où	P	P	_	0	root	_	_
+2	de	un	D	DET	n=p|s=ind	4	det	_	_
+3	grandes	grand	A	ADJ	g=f|n=p|s=qual	4	mod	_	_
+4	chances	chance	N	NC	g=f|n=p|s=c	1	obj	_	_
+5	d'	de	P	P	_	4	dep	_	_
+6	arriver	arriver	V	VINF	m=inf	5	obj	_	_
+7	à	à	P	P	_	6	mod	_	_
+8	la	cla	CL	CLO	g=f|n=s|s=obj	9	obj	_	_
+9	convaincre	convaincre	V	VINF	m=inf	7	obj	_	_
+10	de	de	P	P	_	9	de_obj	_	_
+11	passer	passer	V	VINF	m=inf	10	obj	_	_
+12	une	un	D	DET	g=f|n=s|s=ind	13	det	_	_
+13	après-midi	après-midi	N	NC	n=s|s=c	11	obj	_	_
+14	en	en	P	P	p=3	11	mod	_	_
+15	famille	famille	N	NC	g=f|n=s|s=c	14	obj	_	_
+16	et	et	C	CC	s=c	14	coord	_	_
+17	entre	entre	P	P	_	16	dep_coord	_	_
+18	passionnés	passionner	V	VPP	g=m|m=part|n=p|t=past	17	obj	_	_
+19	.	.	PONCT	PONCT	s=s	1	ponct	_	_
+
+30|2006) Ben moi le coup de gueule nature sera juste de raler contre tous ces cons qui veulent te faire bouffer de l' écolo et sans tact, genre je suis militant bio parce_que je le vaux bien... 
+1	Ben	Ben	N	NPP	g=m|n=s|s=p	8	suj	_	_
+2	moi	lui	PRO	PRO	n=s|s=pers	8	mod	_	_
+3	le	le	D	DET	g=m|n=s|s=def	4	det	_	_
+4	coup	coup	N	NC	g=m|n=s|s=c	8	suj	_	_
+5	de	de	P	P	_	4	dep	_	_
+6	gueule	gueule	N	NC	n=s|s=c	5	obj	_	_
+7	nature	nature	A	ADJ	s=qual	6	mod	_	_
+8	sera	être	V	V	m=ind|n=s|p=3|t=fut	0	root	_	_
+9	juste	juste	A	ADJ	n=s|s=qual	8	ats	_	_
+10	de	de	P	P	_	8	obj	_	_
+11	raler	raler	V	VINF	m=inf	10	obj	_	_
+12	contre	contre	P	P	_	11	mod	_	_
+13	tous	tout	A	ADJ	g=m|n=p|s=ind	15	mod	_	_
+14	ces	ce	D	DET	n=p|s=dem	15	det	_	_
+15	cons	con	N	NC	g=m|n=p|s=c	12	obj	_	_
+16	qui	qui	PRO	PROREL	s=rel	17	suj	_	_
+17	veulent	vouloir	V	V	m=ind|n=p|p=3|t=pst	15	mod_rel	_	_
+18	te	clad	CL	CLO	s=obj	20	obj	_	_
+19	faire	faire	V	VINF	m=inf	20	aux_caus	_	_
+20	bouffer	bouffer	V	VINF	m=inf	17	obj	_	_
+21	de	de	P	P	_	20	de_obj	_	_
+22	l'	le	D	DET	n=s|s=def	23	det	_	_
+23	écolo	écolo	N	NC	n=s|s=c	21	obj	_	_
+24	et	et	C	CC	s=c	21	coord	_	_
+25	sans	sans	P	P	_|marker=352	24	dep_coord	_	_
+26	tact	tact	N	NC	g=m|n=s|s=c	25	obj	_	_
+27	,	,	PONCT	PONCT	s=w	20	ponct	_	_
+28	genre	genre	N	NC	g=m|n=s|s=c	20	mod	_	_
+29	je	cln	CL	CLS	s=suj	30	suj	_	_
+30	suis	suivre	V	V	m=ind|n=s|p=2|t=pst	8	mod	_	_
+31	militant	militer	V	VPR	m=part|t=pst	30	mod	_	_
+32	bio	bio	A	ADJ	s=qual	31	ats	_	_
+33	parce_que	parce_que	C	CS	s=s|marker=298	8	mod	_	_
+34	je	cln	CL	CLS	s=suj	36	suj	_	_
+35	le	le	D	DET	g=m|n=s|s=def	36	det	_	_
+36	vaux	val	N	NC	g=m|n=p|s=c	33	obj	_	_
+37	bien	bien	ADV	ADV	_	36	mod	_	_
+38	...	...	PONCT	PONCT	s=s	8	ponct	_	_
+
+------->  être~juste{V~ADJ|root~ats}		parce_que{CS|mod}		val{NC|obj}		
+
+
+31|2009) Moi j' aime bien quand tu rales contre les cons et je me dis que tu as grave du courage, parce_qu' il_y_a du boulot. 
+1	Moi	cln	CL	CLS	s=suj	3	suj	_	_
+2	j'	cln	CL	CLS	s=suj	3	suj	_	_
+3	aime	aimer	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+4	bien	bien	ADV	ADV	_	3	mod	_	_
+5	quand	quand	C	CS	s=s|marker=144	3	mod	_	_
+6	tu	taire	V	VPP	g=m|m=part|n=s|t=past	5	obj	_	_
+7	rales	rale	N	NC	s=c	6	mod	_	_
+8	contre	contre	P	P	_	6	mod	_	_
+9	les	le	D	DET	n=p|s=def	10	det	_	_
+10	cons	con	N	NC	g=m|n=p|s=c	8	obj	_	_
+11	et	et	C	CC	s=c	3	coord	_	_
+12	je	cln	CL	CLS	s=suj	14	suj	_	_
+13	me	cla	CL	CLR	n=s|s=refl	14	aff	_	_
+14	dis	dire	V	V	m=ind|n=s|p=2|t=pst	11	dep_coord	_	_
+15	que	que	C	CS	s=s	14	obj	_	_
+16	tu	taire	V	VPP	g=m|m=part|n=s|t=past	15	obj	_	_
+17	as	as	V	V	m=ind	3	dep	_	_
+18	grave	grave	A	ADJ	n=s|s=qual	17	mod	_	_
+19	du	de	P+D	P+D	s=def	17	de_obj	_	_
+20	courage	courage	N	NC	g=m|n=s|s=c	19	obj	_	_
+21	,	,	PONCT	PONCT	s=w	3	ponct	_	_
+22	parce_qu'	parce_que	C	CS	s=s|marker=298	3	mod	_	_
+23	il_y_a	il_y_a	V	V	m=ind	22	obj	_	_
+24	du	de	P+D	P+D	s=def	23	de_obj	_	_
+25	boulot	boulot	N	NC	g=f|n=s|s=c	24	obj	_	_
+26	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+xxxxxxx>  aimer{V|root}		parce_que{CS|mod}		il_y_a{V|obj}		
+
+
+32|2010) parce_que si tu comptes manger ma cuisine, tu risques d' avoir faim longtemps... 
+1	parce_que	parce_que	C	CS	s=s|marker=298	0	root	_	_
+2	si	si	C	CS	s=s|marker=349	5	mod	_	_
+3	tu	taire	V	VPP	g=m|m=part|n=s|t=past	2	obj	_	_
+4	comptes	comptes	N	NC	g=m|n=p|s=c	3	mod	_	_
+5	manger	manger	V	VINF	m=inf	1	obj	_	_
+6	ma	son	D	DET	g=f|n=s|s=poss	7	det	_	_
+7	cuisine	cuisine	N	NC	g=f|n=s|s=c	5	obj	_	_
+8	,	,	PONCT	PONCT	s=w	7	ponct	_	_
+9	tu	taire	V	VPP	g=m|m=part|n=s|t=past	7	mod	_	_
+10	risques	risque	N	NC	g=m|n=p|s=c	9	mod	_	_
+11	d'	de	P	P	_	5	de_obj	_	_
+12	avoir	avoir	V	VINF	m=inf	11	obj	_	_
+13	faim	faim	N	NC	g=f|n=s|s=c	12	obj	_	_
+14	longtemps	longtemps	ADV	ADV	_	12	mod	_	_
+15	...	...	PONCT	PONCT	s=s	1	ponct	_	_
+
+33|2064) Non_seulement parce_que vous vous fatiguez plus vite mais aussi parce_que le déplacement de votre centre de gravité vous rend maladroite. 
+1	Non_seulement	non_seulement	ADV	ADV	_	2	obj	_	_
+2	parce_que	parce_que	C	CS	s=s|marker=298|marker=298	0	root	_	_
+3	vous	cln	CL	CLS	s=suj	5	suj	_	_
+4	vous	clad	CL	CLO	s=obj	5	aff	_	_
+5	fatiguez	fatiguer	V	V	m=ind|n=p|p=2|t=pst	2	obj	_	_
+6	plus	plus	ADV	ADV	s=neg	7	mod	_	_
+7	vite	vite	ADV	ADV	_	5	mod	_	_
+8	mais	mais	C	CC	s=c|marker=304	7	coord	_	_
+9	aussi	aussi	ADV	ADV	_|marker=208	8	dep_coord	_	_
+10	parce_que	parce_que	C	CS	s=s	5	mod	_	_
+11	le	le	D	DET	g=m|n=s|s=def	12	det	_	_
+12	déplacement	déplacement	N	NC	g=m|n=s|s=c	19	suj	_	_
+13	de	de	P	P	_	12	dep	_	_
+14	votre	son	D	DET	n=s|s=poss	15	det	_	_
+15	centre	centre	N	NC	g=m|n=s|s=c	13	obj	_	_
+16	de	de	P	P	_	15	dep	_	_
+17	gravité	gravité	N	NC	g=f|n=s|s=c	16	obj	_	_
+18	vous	cln	CL	CLS	s=suj	19	suj	_	_
+19	rend	rendre	V	V	m=ind|n=s|p=3|t=pst	10	obj	_	_
+20	maladroite	maladroit	A	ADJ	g=f|n=s|s=qual	19	ats	_	_
+21	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+xxxxxxx>  fatiguer{V|obj}		parce_que{CS|mod}		rendre{V|obj}		
+
+
+34|2064) Non_seulement parce_que vous vous fatiguez plus vite mais aussi parce_que le déplacement de votre centre de gravité vous rend maladroite. 
+1	Non_seulement	non_seulement	ADV	ADV	_	2	obj	_	_
+2	parce_que	parce_que	C	CS	s=s|marker=298|marker=298	0	root	_	_
+3	vous	cln	CL	CLS	s=suj	5	suj	_	_
+4	vous	clad	CL	CLO	s=obj	5	aff	_	_
+5	fatiguez	fatiguer	V	V	m=ind|n=p|p=2|t=pst	2	obj	_	_
+6	plus	plus	ADV	ADV	s=neg	7	mod	_	_
+7	vite	vite	ADV	ADV	_	5	mod	_	_
+8	mais	mais	C	CC	s=c|marker=304	7	coord	_	_
+9	aussi	aussi	ADV	ADV	_|marker=208	8	dep_coord	_	_
+10	parce_que	parce_que	C	CS	s=s	5	mod	_	_
+11	le	le	D	DET	g=m|n=s|s=def	12	det	_	_
+12	déplacement	déplacement	N	NC	g=m|n=s|s=c	19	suj	_	_
+13	de	de	P	P	_	12	dep	_	_
+14	votre	son	D	DET	n=s|s=poss	15	det	_	_
+15	centre	centre	N	NC	g=m|n=s|s=c	13	obj	_	_
+16	de	de	P	P	_	15	dep	_	_
+17	gravité	gravité	N	NC	g=f|n=s|s=c	16	obj	_	_
+18	vous	cln	CL	CLS	s=suj	19	suj	_	_
+19	rend	rendre	V	V	m=ind|n=s|p=3|t=pst	10	obj	_	_
+20	maladroite	maladroit	A	ADJ	g=f|n=s|s=qual	19	ats	_	_
+21	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+xxxxxxx>  fatiguer{V|obj}		parce_que{CS|mod}		rendre{V|obj}		
+
+
+35|2259) « Parce_qu' il devient urgent de prendre en_compte l' environnement dans l' activité agricole» explique Iman Bahmani-Piaseczny, responsable de l' Agriculture d' ADEME en Picardie. 
+1	«	«	PONCT	PONCT	s=w	0	root	_	_
+2	Parce_qu'	parce_que	C	CS	s=s|marker=298	0	root	_	_
+3	il	cln	CL	CLS	s=suj	4	suj	_	_
+4	devient	devenir	V	V	m=ind|n=s|p=3|t=pst	2	obj	_	_
+5	urgent	urgent	A	ADJ	g=m|n=s|s=qual	4	ats	_	_
+6	de	de	P	P	_	4	obj	_	_
+7	prendre	prendre	V	VINF	m=inf	6	obj	_	_
+8	en_compte	en_compte	ADV	ADV	_	7	mod	_	_
+9	l'	le	D	DET	n=s|s=def	10	det	_	_
+10	environnement	environnement	N	NC	g=m|n=s|s=c	7	obj	_	_
+11	dans	dans	P	P	_	7	mod	_	_
+12	l'	le	D	DET	n=s|s=def	13	det	_	_
+13	activité	activité	N	NC	g=f|n=s|s=c	11	obj	_	_
+14	agricole	agricole	A	ADJ	n=s|s=qual	13	mod	_	_
+15	»	»	PONCT	PONCT	s=w	2	ponct	_	_
+16	explique	expliquer	V	V	m=ind|n=s|p=3|t=pst	2	obj	_	_
+17	Iman	Iman	N	NPP	g=f|n=s|s=p	16	suj	_	_
+18	Bahmani-Piaseczny	Bahmani-Piaseczny	N	NPP	s=p	17	mod	_	_
+19	,	,	PONCT	PONCT	s=w	17	ponct	_	_
+20	responsable	responsable	N	NC	n=s|s=c	17	mod	_	_
+21	de	de	P	P	_	20	dep	_	_
+22	l'	le	D	DET	n=s|s=def	23	det	_	_
+23	Agriculture	agriculture	N	NC	g=f|n=s|s=c	21	obj	_	_
+24	d'	de	P	P	_	23	dep	_	_
+25	ADEME	ADEME	N	NPP	s=p	24	obj	_	_
+26	en	en	P	P	p=3	20	dep	_	_
+27	Picardie	Picardie	N	NPP	g=f|n=s|s=p	26	obj	_	_
+28	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+36|2315) - Parce_que, si je ne les reprends pas, les lutins vont perdre leurs couleurs et ils ne pourront plus faire d' arc-en-ciel. 
+1	-	-	PONCT	PONCT	s=w	0	root	_	_
+2	Parce_que	parce_que	C	CS	s=s|marker=298	0	root	_	_
+3	,	,	PONCT	PONCT	s=w	13	ponct	_	_
+4	si	si	C	CS	s=s|marker=349	13	mod	_	_
+5	je	cln	CL	CLS	s=suj	8	suj	_	_
+6	ne	ne	ADV	ADV	s=neg	8	mod	_	_
+7	les	cla	CL	CLO	n=p|s=obj	8	obj	_	_
+8	reprends	reprendre	V	V	m=ind|n=s|p=2|t=pst	4	obj	_	_
+9	pas	pas	ADV	ADV	s=neg	8	mod	_	_
+10	,	,	PONCT	PONCT	s=w	13	ponct	_	_
+11	les	le	D	DET	n=p|s=def	12	det	_	_
+12	lutins	lutin	N	NC	g=f|n=p|s=c	13	suj	_	_
+13	vont	aller	V	V	m=ind|n=p|p=3|t=pst	2	obj	_	_
+14	perdre	perdre	V	VINF	m=inf	13	obj	_	_
+15	leurs	son	D	DET	n=p|s=poss	16	det	_	_
+16	couleurs	couleur	N	NC	g=f|n=p|s=c	14	obj	_	_
+17	et	et	C	CC	s=c	2	coord	_	_
+18	ils	cln	CL	CLS	s=suj	20	suj	_	_
+19	ne	ne	ADV	ADV	s=neg	20	mod	_	_
+20	pourront	pouvoir	V	V	m=ind|n=p|p=3|t=fut	17	dep_coord	_	_
+21	plus	plus	ADV	ADV	s=neg	20	mod	_	_
+22	faire	faire	V	VINF	m=inf	20	obj	_	_
+23	d'	de	P	P	_	22	de_obj	_	_
+24	arc-en-ciel	arc-en-ciel	N	NC	g=m|n=s|s=c	23	obj	_	_
+25	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+

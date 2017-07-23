@@ -1,0 +1,398 @@
+1|14)
+------->  être{VPP|mod_rel}            comme{P|mod}                  à{P|obj}                     
+2|20)
+------->  être{V|root}                 comme{P|mod}                  commission{NPP|obj}           
+3|34)
+------->  sanctionner{VPP|mod}          comme{P|mod}                  promettre{VPP|obj}            
+4|36)
+------->  com{NC|mod}                   comme{P|mod}                  de{P|obj}                     
+5|37)
+------->  fixer{VPP|root}               comme{P|mod}                  pour{P|obj}                   
+6|43)
+------->  collègue{NC|suj}             comme{P|dep}                  à{P|obj}                     
+7|45)
+------->  inscription{NC|obj}           comme{P|dep}                  cela{PRO|obj}                 
+8|93)
+------->  comporter{V|root}             comme{P|mod}                  courroie{NC|obj}              
+9|103)
+------->  arrete{V|root}                parce_que{CS|mod}             pouvoir{V|obj}                
+10|105)
+11|119)
+12|130)
+------->  donner{V|dep_coord}           comme{CS|mod}                 dire{V|obj}                   
+13|146)
+14|147)
+------->  il_y_a{P|root}                comme{CS|mod}                 dire{V|obj}                   
+15|186)
+------->  travestir{V|root}             comme{P|mod}                  ange{NC|obj}                  
+16|187)
+------->  reconnaître{VPP|mod}         comme{P|mod}                  lieu{NC|obj}                  
+17|220)
+------->  sécher{VINF|obj}             parce_que{CS|mod}             coudre{VPP|obj}               
+18|223)
+------->  être{V|root}                 comme{CS|mod}                 pour{P|obj}                   
+19|225)
+------->  considérer{VPP|mod}          comme{P|mod}                  responsable{NC|obj}           
+20|267)
+21|282)
+------->  être{V|root}                 parce_que{CS|mod}             avoir{V|obj}                  
+22|287)
+------->  sémiotique{NC|root}          comme{P|dep}                  analyse{NC|obj}               
+23|300)
+------->  être{V|root}                 parce_que{CS|mod}             connaître{V|obj}             
+24|301)
+------->  changer{VINF|obj}             comme{P|mod}                  pour{P|obj}                   
+25|312)
+------->  arrêter{VPP|mod_rel}         comme{CS|mod}                 annoncer{VPP|obj}             
+26|320)
+------->  année{NC|ats}                comme{P|dep}                  cela{PRO|obj}                 
+27|332)
+------->  servir{V|root}                comme{P|mod}                  outil{NC|obj}                 
+28|339)
+------->  fevrier{VINF|obj}             comme{P|mod}                  caissiere{NC|obj}             
+29|346)
+------->  percevoir{VPP|root}           comme{P|mod}                  contrainte{NC|obj}            
+30|348)
+------->  être{V|root}                 comme{P|coord}                pour{P|dep_coord}             
+31|382)
+------->  être{V|root}                 comme{P|ats}                  être{V|obj}                  
+32|385)
+------->  être{V|root}                 comme{CS|mod}                 faire{V|obj}                  
+33|433)
+------->  savoir{V|mod_rel}             comme{P|mod}                  chacun{PRO|obj}               
+34|433)
+------->  savoir{V|mod_rel}             comme{P|mod}                  chacun{PRO|obj}               
+35|444)
+------->  demander{V|dep_coord}         comme{P|mod}                  auto{NC|obj}                  
+36|458)
+------->  voilà{V|root}                d'où{P|mod}                  venir{V|obj}                  
+37|475)
+------->  voir{VPP|root}                comme{P|mod}                  phénomène{NC|obj}           
+38|490)
+------->  porter{V|mod}                 parce_que{CS|mod}             avoir{V|obj}                  
+39|491)
+40|493)
+------->  percevoir{VPP|mod}            comme{P|mod}                  être{VPR|obj}                
+41|519)
+------->  être{V|root}                 comme{P|mod}                  support{NC|obj}               
+42|533)
+------->  pointu{ADV|root}              comme{P|mod}                  sujet{NC|obj}                 
+43|534)
+------->  faire{VINF|root}              comme{CS|mod}                 sentir{V|obj}                 
+44|536)
+------->  renseigner{VINF|obj}          comme{CS|obj}                 dire{V|obj}                   
+45|538)
+------->  pointu{ADV|root}              comme{P|mod}                  sujet{NC|obj}                 
+46|549)
+------->  faire{V|obj}                  comme{CS|mod}                 taire{VPP|obj}                
+47|549)
+------->  faire{V|obj}                  comme{CS|mod}                 taire{VPP|obj}                
+48|551)
+------->  être{V|obj}                  comme{CS|mod}                 souhaites{V|obj}              
+49|553)
+------->  avoir{VINF|obj}               comme{P|mod}                  crampe{NC|obj}                
+50|568)
+------->  exécuter{VINF|obj}           comme{P|mod}                  celui{PRO|obj}                
+51|633)
+------->  occuper{VPP|root}             comme{CS|mod}                 témoigner{V|obj}             
+52|634)
+------->  écrire{V|root}               comme{P|coord}                en{P|dep_coord}               
+53|635)
+------->  rencontrer{V|root}            comme{CS|mod}                 écrire{V|obj}                
+54|637)
+------->  situer{V|obj}                 d'où{P|mod}                  descendre{V|obj}              
+55|637)
+------->  situer{V|obj}                 d'où{P|mod}                  descendre{V|obj}              
+56|649)
+------->  considerr{VINF|obj}           comme{P|mod}                  ninja{NC|obj}                 
+57|661)
+------->  penser{V|root}                comme{P|mod}                  zlda{NC|obj}                  
+58|664)
+------->  voiler{V|root}                comme{P|mod}                  ^^{ADV|mod}                   
+------->  voiler{V|root}                comme{P|mod}                  cela{PRO|obj}                 
+------->  voiler{V|root}                comme{P|mod}                  par_exemple{ADV|mod}          
+------->  voiler{V|root}                comme{P|mod}                  partition{NC|mod}             
+------->  voiler{V|root}                comme{P|mod}                  good{P|mod}                   
+------->  voiler{V|root}                comme{P|mod}                  lover{VINF|obj}               
+59|668)
+------->  être{V|root}                 comme{P|mod}                  crawl{NC|obj}                 
+60|672)
+------->  entendre{V|root}              comme{CS|mod}                 faire{V|obj}                  
+61|673)
+------->  suivre{V|root}                d'autant_plus_que{CS|mod}     être{V|obj}                  
+62|675)
+------->  entraîner{V|root}            d'où{P|mod}                  nage{NC|obj}                  
+63|683)
+64|698)
+------->  profil{NC|root}               comme{P|coord}                en{P|dep_coord}               
+65|711)
+------->  destiner{VPP|root}            comme{P|mod}                  forum{NC|obj}                 
+66|724)
+------->  posséder{V|dep_coord}        comme{P|mod}                  housewive{NC|obj}             
+67|741)
+------->  répandre{VPP|mod}            comme{P|mod}                  à{P+D|obj}                   
+68|742)
+------->  avoir{V|root}                 comme{P|mod}                  être{V|obj}                  
+69|748)
+------->  voir{VINF|obj}                comme{P|mod}                  transmission{NC|obj}          
+70|756)
+------->  être{V|root}                 comme{P|ats}                  cela{PRO|obj}                 
+71|788)
+------->  adopter{VPP|mod}              comme{P|mod}                  biocarburant{ET|dep}          
+72|802)
+------->  apparaître{VINF|obj}         comme{P|mod}                  partenaire{NC|obj}            
+73|812)
+------->  finir{VPP|dep_coord}          comme{P|mod}                  beaucoup{ADV|obj}             
+74|814)
+------->  proposer{VINF|obj}            comme{P|mod}                  4L{NC|obj}                    
+75|836)
+------->  documentaliste{NC|obj}        comme{P|dep}                  Nelly{NPP|obj}                
+76|888)
+------->  cela{PRO|root}                parce_que{CS|mod}             acheter{VPP|obj}              
+77|898)
+------->  lancer{V|mod_rel}             comme{CS|mod}                 voir{VPP|obj}                 
+78|918)
+------->  interpréter{VPP|root}        comme{P|mod}                  Jules{NPP|obj}                
+79|919)
+------->  être{V|aux_pass}             comme{P|mod}                  fourmilière{NC|obj}          
+80|933)
+------->  installation{NC|root}         comme{P|dep}                  stade{NC|obj}                 
+81|945)
+------->  supposer{V|root}              parce_que{CS|obj}             suivre{VPP|obj}               
+82|948)
+83|952)
+------->  voilà{V|root}                comme{P|mod}                  cela{PRO|obj}                 
+84|953)
+------->  avoir{V|dep}                  comme{P|mod}                  lui{PRO|obj}                  
+85|993)
+------->  être{V|root}                 comme{P|mod}                  à{P|obj}                     
+------->  être{V|root}                 comme{P|mod}                  sur{P|arg}                    
+------->  être{V|root}                 comme{P|mod}                  mardi{NC|obj}                 
+------->  être{V|root}                 comme{P|mod}                  à{P|arg}                     
+------->  être{V|root}                 comme{P|mod}                  à{P+D|arg}                   
+------->  être{V|root}                 comme{P|mod}                  personne.Un{NPP|obj}          
+86|1000)
+------->  considérer{VPP|root}         comme{P|mod}                  acquis{NC|obj}                
+87|1024)
+------->  présenter{VPP|root}          comme{P|mod}                  récent{ADJ|obj}              
+88|1043)
+------->  que{CS|dep}                   comme{P|obj}                  alternative{NC|obj}           
+89|1050)
+------->  être{V|root}                 comme{P|ats}                  moteur{NC|obj}                
+90|1063)
+------->  utilisation{NC|suj}           comme{P|dep}                  outil{NC|obj}                 
+91|1087)
+------->  subir{VINF|obj}               comme{P|mod}                  M-real{NPP|obj}               
+92|1097)
+------->  avoir{V|root}                 comme{P|mod}                  avec{P|obj}                   
+------->  avoir{V|root}                 parce_que{CS|mod}             savoir{V|obj}                 
+93|1097)
+------->  avoir{V|root}                 comme{P|mod}                  avec{P|obj}                   
+------->  avoir{V|root}                 parce_que{CS|mod}             savoir{V|obj}                 
+94|1104)
+------->  dévaster{V|dep_coord}        comme{P|mod}                  tornade{NC|obj}               
+95|1111)
+------->  enchaîner{V|root}            comme{P|mod}                  en{P|obj}                     
+96|1119)
+------->  varier{VPP|mod}               comme{P|mod}                  savoir{V|obj}                 
+97|1124)
+------->  passer{V|root}                comme{CS|mod}                 souligner{VPP|obj}            
+98|1167)
+------->  permettre{V|root}             comme{CS|mod}                 indiquer{V|obj}               
+99|1181)
+------->  considérer{V|obj}            comme{P|mod}                  faire{VPR|obj}                
+100|1183)
+------->  sortir{V|root}                comme{P|mod}                  Ut5{NC|obj}                   
+101|1186)
+------->  avoir{V|dep_coord}            parce_que{CS|mod}             avoir{V|obj}                  
+102|1188)
+------->  agir{V|obj}                   comme{P|mod}                  interruption{NC|obj}          
+103|1200)
+------->  étiqueter{VINF|obj}          comme{P|mod}                  6-bis{DET|obj}                
+104|1208)
+------->  à{P|mod}                     comme{P|coord}                à{P|dep_coord}               
+105|1214)
+------->  après{P|mod}                 comme{P|arg}                  passionner{VPP|obj}           
+106|1229)
+------->  juge{NC|mod}                  parce_que{CS|mod}             voiler{V|obj}                 
+107|1231)
+------->  être{V|root}                 comme{P|mod}                  jtrouve{NC|obj}               
+108|1256)
+------->  être{V|root}                 comme{CS|mod}                 appeler{V|obj}                
+109|1271)
+------->  doter{VPP|mod}                comme{P|mod}                  Nottingham{NPP|obj}           
+110|1272)
+------->  marquer{VPP|obj}              comme{P|mod}                  en{P|obj}                     
+111|1278)
+------->  haut{NC|root}                 comme{P|dep}                  apparat{NC|obj}               
+112|1279)
+------->  freiner{V|dep_coord}          comme{P|mod}                  en{P|obj}                     
+113|1280)
+------->  utiliser{VINF|obj}            comme{P|mod}                  fibrane{NC|obj}               
+114|1312)
+------->  être{VPP|root}               comme{CS|mod}                 attester{V|obj}               
+115|1319)
+------->  être{V|root}                 parce_que{CS|ats}             hésiter{VPP|obj}             
+116|1331)
+------->  dessiner{V|root}              comme{CS|mod}                 ennuyer{V|obj}                
+117|1335)
+118|1341)
+------->  aimer{VPP|root}               parce_que{CS|mod}             avoir{V|obj}                  
+119|1346)
+120|1346)
+121|1350)
+------->  carnassier{ADJ|obj}           comme{P|dep}                  brochet{NC|obj}               
+122|1361)
+------->  suprématie{NC|root}          comme{P|dep}                  Voyages-sncf{NPP|obj}         
+123|1363)
+------->  vente{NC|obj}                 comme{P|dep}                  site{NC|obj}                  
+124|1365)
+------->  avoisiner{VINF|obj}           comme{P|mod}                  player{NC|obj}                
+------->  considérer{VPP|obj}          comme{P|mod}                  moyenne{NC|obj}               
+125|1365)
+------->  avoisiner{VINF|obj}           comme{P|mod}                  player{NC|obj}                
+------->  considérer{VPP|obj}          comme{P|mod}                  moyenne{NC|obj}               
+126|1369)
+------->  dans{P|mod}                   comme{P|coord}                dans{P|dep_coord}             
+127|1371)
+------->  exister{V|root}               parce_que{CS|mod}             être{V|obj}                  
+128|1373)
+------->  imposer{V|root}               comme{P|coord}                à{P|dep_coord}               
+129|1385)
+------->  chaud{ADJ|mod}                comme{P|dep}                  celui{PRO|obj}                
+130|1387)
+------->  figurer{V|mod_rel}            comme{P|mod}                  appeler{V|obj}                
+131|1390)
+------->  hyper{VINF|obj}               comme{P|mod}                  mère{NC|obj}                 
+132|1428)
+------->  utiliser{VPP|obj}             comme{P|mod}                  monnaie{NC|obj}               
+133|1443)
+------->  imposer{V|dep_coord}          comme{P|mod}                  réseau{NC|obj}               
+134|1460)
+------->  puce{NC|mod}                  comme{P|dep}                  remarquer{VPP|obj}            
+135|1472)
+------->  réaliser{VPP|root}           comme{P|mod}                  suivre{V|obj}                 
+136|1478)
+------->  élargir{VPP|root}            comme{P|mod}                  sur{P|obj}                    
+137|1497)
+------->  être{V|root}                 parce_que{CS|mod}             falloir{V|obj}                
+138|1501)
+------->  pessoa{V|root}                parce_que{CS|mod}             falloir{V|obj}                
+139|1513)
+------->  décrier{VPP|mod}             parce_que{CS|mod}             mettre{VPP|obj}               
+140|1518)
+------->  être{V|root}                 comme{P|mod}                  ce{PRO|obj}                   
+141|1536)
+------->  suivre{V|root}                comme{CS|mod}                 savoir{V|obj}                 
+142|1543)
+------->  afficher{VPP|root}            comme{P|mod}                  texte{NC|obj}                 
+143|1560)
+------->  le{DET|root}                  parce_que{CS|ats}             gâter{VPP|obj}               
+144|1572)
+------->  être{V|root}                 comme{P|mod}                  faire{V|obj}                  
+145|1587)
+------->  logique{NC|obj}               comme{P|dep}                  transport{NC|obj}             
+------->  secteur{NC|obj}               comme{P|dep}                  location{NC|obj}              
+146|1587)
+------->  logique{NC|obj}               comme{P|dep}                  transport{NC|obj}             
+------->  secteur{NC|obj}               comme{P|dep}                  location{NC|obj}              
+147|1592)
+------->  comporter{V|mod_rel}          comme{P|mod}                  bouton{NC|obj}                
+148|1618)
+------->  être{V|root}                 comme{P|mod}                  Kimono{NPP|obj}               
+149|1630)
+------->  prendre{VPR|obj}              comme{P|mod}                  unité{NC|obj}                
+150|1642)
+------->  être{VINF|obj}               comme{P|mod}                  avant{ADV|obj}                
+151|1657)
+------->  définir{VPP|root}            comme{P|mod}                  click{NC|obj}                 
+152|1703)
+------->  poisson{NC|obj}               comme{P|dep}                  saumon{NC|obj}                
+153|1704)
+------->  être{V|root}                 dans_la_mesure_où{CS|mod}    il_y_a{P|obj}                 
+154|1722)
+155|1790)
+------->  élever{V|root}               comme{P|mod}                  pour{P|obj}                   
+------->  élever{V|root}               comme{P|mod}                  en{P|arg}                     
+156|1807)
+------->  ancêtre{NC|suj}              comme{P|dep}                  majorité{NC|obj}             
+157|1819)
+158|1833)
+------->  préparer{VPP|mod}            comme{P|mod}                  celui-là{PRO|obj}            
+159|1841)
+------->  considérer{VPP|mod}          comme{P|mod}                  poison{NC|obj}                
+160|1892)
+------->  étayer{V|root}               comme{P|mod}                  lancer{VINF|obj}              
+161|1893)
+------->  représenter{VINF|obj}        comme{P|mod}                  superposition{NC|obj}         
+162|1966)
+------->  positionner{V|root}           comme{P|mod}                  individu{NC|obj}              
+163|1975)
+------->  réagir{VS|obj}               comme{P|mod}                  mère{NC|obj}                 
+164|1978)
+------->  poser{VPP|mod_rel}            comme{P|mod}                  enfant{NC|obj}                
+165|1985)
+------->  apparaître{V|root}           comme{P|mod}                  condition{NC|obj}             
+166|2001)
+------->  apparaître{V|root}           comme{P|mod}                  adapter{ADJ|obj}              
+167|2005)
+168|2037)
+169|2039)
+------->  avis{NC|obj}                  comme{P|dep}                  définitif{ADJ|obj}           
+170|2049)
+------->  mensuel{NC|obj}               comme{P|dep}                  lui{PRO|obj}                  
+171|2065)
+------->  être{V|root}                 parce_que{CS|mod}             val{NC|obj}                   
+172|2068)
+------->  aimer{V|root}                 parce_que{CS|mod}             il_y_a{V|obj}                 
+173|2069)
+174|2091)
+------->  gérer{VPP|mod}               comme{CS|mod}                 dire{VPP|obj}                 
+175|2091)
+------->  gérer{VPP|mod}               comme{CS|mod}                 dire{VPP|obj}                 
+176|2113)
+------->  endormir{VPP|dep_coord}       comme{P|mod}                  souche{NC|obj}                
+177|2118)
+------->  05/10/2006{DET|det}           comme{P|dep}                  année{NC|obj}                
+178|2124)
+------->  fatiguer{V|obj}               parce_que{CS|mod}             rendre{V|obj}                 
+179|2124)
+------->  fatiguer{V|obj}               parce_que{CS|mod}             rendre{V|obj}                 
+180|2156)
+------->  avoir{VPP|root}               comme{P|mod}                  conséquence{NC|obj}          
+181|2176)
+------->  refuser{V|mod_rel}            comme{P|mod}                  sur{P|obj}                    
+182|2185)
+------->  demeurer{V|root}              comme{CS|mod}                 paralyser{VPP|obj}            
+183|2188)
+------->  de{P|arg}                     comme{P|arg}                  président{NC|obj}            
+184|2223)
+------->  entrer{VPR|mod}               comme{P|mod}                  tout{ADV|mod}                 
+------->  entrer{VPR|mod}               comme{P|mod}                  diaphragme{NC|obj}            
+185|2224)
+------->  accommoder{V|dep_coord}       comme{P|mod}                  autofocus{NC|obj}             
+186|2224)
+------->  accommoder{V|dep_coord}       comme{P|mod}                  autofocus{NC|obj}             
+187|2236)
+------->  devoir{V|root}                comme{P|mod}                  obèse{NC|obj}                
+188|2244)
+------->  pouvoir{V|root}               comme{P|mod}                  sur{P|obj}                    
+189|2314)
+------->  être{V|root}                 comme{P|mod}                  pour{P|obj}                   
+190|2320)
+191|2328)
+192|2331)
+193|2337)
+------->  présenter{V|root}            comme{P|coord}                dans{P|dep_coord}             
+------->  présenter{V|root}            comme{P|coord}                merveille{NC|dep_coord}       
+194|2376)
+195|2379)
+------->  cln{CLS|suj}                  comme{CS|mod}                 taire{VPP|obj}                
+196|2389)
+------->  utilitaire{NC|obj}            comme{P|dep}                  Kjots{NPP|obj}                
+197|2402)
+------->  entrer{V|root}                comme{P|mod}                  Hérédia{NPP|obj}            
+------->  entrer{V|root}                comme{P|mod}                  Leconte{NPP|obj}              
+198|2404)
+------->  être{V|root}                 comme{P|mod}                  homme{NC|obj}                 
+------->  être{V|root}                 comme{P|mod}                  à{P|arg}                     

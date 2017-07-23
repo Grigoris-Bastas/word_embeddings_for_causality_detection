@@ -1,0 +1,460 @@
+1|13) Grâce_à leurs deux belles victoires, les garçons se sont ouverts les portes du championnat de France qui aura lieu à Cahors du 18 au 21 mars 2008. 
+
+------->  ouvrir~porte{VPP~NC|root~obj}		grâce_à{P|mod}		victoire{NC|obj}		
+
+
+2|40) Normalement il est prévu que l' on travail jusqu'_à 2h du mat mais il est très probable que certains restent plus longtemps que ça. 
+
+------->  travail{NC|suj}		jusqu'à{P|dep}		2h{NC|obj}		
+
+
+3|109) Luka s' occupe d' un homme hispanique ne parlant pas un mot d' anglais arrivé à_la_suite_d' un accident du travail. 
+
+------->  arriver{VPP|mod}		à_la_suite_de{P|mod}		accident{NC|obj}		
+
+
+4|114) Il part alors travailler et une_fois au County Kerry lui explique qu' à_cause_de son dérapage, il repart à zéro: interdiction de prescrire des narcotiques, rallongement du nombre_de séances aux AA. 
+
+xxxxxxx>  que{CS|obj}		à_cause_de{P|obj}		dérapage{NC|obj}		
+
+
+5|132) Fort d' infrastructures modernes, cette station trés populaire dégage grâce_à son village un charme indéniable. 
+
+------->  dégager~charme{V~NC|root~obj}		grâce_à{P|mod}		village{NC|obj}		
+
+
+6|138) Le casting" voix" est éblouissant, les personnages s' expriment grâce_à Michel Piccoli, Annie Girardot, Jacques Higelin, Michel Galabru et autres pointures. 
+
+xxxxxxx>  exprimer~personnage{V~NC|mod~suj}		grâce_à{P|mod}		Michel{NPP|obj}		
+
+
+7|141) Il a lancé, en 2004," Mia et le Migou", un nouveau long métrage grâce_à l' avance sur recette du CNC et la série" Hôpital Hilltop", qui est diffusée sur France 3, dans son intégralité, ce qui représente près_de neuf heures de programme. 
+
+------->  lancer~métrage{VPP~NC|root~obj}		grâce_à{P|mod}		avance{NC|obj}		
+
+
+8|146) Ce nombre, avec le design des pièges à ions utilisés jusqu'_à récemment, reste inférieur à la dizaine. 
+
+xxxxxxx>  utiliser{VPP|mod}		jusqu'à{P|mod}		récemment{ADV|obj}		
+
+
+9|190) Grâce_à leur action, la dose de lessive peut être réduite de moitié ce qui engendre des économies en_plus du geste écologiste. 
+
+------->  pouvoir~dose{V~NC|root~suj}		grâce_à{P|mod}		action{NC|obj}		
+
+
+10|226) J' ai donc patienté 10 ans( étudiant, voitures sportives et assureurs faisant rarement bon ménage) jusqu'_à ce mois de mars 2006 où j' ai enfin trouvé la bonne occasion: une ph2 bleue( la couleur était un critère d' achat important) de 112_000 kms d' octobre 1993 
+
+------->  patienter~ph2{VPP~NC|root~obj}		jusqu'à{P|mod}		mois{NC|obj}		
+
+
+11|261) Argenson- 40, allée Pierre de Coubertin Lyon 7 ème- Tél.: 04_72_73_72_73 Tous les jours jusqu'_à minuit. 
+
+------->  jours{NC|mod}		jusqu'à{P|dep}		minuit{NC|obj}		
+
+
+12|263) Ce travail constitue une approche in vitro, en_vue_de savoir s' il serait possible de remplacer la radiothérapie gamma( 60Co) par une radiothérapie aux rayons X ciblant les cellules tumorales grâce_aux nanoparticules. 
+
+------->  cibler~cellule{VPR~NC|mod~obj}		grâce_à{P|mod}		nanoparticule{NC|obj}		
+
+
+13|274) Il vous importe de prendre les précautions nécessaires à_cet_égard, ESSILOR déclinant toute responsabilité pour tout dommage direct ou indirect quelles qu' en soient les causes, origines, natures ou conséquences provoquées en_raison_de l' accès à d'_autres sites... 
+
+------->  provoquer{VPP|mod}		en_raison_de{P|mod}		accès{NC|obj}		
+
+
+14|301) J' appelle également de mes voeux le ministère de l' Education nationale à se réengager sur ce dossier dont il a été trop longtemps absent, jusqu'_à aujourd'_hui. 
+
+xxxxxxx>  être~absent{VPP~ADJ|mod_rel~ats}		jusqu'à{P|mod}		aujourd'hui{ADV|obj}		
+
+
+15|304) Il faut l' encourager à poursuivre son développement dans ce sens, qu' elle accentue sa présence sur ses terres traditionnelles de mission autour_de la Méditerranée et en Amérique latine mais aussi partout où grâce_à sa très bonne image, son intervention est souhaitée en Egypte, Tunisie 
+
+------->  souhaiter~intervention{VPP~NC|dep_coord~suj}		grâce_à{P|mod}		image{NC|obj}		
+
+
+16|348) - Après la bascule vers l' avant, pousser fort sur les jambes jusqu'_à leur complète extension. 
+
+------->  pousser{VINF|obj}		jusqu'à{P|mod}		extension{NC|obj}		
+
+
+17|368) Je montrerai sur deux exemples â le tryptophane et un tripeptide( GWG) â comment ce dispositif permet d' accéder à la décomposition des événements d' une photo- fragmentation et comment, grâce_à un« marquage» des ions par des champs électrostatiques, il est possible d' appréhender la dynamique de cette photo- fragmentation. 
+
+------->  permettre~dispositif{V~NC|dep~suj}		grâce_à{P|mod}		marquage{NC|obj}		
+
+
+18|467) Les nageur y remédie depuis longtemps en se rasant avant les courses( depuis, la technologie des maillots a évoluée, jusqu'_à l' arrivée des combinaisons). 
+
+------->  évoluer~technologie{VPP~NC|mod~suj}		jusqu'à{P|mod}		arrivée{NC|obj}		
+
+
+19|499) La trace graphique se retrouve jusqu'_à des périodes très reculées de l' histoire. 
+
+------->  retrouver~trace{V~NC|root~suj}		jusqu'à{P|mod}		période{NC|obj}		
+
+
+20|507) - La plume et le pinceau ouvrent une autre dimension au dessin grâce_aux techniques humides qui ne seront maîtrisées qu' avec un' coup de crayon' déjà bien acquis. 
+
+------->  dessin{NC|obj}		grâce_à{P|dep}		technique{NC|obj}		
+
+
+21|529) C' est grâce_à ça que l' on voit si l' enseignant est capable de faire de tri et d' utiliser des informations techniques à bon escient. 
+
+xxxxxxx>  être{V|root}		grâce_à{P|ats}		cela{PRO|obj}		
+
+
+22|533) Mais n' oublie surtout pas que tu dois montrer que tu es capable de vulgariser une connaissance scientifique pointue( mais ne_pas aller jusqu'_à la transformer pour lui faire dire autre chose... 
+
+xxxxxxx>  aller{VINF|dep_coord}		jusqu'à{P|mod}		transformer{VINF|obj}		
+
+
+23|587) L' environnement terrestre Il est caractérisé par les" évidences" suivantes: nous nous déplaçons grâce_à nos jambes les bras nous permettent de nous rééquilibrer notre regard est le_plus_souvent à l' horizontale notre respiration fonctionne de façon automatique nous sommes soumis à la pesanteur... 
+
+------->  déplacer{V|mod}		grâce_à{P|mod}		jambe{NC|obj}		
+
+
+24|623) Gagner de l' argent n' a jamais été aussi facile grâce_à Cash Generation Pro! 
+
+xxxxxxx>  être~facile{VPP~ADJ|root~mod}		grâce_à{P|mod}		Cash{NPP|obj}		
+
+
+25|624) Grâce_au Double Cash Convert, vous pourrez gagner entre 200 et 500 par jour. 
+
+xxxxxxx>  pouvoir{V|root}		grâce_à{P|mod}		Convert{ET|dep}		
+
+
+26|627) Elle mène à une perte progressive de la vision périphérique qui peut être illustrée par une vision dans un tunnel .. Dans cette maladie grave, la perte de la vue est graduelle, elle se développe progressivement pour atteindre la cécité même_si certaines personnes conservent une petite partie de vision jusqu'_à un âge avancé.. 
+
+------->  conserver~partie{V~NC|obj~obj}		jusqu'à{P|mod}		âge{NC|obj}		
+
+
+27|643) Je pense un_peu comme zlda en fait, je trouve qu' il n' y a pas vraiment de bazar par_rapport_à d'_autres forums que j' ai pu visiter jusqu'_à maintenant. 
+
+xxxxxxx>  visiter{VINF|obj}		jusqu'à{P|mod}		maintenant{ADV|obj}		
+
+
+28|684) Leur présence apporte réconfort et soutien moral à celles et ceux qui en ont besoin grâce_à leur capacité relationnelle et d' écoute. 
+
+------->  avoir~besoin{V~NC|mod_rel~obj}		grâce_à{P|mod}		capacité{NC|obj}		
+
+
+$$$$$$$>  avoir~besoin{V~NC|mod_rel~obj}		grâce_à{P|mod}		et{CC|coord}		
+
+
+29|687) LA TELE-ASSISTANCE En_cas_de besoin ou d' urgence, ce service permet aux personnes âgées, handicapées ou seules, d' établir un contact avec l' extérieur 24h/ 24 et 7j/ 7 grâce_à un système simple et performant: un médaillon ou une montre reliés à l' appareil téléphonique, à porter sur soi. 
+
+------->  établir~contact{VINF~NC|obj~obj}		grâce_à{P|mod}		système{NC|obj}		
+
+
+30|728) Enfin, grâce_à l' effort financier de tous, et en premier lieu des parents d' élèves du Grand lycée franco- libanais, un nouveau complexe sportif a vu le jour au centre de Beyrouth. 
+
+------->  voir~jour{VPP~NC|root~obj}		grâce_à{P|mod}		effort{NC|obj}		
+
+
+$$$$$$$>  voir~jour{VPP~NC|root~obj}		grâce_à{P|mod}		et{CC|coord}		
+
+
+xxxxxxx>  voir~jour{VPP~NC|root~obj}		grâce_à{P|mod}		,{PONCT|ponct}		
+
+
+------->  voir~jour{VPP~NC|root~obj}		grâce_à{P|mod}		complexe{NC|obj}		
+
+
+31|754) Répéter jusqu'_à ce que la séquence non triée soit vide. 
+
+xxxxxxx>  répéter{VINF|root}		jusqu'à{P|de_obj}		ce{PRO|obj}		
+
+
+32|786) N' y connaissant rien en mécanique, j' ai tout appris par la pratique et grâce_à l' association INPG Odyssée 4L, qui a pour but d' aider les équipages de l' INPG à partir. 
+
+$$$$$$$>  et{CC|coord}		grâce_à{P|dep_coord}		association{NC|obj}		
+
+
+33|839) Ses missions: aider les entreprises à accroître leur compétitivité grâce_à l' innovation technologique et assurer le transfert de son savoir-faire technique vers l' industrie. 
+
+------->  accroître~compétitivité{VINF~NC|obj~obj}		grâce_à{P|mod}		innovation{NC|obj}		
+
+
+34|843) L' Assistance Publique-Hôpitaux de Paris initie grâce_à un doublement des crédits institutionnels de soutien à la recherche un appel permanent à projets visant à financer, d'_une_part, la phase pré-clinique-immédiate- de projets de biothérapie( activité de transfert) ayant une pertinence clinique réelle, d'_autre_part, une part substantielle des coûts de projets cliniques de biothérapie de phase 1-2a à fort potentiel, à_condition_qu' ils comportent un aspect translationnel( mises au point de procédures... 
+
+------->  initier~appel{V~NC|root~obj}		grâce_à{P|mod}		doublement{NC|obj}		
+
+
+35|853) Benton doit s' occuper d' une bande de jeunes appartenant à une fraternité dont la santé est gravement mise en danger à_cause_d' un abus d' alcool. 
+
+------->  mettre~santé{VPP~NC|mod_rel~suj}		à_cause_de{P|mod}		abus{NC|obj}		
+
+
+36|940) Je précise qu' en_cas_d' héritier( ère), la Fiesta peut accueillir tout le nécessaire grâce_à son coté pratique et son coffre généreux au vue de sa taille. 
+
+------->  accueillir~nécessaire{VINF~ADJ|obj~ats}		grâce_à{P|mod}		pratique{NC|obj}		
+
+
+37|966) Le Train des Neiges est mis en_place du 7 janvier 2007 au 25 Mars 2007.Ce train circulera uniquement le dimanche, au départ de Nice jusqu'_à Saint Dalmas de Tende. 
+
+xxxxxxx>  circuler~dimanche{V~NC|aux_pass~suj}		jusqu'à{P|mod}		Dalmas{NPP|obj}		
+
+
+38|967) Arrivé à Saint Dalmas de Tende, un bus attendra les passagers pour les emmener jusqu'_à Casterino, pour une journée de ski de fond, randonnée en raquettes... 
+
+xxxxxxx>  emmener{VINF|obj}		jusqu'à{P|mod}		Casterino{NPP|obj}		
+
+
+39|1001) Capable de stocker quarante albums grâce_à la carte mémoire de 2 Go fournie, ses écouteurs très classiques produisent un son plutôt clair, manquant cependant de basses. 
+
+------->  stocker~écouteur{VINF~NC|obj~obj}		grâce_à{P|mod}		carte{NC|obj}		
+
+
+40|1036) . Alors moi, ce soir je souhaiterais rejoindre Miss Lulu dans les pensées pour ceux qui sont morts à_cause_de cet attentat contre des civils innocents et pour tous ceux morts par_la_suite à_cause_de la riposte injuste, mal menée et completement contre productive des Etats Unis d' Amérique. 
+
+------->  être~mort{V~ADJ|mod_rel~ats}		à_cause_de{P|mod}		attentat{NC|obj}		
+
+
+xxxxxxx>  celui~mort{PRO~ADJ|obj~mod}		à_cause_de{P|dep}		riposte{NC|obj}		
+
+
+41|1036) . Alors moi, ce soir je souhaiterais rejoindre Miss Lulu dans les pensées pour ceux qui sont morts à_cause_de cet attentat contre des civils innocents et pour tous ceux morts par_la_suite à_cause_de la riposte injuste, mal menée et completement contre productive des Etats Unis d' Amérique. 
+
+------->  être~mort{V~ADJ|mod_rel~ats}		à_cause_de{P|mod}		attentat{NC|obj}		
+
+
+xxxxxxx>  celui~mort~tout{PRO~ADJ~ADJ|obj~mod~mod}		à_cause_de{P|dep}		riposte{NC|obj}		
+
+
+42|1047) « Grâce_à l' évolution positive de nos résultats, nous sommes maintenant en mesure de poursuivre le développement de nos activités. 
+
+------->  être{V|root}		grâce_à{P|mod}		évolution{NC|obj}		
+
+
+43|1049) Grâce_à ces développements, nous fabriquons des cartons encore plus légers avec une qualité d' imprimabilité supérieure. 
+
+------->  fabriquer~carton{V~NC|root~obj}		grâce_à{P|mod}		développement{NC|obj}		
+
+
+44|1053) En_outre, la situation financière de M-real s' est améliorée grâce_à la mise en oeuvre de programmes de réductions des dépenses». 
+
+------->  améliorer~situation{VPP~NC|root~suj}		grâce_à{P|mod}		mise{NC|obj}		
+
+
+45|1081) On terminera la soirée jusqu'_à 2h avec les Roger' s Big Gang( ska cuivré- INSA) que vous avez applaudies à la WOOB ou ailleurs! 
+
+------->  terminer~soirée{V~NC|root~obj}		jusqu'à{P|mod}		2h{NC|obj}		
+
+
+46|1086) Pour le finish, c' est Missill qui avec un set de plus d' 1h30, ultra varié comme elle sait si bien le faire, a maintenu un rythle d' enfer jusqu'_à 2h. 
+
+------->  maintenir~rythle{VPP~NC|mod~obj}		jusqu'à{P|mod}		2h{NC|obj}		
+
+
+47|1092) Et ceci grâce_à trois grands axes de développement: une politique d' investissements continue pour proposer une offre de produits et de services constamment enrichie et améliorée, la consolidation et l' extension du réseau commercial avec des équipes de vente et de service et le déploiement de notre supply chain au plus près_du client» a clairement indiqué S. 
+
+$$$$$$$>  et{CC|root}		grâce_à{P|dep_coord}		ceci{PRO|obj}		
+
+
+$$$$$$$>  et{CC|root}		grâce_à{P|dep_coord}		axe{NC|obj}		
+
+
+48|1130) Google Trends est un nouveau service de Google qui permet de comparer les volumes de plusieurs mots clés( jusqu'_à 5, séparés par des virgules) sur Google ou de suivre le nombre_de recherche dans le temps. 
+
+------->  comparer~volume{VINF~NC|obj~obj}		jusqu'à{P|mod}		5{NC|obj}		
+
+
+49|1138) Les pics de résonance sont, cependant, plus rapprochés le long de l' axe de fréquence pour la trompette en Ré, simplement à_cause_de sa longueur plus grande. 
+
+------->  rapprocher~long{VPP~NC|mod~obj}		à_cause_de{P|mod}		longueur{NC|obj}		
+
+
+50|1149) Mais si on augmente progressivement le niveau sonore, la note baisse jusqu'_à un Si4 légèrement haut, au_fur_et_à_mesure_que l' influence du pic 14 grandit. 
+
+------->  baisser~note{V~NC|dep_coord~suj}		jusqu'à{P|mod}		Si4{NC|obj}		
+
+
+51|1158) Jouer plus fort la fait descendre au Si4, à_cause_de l' influence du pic 5 sur le second partiel de la note et du pic 7 sur le troisième partiel. 
+
+------->  descendre{VINF|ato}		à_cause_de{P|mod}		influence{NC|obj}		
+
+
+52|1160) Bien_que le pic 10 soit placé très haut par_rapport_à deux fois la fréquence du pic 5, il n' arrive pas à monter la note dans le crescendo à_cause_de la présence d' un petit renflement sur son côté gauche. 
+
+------->  monter~note{VINF~NC|obj~obj}		i_cause_de{P|mod}		présence{NC|obj}		
+
+
+53|1205) à_cause_de sa fracture, la mère de Benton doit partir dans une maison de retraite. 
+
+------->  devoir~mère{V~NC|root~suj}		à_cause_de{P|mod}		fracture{NC|obj}		
+
+
+54|1266) Grâce_à elle, la tradition de solidarité de la France envers les chrétiens orientaux se perpétue et se développe. 
+
+xxxxxxx>  perpétuer~tradition{V~NC|root~suj}		grâce_à{P|mod}		lui{PRO|obj}		
+
+
+55|1310) Cette formation vous amenera forcément à la réussite grâce_à: l' aprentissage pas à pas des bases pour gagner de l' argent sur Internet des outils pour webmaster qui vous seront très utiles l' accès gratuit à des ebooks pour apprendre encore plus une aide et un suivi permanent Par quels moyens gagner de l' argent sur Internet? 
+
+xxxxxxx>  amenera~formation{V~NC|root~suj}		grâce_à{P|mod}		:{PONCT|ponct}		
+
+
+------->  amenera~formation{V~NC|root~suj}		grâce_à{P|mod}		aprentissage{NC|obj}		
+
+
+56|1328) Les barres arrondies de DORIS acceuillent très facilement jusqu'_à 3 serviettes et la marche forcée 2 heures se déclenche en un seul geste pour les chauffer ou les sècher. 
+
+------->  acceuillent~barre{V~NC|root~suj}		jusqu'à{P|mod}		serviette{NC|obj}		
+
+
+57|1330) NEFERTITI offre une grande capacité de portage et l' accrochage de serviettes est très facile grâce_à ses ouvertures latèrales. 
+
+xxxxxxx>  facile{ADJ|ats}		grâce_à{P|dep}		ouverture{NC|obj}		
+
+
+58|1391) Internet impacte durablement l' offre touristique par un repositionnement des acteurs 24 janvier 2008 Les producteurs sont plus libres mais également plus courtisés grâce_à Internet: les grandes chaînes hôtelières, l' hôtellerie indépendante, l' offre diffuse sont autant de segments aux enjeux spécifiques. 
+
+xxxxxxx>  courtiser{VPP|dep_coord}		grâce_à{P|mod}		Internet{NPP|obj}		
+
+
+59|1393) Les propriétaires de chambres d' hôtes et d' hébergements locatifs, en_raison_de la faiblesse de leur parc, s' appuient pas ou peu sur un système en propre mais s' appuient et sont demandeurs de solutions partagées. 
+
+------->  propriétaire{NC|suj}		en_raison_de{P|dep}		faiblesse{NC|obj}		
+
+
+60|1420) Vous pouvez repérer facilement le code du smiley grâce_aux coordonnées( A, B, C,... 
+
+------->  repérer~C{VINF~NC|obj~mod}		grâce_à{P|mod}		coordonnée{NC|obj}		
+
+
+61|1462) articia Age: 30 Inscrit le: 04 Avr 2007 Messages: 625 Localisation: st maur( 94) Sujet: Re: Enrenement pessoa Mar 11 Sep- 15: 08 bah le pessoa c' est un super outil de travail pour les chevaux un_peu démusclés, moi ça a fait des merveilles sur ma louloutes jusqu'_à ce qu' elle n' en ai plus besoin. 
+
+xxxxxxx>  faire~merveille{VPP~NC|root~obj}		jusqu'à{P|mod}		ce{PRO|obj}		
+
+
+62|1496) Grâce_à ce nouveau réseau de proximité, vous pouvez bénéficier de places de cinéma à 4,30 E. 
+
+------->  pouvoir{V|root}		grâce_à{P|mod}		réseau{NC|obj}		
+
+
+63|1529) Internet continue de bouleverser le marché touristique en dessinant de nouveaux modes de distribution et de nouveaux comportements d' achat en_raison_de la croissance globale du nombre_d' internautes( grâce_à la hausse du niveau d' équipement) et de l' amélioration de la qualité de connexion permettant un enrichissement des contenus( images, son, vidéos). 
+
+------->  dessiner~mode{VPR~NC|obj~obj}		en_raison_de{P|mod}		croissance{NC|obj}		
+
+
+------->  dessiner~mode{VPR~NC|obj~obj}		grâce_à{P|mod}		hausse{NC|obj}		
+
+
+64|1529) Internet continue de bouleverser le marché touristique en dessinant de nouveaux modes de distribution et de nouveaux comportements d' achat en_raison_de la croissance globale du nombre_d' internautes( grâce_à la hausse du niveau d' équipement) et de l' amélioration de la qualité de connexion permettant un enrichissement des contenus( images, son, vidéos). 
+
+xxxxxxx>  dessiner~mode{VPR~NC|obj~obj}		en_raison_de{P|mod}		croissance~global{NC~ADJ|obj~mod}		
+
+
+------->  dessiner~mode{VPR~NC|obj~obj}		grâce_à{P|mod}		hausse{NC|obj}		
+
+
+65|1533) Après une croissance initialement basée sur les vols secs et les déstockages de« dernière minute» à prix bradés, les opérateurs touristiques du Net entrent dans une phase plus innovante, grâce_à des moyens technologiques encore renforcés. 
+
+------->  entrer{V|root}		grâce_à{P|mod}		moyens{NC|obj}		
+
+
+66|1535) Formation/ sensibilisation( y_compris sur le plan législatif et réglementaire) aux nouvelles technologies: la profusion des sites et une intégration plus forte de la technologie par les acteurs du tourisme est nécessaire en_raison_de la globalisation du haut débit( + de la moitié des internautes) et des nouvelles opportunités liées à la mobilité( Wifi, Wimax, Géolocalisation, puces RFID). 
+
+------->  être~moitié{V~NC|root~mod}		en_raison_de{P|mod}		globalisation{NC|obj}		
+
+
+67|1626) « Grâce_aux constantes innovations de ses entités, Sidel a l' ambition de devenir d'_ici_à 2010, l' indiscutable leader des équipements en emballage pour les produits liquides» conclut L. 
+
+68|1707) Frais scolaires 2007-2008 CATEGORIE ELEVES MONTANT ANNUEL Sur 180 jours TRIMESTRE Janvier/ Mars 53 jours TRIMESTRE Avril/ Juin 55 jours TRIMESTRE Sept./ Décembre 72 jours Interne 1 071.77E 327.25E 327.25E 417.28E Restauration La restauration est assurée en self-service aux horaires suivants: Petit-déjeûner: dès 7h00 pour échelonner les passages et jusqu'_à 7H45 Déjeûner: de 11h30 à 13h30 Dîner: de 18h30 à 19h30 impérativement sauf dérogation accordée par les CPE pour un motif précis. 
+
+$$$$$$$>  et{CC|coord}		jusqu'à{P|dep_coord}		Déjeûner{NC|obj}		
+
+
+69|1713) à 19H45, les élèves s' installent et ne sont plus autorisés à se déplacer jusqu'_à 21H. 
+
+------->  déplacer{VINF|obj}		jusqu'à{P|mod}		21H{NC|obj}		
+
+
+70|1724) L' infirmerie est ouverte dès 7H15 et jusqu'_à 19H45 à cet effet. 
+
+$$$$$$$>  et{CC|coord}		jusqu'à{P|dep_coord}		19H45{NC|obj}		
+
+
+71|1726) Cette autorisation est accordée jusqu'_à 23H00 maximum, sauf cas particulier justifié. 
+
+------->  accorder~autorisation{VPP~NC|root~suj}		jusqu'à{P|mod}		maximum{NC|obj}		
+
+
+72|1729) En_raison_de la trop grande fréquence des oublis, l' internat ne sera plus ouvert dans la journée. 
+
+------->  ouvrir~internat{VPP~NC|root~suj}		en_raison_de{P|mod}		fréquence{NC|obj}		
+
+
+73|1745) Le disque de huit titres raconte le parcours d' une femme métisse qui recherche ses origines, de l' Occident jusqu'_à Madagascar, terre nourricière. 
+
+xxxxxxx>  rechercher~terre~origine{V~NC~NC|mod_rel~mod~obj}		jusqu'à{P|mod}		Madagascar{NPP|obj}		
+
+
+74|1809) Les accutests donnent une réponse rapide grâce_à des bandelettes imprégnées d' enzyme transformant le lactate en pyruvate. 
+
+------->  donner~réponse{V~NC|root~obj}		grâce_à{P|mod}		bandelette{NC|obj}		
+
+
+75|1990) Newsletter du 18/04/2002: Les salaires de la publicité sont restés stables en 2001 selon l' aacc Nouveaux budgets pour srms one to e-one Hickory publie la troisième édition de l' observatoire sports et valeurs Newsletter du 17/04/2002: Publicis conseil accueille quatre teams créatifs Harcourt inc reprend les editions du centre de psychologie appliquée L' agence image à suivre s' arrête Zenithoptimedia ne prévoit pas de reprise du marché publicitaire avant fin 2002 Newsletter du 16/04/2002: Dream on récompensée pour l' habillage de cuisine tv Création de l' agence pomad High co.institute lance des programmes d' enseignement Newsletter du 15/04/2002: Tbwa lance un réseau mondial d' agences santé Interdeco et l' agence s' associent dans les consumers Bertrand jacquel quitte nex & com Newsletter du 12/04/2002: Dragon rouge acquiert l' agence de presse d' entreprise spécifique Sr teleperformance rachète les activités services de bvrp software Ddb décroche un mégabudget aux etats-unis Derby s' implante auprès_des collectivités locales Newsletter du 11/04/2002: Omd s' intéresse au sport Trois nouveaux budgets pour euro rscg publishing Tbwa grossit en angleterre, se rationalise en autriche et en pologne Carré noir habille le chantier du drugstore publicis Interpartners s' étend aux etats-unis et en asie-pacifique Newsletter du 10/04/2002: Le groupe yin acquiert concept interactif Lester wunderman inaugurera les premiers cannes lions direct Gutenberg on line commercialise une nouvelle solution globale d' édition De nouveaux budgets pour bv conseil Newsletter du 09/04/2002: Trois premiers prix pour leagas delaney au club des da Ipsos acquiert acnielsen vantis aux etats-unis Omnicom devient majoritaire dans brodeur worldwide en france Reed expositions france et reed-oip fusionnent Ddb ouvre son hall aux artistes Newsletter du 08/04/2002: I & e consultants en croissance de 12 % en 2001 Leagas delaney paris centre distingué aux etats-unis grâce_à ikea Remise des prix du club des directeurs artistiques ce soir Ibase lance le mensuel comme nous! 
+
+------->  distinguer{VPP|mod}		grâce_à{P|mod}		ikea{NC|obj}		
+
+
+76|1991) Newsletter du 05/04/2002: Le public système rachète salines Le français aldo cardoso nommé pdg par intérim d' andersen worldwide Bates corporate renforce son équipe Em.tv commercialisera les droits marketing du mondial 2006 Newsletter du 04/04/2002: Bddp & fils, agence française la plus érotique Nouveaux clients pour l' agence pléiades Le directeur artistique christophe paviot publie un recueil de nouvelles L' agence britannique hotwire pr s' installe à paris Mpg grossit en allemagne Newsletter du 03/04/2002: Business attitude s' apprête à quitter publicis pour grrrey marketing services Leagas delaney se lance dans la consultation ing Newsletter du 02/04/2002: Une campagne contre les discriminations raciales confiée à bbdo corporate Nomen crée lyria pour rail france suisse Wegener direct marketing france lance une campagne d' image Dragon rouge, partenaire d' une nouvelle agence de design produit Newsletter du 31/03/2002: Draft france s' étoffe et crée un département consulting Rsl devient d' arcy business Publicis méditerranée reprend coyotte Apco france déménage Newsletter du 29/03/2002: Universal mccann gagne huit nouveaux budgets Les agences brésiliennes attendent 640 millions de dollars grâce_à la coupe du monde. 
+
+------->  attendre~million{V~NC|dep_coord~obj}		grâce_à{P|mod}		coupe{NC|obj}		
+
+
+77|1994) marketing services lance une offre d' e-mailing Lancement d' un collectif en_faveur_de la libéralisation de la publicité politique Newsletter du 15/03/2002: Shanghaï fusionne avec artbreakers Tlb se dote d' un centre d' appels Rangoon gagne cinq nouveaux budgets Le bvp actualise ses recommandations enfant Newsletter du 14/03/2002: Aegis fait preuve de pessimisme pour 2002 Valoris a maintenu sa croissance en 2001 Un ancien de wieden & kennedy lance une nouvelle agence Le singe signe la campagne de relance des inrockuptibles Newsletter du 13/03/2002: Draft france s' étoffe et crée un département consulting Rsl devient d' arcy business Publicis méditerranée reprend coyotte Apco france déménage Newsletter du 08/03/2002: Harrison & wolf s' associe avec pricewaterhousecoopers Saguez & partners complète son réseau all around design Trois nouveaux budgets pour fleishman-hillard france Tbwa paris crée tbwaretail avec henri baché Newsletter du 06/03/2002: Publicis consultants prépare sa réorganisation Sept nouveaux adhérents au syntec etudes marketing et opinion Le chiffre d' affaires de publicis en_hausse de 41,2 % Auditoire déménage Précision sur editum Newsletter du 05/03/2002: Ipsos-médiangles crée un département presse d' entreprise Rapprochement entre id1524 et le public système Alice emménage chez lowe François decaux se lance en indépendant Newsletter du 04/03/2002: Idenium remporte les relations presse de draft worldwide france Le collectif 500 lance un manifeste Mediacom gagne electronic arts et le syndicat des antiquaires Sept nouveaux adhérents au syntec etudes marketing et opinion Privé de champion, editum ferme ses portes Newsletter du 01/03/2002: Pema groupe et de bonneville orlandini: c' est fini Wunderman s' attend à une activité stable pour 2002 Scarlett met en_place le diagnostic marques chaudes Tequila remporte le sncf senior Mccann momentum se réorganise Newsletter du 28/02/2002: 2,5 millions d' euros de nouveaux budgets pour ubi bene Trois nouveaux membres à l' anaé De nouveaux budgets pour oxygen Harrison & wolf et steria révisent leur collaboration Newsletter du 27/02/2002: Bach & partenaires mène une campagne d' autopromotion K agency gagne rexona et special k Précisions d' euro rscg works et du nouvel eldorado Création de babylone, agence conseil en création d' événements Newsletter du 26/02/2002: Bddptequilainteractive va réaliser l' intranet de la cnav Laurence perez, ex-publicisetnous, crée vox populi L' agence by récupère céline et se place pour dunhill Newsletter du 25/02/2002: Deux annonceurs pour loomedia, la régie qui affiche dans les toilettes L' agence eliotrope participe au lancement du réseau international plexus Noé rachète anstett L' agence concrètement déménage Clm/ bbdo fait ses débuts pour uncle ben' s Newsletter du 22/02/2002: Nouveaux clients pour les agences beau fixe, les 100 ciels et media book Publicis consultants conseille la société générale Havas advertising sports met en_place une offre européenne de sponsoring Newsletter du 18/02/2002: Capital events se renforce dans la santé Le chiffre d' affaires 2001 d' ipsos en_hausse de 46 % Le réseau ten accueille trois nouveaux partenaires Bertrand tierny quitte la présidence de mccann momentum Un phénix pour jd relations Newsletter du 15/02/2002: Festival de cannes: mercedes erra au jury film, olivier altmann et gabriel gaultier au print Publicis consultants rachète johnston & associates aux etats-unis La marge brute de havas advertising en_hausse de 24,8 % Eurokapi étoffe son équipe Trois nouveaux budgets pour oko Newsletter du 14/02/2002: High co en compétition pour le stade france Sr teleperformance: activité en_hausse de 30 % en 2001 Quatre nouveaux clients pour next step Interpublic: les barons quittent le board Eurodirect marketing crée une joint-venture avec bertelsmann Newsletter du 13/02/2002: Claritas lance spectra europe Sophie renard, président intérimaire du syntec rp Les cartes de voeux soumises au vote chez gibory consultant Deux nouveaux budgets chez creapress Le chiffre d' affaires de publicis en forte hausse en 2001 grâce_à ses acquisitions Newsletter du 12/02/2002: Médiapost prend le contrôle de delta diffusion Jean-louis azizollah revient avec jla and partners Quatre nouveaux clients pour lewis communications Mccann réorganise ses activités médias en france Newsletter du 11/02/2002: L' agence lyonnaise mga se régénère Saguez & partners signe la nouvelle identité visuelle de pomme de pain Exmachina: 60 emplois sauvés sur 158 Patrice saugeron, pdg de mccann, s' entoure d' un comité exécutif Newsletter du 08/02/2002: Young & rubicam gagne la carte imagine r Louis xiv ddb fait ses débuts avec la poste et bouygues telecom Chiffre d' affaires quasi stable pour le public système Leagas delaney paris centre en or à new york Tarak ben amar, repreneur d' exmachina Newsletter du 07/02/2002: Clio 2002: les jurys sont au complet Cinq nouveaux clients pour actus high tech L' agence stratéus entièrement certifiée iso 9001 Quatre agences françaises primées au new york festival Newsletter du 06/02/2002: W & cie gagne des budgets dans le grand ouest Omd lance un outil d' optimisation et de construction des campagnes de marketing direct Deux nouveaux clients internationaux pour text 100 Trimedia communications france étoffe son pôle high-tech Ebb and flow, nouvelle agence de marketing relationnel Newsletter du 05/02/2002: Publicis renforce sa filiale japonaise Altaï engrange plusieurs budgets Carré noir et dragon rouge en finale sur la maif Rebondissement dans la liquidation d' exmachina Newsletter du 04/02/2002: Sri devient c-sports communication Le groupe sogec rebaptise son pôle conseil Nex & com crée nex & com travel Consodata investit en chine Le groupe leo burnett france rachète ipc Newsletter du 01/02/2002: Le chiffre d' affaires d' altedia en_hausse de 40 % High co a connu une croissance de 19 % en 2001 Market place gérera ses relations publiques avec idenium Le groupe transatlantic acquiert medialab technology Nombre_de pages de résultats: 
+
+------->  soumettre~chiffre{VPP~NC|mod~mod}		grâce_à{P|mod}		acquisition{NC|obj}		
+
+
+78|2039) Si nos rivières sont dépeuplées, ce n' est pas à_cause_de la pêche mais des différentes modification- pour ne_pas dire agressions- apportées au milieu par l' activité humaine. 
+
+------->  être{V|root}		à_cause_de{P|mod}		pêche{NC|obj}		
+
+
+79|2059) Nos pas nous conduisent directement au CCSTI La Turbine, de Cran Gevrier, en Haute-Savoie, au travers des arcanes de l' exposition permanente« L' Eau et les Hommes», qui présente le précieux liquide, dans ses générosités originelles, jusqu'_à la pénurie annoncée et projette même le visiteur au coeur de la calamité. 
+
+------->  présenter~précieux{V~ADJ|mod~ats}		jusqu'à{P|mod}		pénurie{NC|obj}		
+
+
+80|2082) ! Offre de bienvenue pour les nouveaux joueurs: Vous doublez votre premier depot, vous bénéficiez de 100 % de bonus jusqu'_à 500 $ Et vous recevrez des invitations pour des freerolls prives. 
+
+------->  bénéficier{V|mod}		jusqu'à{P|mod}		dollar{NC|obj}		
+
+
+81|2168) Grâce_aux différents fuseaux horaires et à la rotation de la Terre, Papa Noël a 31 heures ce jour-là pour effectuer son travail, en supposant qu' il voyage d' est en ouest( Ce qui semble logique). 
+
+------->  avoir~jour-là{V~NC|root~obj}		grâce_à{P|mod}		fuseaux{NC|obj}		
+
+
+$$$$$$$>  avoir~jour-là~heure{V~NC~NC|root~obj~obj}		grâce_à{P|mod}		et{CC|coord}		
+
+
+82|2171) remplir les chaussettes, distribuer les cadeaux restants sous le sapin, éventuellement manger les gâteries laissées par les enfants, remonter par la cheminée etdans son traîneau pour aller jusqu'_à la maison suivante. 
+
+------->  aller{VINF|obj}		jusqu'à{P|mod}		maison{NC|obj}		
+
+
+83|2174) Un renne traditionnel peut courir au plus vite jusqu'_à 25 kilomètres par heure. 
+
+------->  courir{VINF|obj}		jusqu'à{P|mod}		kilomètre{NC|obj}		
+
+
+84|2200) L' attention du Gouvernement a été appelée sur la situation des salariés devenus inaptes à_la_suite_d' un accident du travail et notamment sur l' absence de versement de salaire pendant la période précédant leur licenciement justifié par cette inaptitude. 
+
+------->  devenir~inapte{VPP~ADJ|mod~mod}		à_la_suite_de{P|mod}		accident{NC|obj}		
+
+
+85|2204) Si le médecin du travail ne l' estime pas apte à reprendre son poste, l' employeur n' a pas à reprendre le versement du salaire en_raison_de l' absence de prestation de travail. 
+
+------->  reprendre~versement{VINF~NC|obj~obj}		en_raison_de{P|mod}		absence{NC|obj}		
+
+
+86|2264) Sur le modèle de cette démarche collective et grâce_au concours de l' ADEME et du Conseil Régional de Picardie, est né un programme interrégional d' accompagnement d' entrepreneurs des Territoires âEDT- instigué en Picardie et dans le Nord pas de Calais. 
+
+$$$$$$$>  et{CC|coord}		grâce_à{P|dep_coord}		concours{NC|obj}		
+
+

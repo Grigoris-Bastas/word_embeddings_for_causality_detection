@@ -1,0 +1,114 @@
+aboutir.v
+aboutissement.n
+ainsi.adv
+alors.adv
+amener.v
+apporter.v
+attirer.v
+au point de.prep
+au point que.conj
+aussi.adv
+c'est pourquoi.adv
+car.c
+cause.n
+causer.v
+comme.conj
+conclusion.adv
+conclusion.n
+conduire.v
+conséquemment.adv
+conséquence.n
+conséquent.a
+contraindre.v
+contrecoup.n
+d'autant moins que.conj
+d'autant plus que.conj
+d'autant que.conj
+d'autant.adv
+d'où.conj
+d'où.prep
+dans la mesure où.conj
+de ce fait.adv
+de façon que.conj
+de sorte que.conj
+de telle manière que.conj
+dicter.v
+donc.adv
+du coup.adv
+du fait de.prep
+du fait que.conj
+du.a
+dès lors.adv
+découler.v
+déterminant.a
+déterminer.v
+dû.a
+effet.n
+en conséquence.adv
+en effet.adv
+en raison de.prep
+entraîner.v
+et pour cause.adv
+facteur.n
+faire en sorte.v
+faire suite.v
+faire.v
+faute de.prep
+fruit.n
+grâce à.prep
+impact.n
+impliquer.v
+induire.v
+infliger.v
+issue.n
+jusqu'à ce que.conj
+jusqu'à.prep
+laisser.v
+mener.v
+moteur.n
+motif.n
+motiver.v
+ménager.v
+occasionner.v
+origine.n
+par conséquent.adv
+par contrecoup.adv
+par la faute de.prep
+par suite.adv
+par voie de conséquence.adv
+parce que.conj
+porter.v
+pour cause de.prep
+pour.prep
+pourquoi.adv
+pourquoi.n
+prendre sa source.v
+produire.v
+produit.n
+provoquer.v
+raison.n
+rendre.v
+responsable.a
+retombée.n
+répercussion.n
+résultat.n
+résulter.v
+si bien que.conj
+soulever.v
+source.n
+sous l'effet de.prep
+subséquemment.adv
+suite.n
+susciter.v
+séquelle.n
+tant et si bien que.conj
+trouver sa source.v
+à cause de.prep
+à ce point que.conj
+à défaut de.prep
+à force de.prep
+à force.adv
+à l'origine de.prep
+à la suite de quoi.adv
+à la suite de.prep
+à tel point que.conj

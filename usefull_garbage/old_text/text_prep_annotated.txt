@@ -1,0 +1,3716 @@
+1|14) Grâce_à leurs deux belles victoires, les garçons se sont ouverts les portes du championnat de France qui aura lieu à Cahors du 18 au 21 mars 2008. 
+1	Grâce_à	grâce_à	P	P	_	11	mod	_	_
+2	leurs	son	D	DET	n=p|s=poss	5	det	_	_
+3	deux	deux	A	ADJ	s=card	5	mod	_	_
+4	belles	beau	A	ADJ	g=f|n=p|s=qual	5	mod	_	_
+5	victoires	victoire	N	NC	g=f|n=p|s=c	1	obj	_	_
+6	,	,	PONCT	PONCT	s=w	11	ponct	_	_
+7	les	le	D	DET	n=p|s=def	8	det	_	_
+8	garçons	garçon	N	NC	g=m|n=p|s=c	11	suj	_	_
+9	se	se	CL	CLR	p=3|s=refl	11	aff	_	_
+10	sont	être	V	V	m=ind|n=p|p=3|t=pst	11	aux_tps	_	_
+11	ouverts	ouvrir	V	VPP	g=m|m=part|n=p|t=past	0	root	_	_
+12	les	le	D	DET	n=p|s=def	13	det	_	_
+13	portes	porte	N	NC	g=f|n=p|s=c	11	obj	_	_
+14	du	de	P+D	P+D	s=def	13	dep	_	_
+15	championnat	championnat	N	NC	g=m|n=s|s=c	14	obj	_	_
+16	de	de	P	P	_	15	dep	_	_
+17	France	France	N	NPP	g=m|n=s|s=p	16	obj	_	_
+18	qui	qui	PRO	PROREL	s=rel	19	suj	_	_
+19	aura	avoir	V	V	m=ind|n=s|p=3|t=fut	15	mod_rel	_	_
+20	lieu	lieu	N	NC	g=m|n=s|s=c	19	obj	_	_
+21	à	à	P	P	_	19	mod	_	_
+22	Cahors	Cahors	N	NPP	g=m|n=s|s=p	21	obj	_	_
+23	du	de	P+D	P+D	s=def	19	de_obj	_	_
+24	18	18	A	ADJ	s=card	23	obj	_	_
+25	au	à	P+D	P+D	s=def	23	arg	_	_
+26	21	21	A	ADJ	s=card	27	mod	_	_
+27	mars	mars	N	NC	g=m|s=c	25	obj	_	_
+28	2008	2008	N	NC	s=card	27	mod	_	_
+29	.	.	PONCT	PONCT	s=s	11	ponct	_	_
+
+Parents' sons: [1, 6, 8, 9, 10, 13, 29]	Children's sons: [2, 3, 4]
+
+------->  ouvrir~porte{VPP~NC|root~obj}		grâce_à{P|mod}		victoire~beau{NC~ADJ|obj~mod}		Causation
+
+
+2|104) Luka s' occupe d' un homme hispanique ne parlant pas un mot d' anglais arrivé à_la_suite_d' un accident du travail. 
+1	Luka	Luka	N	NPP	g=m|n=s|s=p	3	suj	_	_
+2	s'	se	CL	CLR	p=3|s=refl	3	aff	_	_
+3	occupe	occuper	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+4	d'	de	P	P	_	3	de_obj	_	_
+5	un	un	D	DET	g=m|n=s|s=ind	6	det	_	_
+6	homme	homme	N	NC	g=m|n=s|s=c	4	obj	_	_
+7	hispanique	hispanique	A	ADJ	n=s|s=qual	6	mod	_	_
+8	ne	ne	ADV	ADV	s=neg	9	mod	_	_
+9	parlant	parler	V	VPR	m=part|t=pst	6	mod	_	_
+10	pas	pas	ADV	ADV	s=neg	9	mod	_	_
+11	un	un	D	DET	g=m|n=s|s=ind	12	det	_	_
+12	mot	mot	N	NC	g=m|n=s|s=c	9	obj	_	_
+13	d'	de	P	P	_	12	dep	_	_
+14	anglais	anglais	N	NC	g=m|s=c	13	obj	_	_
+15	arrivé	arriver	V	VPP	g=m|m=part|n=s|t=past	12	mod	_	_
+16	à_la_suite_d'	à_la_suite_de	P	P	_	15	mod	_	_
+17	un	un	D	DET	g=m|n=s|s=ind	18	det	_	_
+18	accident	accident	N	NC	g=m|n=s|s=c	16	obj	_	_
+19	du	de	P+D	P+D	s=def	18	dep	_	_
+20	travail	travail	N	NC	g=m|n=s|s=c	19	obj	_	_
+21	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+Parents' sons: [16]	Children's sons: [17, 19]
+
+------->  arriver~accident{VPP~NC|mod~obj}		à_la_suite_de{P|mod}		accident{NC|obj}		Causation
+
+
+3|109) Il part alors travailler et une_fois au County Kerry lui explique qu' à_cause_de son dérapage, il repart à zéro: interdiction de prescrire des narcotiques, rallongement du nombre_de séances aux AA. 
+1	Il	cln	CL	CLS	s=suj	2	suj	_	_
+2	part	partir	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	alors	alors	ADV	ADV	_|marker=7	2	mod	_	_
+4	travailler	travailler	V	VINF	m=inf	2	mod	_	_
+5	et	et	C	CC	s=c	2	coord	_	_
+6	une_fois	une_fois	ADV	ADV	_	5	mod	_	_
+7	au	à	P+D	P+D	s=def	5	dep_coord	_	_
+8	County	County	ET	ET	_	9	dep	_	_
+9	Kerry	Kerry	ET	ET	_	7	dep	_	_
+10	lui	cld	CL	CLO	n=s|s=obj	11	a_obj	_	_
+11	explique	expliquer	V	V	m=ind|n=s|p=3|t=pst	2	mod	_	_
+12	qu'	que	C	CS	s=s	11	obj	_	_
+13	à_cause_de	à_cause_de	P	P	_	12	obj	_	_
+14	son	son	D	DET	n=s|s=poss	15	det	_	_
+15	dérapage	dérapage	N	NC	g=m|n=s|s=c	13	obj	_	_
+16	,	,	PONCT	PONCT	s=w	18	ponct	_	_
+17	il	cln	CL	CLS	s=suj	18	suj	_	_
+18	repart	repartir	V	V	m=ind|n=s|p=3|t=pst	2	mod	_	_
+19	à	à	P	P	_	18	mod	_	_
+20	zéro	zéro	N	NC	g=m|n=s|s=c	19	obj	_	_
+21	:	:	PONCT	PONCT	s=w	18	ponct	_	_
+22	interdiction	interdiction	N	NC	g=f|n=s|s=c	18	obj	_	_
+23	de	de	P	P	_	18	mod	_	_
+24	prescrire	prescrire	V	VINF	m=inf	23	obj	_	_
+25	des	de	D	DET	_	26	det	_	_
+26	narcotiques	narcotique	N	NC	g=m|n=p|s=c	24	obj	_	_
+27	,	,	PONCT	PONCT	s=w	26	ponct	_	_
+28	rallongement	rallongement	N	NC	g=m|n=s|s=c	26	mod	_	_
+29	du	de	P+D	P+D	s=def	28	dep	_	_
+30	nombre_de	nombre_de	D	DET	_	31	mod	_	_
+31	séances	séance	N	NC	g=f|n=p|s=c	29	obj	_	_
+32	aux	à	P+D	P+D	s=def	31	dep	_	_
+33	AA	AA	N	NC	s=c	32	obj	_	_
+34	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [13]	Children's sons: [14]
+
+xxxxxxx>  que~dérapage{CS~NC|obj~obj}		à_cause_de{P|obj}		dérapage{NC|obj}		Causation
+
+
+4|119) Fort d' infrastructures modernes, cette station trés populaire dégage grâce_à son village un charme indéniable. 
+1	Fort	fort	A	ADJ	g=m|n=s|s=qual	10	mod	_	_
+2	d'	de	P	P	_	1	dep	_	_
+3	infrastructures	infrastructure	N	NC	g=f|n=p|s=c	2	obj	_	_
+4	modernes	moderne	A	ADJ	n=p|s=qual	3	mod	_	_
+5	,	,	PONCT	PONCT	s=w	10	ponct	_	_
+6	cette	ce	D	DET	g=f|n=s|s=dem	7	det	_	_
+7	station	station	N	NC	g=f|n=s|s=c	10	suj	_	_
+8	trés	trés	ADV	ADV	_	9	mod	_	_
+9	populaire	populaire	A	ADJ	n=s|s=qual	7	mod	_	_
+10	dégage	dégager	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+11	grâce_à	grâce_à	P	P	_	10	mod	_	_
+12	son	son	D	DET	n=s|s=poss	13	det	_	_
+13	village	village	N	NC	g=m|n=s|s=c	11	obj	_	_
+14	un	un	D	DET	g=m|n=s|s=ind	15	det	_	_
+15	charme	charme	N	NC	g=m|n=s|s=c	10	obj	_	_
+16	indéniable	indéniable	A	ADJ	n=s|s=qual	15	mod	_	_
+17	.	.	PONCT	PONCT	s=s	10	ponct	_	_
+
+Parents' sons: [1, 5, 7, 11, 15, 17]	Children's sons: [12]
+
+------->  dégager~charme~indéniable{V~NC~ADJ|root~obj~mod}		grâce_à{P|mod}		village{NC|obj}		Causation
+
+
+5|124) Le casting" voix" est éblouissant, les personnages s' expriment grâce_à Michel Piccoli, Annie Girardot, Jacques Higelin, Michel Galabru et autres pointures. 
+1	Le	le	D	DET	g=m|n=s|s=def	2	det	_	_
+2	casting	casting	N	NC	g=m|n=s|s=c	6	suj	_	_
+3	"	"	PONCT	PONCT	s=w	2	ponct	_	_
+4	voix	voix	N	NC	g=f|s=c	2	mod	_	_
+5	"	"	PONCT	PONCT	s=w	6	ponct	_	_
+6	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+7	éblouissant	éblouissant	A	ADJ	g=m|n=s|s=qual	6	ats	_	_
+8	,	,	PONCT	PONCT	s=w	12	ponct	_	_
+9	les	le	D	DET	n=p|s=def	10	det	_	_
+10	personnages	personnage	N	NC	g=m|n=p|s=c	12	suj	_	_
+11	s'	se	CL	CLR	p=3|s=refl	12	aff	_	_
+12	expriment	exprimer	V	V	m=ind|n=p|p=3|t=pst	6	mod	_	_
+13	grâce_à	grâce_à	P	P	_	12	mod	_	_
+14	Michel	Michel	N	NPP	g=m|n=s|s=p	13	obj	_	_
+15	Piccoli	Piccoli	N	NPP	s=p	14	mod	_	_
+16	,	,	PONCT	PONCT	s=w	14	ponct	_	_
+17	Annie	Annie	N	NPP	g=f|n=s|s=p	14	mod	_	_
+18	Girardot	Girardot	N	NPP	s=p	14	mod	_	_
+19	,	,	PONCT	PONCT	s=w	14	ponct	_	_
+20	Jacques	Jacques	N	NPP	g=m|n=s|s=p	14	mod	_	_
+21	Higelin	Higelin	N	NPP	s=p	20	mod	_	_
+22	,	,	PONCT	PONCT	s=w	14	coord	_	_
+23	Michel	Michel	N	NPP	g=m|n=s|s=p	22	dep_coord	_	_
+24	Galabru	Galabru	N	NPP	s=p	23	mod	_	_
+25	et	et	C	CC	s=c	14	coord	_	_
+26	autres	autre	A	ADJ	n=p|s=ind	27	mod	_	_
+27	pointures	pointure	N	NC	g=f|n=p|s=c	25	dep_coord	_	_
+28	.	.	PONCT	PONCT	s=s	6	ponct	_	_
+
+Parents' sons: [8, 10, 11, 13]	Children's sons: [15, 16, 17, 18, 19, 20, 22, 25]
+
+------->  personnage~exprimer{NC~V|suj~mod}		grâce_à{P|mod}		Michel{NPP|obj}		Causation
+
+
+6|126) Il a lancé, en 2004," Mia et le Migou", un nouveau long métrage grâce_à l' avance sur recette du CNC et la série" Hôpital Hilltop", qui est diffusée sur France 3, dans son intégralité, ce qui représente près_de neuf heures de programme. 
+1	Il	cln	CL	CLS	s=suj	3	suj	_	_
+2	a	avoir	V	V	m=ind|n=s|p=3|t=pst	3	aux_tps	_	_
+3	lancé	lancer	V	VPP	g=m|m=part|n=s|t=past	0	root	_	_
+4	,	,	PONCT	PONCT	s=w	3	ponct	_	_
+5	en	en	P	P	p=3	3	mod	_	_
+6	2004	2004	N	NC	s=card	5	obj	_	_
+7	,	,	PONCT	PONCT	s=w	3	ponct	_	_
+8	"	"	PONCT	PONCT	s=w	3	ponct	_	_
+9	Mia	Mia	N	NPP	g=f|n=s|s=p	3	mod	_	_
+10	et	et	C	CC	s=c	9	coord	_	_
+11	le	le	D	DET	g=m|n=s|s=def	12	det	_	_
+12	Migou	Migou	N	NPP	s=p	10	dep_coord	_	_
+13	"	"	PONCT	PONCT	s=w	9	ponct	_	_
+14	,	,	PONCT	PONCT	s=w	3	ponct	_	_
+15	un	un	D	DET	g=m|n=s|s=ind	18	det	_	_
+16	nouveau	nouveau	A	ADJ	g=m|n=s|s=qual	18	mod	_	_
+17	long	long	A	ADJ	g=m|n=s|s=qual	18	mod	_	_
+18	métrage	métrage	N	NC	g=m|n=s|s=c	3	obj	_	_
+19	grâce_à	grâce_à	P	P	_	3	mod	_	_
+20	l'	le	D	DET	n=s|s=def	21	det	_	_
+21	avance	avance	N	NC	g=f|n=s|s=c	19	obj	_	_
+22	sur	sur	P	P	_	21	dep	_	_
+23	recette	recette	N	NC	g=f|n=s|s=c	22	obj	_	_
+24	du	de	P+D	P+D	s=def	23	dep	_	_
+25	CNC	CNC	N	NPP	s=p	24	obj	_	_
+26	et	et	C	CC	s=c	23	coord	_	_
+27	la	le	D	DET	g=f|n=s|s=def	28	det	_	_
+28	série	série	N	NC	g=f|n=s|s=c	26	dep_coord	_	_
+29	"	"	PONCT	PONCT	s=w	28	ponct	_	_
+30	Hôpital	Hôpital	ET	ET	_	31	dep	_	_
+31	Hilltop	Hilltop	ET	ET	_	28	dep	_	_
+32	"	"	PONCT	PONCT	s=w	3	ponct	_	_
+33	,	,	PONCT	PONCT	s=w	3	ponct	_	_
+34	qui	qui	PRO	PROREL	s=rel	36	suj	_	_
+35	est	être	V	V	m=ind|n=s|p=3|t=pst	36	aux_pass	_	_
+36	diffusée	diffuser	V	VPP	g=f|m=part|n=s|t=past	3	mod	_	_
+37	sur	sur	P	P	_	36	mod	_	_
+38	France	France	N	NPP	g=m|n=s|s=p	37	obj	_	_
+39	3	3	N	NC	s=card	36	mod	_	_
+40	,	,	PONCT	PONCT	s=w	36	ponct	_	_
+41	dans	dans	P	P	_	36	mod	_	_
+42	son	son	D	DET	n=s|s=poss	43	det	_	_
+43	intégralité	intégralité	N	NC	g=f|n=s|s=c	41	obj	_	_
+44	,	,	PONCT	PONCT	s=w	36	ponct	_	_
+45	ce	ce	PRO	PRO	_	36	mod	_	_
+46	qui	qui	PRO	PROREL	s=rel	47	suj	_	_
+47	représente	représenter	V	V	m=ind|n=s|p=3|t=pst	45	mod_rel	_	_
+48	près_de	près_de	P	P	_	47	mod	_	_
+49	neuf	neuf	D	DET	s=card	50	det	_	_
+50	heures	heure	N	NC	g=f|n=p|s=c	48	obj	_	_
+51	de	de	P	P	_	50	dep	_	_
+52	programme	programme	N	NC	g=m|n=s|s=c	51	obj	_	_
+53	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+Parents' sons: [1, 2, 4, 5, 7, 8, 9, 14, 18, 19, 32, 33, 36, 53]	Children's sons: [20, 22]
+
+------->  lancer~métrage~long{VPP~NC~ADJ|root~obj~mod}		grâce_à{P|mod}		avance{NC|obj}		Causation
+
+
+7|178) Grâce_à leur action, la dose de lessive peut être réduite de moitié ce qui engendre des économies en_plus du geste écologiste. 
+1	Grâce_à	grâce_à	P	P	_	9	mod	_	_
+2	leur	son	D	DET	n=s|s=poss	3	det	_	_
+3	action	action	N	NC	g=f|n=s|s=c	1	obj	_	_
+4	,	,	PONCT	PONCT	s=w	9	ponct	_	_
+5	la	le	D	DET	g=f|n=s|s=def	6	det	_	_
+6	dose	dose	N	NC	g=f|n=s|s=c	9	suj	_	_
+7	de	de	P	P	_	6	dep	_	_
+8	lessive	lessive	N	NC	g=f|n=s|s=c	7	obj	_	_
+9	peut	pouvoir	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+10	être	être	V	VINF	m=inf	11	aux_pass	_	_
+11	réduite	réduire	V	VPP	g=f|m=part|n=s|t=past	9	obj	_	_
+12	de	de	P	P	_	11	de_obj	_	_
+13	moitié	moitié	N	NC	g=f|n=s|s=c	12	obj	_	_
+14	ce	ce	PRO	PRO	_	9	mod	_	_
+15	qui	qui	PRO	PROREL	s=rel	16	suj	_	_
+16	engendre	engendrer	V	V	m=ind|n=s|p=3|t=pst	14	mod_rel	_	_
+17	des	de	D	DET	_	18	det	_	_
+18	économies	économie	N	NC	g=f|n=p|s=c	16	obj	_	_
+19	en_plus	en_plus	ADV	ADV	_|marker=83	18	mod	_	_
+20	du	de	P+D	P+D	s=def	18	dep	_	_
+21	geste	geste	N	NC	n=s|s=c	20	obj	_	_
+22	écologiste	écologiste	A	ADJ	n=s|s=qual	21	mod	_	_
+23	.	.	PONCT	PONCT	s=s	9	ponct	_	_
+
+Parents' sons: [1, 4, 6, 11, 14, 23]	Children's sons: [2]
+
+------->  pouvoir~réduire{V~VPP|root~obj}		grâce_à{P|mod}		action{NC|obj}		Causation
+
+
+8|252) Ce travail constitue une approche in vitro, en_vue_de savoir s' il serait possible de remplacer la radiothérapie gamma( 60Co) par une radiothérapie aux rayons X ciblant les cellules tumorales grâce_aux nanoparticules. 
+1	Ce	ce	D	DET	g=m|n=s|s=dem	2	det	_	_
+2	travail	travail	N	NC	g=m|n=s|s=c	3	suj	_	_
+3	constitue	constituer	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+4	une	un	D	DET	g=f|n=s|s=ind	5	det	_	_
+5	approche	approche	N	NC	g=f|n=s|s=c	3	obj	_	_
+6	in	in	ET	ET	_	5	dep	_	_
+7	vitro	vitro	ET	ET	_	5	dep	_	_
+8	,	,	PONCT	PONCT	s=w	3	ponct	_	_
+9	en_vue_de	en_vue_de	P	P	_|marker=170	3	mod	_	_
+10	savoir	savoir	V	VINF	m=inf	9	obj	_	_
+11	s'	si	C	CS	s=s|marker=349	10	obj	_	_
+12	il	cln	CL	CLS	s=suj	13	suj	_	_
+13	serait	être	V	V	m=ind|n=s|p=3|t=cond	11	obj	_	_
+14	possible	possible	A	ADJ	n=s|s=qual	13	ats	_	_
+15	de	de	P	P	_	13	obj	_	_
+16	remplacer	remplacer	V	VINF	m=inf	15	obj	_	_
+17	la	le	D	DET	g=f|n=s|s=def	18	det	_	_
+18	radiothérapie	radiothérapie	N	NC	g=f|n=s|s=c	16	obj	_	_
+19	gamma	gamma	A	ADJ	s=qual	18	mod	_	_
+20	(	(	PONCT	PONCT	s=w	18	ponct	_	_
+21	60Co	60Co	N	NPP	s=p	18	mod	_	_
+22	)	)	PONCT	PONCT	s=w	18	ponct	_	_
+23	par	par	P	P	_	16	mod	_	_
+24	une	un	D	DET	g=f|n=s|s=ind	25	det	_	_
+25	radiothérapie	radiothérapie	N	NC	g=f|n=s|s=c	23	obj	_	_
+26	aux	à	P+D	P+D	s=def	25	dep	_	_
+27	rayons	rayons	N	NC	g=m|n=p|s=c	26	obj	_	_
+28	X	X	N	NC	s=c	27	mod	_	_
+29	ciblant	cibler	V	VPR	m=part|t=pst	27	mod	_	_
+30	les	le	D	DET	n=p|s=def	31	det	_	_
+31	cellules	cellule	N	NC	g=f|n=p|s=c	29	obj	_	_
+32	tumorales	tumoral	A	ADJ	s=qual	31	mod	_	_
+33	grâce_aux	grâce_à	P	P	_	29	mod	_	_
+34	nanoparticules	nanoparticule	N	NC	s=c	33	obj	_	_
+35	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+Parents' sons: [31, 33]	Children's sons: []
+
+------->  cibler~cellule~tumoral{VPR~NC~ADJ|mod~obj~mod}		grâce_à{P|mod}		nanoparticule{NC|obj}		Causation
+
+
+9|262) Il vous importe de prendre les précautions nécessaires à_cet_égard, ESSILOR déclinant toute responsabilité pour tout dommage direct ou indirect quelles qu' en soient les causes, origines, natures ou conséquences provoquées en_raison_de l' accès à d'_autres sites... 
+1	Il	cln	CL	CLS	s=suj	3	suj	_	_
+2	vous	clad	CL	CLO	s=obj	3	a_obj	_	_
+3	importe	importer	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+4	de	de	P	P	_	3	de_obj	_	_
+5	prendre	prendre	V	VINF	m=inf	4	obj	_	_
+6	les	le	D	DET	n=p|s=def	7	det	_	_
+7	précautions	précaution	N	NC	g=f|n=p|s=c	5	obj	_	_
+8	nécessaires	nécessaire	A	ADJ	n=p|s=qual	7	mod	_	_
+9	à_cet_égard	à_cet_égard	ADV	ADV	_	7	mod	_	_
+10	,	,	PONCT	PONCT	s=w	3	ponct	_	_
+11	ESSILOR	ESSILOR	N	NPP	s=p	12	suj	_	_
+12	déclinant	décliner	V	VPR	m=part|t=pst	3	mod	_	_
+13	toute	tout	D	DET	g=f|n=s|s=ind	14	det	_	_
+14	responsabilité	responsabilité	N	NC	g=f|n=s|s=c	12	obj	_	_
+15	pour	pour	P	P	_	12	mod	_	_
+16	tout	tout	D	DET	g=m|n=s|s=ind	17	det	_	_
+17	dommage	dommage	N	NC	g=m|n=s|s=c	15	obj	_	_
+18	direct	direct	A	ADJ	g=m|n=s|s=qual	17	mod	_	_
+19	ou	ou	C	CC	s=c	18	coord	_	_
+20	indirect	indirect	A	ADJ	g=m|n=s|s=qual	19	dep_coord	_	_
+21	quelles	quel	D	DETWH	g=f|n=p|s=int	20	det	_	_
+22	qu'	que	C	CS	s=s	21	dep	_	_
+23	en	en	P	P	p=3	24	de_obj	_	_
+24	soient	être	V	VS	m=subj|n=p|p=3|t=pst	22	obj	_	_
+25	les	le	D	DET	n=p|s=def	26	det	_	_
+26	causes	cause	N	NC	g=f|n=p|s=c	0	root	_	_
+27	,	,	PONCT	PONCT	s=w	0	root	_	_
+28	origines	origine	N	NC	g=f|n=p|s=c	0	root	_	_
+29	,	,	PONCT	PONCT	s=w	0	root	_	_
+30	natures	nature	N	NC	g=f|n=p|s=c	0	root	_	_
+31	ou	ou	C	CC	s=c	30	coord	_	_
+32	conséquences	conséquence	N	NC	g=f|n=p|s=c	31	dep_coord	_	_
+33	provoquées	provoquer	V	VPP	g=f|m=part|n=p|t=past	30	mod	_	_
+34	en_raison_de	en_raison_de	P	P	_	33	mod	_	_
+35	l'	le	D	DET	n=s|s=def	36	det	_	_
+36	accès	accès	N	NC	g=m|s=c	34	obj	_	_
+37	à	à	P	P	_	36	dep	_	_
+38	d'_autres	d'autres	D	DET	_	39	det	_	_
+39	sites	site	N	NC	g=m|n=p|s=c	37	obj	_	_
+40	...	...	PONCT	PONCT	s=s	30	ponct	_	_
+
+Parents' sons: [34]	Children's sons: [35, 37]
+
+------->  provoquer~accès{VPP~NC|mod~obj}		en_raison_de{P|mod}		accès{NC|obj}		Causation
+
+
+Parents' sons: [34]	Children's sons: [35, 37]
+
+------->  provoquer~accès{VPP~NC|mod~obj}		en_raison_de{P|mod}		accès{NC|obj}		Evidence
+
+
+10|294) Il faut l' encourager à poursuivre son développement dans ce sens, qu' elle accentue sa présence sur ses terres traditionnelles de mission autour_de la Méditerranée et en Amérique latine mais aussi partout où grâce_à sa très bonne image, son intervention est souhaitée en Egypte, Tunisie 
+1	Il	cln	CL	CLS	s=suj	2	suj	_	_
+2	faut	falloir	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	l'	cla	CL	CLO	g=m|n=s|s=obj	4	obj	_	_
+4	encourager	encourager	V	VINF	m=inf	2	obj	_	_
+5	à	à	P	P	_	2	mod	_	_
+6	poursuivre	poursuivre	V	VINF	m=inf	5	obj	_	_
+7	son	son	D	DET	n=s|s=poss	8	det	_	_
+8	développement	développement	N	NC	g=m|n=s|s=c	6	obj	_	_
+9	dans	dans	P	P	_	6	mod	_	_
+10	ce	ce	D	DET	g=m|n=s|s=dem	11	det	_	_
+11	sens	sens	N	NC	g=m|s=c	9	obj	_	_
+12	,	,	PONCT	PONCT	s=w	6	ponct	_	_
+13	qu'	que	C	CS	s=s	6	obj	_	_
+14	elle	cln	CL	CLS	s=suj	15	suj	_	_
+15	accentue	accentuer	V	V	m=ind|n=s|p=3|t=pst	13	obj	_	_
+16	sa	son	D	DET	g=f|n=s|s=poss	17	det	_	_
+17	présence	présence	N	NC	g=f|n=s|s=c	15	obj	_	_
+18	sur	sur	P	P	_	15	mod	_	_
+19	ses	son	D	DET	n=p|s=poss	20	det	_	_
+20	terres	terre	N	NC	g=f|n=p|s=c	18	obj	_	_
+21	traditionnelles	traditionnel	A	ADJ	g=f|n=p|s=qual	20	mod	_	_
+22	de	de	P	P	_	20	dep	_	_
+23	mission	mission	N	NC	g=f|n=s|s=c	22	obj	_	_
+24	autour_de	autour_de	P	P	_	15	mod	_	_
+25	la	le	D	DET	g=f|n=s|s=def	26	det	_	_
+26	Méditerranée	Méditerranée	N	NPP	s=p	24	obj	_	_
+27	et	et	C	CC	s=c	24	coord	_	_
+28	en	en	P	P	p=3	27	dep_coord	_	_
+29	Amérique	Amérique	N	NPP	g=f|n=s|s=p	28	obj	_	_
+30	latine	latin	A	ADJ	g=f|n=s|s=qual	29	mod	_	_
+31	mais	mais	C	CC	s=c|marker=304	24	coord	_	_
+32	aussi	aussi	ADV	ADV	_|marker=208	31	mod	_	_
+33	partout	partout	ADV	ADV	_	31	mod	_	_
+34	où	où	PRO	PROREL	s=rel	44	suj	_	_
+35	grâce_à	grâce_à	P	P	_	44	mod	_	_
+36	sa	son	D	DET	g=f|n=s|s=poss	39	det	_	_
+37	très	très	ADV	ADV	_	38	mod	_	_
+38	bonne	bon	A	ADJ	g=f|n=s|s=qual	39	mod	_	_
+39	image	image	N	NC	g=f|n=s|s=c	35	obj	_	_
+40	,	,	PONCT	PONCT	s=w	44	ponct	_	_
+41	son	son	D	DET	n=s|s=poss	42	det	_	_
+42	intervention	intervention	N	NC	g=f|n=s|s=c	44	suj	_	_
+43	est	être	V	V	m=ind|n=s|p=3|t=pst	44	aux_pass	_	_
+44	souhaitée	souhaiter	V	VPP	g=f|m=part|n=s|t=past	31	dep_coord	_	_
+45	en	en	P	P	p=3	44	mod	_	_
+46	Egypte	Égypte	N	NPP	g=f|n=s|s=p	45	obj	_	_
+47	,	,	PONCT	PONCT	s=w	44	ponct	_	_
+48	Tunisie	Tunisie	N	NPP	s=p	44	mod	_	_
+
+Parents' sons: [34, 35, 40, 42, 43, 45, 47, 48]	Children's sons: [36, 38]
+
+------->  intervention~souhaiter{NC~VPP|suj~dep_coord}		grâce_à{P|mod}		image~bon{NC~ADJ|obj~mod}		Causation
+
+
+11|347) Je montrerai sur deux exemples â le tryptophane et un tripeptide( GWG) â comment ce dispositif permet d' accéder à la décomposition des événements d' une photo- fragmentation et comment, grâce_à un« marquage» des ions par des champs électrostatiques, il est possible d' appréhender la dynamique de cette photo- fragmentation. 
+1	Je	cln	CL	CLS	s=suj	2	suj	_	_
+2	montrerai	montrer	V	V	m=ind|n=s|p=1|t=fut	0	root	_	_
+3	sur	sur	P	P	_	2	mod	_	_
+4	deux	deux	D	DET	s=card	5	det	_	_
+5	exemples	exemple	N	NC	g=m|n=p|s=c	3	obj	_	_
+6	â	â	P	P	_	2	mod	_	_
+7	le	le	D	DET	g=m|n=s|s=def	8	det	_	_
+8	tryptophane	tryptophane	N	NC	g=m|n=s|s=c	6	obj	_	_
+9	et	et	C	CC	s=c	8	coord	_	_
+10	un	un	D	DET	g=m|n=s|s=ind	11	det	_	_
+11	tripeptide	tripeptide	N	NC	s=c	9	dep_coord	_	_
+12	(	(	PONCT	PONCT	s=w	11	ponct	_	_
+13	GWG	GWG	N	NPP	s=p	11	mod	_	_
+14	)	)	PONCT	PONCT	s=w	11	ponct	_	_
+15	â	â	ADV	ADV	_	19	mod	_	_
+16	comment	comment	ADV	ADVWH	s=int	19	mod	_	_
+17	ce	ce	D	DET	g=m|n=s|s=dem	18	det	_	_
+18	dispositif	dispositif	N	NC	g=m|n=s|s=c	19	suj	_	_
+19	permet	permettre	V	V	m=ind|n=s|p=3|t=pst	2	dep	_	_
+20	d'	de	P	P	_	19	obj	_	_
+21	accéder	accéder	V	VINF	m=inf	20	obj	_	_
+22	à	à	P	P	_	21	mod	_	_
+23	la	le	D	DET	g=f|n=s|s=def	24	det	_	_
+24	décomposition	décomposition	N	NC	g=f|n=s|s=c	22	obj	_	_
+25	des	de	P+D	P+D	s=def	24	dep	_	_
+26	événements	événement	N	NC	g=m|n=p|s=c	25	obj	_	_
+27	d'	de	P	P	_	26	dep	_	_
+28	une	un	D	DET	g=f|n=s|s=ind	29	det	_	_
+29	photo-	photo-	N	NC	s=c	27	obj	_	_
+30	fragmentation	fragmentation	N	NC	g=f|n=s|s=c	29	mod	_	_
+31	et	et	C	CC	s=c	19	coord	_	_
+32	comment	comment	ADV	ADVWH	s=int	31	dep_coord	_	_
+33	,	,	PONCT	PONCT	s=w	19	ponct	_	_
+34	grâce_à	grâce_à	P	P	_	19	mod	_	_
+35	un	un	D	DET	g=m|n=s|s=ind	37	det	_	_
+36	«	«	PONCT	PONCT	s=w	37	ponct	_	_
+37	marquage	marquage	N	NC	g=m|n=s|s=c	34	obj	_	_
+38	»	»	PONCT	PONCT	s=w	19	ponct	_	_
+39	des	de	P+D	P+D	s=def	19	mod	_	_
+40	ions	ion	N	NC	g=m|n=p|s=c	39	obj	_	_
+41	par	par	P	P	_	19	mod	_	_
+42	des	de	D	DET	_	43	det	_	_
+43	champs	champs	N	NC	g=m|n=p|s=c	41	obj	_	_
+44	électrostatiques	électrostatique	A	ADJ	n=p|s=qual	43	mod	_	_
+45	,	,	PONCT	PONCT	s=w	47	ponct	_	_
+46	il	cln	CL	CLS	s=suj	47	suj	_	_
+47	est	être	V	V	m=ind|n=s|p=3|t=pst	2	mod	_	_
+48	possible	possible	A	ADJ	n=s|s=qual	47	ats	_	_
+49	d'	de	P	P	_	2	obj	_	_
+50	appréhender	appréhender	V	VINF	m=inf	49	obj	_	_
+51	la	le	D	DET	g=f|n=s|s=def	52	det	_	_
+52	dynamique	dynamique	N	NC	g=f|n=s|s=c	50	obj	_	_
+53	de	de	P	P	_	52	dep	_	_
+54	cette	ce	D	DET	g=f|n=s|s=dem	55	det	_	_
+55	photo-	photo-	N	NC	s=c	53	obj	_	_
+56	fragmentation	fragmentation	N	NC	g=f|n=s|s=c	55	mod	_	_
+57	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [15, 16, 18, 20, 31, 33, 34, 38, 39, 41]	Children's sons: [35, 36]
+
+------->  dispositif~permettre{NC~V|suj~dep}		grâce_à{P|mod}		marquage{NC|obj}		Causation
+
+
+12|446) - La plume et le pinceau ouvrent une autre dimension au dessin grâce_aux techniques humides qui ne seront maîtrisées qu' avec un' coup de crayon' déjà bien acquis. 
+1	-	-	PONCT	PONCT	s=w	7	ponct	_	_
+2	La	le	D	DET	g=f|n=s|s=def	3	det	_	_
+3	plume	plume	N	NC	n=s|s=c	7	suj	_	_
+4	et	et	C	CC	s=c	3	coord	_	_
+5	le	le	D	DET	g=m|n=s|s=def	6	det	_	_
+6	pinceau	pinceau	N	NC	g=m|n=s|s=c	4	dep_coord	_	_
+7	ouvrent	ouvrir	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+8	une	un	D	DET	g=f|n=s|s=ind	10	det	_	_
+9	autre	autre	A	ADJ	n=s|s=ind	10	mod	_	_
+10	dimension	dimension	N	NC	g=f|n=s|s=c	7	obj	_	_
+11	au	à	P+D	P+D	s=def	7	mod	_	_
+12	dessin	dessin	N	NC	g=m|n=s|s=c	11	obj	_	_
+13	grâce_aux	grâce_à	P	P	_	12	dep	_	_
+14	techniques	technique	N	NC	g=f|n=p|s=c	13	obj	_	_
+15	humides	humide	A	ADJ	n=p|s=qual	14	mod	_	_
+16	qui	qui	PRO	PROREL	s=rel	19	suj	_	_
+17	ne	ne	ADV	ADV	s=neg	19	mod	_	_
+18	seront	être	V	V	m=ind|n=p|p=3|t=fut	19	aux_pass	_	_
+19	maîtrisées	maîtriser	V	VPP	g=f|m=part|n=p|t=past	14	mod_rel	_	_
+20	qu'	que	ADV	ADV	_	19	mod	_	_
+21	avec	avec	P	P	_	19	mod	_	_
+22	un	un	D	DET	g=m|n=s|s=ind	24	det	_	_
+23	'	'	PONCT	PONCT	s=w	24	ponct	_	_
+24	coup	coup	N	NC	g=m|n=s|s=c	21	obj	_	_
+25	de	de	P	P	_	24	dep	_	_
+26	crayon	crayon	N	NC	g=m|n=s|s=c	25	obj	_	_
+27	'	'	PONCT	PONCT	s=w	24	ponct	_	_
+28	déjà	déjà	ADV	ADV	_	30	mod	_	_
+29	bien	bien	ADV	ADV	_	30	mod	_	_
+30	acquis	acquérir	V	VPP	g=m|m=part|n=s|t=past	24	mod	_	_
+31	.	.	PONCT	PONCT	s=s	7	ponct	_	_
+
+Parents' sons: [13]	Children's sons: [15, 19]
+
+------->  dessin~technique{NC~NC|obj~obj}		grâce_à{P|dep}		technique~humide{NC~ADJ|obj~mod}		Causation
+
+
+13|469) C' est grâce_à ça que l' on voit si l' enseignant est capable de faire de tri et d' utiliser des informations techniques à bon escient. 
+1	C'	cln	CL	CLS	s=suj	2	suj	_	_
+2	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	grâce_à	grâce_à	P	P	_	2	ats	_	_
+4	ça	cela	PRO	PRO	g=m|n=s|s=dem	3	obj	_	_
+5	que	que	C	CS	s=s	8	obj	_	_
+6	l'	le	D	DET	n=s|s=def	8	obj	_	_
+7	on	cln	CL	CLS	s=suj	8	suj	_	_
+8	voit	voir	V	V	m=ind|n=s|p=3|t=pst	4	mod_rel	_	_
+9	si	si	C	CS	s=s|marker=349	2	mod	_	_
+10	l'	le	D	DET	n=s|s=def	11	det	_	_
+11	enseignant	enseignant	N	NC	g=m|n=s|s=c	12	suj	_	_
+12	est	être	V	V	m=ind|n=s|p=3|t=pst	9	obj	_	_
+13	capable	capable	A	ADJ	n=s|s=qual	12	ats	_	_
+14	de	de	P	P	_	13	dep	_	_
+15	faire	faire	V	VINF	m=inf	14	obj	_	_
+16	de	de	P	P	_	15	mod	_	_
+17	tri	tri	N	NC	g=m|n=s|s=c	16	obj	_	_
+18	et	et	C	CC	s=c	2	coord	_	_
+19	d'	de	P	P	_	18	dep_coord	_	_
+20	utiliser	utiliser	V	VINF	m=inf	19	obj	_	_
+21	des	de	D	DET	_	22	det	_	_
+22	informations	information	N	NC	g=f|n=p|s=c	20	obj	_	_
+23	techniques	technique	A	ADJ	n=p|s=qual	22	mod	_	_
+24	à	à	P	P	_	20	mod	_	_
+25	bon	bon	A	ADJ	g=m|n=s|s=qual	26	mod	_	_
+26	escient	escient	N	NC	g=m|n=s|s=c	24	obj	_	_
+27	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [1, 3, 9, 18, 27]	Children's sons: [8]
+
+xxxxxxx>  être{V|root}		grâce_à{P|ats}		cela{PRO|obj}		Causation
+
+
+14|524) L' environnement terrestre Il est caractérisé par les" évidences" suivantes: nous nous déplaçons grâce_à nos jambes les bras nous permettent de nous rééquilibrer notre regard est le_plus_souvent à l' horizontale notre respiration fonctionne de façon automatique nous sommes soumis à la pesanteur... 
+1	L'	le	D	DET	n=s|s=def	2	det	_	_
+2	environnement	environnement	N	NC	g=m|n=s|s=c	6	suj	_	_
+3	terrestre	terrestre	A	ADJ	n=s|s=qual	2	mod	_	_
+4	Il	cln	CL	CLS	s=suj	6	suj	_	_
+5	est	être	V	V	m=ind|n=s|p=3|t=pst	6	aux_pass	_	_
+6	caractérisé	caractériser	V	VPP	g=m|m=part|n=s|t=past	0	root	_	_
+7	par	par	P	P	_	6	p_obj	_	_
+8	les	le	D	DET	n=p|s=def	10	det	_	_
+9	"	"	PONCT	PONCT	s=w	10	ponct	_	_
+10	évidences	évidence	N	NC	g=f|n=p|s=c	7	obj	_	_
+11	"	"	PONCT	PONCT	s=w	10	ponct	_	_
+12	suivantes	suivant	A	ADJ	g=f|n=p|s=qual	10	mod	_	_
+13	:	:	PONCT	PONCT	s=w	6	ponct	_	_
+14	nous	cln	CL	CLS	s=suj	16	suj	_	_
+15	nous	cld	CL	CLR	n=p|s=refl	16	aff	_	_
+16	déplaçons	déplacer	V	V	m=ind|n=p|p=1|t=pst	6	mod	_	_
+17	grâce_à	grâce_à	P	P	_	16	mod	_	_
+18	nos	son	D	DET	n=p|s=poss	19	det	_	_
+19	jambes	jambe	N	NC	g=f|n=p|s=c	17	obj	_	_
+20	les	le	D	DET	n=p|s=def	21	det	_	_
+21	bras	bras	N	NC	g=m|s=c	23	suj	_	_
+22	nous	clad	CL	CLO	s=obj	23	a_obj	_	_
+23	permettent	permettre	V	V	m=ind|n=p|p=3|t=pst	16	obj	_	_
+24	de	de	P	P	_	23	obj	_	_
+25	nous	clad	CL	CLO	s=obj	26	a_obj	_	_
+26	rééquilibrer	rééquilibrer	V	VINF	m=inf	24	obj	_	_
+27	notre	son	D	DET	n=s|s=poss	28	det	_	_
+28	regard	regard	N	NC	g=m|n=s|s=c	26	obj	_	_
+29	est	être	V	V	m=ind|n=s|p=3|t=pst	6	aux_pass	_	_
+30	le_plus_souvent	le_plus_souvent	ADV	ADV	_	29	mod	_	_
+31	à	à	P	P	_	29	mod	_	_
+32	l'	le	D	DET	n=s|s=def	33	det	_	_
+33	horizontale	horizontal	A	ADJ	g=f|n=s|s=qual	31	obj	_	_
+34	notre	son	D	DET	n=s|s=poss	35	det	_	_
+35	respiration	respiration	N	NC	g=f|n=s|s=c	29	suj	_	_
+36	fonctionne	fonctionner	V	V	m=ind|n=s|p=3|t=pst	29	mod	_	_
+37	de	de	P	P	_	38	det	_	_
+38	façon	façon	N	NC	g=f|n=s|s=c	29	ats	_	_
+39	automatique	automatique	A	ADJ	n=s|s=qual	38	mod	_	_
+40	nous	cln	CL	CLS	s=suj	42	suj	_	_
+41	sommes	être	V	V	m=ind|n=p|p=1|t=pst	42	aux_pass	_	_
+42	soumis	soumettre	V	VPP	g=m|m=part|t=past	29	dep	_	_
+43	à	à	P	P	_	42	mod	_	_
+44	la	le	D	DET	g=f|n=s|s=def	45	det	_	_
+45	pesanteur	pesanteur	N	NC	g=f|n=s|s=c	43	obj	_	_
+46	...	...	PONCT	PONCT	s=s	6	ponct	_	_
+
+Parents' sons: [14, 15, 17, 23]	Children's sons: [18]
+
+------->  déplacer{V|mod}		grâce_à{P|mod}		jambe{NC|obj}		Causation
+
+
+15|548) Gagner de l' argent n' a jamais été aussi facile grâce_à Cash Generation Pro! 
+1	Gagner	gagner	V	VINF	m=inf	8	aux_tps	_	_
+2	de	de	P	P	_	1	de_obj	_	_
+3	l'	le	D	DET	n=s|s=def	4	det	_	_
+4	argent	argent	N	NC	g=m|n=s|s=c	2	obj	_	_
+5	n'	ne	ADV	ADV	s=neg	8	mod	_	_
+6	a	avoir	V	V	m=ind|n=s|p=3|t=pst	8	aux_tps	_	_
+7	jamais	jamais	ADV	ADV	s=neg	8	mod	_	_
+8	été	être	V	VPP	m=part|t=past	0	root	_	_
+9	aussi	aussi	ADV	ADV	_|marker=208	8	mod	_	_
+10	facile	facile	A	ADJ	n=s|s=qual	8	mod	_	_
+11	grâce_à	grâce_à	P	P	_	8	mod	_	_
+12	Cash	Cash	N	NPP	s=p	11	obj	_	_
+13	Generation	Generation	ET	ET	_	14	dep	_	_
+14	Pro	Pro	ET	ET	_	12	dep	_	_
+15	!	!	PONCT	PONCT	s=s	8	ponct	_	_
+
+Parents' sons: [1, 5, 6, 7, 9, 10, 11, 15]	Children's sons: [14]
+
+------->  être~facile{VPP~ADJ|root~mod}		grâce_à{P|mod}		Cash{NPP|obj}		Causation
+
+
+16|549) Grâce_au Double Cash Convert, vous pourrez gagner entre 200 et 500 par jour. 
+1	Grâce_au	grâce_à	P	P	_	7	mod	_	_
+2	Double	Double	ET	ET	_	4	dep	_	_
+3	Cash	Cash	ET	ET	_	4	dep	_	_
+4	Convert	Convert	ET	ET	_	1	dep	_	_
+5	,	,	PONCT	PONCT	s=w	7	ponct	_	_
+6	vous	cln	CL	CLS	s=suj	7	suj	_	_
+7	pourrez	pouvoir	V	V	m=ind|n=p|p=2|t=fut	0	root	_	_
+8	gagner	gagner	V	VINF	m=inf	7	obj	_	_
+9	entre	entre	P	P	_	8	mod	_	_
+10	200	200	D	DET	s=card	9	obj	_	_
+11	et	et	C	CC	s=c	10	coord	_	_
+12	500	500	D	DET	_	11	dep_coord	_	_
+13	par	par	P	P	_	12	dep	_	_
+14	jour	jour	N	NC	g=m|n=s|s=c	13	obj	_	_
+15	.	.	PONCT	PONCT	s=s	7	ponct	_	_
+
+Parents' sons: [1, 5, 6, 8, 15]	Children's sons: [2, 3]
+
+xxxxxxx>  pouvoir~gagner{V~VINF|root~obj}		grâce_à{P|mod}		Convert{ET|dep}		Causation
+
+
+17|614) Leur présence apporte réconfort et soutien moral à celles et ceux qui en ont besoin grâce_à leur capacité relationnelle et d' écoute. 
+1	Leur	son	D	DET	n=s|s=poss	2	det	_	_
+2	présence	présence	N	NC	g=f|n=s|s=c	3	suj	_	_
+3	apporte	apporter	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+4	réconfort	réconfort	N	NC	g=m|n=s|s=c	3	obj	_	_
+5	et	et	C	CC	s=c	4	coord	_	_
+6	soutien	soutien	N	NC	g=m|n=s|s=c	5	dep_coord	_	_
+7	moral	moral	A	ADJ	g=m|n=s|s=qual	6	mod	_	_
+8	à	à	P	P	_	3	mod	_	_
+9	celles	celui	PRO	PRO	g=f|n=p|s=dem	8	obj	_	_
+10	et	et	C	CC	s=c	3	coord	_	_
+11	ceux	celui	PRO	PRO	g=m|n=p|s=dem	10	dep_coord	_	_
+12	qui	qui	PRO	PROREL	s=rel	14	suj	_	_
+13	en	en	CL	CLO	p=3|s=obj	14	aff	_	_
+14	ont	avoir	V	V	m=ind|n=p|p=3|t=pst	11	mod_rel	_	_
+15	besoin	besoin	N	NC	g=m|n=s|s=c	14	obj	_	_
+16	grâce_à	grâce_à	P	P	_	14	mod	_	_
+17	leur	son	D	DET	n=s|s=poss	18	det	_	_
+18	capacité	capacité	N	NC	g=f|n=s|s=c	16	obj	_	_
+19	relationnelle	relationnel	A	ADJ	g=f|n=s|s=qual	18	mod	_	_
+20	et	et	C	CC	s=c	16	coord	_	_
+21	d'	de	P	P	_	20	dep_coord	_	_
+22	écoute	écoute	N	NC	g=f|n=s|s=c	21	obj	_	_
+23	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+Parents' sons: [12, 13, 15, 16]	Children's sons: [17, 19]
+
+------->  avoir~besoin{V~NC|mod_rel~obj}		grâce_à{P|mod}		capacité~relationnel{NC~ADJ|obj~mod}		Causation
+
+
+Parents' sons: [12, 13, 15, 16]	Children's sons: [21]
+
+$$$$$$$>  avoir~besoin{V~NC|mod_rel~obj}		grâce_à{P|mod}		et{CC|coord}		Causation
+
+
+18|616) LA TELE-ASSISTANCE En_cas_de besoin ou d' urgence, ce service permet aux personnes âgées, handicapées ou seules, d' établir un contact avec l' extérieur 24h/ 24 et 7j/ 7 grâce_à un système simple et performant: un médaillon ou une montre reliés à l' appareil téléphonique, à porter sur soi. 
+1	LA	le	D	DET	g=f|n=s|s=def	2	det	_	_
+2	TELE-ASSISTANCE	TELE-ASSISTANCE	N	NPP	s=p	11	suj	_	_
+3	En_cas_de	en_cas_de	P	P	_	2	dep	_	_
+4	besoin	besoin	N	NC	g=m|n=s|s=c	3	obj	_	_
+5	ou	ou	C	CC	s=c	3	coord	_	_
+6	d'	de	P	P	_	5	dep_coord	_	_
+7	urgence	urgence	N	NC	g=f|n=s|s=c	6	obj	_	_
+8	,	,	PONCT	PONCT	s=w	11	ponct	_	_
+9	ce	ce	D	DET	g=m|n=s|s=dem	10	det	_	_
+10	service	service	N	NC	g=m|n=s|s=c	11	suj	_	_
+11	permet	permettre	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+12	aux	à	P+D	P+D	s=def	11	a_obj	_	_
+13	personnes	personne	N	NC	g=f|n=p|s=neg	12	obj	_	_
+14	âgées	âgé	A	ADJ	g=f|n=p|s=qual	13	mod	_	_
+15	,	,	PONCT	PONCT	s=w	13	ponct	_	_
+16	handicapées	handicaper	A	ADJ	g=f|m=part|n=p|s=qual|t=past	13	mod	_	_
+17	ou	ou	C	CC	s=c	16	coord	_	_
+18	seules	seul	A	ADJ	g=f|n=p|s=qual	17	dep_coord	_	_
+19	,	,	PONCT	PONCT	s=w	11	ponct	_	_
+20	d'	de	P	P	_	11	obj	_	_
+21	établir	établir	V	VINF	m=inf	20	obj	_	_
+22	un	un	D	DET	g=m|n=s|s=ind	23	det	_	_
+23	contact	contact	N	NC	g=m|n=s|s=c	21	obj	_	_
+24	avec	avec	P	P	_	21	mod	_	_
+25	l'	le	D	DET	n=s|s=def	26	det	_	_
+26	extérieur	extérieur	N	NC	g=m|n=s|s=c	24	obj	_	_
+27	24h	24h	A	ADJ	s=qual	26	mod	_	_
+28	/	/	PONCT	PONCT	s=w	26	ponct	_	_
+29	24	24	A	ADJ	s=card	26	mod	_	_
+30	et	et	C	CC	s=c	29	coord	_	_
+31	7j	7j	A	ADJ	s=qual	30	dep_coord	_	_
+32	/	/	PONCT	PONCT	s=w	26	ponct	_	_
+33	7	7	A	ADJ	s=card	26	mod	_	_
+34	grâce_à	grâce_à	P	P	_	21	mod	_	_
+35	un	un	D	DET	g=m|n=s|s=ind	36	det	_	_
+36	système	système	N	NC	g=m|n=s|s=c	34	obj	_	_
+37	simple	simple	A	ADJ	n=s|s=qual	36	mod	_	_
+38	et	et	C	CC	s=c	37	coord	_	_
+39	performant	performant	A	ADJ	g=m|n=s|s=qual	38	dep_coord	_	_
+40	:	:	PONCT	PONCT	s=w	11	ponct	_	_
+41	un	un	D	DET	g=m|n=s|s=ind	42	det	_	_
+42	médaillon	médaillon	N	NC	g=m|n=s|s=c	11	obj	_	_
+43	ou	ou	C	CC	s=c	42	coord	_	_
+44	une	un	D	DET	g=f|n=s|s=ind	45	det	_	_
+45	montre	montre	N	NC	g=f|n=s|s=c	43	dep_coord	_	_
+46	reliés	relier	V	VPP	g=m|m=part|n=p|t=past	45	mod	_	_
+47	à	à	P	P	_	46	mod	_	_
+48	l'	le	D	DET	n=s|s=def	49	det	_	_
+49	appareil	appareil	N	NC	g=m|n=s|s=c	47	obj	_	_
+50	téléphonique	téléphonique	A	ADJ	n=s|s=qual	49	mod	_	_
+51	,	,	PONCT	PONCT	s=w	11	ponct	_	_
+52	à	à	P	P	_	11	mod	_	_
+53	porter	porter	V	VINF	m=inf	52	obj	_	_
+54	sur	sur	P	P	_	53	mod	_	_
+55	soi	lui	PRO	PRO	s=pers	54	obj	_	_
+56	.	.	PONCT	PONCT	s=s	11	ponct	_	_
+
+Parents' sons: [23, 24, 34]	Children's sons: [35, 37]
+
+------->  établir~contact{VINF~NC|obj~obj}		grâce_à{P|mod}		système~simple{NC~ADJ|obj~mod}		Causation
+
+
+19|655) Enfin, grâce_à l' effort financier de tous, et en premier lieu des parents d' élèves du Grand lycée franco- libanais, un nouveau complexe sportif a vu le jour au centre de Beyrouth. 
+1	Enfin	enfin	ADV	ADV	_	29	mod	_	_
+2	,	,	PONCT	PONCT	s=w	29	ponct	_	_
+3	grâce_à	grâce_à	P	P	_	29	mod	_	_
+4	l'	le	D	DET	n=s|s=def	5	det	_	_
+5	effort	effort	N	NC	g=m|n=s|s=c	3	obj	_	_
+6	financier	financier	A	ADJ	g=m|n=s|s=qual	5	mod	_	_
+7	de	de	P	P	_	6	dep	_	_
+8	tous	tout	PRO	PRO	g=m|n=p|s=ind	7	obj	_	_
+9	,	,	PONCT	PONCT	s=w	5	ponct	_	_
+10	et	et	C	CC	s=c	3	coord	_	_
+11	en	en	P	P	p=3	10	dep_coord	_	_
+12	premier	premier	A	ADJ	g=m|n=s|s=ord	13	mod	_	_
+13	lieu	lieu	N	NC	g=m|n=s|s=c	11	obj	_	_
+14	des	de	P+D	P+D	s=def	13	dep	_	_
+15	parents	parent	N	NC	g=m|n=p|s=c	14	obj	_	_
+16	d'	de	P	P	_	15	dep	_	_
+17	élèves	élève	N	NC	n=p|s=c	16	obj	_	_
+18	du	de	P+D	P+D	s=def	17	dep	_	_
+19	Grand	grand	A	ADJ	g=m|n=s|s=qual	20	mod	_	_
+20	lycée	lycée	N	NC	g=m|n=s|s=c	18	obj	_	_
+21	franco-	franco-	PREF	PREF	_	22	mod	_	_
+22	libanais	libanais	A	ADJ	g=m|s=qual	20	mod	_	_
+23	,	,	PONCT	PONCT	s=w	3	ponct	_	_
+24	un	un	D	DET	g=m|n=s|s=ind	26	det	_	_
+25	nouveau	nouveau	A	ADJ	g=m|n=s|s=qual	26	mod	_	_
+26	complexe	complexe	N	NC	g=m|n=s|s=c	3	obj	_	_
+27	sportif	sportif	A	ADJ	g=m|n=s|s=qual	26	mod	_	_
+28	a	avoir	V	V	m=ind|n=s|p=3|t=pst	29	aux_tps	_	_
+29	vu	voir	V	VPP	g=m|m=part|n=s|t=past	0	root	_	_
+30	le	le	D	DET	g=m|n=s|s=def	31	det	_	_
+31	jour	jour	N	NC	g=m|n=s|s=c	29	obj	_	_
+32	au	à	P+D	P+D	s=def	29	mod	_	_
+33	centre	centre	N	NC	g=m|n=s|s=c	32	obj	_	_
+34	de	de	P	P	_	33	dep	_	_
+35	Beyrouth	Beyrouth	N	NPP	g=m|n=s|s=p	34	obj	_	_
+36	.	.	PONCT	PONCT	s=s	29	ponct	_	_
+
+Parents' sons: [1, 2, 3, 28, 31, 32, 36]	Children's sons: [4, 6, 9]
+
+------->  voir~jour{VPP~NC|root~obj}		grâce_à{P|mod}		effort~financier{NC~ADJ|obj~mod}		Causation
+
+
+Parents' sons: [1, 2, 3, 28, 31, 32, 36]	Children's sons: [11]
+
+$$$$$$$>  voir~jour{VPP~NC|root~obj}		grâce_à{P|mod}		et{CC|coord}		Causation
+
+
+Parents' sons: [1, 2, 3, 28, 31, 32, 36]	Children's sons: []
+
+xxxxxxx>  voir~jour{VPP~NC|root~obj}		grâce_à{P|mod}		,{PONCT|ponct}		Causation
+
+
+Parents' sons: [1, 2, 3, 28, 31, 32, 36]	Children's sons: [24, 25, 27]
+
+------->  voir~jour{VPP~NC|root~obj}		grâce_à{P|mod}		complexe~sportif{NC~ADJ|obj~mod}		Causation
+
+
+20|712) N' y connaissant rien en mécanique, j' ai tout appris par la pratique et grâce_à l' association INPG Odyssée 4L, qui a pour but d' aider les équipages de l' INPG à partir. 
+1	N'	ne	ADV	ADV	s=neg	3	mod	_	_
+2	y	y	CL	CLO	p=3|s=obj	3	aff	_	_
+3	connaissant	connaître	V	VPR	m=part|t=pst	11	mod	_	_
+4	rien	rien	PRO	PRO	n=s|s=neg	3	obj	_	_
+5	en	en	P	P	p=3	4	dep	_	_
+6	mécanique	mécanique	N	NC	g=f|n=s|s=c	5	obj	_	_
+7	,	,	PONCT	PONCT	s=w	11	ponct	_	_
+8	j'	cln	CL	CLS	s=suj	11	suj	_	_
+9	ai	avoir	V	V	m=ind|n=s|p=1|t=pst	11	aux_tps	_	_
+10	tout	tout	PRO	PRO	g=m|n=s|s=ind	11	dep	_	_
+11	appris	apprendre	V	VPP	g=m|m=part|t=past	0	root	_	_
+12	par	par	P	P	_	11	p_obj	_	_
+13	la	le	D	DET	g=f|n=s|s=def	14	det	_	_
+14	pratique	pratique	N	NC	g=f|n=s|s=c	12	obj	_	_
+15	et	et	C	CC	s=c	12	coord	_	_
+16	grâce_à	grâce_à	P	P	_	15	dep_coord	_	_
+17	l'	le	D	DET	n=s|s=def	18	det	_	_
+18	association	association	N	NC	g=f|n=s|s=c	16	obj	_	_
+19	INPG	INPG	N	NPP	s=p	18	mod	_	_
+20	Odyssée	Odyssée	N	NPP	s=p	18	mod	_	_
+21	4L	4L	N	NPP	s=p	18	mod	_	_
+22	,	,	PONCT	PONCT	s=w	18	ponct	_	_
+23	qui	qui	PRO	PROREL	s=rel	24	suj	_	_
+24	a	avoir	V	V	m=ind|n=s|p=3|t=pst	18	mod_rel	_	_
+25	pour	pour	P	P	_	24	mod	_	_
+26	but	but	N	NC	g=m|n=s|s=c	25	obj	_	_
+27	d'	de	P	P	_	24	obj	_	_
+28	aider	aider	V	VINF	m=inf	27	obj	_	_
+29	les	le	D	DET	n=p|s=def	30	det	_	_
+30	équipages	équipage	N	NC	g=m|n=p|s=c	28	obj	_	_
+31	de	de	P	P	_	30	dep	_	_
+32	l'	le	D	DET	n=s|s=def	33	det	_	_
+33	INPG	INPG	N	NPP	s=p	31	obj	_	_
+34	à	à	P	P	_	28	mod	_	_
+35	partir	partir	V	VINF	m=inf	34	obj	_	_
+36	.	.	PONCT	PONCT	s=s	11	ponct	_	_
+
+Parents' sons: [16]	Children's sons: [17, 19, 20, 21, 22, 24]
+
+xxxxxxx>  et~association{CC~NC|coord~obj}		grâce_à{P|dep_coord}		association{NC|obj}		Causation
+
+
+21|747) Ses missions: aider les entreprises à accroître leur compétitivité grâce_à l' innovation technologique et assurer le transfert de son savoir-faire technique vers l' industrie. 
+1	Ses	son	D	DET	n=p|s=poss	2	det	_	_
+2	missions	mission	N	NC	g=f|n=p|s=c	0	root	_	_
+3	:	:	PONCT	PONCT	s=w	2	ponct	_	_
+4	aider	aider	V	VINF	m=inf	2	dep	_	_
+5	les	le	D	DET	n=p|s=def	6	det	_	_
+6	entreprises	entreprise	N	NC	g=f|n=p|s=c	4	obj	_	_
+7	à	à	P	P	_	4	mod	_	_
+8	accroître	accroître	V	VINF	m=inf	7	obj	_	_
+9	leur	son	D	DET	n=s|s=poss	10	det	_	_
+10	compétitivité	compétitivité	N	NC	g=f|n=s|s=c	8	obj	_	_
+11	grâce_à	grâce_à	P	P	_	8	mod	_	_
+12	l'	le	D	DET	n=s|s=def	13	det	_	_
+13	innovation	innovation	N	NC	g=f|n=s|s=c	11	obj	_	_
+14	technologique	technologique	A	ADJ	n=s|s=qual	13	mod	_	_
+15	et	et	C	CC	s=c	8	coord	_	_
+16	assurer	assurer	V	VINF	m=inf	15	dep_coord	_	_
+17	le	le	D	DET	g=m|n=s|s=def	18	det	_	_
+18	transfert	transfert	N	NC	g=m|n=s|s=c	16	obj	_	_
+19	de	de	P	P	_	18	dep	_	_
+20	son	son	D	DET	n=s|s=poss	21	det	_	_
+21	savoir-faire	savoir-faire	N	NC	g=m|s=c	19	obj	_	_
+22	technique	technique	A	ADJ	n=s|s=qual	21	mod	_	_
+23	vers	vers	P	P	_	18	dep	_	_
+24	l'	le	D	DET	n=s|s=def	25	det	_	_
+25	industrie	industrie	N	NC	g=f|n=s|s=c	23	obj	_	_
+26	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [10, 11, 15]	Children's sons: [12, 14]
+
+------->  accroître~compétitivité{VINF~NC|obj~obj}		grâce_à{P|mod}		innovation~technologique{NC~ADJ|obj~mod}		Causation
+
+
+22|751) L' Assistance Publique-Hôpitaux de Paris initie grâce_à un doublement des crédits institutionnels de soutien à la recherche un appel permanent à projets visant à financer, d'_une_part, la phase pré-clinique-immédiate- de projets de biothérapie( activité de transfert) ayant une pertinence clinique réelle, d'_autre_part, une part substantielle des coûts de projets cliniques de biothérapie de phase 1-2a à fort potentiel, à_condition_qu' ils comportent un aspect translationnel( mises au point de procédures... 
+1	L'	le	D	DET	n=s|s=def	2	det	_	_
+2	Assistance	assistance	N	NC	g=f|n=s|s=c	6	suj	_	_
+3	Publique-Hôpitaux	Publique-Hôpitaux	N	NPP	s=p	2	mod	_	_
+4	de	de	P	P	_	2	dep	_	_
+5	Paris	Paris	N	NPP	g=m|n=s|s=p	4	obj	_	_
+6	initie	initier	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+7	grâce_à	grâce_à	P	P	_	6	mod	_	_
+8	un	un	D	DET	g=m|n=s|s=ind	9	det	_	_
+9	doublement	doublement	N	NC	g=m|n=s|s=c	7	obj	_	_
+10	des	de	P+D	P+D	s=def	9	dep	_	_
+11	crédits	crédit	N	NC	g=m|n=p|s=c	10	obj	_	_
+12	institutionnels	institutionnel	A	ADJ	g=m|n=p|s=qual	11	mod	_	_
+13	de	de	P	P	_	11	dep	_	_
+14	soutien	soutien	N	NC	g=m|n=s|s=c	13	obj	_	_
+15	à	à	P	P	_	9	dep	_	_
+16	la	le	D	DET	g=f|n=s|s=def	17	det	_	_
+17	recherche	recherche	N	NC	g=f|n=s|s=c	15	obj	_	_
+18	un	un	D	DET	g=m|n=s|s=ind	19	det	_	_
+19	appel	appel	N	NC	g=m|n=s|s=c	6	obj	_	_
+20	permanent	permanent	A	ADJ	g=m|n=s|s=qual	19	mod	_	_
+21	à	à	P	P	_	6	mod	_	_
+22	projets	projet	N	NC	g=m|n=p|s=c	21	obj	_	_
+23	visant	viser	V	VPR	m=part|t=pst	22	mod	_	_
+24	à	à	P	P	_	23	mod	_	_
+25	financer	financer	V	VINF	m=inf	24	obj	_	_
+26	,	,	PONCT	PONCT	s=w	25	ponct	_	_
+27	d'_une_part	d'une_part	ADV	ADV	_	25	mod	_	_
+28	,	,	PONCT	PONCT	s=w	25	ponct	_	_
+29	la	le	D	DET	g=f|n=s|s=def	30	det	_	_
+30	phase	phase	N	NC	g=f|n=s|s=c	25	obj	_	_
+31	pré-clinique-immédiate	pré-clinique-immédiat	A	ADJ	s=qual	30	mod	_	_
+32	-	-	PONCT	PONCT	s=w	30	ponct	_	_
+33	de	de	P	P	_	30	dep	_	_
+34	projets	projet	N	NC	g=m|n=p|s=c	33	obj	_	_
+35	de	de	P	P	_	34	dep	_	_
+36	biothérapie	biothérapie	N	NC	g=f|n=s|s=c	35	obj	_	_
+37	(	(	PONCT	PONCT	s=w	34	ponct	_	_
+38	activité	activité	N	NC	g=f|n=s|s=c	34	mod	_	_
+39	de	de	P	P	_	38	dep	_	_
+40	transfert	transfert	N	NC	g=m|n=s|s=c	39	obj	_	_
+41	)	)	PONCT	PONCT	s=w	34	ponct	_	_
+42	ayant	avoir	V	VPR	m=part|t=pst	34	mod	_	_
+43	une	un	D	DET	g=f|n=s|s=ind	44	det	_	_
+44	pertinence	pertinence	N	NC	g=f|n=s|s=c	42	obj	_	_
+45	clinique	clinique	A	ADJ	n=s|s=qual	44	mod	_	_
+46	réelle	réel	A	ADJ	g=f|n=s|s=qual	44	mod	_	_
+47	,	,	PONCT	PONCT	s=w	44	ponct	_	_
+48	d'_autre_part	d'autre_part	ADV	ADV	_	44	mod	_	_
+49	,	,	PONCT	PONCT	s=w	25	ponct	_	_
+50	une	un	D	DET	g=f|n=s|s=ind	51	det	_	_
+51	part	part	N	NC	n=s|s=c	25	obj	_	_
+52	substantielle	substantiel	A	ADJ	g=f|n=s|s=qual	51	mod	_	_
+53	des	de	P+D	P+D	s=def	51	dep	_	_
+54	coûts	coût	N	NC	g=m|n=p|s=c	53	obj	_	_
+55	de	de	P	P	_	54	dep	_	_
+56	projets	projet	N	NC	g=m|n=p|s=c	55	obj	_	_
+57	cliniques	clinique	A	ADJ	n=p|s=qual	56	mod	_	_
+58	de	de	P	P	_	56	dep	_	_
+59	biothérapie	biothérapie	N	NC	g=f|n=s|s=c	58	obj	_	_
+60	de	de	P	P	_	59	dep	_	_
+61	phase	phase	N	NC	g=f|n=s|s=c	60	obj	_	_
+62	1-2a	1-2a	A	ADJ	s=qual	61	mod	_	_
+63	à	à	P	P	_	25	mod	_	_
+64	fort	fort	A	ADJ	g=m|n=s|s=qual	65	mod	_	_
+65	potentiel	potentiel	N	NC	g=m|n=s|s=c	63	obj	_	_
+66	,	,	PONCT	PONCT	s=w	6	ponct	_	_
+67	à_condition_qu'	à_condition_que	C	CS	s=s	6	mod	_	_
+68	ils	cln	CL	CLS	s=suj	69	suj	_	_
+69	comportent	comporter	V	V	m=ind|n=p|p=3|t=pst	67	obj	_	_
+70	un	un	D	DET	g=m|n=s|s=ind	71	det	_	_
+71	aspect	aspect	N	NC	g=m|n=s|s=c	69	obj	_	_
+72	translationnel	translationnel	A	ADJ	s=qual	71	mod	_	_
+73	(	(	PONCT	PONCT	s=w	71	ponct	_	_
+74	mises	mettre	V	VPP	g=f|m=part|n=p|t=past	71	mod	_	_
+75	au	à	P+D	P+D	s=def	74	a_obj	_	_
+76	point	point	N	NC	g=m|n=s|s=neg	75	obj	_	_
+77	de	de	P	P	_	76	dep	_	_
+78	procédures	procédure	N	NC	g=f|n=p|s=c	77	obj	_	_
+79	...	...	PONCT	PONCT	s=s	6	ponct	_	_
+
+Parents' sons: [2, 7, 19, 21, 66, 67, 79]	Children's sons: [8, 10, 15]
+
+------->  initier~appel~permanent{V~NC~ADJ|root~obj~mod}		grâce_à{P|mod}		doublement{NC|obj}		Causation
+
+
+23|766) Benton doit s' occuper d' une bande de jeunes appartenant à une fraternité dont la santé est gravement mise en danger à_cause_d' un abus d' alcool. 
+1	Benton	Benton	N	NPP	g=m|n=s|s=p	2	suj	_	_
+2	doit	devoir	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	s'	se	CL	CLR	p=3|s=refl	4	aff	_	_
+4	occuper	occuper	V	VINF	m=inf	2	obj	_	_
+5	d'	de	P	P	_	4	de_obj	_	_
+6	une	un	D	DET	g=f|n=s|s=ind	7	det	_	_
+7	bande	bande	N	NC	g=f|n=s|s=c	5	obj	_	_
+8	de	de	P	P	_	7	dep	_	_
+9	jeunes	jeune	N	NC	n=p|s=c	8	obj	_	_
+10	appartenant	appartenir	V	VPR	m=part|t=pst	9	mod	_	_
+11	à	à	P	P	_	10	mod	_	_
+12	une	un	D	DET	g=f|n=s|s=ind	13	det	_	_
+13	fraternité	fraternité	N	NC	g=f|n=s|s=c	11	obj	_	_
+14	dont	dont	PRO	PROREL	s=rel	19	de_obj	_	_
+15	la	le	D	DET	g=f|n=s|s=def	16	det	_	_
+16	santé	santé	N	NC	g=f|n=s|s=c	19	suj	_	_
+17	est	être	V	V	m=ind|n=s|p=3|t=pst	19	aux_pass	_	_
+18	gravement	gravement	ADV	ADV	_	19	mod	_	_
+19	mise	mettre	V	VPP	g=f|m=part|n=s|t=past	13	mod_rel	_	_
+20	en	en	P	P	p=3	19	mod	_	_
+21	danger	danger	N	NC	g=m|n=s|s=c	20	obj	_	_
+22	à_cause_d'	à_cause_de	P	P	_	19	mod	_	_
+23	un	un	D	DET	g=m|n=s|s=ind	24	det	_	_
+24	abus	abus	N	NC	g=m|s=c	22	obj	_	_
+25	d'	de	P	P	_	24	dep	_	_
+26	alcool	alcool	N	NC	g=m|n=s|s=c	25	obj	_	_
+27	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [14, 16, 17, 18, 20, 22]	Children's sons: [23, 25]
+
+------->  mettre~gravement{VPP~ADV|mod_rel~mod}		à_cause_de{P|mod}		abus{NC|obj}		Causation
+
+
+24|840) Je précise qu' en_cas_d' héritier( ère), la Fiesta peut accueillir tout le nécessaire grâce_à son coté pratique et son coffre généreux au vue de sa taille. 
+1	Je	cln	CL	CLS	s=suj	2	suj	_	_
+2	précise	préciser	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	qu'	que	C	CS	s=s	2	obj	_	_
+4	en_cas_d'	en_cas_de	P	P	_	12	mod	_	_
+5	héritier	héritier	N	NC	g=m|n=s|s=c	4	obj	_	_
+6	(	(	PONCT	PONCT	s=w	4	ponct	_	_
+7	ère	ère	N	NC	g=f|n=s|s=c	4	obj	_	_
+8	)	)	PONCT	PONCT	s=w	4	ponct	_	_
+9	,	,	PONCT	PONCT	s=w	12	ponct	_	_
+10	la	le	D	DET	g=f|n=s|s=def	11	det	_	_
+11	Fiesta	Fiesta	N	NPP	s=p	12	suj	_	_
+12	peut	pouvoir	V	V	m=ind|n=s|p=3|t=pst	3	obj	_	_
+13	accueillir	accueillir	V	VINF	m=inf	12	obj	_	_
+14	tout	tout	ADV	ADV	s=ind	16	mod	_	_
+15	le	le	D	DET	g=m|n=s|s=def	16	det	_	_
+16	nécessaire	nécessaire	A	ADJ	n=s|s=qual	13	ats	_	_
+17	grâce_à	grâce_à	P	P	_	13	mod	_	_
+18	son	son	D	DET	n=s|s=poss	20	det	_	_
+19	coté	coter	A	ADJ	g=m|m=part|n=s|s=qual|t=past	20	mod	_	_
+20	pratique	pratique	N	NC	g=f|n=s|s=c	17	obj	_	_
+21	et	et	C	CC	s=c	20	coord	_	_
+22	son	son	D	DET	n=s|s=poss	23	det	_	_
+23	coffre	coffre	N	NC	g=m|n=s|s=c	21	dep_coord	_	_
+24	généreux	généreux	A	ADJ	g=m|s=qual	23	mod	_	_
+25	au	à	P+D	P+D	s=def	20	dep	_	_
+26	vue	vue	N	NC	g=f|n=s|s=c	25	obj	_	_
+27	de	de	P	P	_	26	dep	_	_
+28	sa	son	D	DET	g=f|n=s|s=poss	29	det	_	_
+29	taille	taille	N	NC	g=f|n=s|s=c	27	obj	_	_
+30	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [16, 17]	Children's sons: [18, 19, 21, 25]
+
+------->  accueillir~nécessaire~tout{VINF~ADJ~ADV|obj~ats~mod}		grâce_à{P|mod}		pratique~coter{NC~ADJ|obj~mod}		Causation
+
+
+25|898) Capable de stocker quarante albums grâce_à la carte mémoire de 2 Go fournie, ses écouteurs très classiques produisent un son plutôt clair, manquant cependant de basses. 
+1	Capable	capable	A	ADJ	n=s|s=qual	2	obj	_	_
+2	de	de	P	P	_	19	suj	_	_
+3	stocker	stocker	V	VINF	m=inf	2	obj	_	_
+4	quarante	quarante	D	DET	s=card	5	det	_	_
+5	albums	album	N	NC	g=m|n=p|s=c	3	obj	_	_
+6	grâce_à	grâce_à	P	P	_	3	mod	_	_
+7	la	le	D	DET	g=f|n=s|s=def	8	det	_	_
+8	carte	carte	N	NC	g=f|n=s|s=c	6	obj	_	_
+9	mémoire	mémoire	N	NC	n=s|s=c	8	mod	_	_
+10	de	de	P	P	_	9	dep	_	_
+11	2	2	D	DET	s=card	12	det	_	_
+12	Go	giga-octet	N	NC	g=m|s=c	10	obj	_	_
+13	fournie	fournir	V	VPP	g=f|m=part|n=s|t=past	12	mod	_	_
+14	,	,	PONCT	PONCT	s=w	3	ponct	_	_
+15	ses	son	D	DET	n=p|s=poss	16	det	_	_
+16	écouteurs	écouteur	N	NC	g=m|n=p|s=c	3	obj	_	_
+17	très	très	ADV	ADV	_	18	mod	_	_
+18	classiques	classique	A	ADJ	n=p|s=qual	16	mod	_	_
+19	produisent	produire	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+20	un	un	D	DET	g=m|n=s|s=ind	21	det	_	_
+21	son	son	N	NC	g=m|n=s|s=poss	19	obj	_	_
+22	plutôt	plutôt	ADV	ADV	_	23	mod	_	_
+23	clair	clair	A	ADJ	g=m|n=s|s=qual	21	mod	_	_
+24	,	,	PONCT	PONCT	s=w	21	ponct	_	_
+25	manquant	manquer	V	VPR	m=part|t=pst	21	mod	_	_
+26	cependant	cependant	ADV	ADV	_	25	mod	_	_
+27	de	de	P	P	_	25	mod	_	_
+28	basses	bas	A	ADJ	g=f|n=p|s=qual	27	obj	_	_
+29	.	.	PONCT	PONCT	s=s	19	ponct	_	_
+
+Parents' sons: [5, 6, 14, 16]	Children's sons: [7, 9]
+
+------->  stocker~écouteur~classique{VINF~NC~ADJ|obj~obj~mod}		grâce_à{P|mod}		carte~mémoire{NC~NC|obj~mod}		Causation
+
+
+26|916) Les résultats en_ce_qui_concerne la survie prolongée ne peuvent pas_encore être évalués en_raison_du trop faible recul. 
+1	Les	le	D	DET	n=p|s=def	2	det	_	_
+2	résultats	résultat	N	NC	g=m|n=p|s=c	8	suj	_	_
+3	en_ce_qui_concerne	en_ce_qui_concerne	P	P	_	8	mod	_	_
+4	la	le	D	DET	g=f|n=s|s=def	5	det	_	_
+5	survie	survie	N	NC	g=f|n=s|s=c	3	obj	_	_
+6	prolongée	prolonger	V	VPP	g=f|m=part|n=s|t=past	5	mod	_	_
+7	ne	ne	ADV	ADV	s=neg	8	mod	_	_
+8	peuvent	pouvoir	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+9	pas_encore	pas_encore	ADV	ADV	_	8	mod	_	_
+10	être	être	V	VINF	m=inf	11	aux_pass	_	_
+11	évalués	évaluer	V	VPP	g=m|m=part|n=p|t=past	8	obj	_	_
+12	en_raison_du	en_raison_de	P	P	_	11	mod	_	_
+13	trop	trop	ADV	ADV	_	14	mod	_	_
+14	faible	faible	A	ADJ	n=s|s=qual	15	mod	_	_
+15	recul	recul	N	NC	g=m|n=s|s=c	12	obj	_	_
+16	.	.	PONCT	PONCT	s=s	8	ponct	_	_
+
+Parents' sons: [10, 12]	Children's sons: [14]
+
+------->  évaluer{VPP|obj}		en_raison_de{P|mod}		recul~faible{NC~ADJ|obj~mod}		Causation
+
+
+Parents' sons: [10, 12]	Children's sons: [14]
+
+------->  évaluer{VPP|obj}		en_raison_de{P|mod}		recul~faible{NC~ADJ|obj~mod}		Evidence
+
+
+27|944) . Alors moi, ce soir je souhaiterais rejoindre Miss Lulu dans les pensées pour ceux qui sont morts à_cause_de cet attentat contre des civils innocents et pour tous ceux morts par_la_suite à_cause_de la riposte injuste, mal menée et completement contre productive des Etats Unis d' Amérique. 
+1	.	.	PONCT	PONCT	s=s	8	ponct	_	_
+2	Alors	alors	ADV	ADV	_|marker=7	3	mod	_	_
+3	moi	lui	PRO	PRO	n=s|s=pers	8	mod	_	_
+4	,	,	PONCT	PONCT	s=w	8	ponct	_	_
+5	ce	ce	D	DET	g=m|n=s|s=dem	6	det	_	_
+6	soir	soir	N	NC	g=m|n=s|s=c	8	suj	_	_
+7	je	cln	CL	CLS	s=suj	8	suj	_	_
+8	souhaiterais	souhaiter	V	V	m=ind|n=s|p=2|t=cond	0	root	_	_
+9	rejoindre	rejoindre	V	VINF	m=inf	8	obj	_	_
+10	Miss	Miss	N	NPP	s=p	9	suj	_	_
+11	Lulu	Lulu	N	NPP	g=f|n=s|s=p	10	mod	_	_
+12	dans	dans	P	P	_	9	mod	_	_
+13	les	le	D	DET	n=p|s=def	14	det	_	_
+14	pensées	pensée	N	NC	g=f|n=p|s=c	12	obj	_	_
+15	pour	pour	P	P	_	9	mod	_	_
+16	ceux	celui	PRO	PRO	g=m|n=p|s=dem	15	obj	_	_
+17	qui	qui	PRO	PROREL	s=rel	18	suj	_	_
+18	sont	être	V	V	m=ind|n=p|p=3|t=pst	16	mod_rel	_	_
+19	morts	mort	A	ADJ	g=m|n=p|s=qual	18	ats	_	_
+20	à_cause_de	à_cause_de	P	P	_	18	mod	_	_
+21	cet	ce	D	DET	g=m|n=s|s=dem	22	det	_	_
+22	attentat	attentat	N	NC	g=m|n=s|s=c	20	obj	_	_
+23	contre	contre	P	P	_	22	dep	_	_
+24	des	de	D	DET	_	25	det	_	_
+25	civils	civil	N	NC	g=f|n=p|s=c	23	obj	_	_
+26	innocents	innocent	A	ADJ	g=m|n=p|s=qual	25	mod	_	_
+27	et	et	C	CC	s=c	23	coord	_	_
+28	pour	pour	P	P	_	27	dep_coord	_	_
+29	tous	tout	A	ADJ	g=m|n=p|s=ind	30	mod	_	_
+30	ceux	celui	PRO	PRO	g=m|n=p|s=dem	28	obj	_	_
+31	morts	mort	A	ADJ	g=m|n=p|s=qual	30	mod	_	_
+32	par_la_suite	par_la_suite	ADV	ADV	_	30	mod	_	_
+33	à_cause_de	à_cause_de	P	P	_	30	dep	_	_
+34	la	le	D	DET	g=f|n=s|s=def	35	det	_	_
+35	riposte	riposte	N	NC	g=f|n=s|s=c	33	obj	_	_
+36	injuste	injuste	A	ADJ	n=s|s=qual	35	mod	_	_
+37	,	,	PONCT	PONCT	s=w	18	ponct	_	_
+38	mal	mal	ADV	ADV	_	39	mod	_	_
+39	menée	mener	V	VPP	g=f|m=part|n=s|t=past	18	mod	_	_
+40	et	et	C	CC	s=c	39	coord	_	_
+41	completement	completement	ADV	ADV	_	40	mod	_	_
+42	contre	contre	P	P	_	40	dep_coord	_	_
+43	productive	productif	A	ADJ	g=f|n=s|s=qual	42	obj	_	_
+44	des	de	P+D	P+D	s=def	39	dep	_	_
+45	Etats	états	N	NC	g=m|n=p|s=c	44	obj	_	_
+46	Unis	Unis	N	NPP	s=p	45	mod	_	_
+47	d'	de	P	P	_	45	dep	_	_
+48	Amérique	Amérique	N	NPP	g=f|n=s|s=p	47	obj	_	_
+49	.	.	PONCT	PONCT	s=s	8	ponct	_	_
+
+Parents' sons: [17, 19, 20, 37, 39]	Children's sons: [21, 23]
+
+------->  être~mort{V~ADJ|mod_rel~ats}		à_cause_de{P|mod}		attentat{NC|obj}		Causation
+
+
+Parents' sons: [29, 31, 32, 33]	Children's sons: [34, 36]
+
+xxxxxxx>  celui~par_la_suite{PRO~ADV|obj~mod}		à_cause_de{P|dep}		riposte~injuste{NC~ADJ|obj~mod}		Causation
+
+
+28|955) « Grâce_à l' évolution positive de nos résultats, nous sommes maintenant en mesure de poursuivre le développement de nos activités. 
+1	«	«	PONCT	PONCT	s=w	11	ponct	_	_
+2	Grâce_à	grâce_à	P	P	_	11	mod	_	_
+3	l'	le	D	DET	n=s|s=def	4	det	_	_
+4	évolution	évolution	N	NC	g=f|n=s|s=c	2	obj	_	_
+5	positive	positif	A	ADJ	g=f|n=s|s=qual	4	mod	_	_
+6	de	de	P	P	_	4	dep	_	_
+7	nos	son	D	DET	n=p|s=poss	8	det	_	_
+8	résultats	résultat	N	NC	g=m|n=p|s=c	6	obj	_	_
+9	,	,	PONCT	PONCT	s=w	11	ponct	_	_
+10	nous	cln	CL	CLS	s=suj	11	suj	_	_
+11	sommes	être	V	V	m=ind|n=p|p=1|t=pst	0	root	_	_
+12	maintenant	maintenant	ADV	ADV	_|marker=310	11	mod	_	_
+13	en	en	P	P	p=3	11	mod	_	_
+14	mesure	mesure	N	NC	g=f|n=s|s=c	13	obj	_	_
+15	de	de	P	P	_	11	obj	_	_
+16	poursuivre	poursuivre	V	VINF	m=inf	15	obj	_	_
+17	le	le	D	DET	g=m|n=s|s=def	18	det	_	_
+18	développement	développement	N	NC	g=m|n=s|s=c	16	obj	_	_
+19	de	de	P	P	_	18	dep	_	_
+20	nos	son	D	DET	n=p|s=poss	21	det	_	_
+21	activités	activité	N	NC	g=f|n=p|s=c	19	obj	_	_
+22	.	.	PONCT	PONCT	s=s	11	ponct	_	_
+
+Parents' sons: [1, 2, 9, 10, 12, 13, 15, 22]	Children's sons: [3, 5, 6]
+
+------->  être~maintenant{V~ADV|root~mod}		grâce_à{P|mod}		évolution~positif{NC~ADJ|obj~mod}		Causation
+
+
+29|958) Grâce_à ces développements, nous fabriquons des cartons encore plus légers avec une qualité d' imprimabilité supérieure. 
+1	Grâce_à	grâce_à	P	P	_	6	mod	_	_
+2	ces	ce	D	DET	n=p|s=dem	3	det	_	_
+3	développements	développement	N	NC	g=m|n=p|s=c	1	obj	_	_
+4	,	,	PONCT	PONCT	s=w	6	ponct	_	_
+5	nous	cln	CL	CLS	s=suj	6	suj	_	_
+6	fabriquons	fabriquer	V	V	m=ind|n=p|p=1|t=pst	0	root	_	_
+7	des	de	D	DET	_	8	det	_	_
+8	cartons	carton	N	NC	g=m|n=p|s=c	6	obj	_	_
+9	encore	encore	ADV	ADV	_	10	mod	_	_
+10	plus	plus	ADV	ADV	s=neg	11	mod	_	_
+11	légers	léger	A	ADJ	g=m|n=p|s=qual	8	mod	_	_
+12	avec	avec	P	P	_	6	mod	_	_
+13	une	un	D	DET	g=f|n=s|s=ind	14	det	_	_
+14	qualité	qualité	N	NC	g=f|n=s|s=c	12	obj	_	_
+15	d'	de	P	P	_	14	dep	_	_
+16	imprimabilité	imprimabilité	N	NC	g=f|n=s|s=c	15	obj	_	_
+17	supérieure	supérieur	A	ADJ	g=f|n=s|s=qual	16	mod	_	_
+18	.	.	PONCT	PONCT	s=s	6	ponct	_	_
+
+Parents' sons: [1, 4, 5, 8, 12, 18]	Children's sons: [2]
+
+------->  fabriquer~carton~léger{V~NC~ADJ|root~obj~mod}		grâce_à{P|mod}		développement{NC|obj}		Causation
+
+
+30|963) En_outre, la situation financière de M-real s' est améliorée grâce_à la mise en oeuvre de programmes de réductions des dépenses». 
+1	En_outre	en_outre	ADV	ADV	_|marker=81	10	mod	_	_
+2	,	,	PONCT	PONCT	s=w	10	ponct	_	_
+3	la	le	D	DET	g=f|n=s|s=def	4	det	_	_
+4	situation	situation	N	NC	g=f|n=s|s=c	10	suj	_	_
+5	financière	financier	A	ADJ	g=f|n=s|s=qual	4	mod	_	_
+6	de	de	P	P	_	4	dep	_	_
+7	M-real	M-real	N	NPP	s=p	6	obj	_	_
+8	s'	se	CL	CLR	p=3|s=refl	10	aff	_	_
+9	est	être	V	V	m=ind|n=s|p=3|t=pst	10	aux_tps	_	_
+10	améliorée	améliorer	V	VPP	g=f|m=part|n=s|t=past	0	root	_	_
+11	grâce_à	grâce_à	P	P	_	10	mod	_	_
+12	la	le	D	DET	g=f|n=s|s=def	13	det	_	_
+13	mise	mise	N	NC	g=f|n=s|s=c	11	obj	_	_
+14	en	en	P	P	p=3	13	dep	_	_
+15	oeuvre	oeuvre	N	NC	n=s|s=c	14	obj	_	_
+16	de	de	P	P	_	13	dep	_	_
+17	programmes	programme	N	NC	g=m|n=p|s=c	16	obj	_	_
+18	de	de	P	P	_	17	dep	_	_
+19	réductions	réduction	N	NC	g=f|n=p|s=c	18	obj	_	_
+20	des	de	P+D	P+D	s=def	19	dep	_	_
+21	dépenses	dépense	N	NC	g=f|n=p|s=c	20	obj	_	_
+22	»	»	PONCT	PONCT	s=w	10	ponct	_	_
+23	.	.	PONCT	PONCT	s=s	10	ponct	_	_
+
+Parents' sons: [1, 2, 4, 8, 9, 11, 22, 23]	Children's sons: [12, 14, 16]
+
+------->  situation~améliorer~financier{NC~VPP~ADJ|suj~root~mod}		grâce_à{P|mod}		mise{NC|obj}		Causation
+
+
+31|996) Et ceci grâce_à trois grands axes de développement: une politique d' investissements continue pour proposer une offre de produits et de services constamment enrichie et améliorée, la consolidation et l' extension du réseau commercial avec des équipes de vente et de service et le déploiement de notre supply chain au plus près_du client» a clairement indiqué S. 
+1	Et	et	C	CC	s=c	0	root	_	_
+2	ceci	ceci	PRO	PRO	n=s|s=dem	3	obj	_	_
+3	grâce_à	grâce_à	P	P	_	1	dep_coord	_	_
+4	trois	trois	D	DET	s=card	6	det	_	_
+5	grands	grand	A	ADJ	g=m|n=p|s=qual	6	mod	_	_
+6	axes	axe	N	NC	g=m|n=p|s=c	3	obj	_	_
+7	de	de	P	P	_	6	dep	_	_
+8	développement	développement	N	NC	g=m|n=s|s=c	7	obj	_	_
+9	:	:	PONCT	PONCT	s=w	1	ponct	_	_
+10	une	un	D	DET	g=f|n=s|s=ind	11	det	_	_
+11	politique	politique	N	NC	g=f|n=s|s=c	14	suj	_	_
+12	d'	de	P	P	_	11	dep	_	_
+13	investissements	investissement	N	NC	g=m|n=p|s=c	12	obj	_	_
+14	continue	continuer	V	V	m=ind|n=s|p=3|t=pst	1	dep_coord	_	_
+15	pour	pour	P	P	_	14	mod	_	_
+16	proposer	proposer	V	VINF	m=inf	15	obj	_	_
+17	une	un	D	DET	g=f|n=s|s=ind	18	det	_	_
+18	offre	offre	N	NC	g=f|n=s|s=c	16	obj	_	_
+19	de	de	P	P	_	18	dep	_	_
+20	produits	produit	N	NC	g=m|n=p|s=c	19	obj	_	_
+21	et	et	C	CC	s=c	19	coord	_	_
+22	de	de	P	P	_	21	dep_coord	_	_
+23	services	service	N	NC	g=m|n=p|s=c	22	obj	_	_
+24	constamment	constamment	ADV	ADV	_	25	mod	_	_
+25	enrichie	enrichir	V	VPP	g=f|m=part|n=s|t=past	18	mod	_	_
+26	et	et	C	CC	s=c	25	coord	_	_
+27	améliorée	améliorer	V	VPP	g=f|m=part|n=s|t=past	26	dep_coord	_	_
+28	,	,	PONCT	PONCT	s=w	18	coord	_	_
+29	la	le	D	DET	g=f|n=s|s=def	30	det	_	_
+30	consolidation	consolidation	N	NC	g=f|n=s|s=c	28	dep_coord	_	_
+31	et	et	C	CC	s=c	18	coord	_	_
+32	l'	le	D	DET	n=s|s=def	33	det	_	_
+33	extension	extension	N	NC	g=f|n=s|s=c	31	dep_coord	_	_
+34	du	de	P+D	P+D	s=def	33	dep	_	_
+35	réseau	réseau	N	NC	g=m|n=s|s=c	34	obj	_	_
+36	commercial	commercial	A	ADJ	g=m|n=s|s=qual	35	mod	_	_
+37	avec	avec	P	P	_	16	mod	_	_
+38	des	de	D	DET	_	39	det	_	_
+39	équipes	équipe	N	NC	g=f|n=p|s=c	37	obj	_	_
+40	de	de	P	P	_	39	dep	_	_
+41	vente	vente	N	NC	g=f|n=s|s=c	40	obj	_	_
+42	et	et	C	CC	s=c	40	coord	_	_
+43	de	de	P	P	_	42	dep_coord	_	_
+44	service	service	N	NC	g=m|n=s|s=c	43	obj	_	_
+45	et	et	C	CC	s=c	39	coord	_	_
+46	le	le	D	DET	g=m|n=s|s=def	47	det	_	_
+47	déploiement	déploiement	N	NC	g=m|n=s|s=c	45	dep_coord	_	_
+48	de	de	P	P	_	47	dep	_	_
+49	notre	son	D	DET	n=s|s=poss	51	det	_	_
+50	supply	supply	ET	ET	_	51	dep	_	_
+51	chain	chain	ET	ET	_	48	dep	_	_
+52	au	à	P+D	P+D	s=def	39	dep	_	_
+53	plus	plus	ADV	ADV	s=neg	52	obj	_	_
+54	près_du	près_de	P	P	_	55	det	_	_
+55	client	client	N	NC	g=m|n=s|s=c	16	obj	_	_
+56	»	»	PONCT	PONCT	s=w	14	ponct	_	_
+57	a	avoir	V	V	m=ind|n=s|p=3|t=pst	59	aux_tps	_	_
+58	clairement	clairement	ADV	ADV	_	59	mod	_	_
+59	indiqué	indiquer	V	VPP	g=m|m=part|n=s|t=past	14	mod	_	_
+60	S	S	N	NC	s=c	59	obj	_	_
+61	.	.	PONCT	PONCT	s=s	1	ponct	_	_
+
+Parents' sons: [3, 9, 14, 61]	Children's sons: []
+
+xxxxxxx>  et~axe{CC~NC|root~obj}		grâce_à{P|dep_coord}		ceci{PRO|obj}		Causation
+
+
+Parents' sons: [3, 9, 14, 61]	Children's sons: [4, 5, 7]
+
+xxxxxxx>  et~axe{CC~NC|root~obj}		grâce_à{P|dep_coord}		axe~grand{NC~ADJ|obj~mod}		Causation
+
+
+32|1040) Les pics de résonance sont, cependant, plus rapprochés le long de l' axe de fréquence pour la trompette en Ré, simplement à_cause_de sa longueur plus grande. 
+1	Les	le	D	DET	n=p|s=def	2	det	_	_
+2	pics	pic	N	NC	g=m|n=p|s=c	5	suj	_	_
+3	de	de	P	P	_	2	dep	_	_
+4	résonance	résonance	N	NC	g=f|n=s|s=c	3	obj	_	_
+5	sont	être	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+6	,	,	PONCT	PONCT	s=w	5	ponct	_	_
+7	cependant	cependant	ADV	ADV	_	5	mod	_	_
+8	,	,	PONCT	PONCT	s=w	5	ponct	_	_
+9	plus	plus	ADV	ADV	s=neg	10	mod	_	_
+10	rapprochés	rapprocher	V	VPP	g=m|m=part|n=p|t=past	5	mod	_	_
+11	le	le	D	DET	g=m|n=s|s=def	12	det	_	_
+12	long	long	N	NC	g=m|n=s|s=c	10	obj	_	_
+13	de	de	P	P	_	12	dep	_	_
+14	l'	le	D	DET	n=s|s=def	15	det	_	_
+15	axe	axe	N	NC	g=m|n=s|s=c	13	obj	_	_
+16	de	de	P	P	_	15	dep	_	_
+17	fréquence	fréquence	N	NC	g=f|n=s|s=c	16	obj	_	_
+18	pour	pour	P	P	_	10	mod	_	_
+19	la	le	D	DET	g=f|n=s|s=def	20	det	_	_
+20	trompette	trompette	N	NC	n=s|s=c	18	obj	_	_
+21	en	en	P	P	p=3	10	mod	_	_
+22	Ré	Ré	N	NPP	s=p	21	obj	_	_
+23	,	,	PONCT	PONCT	s=w	10	ponct	_	_
+24	simplement	simplement	ADV	ADV	_	10	mod	_	_
+25	à_cause_de	à_cause_de	P	P	_	10	mod	_	_
+26	sa	son	D	DET	g=f|n=s|s=poss	27	det	_	_
+27	longueur	longueur	N	NC	g=f|n=s|s=c	25	obj	_	_
+28	plus	plus	ADV	ADV	s=neg	29	mod	_	_
+29	grande	grand	A	ADJ	g=f|n=s|s=qual	27	mod	_	_
+30	.	.	PONCT	PONCT	s=s	5	ponct	_	_
+
+Parents' sons: [9, 12, 18, 21, 23, 24, 25]	Children's sons: [26, 29]
+
+------->  rapprocher~long{VPP~NC|mod~obj}		à_cause_de{P|mod}		longueur~grand{NC~ADJ|obj~mod}		Causation
+
+
+33|1060) Jouer plus fort la fait descendre au Si4, à_cause_de l' influence du pic 5 sur le second partiel de la note et du pic 7 sur le troisième partiel. 
+1	Jouer	jouer	V	VINF	m=inf	0	root	_	_
+2	plus	plus	ADV	ADV	s=neg	3	mod	_	_
+3	fort	fort	A	ADJ	g=m|n=s|s=qual	1	mod	_	_
+4	la	le	D	DET	g=f|n=s|s=def	5	det	_	_
+5	fait	fait	N	NC	g=m|n=s|s=c	1	obj	_	_
+6	descendre	descendre	V	VINF	m=inf	1	ato	_	_
+7	au	à	P+D	P+D	s=def	6	a_obj	_	_
+8	Si4	Si4	N	NC	s=c	7	obj	_	_
+9	,	,	PONCT	PONCT	s=w	6	ponct	_	_
+10	à_cause_de	à_cause_de	P	P	_	6	mod	_	_
+11	l'	le	D	DET	n=s|s=def	12	det	_	_
+12	influence	influence	N	NC	g=f|n=s|s=c	10	obj	_	_
+13	du	de	P+D	P+D	s=def	12	dep	_	_
+14	pic	pic	N	NC	g=m|n=s|s=c	13	obj	_	_
+15	5	5	A	ADJ	s=card	14	mod	_	_
+16	sur	sur	P	P	_	6	mod	_	_
+17	le	le	D	DET	g=m|n=s|s=def	18	det	_	_
+18	second	second	A	ADJ	g=m|n=s|s=ord	16	obj	_	_
+19	partiel	partiel	A	ADJ	g=m|n=s|s=qual	18	mod	_	_
+20	de	de	P	P	_	18	dep	_	_
+21	la	le	D	DET	g=f|n=s|s=def	22	det	_	_
+22	note	note	N	NC	g=f|n=s|s=c	20	obj	_	_
+23	et	et	C	CC	s=c	20	coord	_	_
+24	du	de	P+D	P+D	s=def	23	dep_coord	_	_
+25	pic	pic	N	NC	g=m|n=s|s=c	24	obj	_	_
+26	7	7	A	ADJ	s=card	25	mod	_	_
+27	sur	sur	P	P	_	6	mod	_	_
+28	le	le	D	DET	g=m|n=s|s=def	29	det	_	_
+29	troisième	troisième	A	ADJ	n=s|s=ord	27	obj	_	_
+30	partiel	partiel	A	ADJ	g=m|n=s|s=qual	29	mod	_	_
+31	.	.	PONCT	PONCT	s=s	1	ponct	_	_
+
+Parents' sons: [7, 9, 10, 16, 27]	Children's sons: [11, 13]
+
+------->  descendre~Si4{VINF~NC|ato~obj}		à_cause_de{P|mod}		influence{NC|obj}		Causation
+
+
+34|1110) à_cause_de sa fracture, la mère de Benton doit partir dans une maison de retraite. 
+1	à_cause_de	à_cause_de	P	P	_	9	mod	_	_
+2	sa	son	D	DET	g=f|n=s|s=poss	3	det	_	_
+3	fracture	fracture	N	NC	g=f|n=s|s=c	1	obj	_	_
+4	,	,	PONCT	PONCT	s=w	9	ponct	_	_
+5	la	le	D	DET	g=f|n=s|s=def	6	det	_	_
+6	mère	mère	N	NC	g=f|n=s|s=c	9	suj	_	_
+7	de	de	P	P	_	6	dep	_	_
+8	Benton	Benton	N	NPP	g=m|n=s|s=p	7	obj	_	_
+9	doit	devoir	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+10	partir	partir	V	VINF	m=inf	9	obj	_	_
+11	dans	dans	P	P	_	10	mod	_	_
+12	une	un	D	DET	g=f|n=s|s=ind	13	det	_	_
+13	maison	maison	N	NC	g=f|n=s|s=c	11	obj	_	_
+14	de	de	P	P	_	13	dep	_	_
+15	retraite	retraite	N	NC	g=f|n=s|s=c	14	obj	_	_
+16	.	.	PONCT	PONCT	s=s	9	ponct	_	_
+
+Parents' sons: [1, 4, 6, 10, 16]	Children's sons: [2]
+
+------->  devoir~partir{V~VINF|root~obj}		à_cause_de{P|mod}		fracture{NC|obj}		Causation
+
+
+35|1165) Grâce_à elle, la tradition de solidarité de la France envers les chrétiens orientaux se perpétue et se développe. 
+1	Grâce_à	grâce_à	P	P	_	16	mod	_	_
+2	elle	lui	PRO	PRO	g=f|n=s|s=pers	1	obj	_	_
+3	,	,	PONCT	PONCT	s=w	16	ponct	_	_
+4	la	le	D	DET	g=f|n=s|s=def	5	det	_	_
+5	tradition	tradition	N	NC	g=f|n=s|s=c	16	suj	_	_
+6	de	de	P	P	_	5	dep	_	_
+7	solidarité	solidarité	N	NC	g=f|n=s|s=c	6	obj	_	_
+8	de	de	P	P	_	7	dep	_	_
+9	la	le	D	DET	g=f|n=s|s=def	10	det	_	_
+10	France	France	N	NPP	g=m|n=s|s=p	8	obj	_	_
+11	envers	envers	P	P	_	5	dep	_	_
+12	les	le	D	DET	n=p|s=def	13	det	_	_
+13	chrétiens	chrétien	N	NC	g=m|n=p|s=c	11	obj	_	_
+14	orientaux	oriental	A	ADJ	g=m|n=p|s=qual	13	mod	_	_
+15	se	se	CL	CLR	p=3|s=refl	16	aff	_	_
+16	perpétue	perpétuer	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+17	et	et	C	CC	s=c	16	coord	_	_
+18	se	se	CL	CLR	p=3|s=refl	19	aff	_	_
+19	développe	développer	V	V	m=ind|n=s|p=3|t=pst	17	dep_coord	_	_
+20	.	.	PONCT	PONCT	s=s	16	ponct	_	_
+
+Parents' sons: [1, 3, 5, 15, 17, 20]	Children's sons: []
+
+xxxxxxx>  tradition~perpétuer{NC~V|suj~root}		grâce_à{P|mod}		lui{PRO|obj}		Causation
+
+
+36|1216) Cette formation vous amenera forcément à la réussite grâce_à: l' aprentissage pas à pas des bases pour gagner de l' argent sur Internet des outils pour webmaster qui vous seront très utiles l' accès gratuit à des ebooks pour apprendre encore plus une aide et un suivi permanent Par quels moyens gagner de l' argent sur Internet? 
+1	Cette	ce	D	DET	g=f|n=s|s=dem	2	det	_	_
+2	formation	formation	N	NC	g=f|n=s|s=c	4	suj	_	_
+3	vous	cln	CL	CLS	s=suj	4	suj	_	_
+4	amenera	amenera	V	V	m=ind	0	root	_	_
+5	forcément	forcément	ADV	ADV	_	4	mod	_	_
+6	à	à	P	P	_	4	mod	_	_
+7	la	le	D	DET	g=f|n=s|s=def	8	det	_	_
+8	réussite	réussite	N	NC	g=f|n=s|s=c	6	obj	_	_
+9	grâce_à	grâce_à	P	P	_	4	mod	_	_
+10	:	:	PONCT	PONCT	s=w	9	ponct	_	_
+11	l'	le	D	DET	n=s|s=def	12	det	_	_
+12	aprentissage	aprentissage	N	NC	s=c	9	obj	_	_
+13	pas	pas	ADV	ADV	s=neg	12	mod	_	_
+14	à	à	P	P	_	4	mod	_	_
+15	pas	pas	ADV	ADV	s=neg	14	mod	_	_
+16	des	de	D	DET	_	17	det	_	_
+17	bases	base	N	NC	g=f|n=p|s=c	14	obj	_	_
+18	pour	pour	P	P	_	4	mod	_	_
+19	gagner	gagner	V	VINF	m=inf	18	obj	_	_
+20	de	de	P	P	_	19	de_obj	_	_
+21	l'	le	D	DET	n=s|s=def	22	det	_	_
+22	argent	argent	N	NC	g=m|n=s|s=c	20	obj	_	_
+23	sur	sur	P	P	_	19	mod	_	_
+24	Internet	Internet	N	NPP	s=p	23	obj	_	_
+25	des	de	P+D	P+D	s=def	26	det	_	_
+26	outils	outil	N	NC	g=m|n=p|s=c	19	obj	_	_
+27	pour	pour	P	P	_	19	mod	_	_
+28	webmaster	webmaster	V	VINF	m=inf	27	obj	_	_
+29	qui	qui	PRO	PROREL	s=rel	31	suj	_	_
+30	vous	clad	CL	CLO	s=obj	31	suj	_	_
+31	seront	être	V	V	m=ind|n=p|p=3|t=fut	28	mod_rel	_	_
+32	très	très	ADV	ADV	_	31	mod	_	_
+33	utiles	utile	A	ADJ	n=p|s=qual	31	ato	_	_
+34	l'	le	D	DET	n=s|s=def	35	det	_	_
+35	accès	accès	N	NC	g=m|s=c	31	obj	_	_
+36	gratuit	gratuit	A	ADJ	g=m|n=s|s=qual	35	mod	_	_
+37	à	à	P	P	_	31	mod	_	_
+38	des	de	D	DET	_	39	det	_	_
+39	ebooks	ebook	N	NC	s=c	37	obj	_	_
+40	pour	pour	P	P	_	31	mod	_	_
+41	apprendre	apprendre	V	VINF	m=inf	40	obj	_	_
+42	encore	encore	ADV	ADV	_	43	mod	_	_
+43	plus	plus	ADV	ADV	s=neg	41	mod	_	_
+44	une	un	D	DET	g=f|n=s|s=ind	45	det	_	_
+45	aide	aide	N	NC	n=s|s=c	41	obj	_	_
+46	et	et	C	CC	s=c	45	coord	_	_
+47	un	un	D	DET	g=m|n=s|s=ind	48	det	_	_
+48	suivi	suivi	N	NC	g=m|n=s|s=c	46	dep_coord	_	_
+49	permanent	permanent	A	ADJ	g=m|n=s|s=qual	48	mod	_	_
+50	Par	par	P	P	_	41	mod	_	_
+51	quels	quel	D	DETWH	g=m|n=p|s=int	52	det	_	_
+52	moyens	moyens	N	NC	g=m|n=p|s=c	50	obj	_	_
+53	gagner	gagner	V	VINF	m=inf	41	obj	_	_
+54	de	de	P	P	_	53	de_obj	_	_
+55	l'	le	D	DET	n=s|s=def	56	det	_	_
+56	argent	argent	N	NC	g=m|n=s|s=c	54	obj	_	_
+57	sur	sur	P	P	_	53	mod	_	_
+58	Internet	Internet	N	NPP	s=p	57	obj	_	_
+59	?	?	PONCT	PONCT	s=s	4	ponct	_	_
+
+Parents' sons: [2, 3, 5, 6, 9, 14, 18, 59]	Children's sons: []
+
+xxxxxxx>  amenera~forcément{V~ADV|root~mod}		grâce_à{P|mod}		:{PONCT|ponct}		Causation
+
+
+Parents' sons: [2, 3, 5, 6, 9, 14, 18, 59]	Children's sons: [11, 13]
+
+------->  amenera~forcément{V~ADV|root~mod}		grâce_à{P|mod}		aprentissage~pas{NC~ADV|obj~mod}		Causation
+
+
+37|1236) NEFERTITI offre une grande capacité de portage et l' accrochage de serviettes est très facile grâce_à ses ouvertures latèrales. 
+1	NEFERTITI	NEFERTITI	N	NPP	s=p	2	suj	_	_
+2	offre	offrir	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	une	un	D	DET	g=f|n=s|s=ind	5	det	_	_
+4	grande	grand	A	ADJ	g=f|n=s|s=qual	5	mod	_	_
+5	capacité	capacité	N	NC	g=f|n=s|s=c	2	obj	_	_
+6	de	de	P	P	_	5	dep	_	_
+7	portage	portage	N	NC	g=m|n=s|s=c	6	obj	_	_
+8	et	et	C	CC	s=c	5	coord	_	_
+9	l'	le	D	DET	n=s|s=def	10	det	_	_
+10	accrochage	accrochage	N	NC	g=m|n=s|s=c	8	dep_coord	_	_
+11	de	de	P	P	_	10	dep	_	_
+12	serviettes	serviette	N	NC	g=f|n=p|s=c	11	obj	_	_
+13	est	être	V	V	m=ind|n=s|p=3|t=pst	2	mod	_	_
+14	très	très	ADV	ADV	_	15	mod	_	_
+15	facile	facile	A	ADJ	n=s|s=qual	2	ats	_	_
+16	grâce_à	grâce_à	P	P	_	15	dep	_	_
+17	ses	son	D	DET	n=p|s=poss	18	det	_	_
+18	ouvertures	ouverture	N	NC	g=f|n=p|s=c	16	obj	_	_
+19	latèrales	latèral	A	ADJ	s=qual	18	mod	_	_
+20	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [14, 16]	Children's sons: [17, 19]
+
+------->  facile~très{ADJ~ADV|ats~mod}		grâce_à{P|dep}		ouverture~latèral{NC~ADJ|obj~mod}		Causation
+
+
+38|1285) Internet impacte durablement l' offre touristique par un repositionnement des acteurs 24 janvier 2008 Les producteurs sont plus libres mais également plus courtisés grâce_à Internet: les grandes chaînes hôtelières, l' hôtellerie indépendante, l' offre diffuse sont autant de segments aux enjeux spécifiques. 
+1	Internet	internet	N	NC	g=m|n=s|s=c	2	suj	_	_
+2	impacte	impacter	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	durablement	durablement	ADV	ADV	_	2	mod	_	_
+4	l'	le	D	DET	n=s|s=def	5	det	_	_
+5	offre	offre	N	NC	g=f|n=s|s=c	2	obj	_	_
+6	touristique	touristique	A	ADJ	n=s|s=qual	5	mod	_	_
+7	par	par	P	P	_	2	mod	_	_
+8	un	un	D	DET	g=m|n=s|s=ind	9	det	_	_
+9	repositionnement	repositionnement	N	NC	s=c	7	obj	_	_
+10	des	de	P+D	P+D	s=def	9	dep	_	_
+11	acteurs	acteur	N	NC	g=m|n=p|s=c	10	obj	_	_
+12	24	24	A	ADJ	s=card	11	mod	_	_
+13	janvier	janvier	N	NC	g=m|n=s|s=c	11	mod	_	_
+14	2008	2008	N	NC	s=card	13	mod	_	_
+15	Les	le	D	DET	n=p|s=def	16	det	_	_
+16	producteurs	producteur	N	NC	g=m|n=p|s=c	17	suj	_	_
+17	sont	être	V	V	m=ind|n=p|p=3|t=pst	2	mod	_	_
+18	plus	plus	ADV	ADV	s=neg	19	mod	_	_
+19	libres	libre	A	ADJ	n=p|s=qual	17	ats	_	_
+20	mais	mais	C	CC	s=c|marker=304	19	coord	_	_
+21	également	également	ADV	ADV	_	23	mod	_	_
+22	plus	plus	ADV	ADV	s=neg	23	mod	_	_
+23	courtisés	courtiser	V	VPP	g=m|m=part|n=p|t=past	20	dep_coord	_	_
+24	grâce_à	grâce_à	P	P	_	23	mod	_	_
+25	Internet	Internet	N	NPP	s=p	24	obj	_	_
+26	:	:	PONCT	PONCT	s=w	2	ponct	_	_
+27	les	le	D	DET	n=p|s=def	29	det	_	_
+28	grandes	grand	A	ADJ	g=f|n=p|s=qual	29	mod	_	_
+29	chaînes	chaîne	N	NC	g=f|n=p|s=c	2	obj	_	_
+30	hôtelières	hôtelier	A	ADJ	g=f|n=p|s=qual	29	mod	_	_
+31	,	,	PONCT	PONCT	s=w	38	ponct	_	_
+32	l'	le	D	DET	n=s|s=def	33	det	_	_
+33	hôtellerie	hôtellerie	N	NC	g=f|n=s|s=c	38	suj	_	_
+34	indépendante	indépendant	A	ADJ	g=f|n=s|s=qual	33	mod	_	_
+35	,	,	PONCT	PONCT	s=w	38	ponct	_	_
+36	l'	le	D	DET	n=s|s=def	37	det	_	_
+37	offre	offre	N	NC	g=f|n=s|s=c	38	suj	_	_
+38	diffuse	diffuser	V	V	m=ind|n=s|p=3|t=pst	2	mod	_	_
+39	sont	être	V	V	m=ind|n=p|p=3|t=pst	2	aux_tps	_	_
+40	autant	autant	ADV	ADV	_	42	mod	_	_
+41	de	de	P	P	_	42	det	_	_
+42	segments	segment	N	NC	g=m|n=p|s=c	2	obj	_	_
+43	aux	à	P+D	P+D	s=def	2	a_obj	_	_
+44	enjeux	enjeu	N	NC	g=m|n=p|s=c	43	obj	_	_
+45	spécifiques	spécifique	A	ADJ	n=p|s=qual	44	mod	_	_
+46	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [21, 22, 24]	Children's sons: []
+
+------->  courtiser~plus{VPP~ADV|dep_coord~mod}		grâce_à{P|mod}		Internet{NPP|obj}		Causation
+
+
+39|1287) Les propriétaires de chambres d' hôtes et d' hébergements locatifs, en_raison_de la faiblesse de leur parc, s' appuient pas ou peu sur un système en propre mais s' appuient et sont demandeurs de solutions partagées. 
+1	Les	le	D	DET	n=p|s=def	2	det	_	_
+2	propriétaires	propriétaire	N	NC	n=p|s=c	20	suj	_	_
+3	de	de	P	P	_	2	dep	_	_
+4	chambres	chambre	N	NC	g=f|n=p|s=c	3	obj	_	_
+5	d'	de	P	P	_	4	dep	_	_
+6	hôtes	hôte	N	NC	g=m|n=p|s=c	5	obj	_	_
+7	et	et	C	CC	s=c	5	coord	_	_
+8	d'	de	P	P	_	7	dep_coord	_	_
+9	hébergements	hébergement	N	NC	g=m|n=p|s=c	8	obj	_	_
+10	locatifs	locatif	A	ADJ	g=m|n=p|s=qual	9	mod	_	_
+11	,	,	PONCT	PONCT	s=w	2	ponct	_	_
+12	en_raison_de	en_raison_de	P	P	_	2	dep	_	_
+13	la	le	D	DET	g=f|n=s|s=def	14	det	_	_
+14	faiblesse	faiblesse	N	NC	g=f|n=s|s=c	12	obj	_	_
+15	de	de	P	P	_	14	dep	_	_
+16	leur	son	D	DET	n=s|s=poss	17	det	_	_
+17	parc	parc	N	NC	g=m|n=s|s=c	15	obj	_	_
+18	,	,	PONCT	PONCT	s=w	20	ponct	_	_
+19	s'	se	CL	CLR	p=3|s=refl	20	aff	_	_
+20	appuient	appuyer	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+21	pas	pas	ADV	ADV	s=neg	20	mod	_	_
+22	ou	ou	C	CC	s=c	21	coord	_	_
+23	peu	peu	ADV	ADV	_	22	dep_coord	_	_
+24	sur	sur	P	P	_	20	mod	_	_
+25	un	un	D	DET	g=m|n=s|s=ind	26	det	_	_
+26	système	système	N	NC	g=m|n=s|s=c	24	obj	_	_
+27	en	en	P	P	p=3	26	dep	_	_
+28	propre	propre	A	ADJ	n=s|s=qual	27	obj	_	_
+29	mais	mais	C	CC	s=c|marker=304	20	coord	_	_
+30	s'	se	CL	CLR	p=3|s=refl	31	aff	_	_
+31	appuient	appuyer	V	V	m=ind|n=p|p=3|t=pst	29	dep_coord	_	_
+32	et	et	C	CC	s=c	31	coord	_	_
+33	sont	être	V	V	m=ind|n=p|p=3|t=pst	32	dep_coord	_	_
+34	demandeurs	demandeur	N	NC	g=m|n=p|s=c	33	ats	_	_
+35	de	de	P	P	_	34	dep	_	_
+36	solutions	solution	N	NC	g=f|n=p|s=c	35	obj	_	_
+37	partagées	partager	V	VPP	g=f|m=part|n=p|t=past	34	mod	_	_
+38	.	.	PONCT	PONCT	s=s	20	ponct	_	_
+
+Parents' sons: [1, 3, 11, 12]	Children's sons: [13, 15]
+
+------->  propriétaire{NC|suj}		en_raison_de{P|dep}		faiblesse{NC|obj}		Causation
+
+
+Parents' sons: [1, 3, 11, 12]	Children's sons: [13, 15]
+
+------->  propriétaire{NC|suj}		en_raison_de{P|dep}		faiblesse{NC|obj}		Evidence
+
+
+40|1313) Vous pouvez repérer facilement le code du smiley grâce_aux coordonnées( A, B, C,... 
+1	Vous	cln	CL	CLS	s=suj	2	suj	_	_
+2	pouvez	pouvoir	V	V	m=ind|n=p|p=2|t=pst	0	root	_	_
+3	repérer	repérer	V	VINF	m=inf	2	obj	_	_
+4	facilement	facilement	ADV	ADV	_	3	mod	_	_
+5	le	le	D	DET	g=m|n=s|s=def	6	det	_	_
+6	code	code	N	NC	g=m|n=s|s=c	3	obj	_	_
+7	du	de	P+D	P+D	s=def	6	dep	_	_
+8	smiley	smiley	N	NC	g=m|n=s|s=c	7	obj	_	_
+9	grâce_aux	grâce_à	P	P	_	3	mod	_	_
+10	coordonnées	coordonnée	N	NC	g=f|n=p|s=c	9	obj	_	_
+11	(	(	PONCT	PONCT	s=w	3	ponct	_	_
+12	A	A	N	NC	s=c	3	mod	_	_
+13	,	,	PONCT	PONCT	s=w	3	ponct	_	_
+14	B	B	N	NC	s=c	3	mod	_	_
+15	,	,	PONCT	PONCT	s=w	3	ponct	_	_
+16	C	C	N	NC	s=c	3	mod	_	_
+17	,	,	PONCT	PONCT	s=w	2	ponct	_	_
+18	...	...	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [4, 6, 9, 11, 12, 13, 14, 15, 16]	Children's sons: []
+
+------->  repérer~A{VINF~NC|obj~mod}		grâce_à{P|mod}		coordonnée{NC|obj}		Causation
+
+
+41|1380) Grâce_à ce nouveau réseau de proximité, vous pouvez bénéficier de places de cinéma à 4,30 E. 
+1	Grâce_à	grâce_à	P	P	_	9	mod	_	_
+2	ce	ce	D	DET	g=m|n=s|s=dem	4	det	_	_
+3	nouveau	nouveau	A	ADJ	g=m|n=s|s=qual	4	mod	_	_
+4	réseau	réseau	N	NC	g=m|n=s|s=c	1	obj	_	_
+5	de	de	P	P	_	4	dep	_	_
+6	proximité	proximité	N	NC	g=f|n=s|s=c	5	obj	_	_
+7	,	,	PONCT	PONCT	s=w	9	ponct	_	_
+8	vous	cln	CL	CLS	s=suj	9	suj	_	_
+9	pouvez	pouvoir	V	V	m=ind|n=p|p=2|t=pst	0	root	_	_
+10	bénéficier	bénéficier	V	VINF	m=inf	9	obj	_	_
+11	de	de	P	P	_	10	de_obj	_	_
+12	places	place	N	NC	g=f|n=p|s=c	11	obj	_	_
+13	de	de	P	P	_	12	dep	_	_
+14	cinéma	cinéma	N	NC	g=m|n=s|s=c	13	obj	_	_
+15	à	à	P	P	_	10	mod	_	_
+16	4,30	4,30	D	DET	s=card	17	det	_	_
+17	E	E	N	NC	s=c	15	obj	_	_
+18	.	.	PONCT	PONCT	s=s	9	ponct	_	_
+
+Parents' sons: [1, 7, 8, 10, 18]	Children's sons: [2, 3, 5]
+
+------->  pouvoir~bénéficier{V~VINF|root~obj}		grâce_à{P|mod}		réseau~nouveau{NC~ADJ|obj~mod}		Causation
+
+
+42|1412) Internet continue de bouleverser le marché touristique en dessinant de nouveaux modes de distribution et de nouveaux comportements d' achat en_raison_de la croissance globale du nombre_d' internautes( grâce_à la hausse du niveau d' équipement) et de l' amélioration de la qualité de connexion permettant un enrichissement des contenus( images, son, vidéos). 
+1	Internet	internet	N	NC	g=m|n=s|s=c	2	suj	_	_
+2	continue	continuer	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	de	de	P	P	_	2	obj	_	_
+4	bouleverser	bouleverser	V	VINF	m=inf	3	obj	_	_
+5	le	le	D	DET	g=m|n=s|s=def	6	det	_	_
+6	marché	marché	N	NC	g=m|n=s|s=c	4	obj	_	_
+7	touristique	touristique	A	ADJ	n=s|s=qual	6	mod	_	_
+8	en	en	P	P	p=3	4	mod	_	_
+9	dessinant	dessiner	V	VPR	m=part|t=pst	8	obj	_	_
+10	de	un	D	DET	n=p|s=ind	12	det	_	_
+11	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	12	mod	_	_
+12	modes	mode	N	NC	n=p|s=c	9	obj	_	_
+13	de	de	P	P	_	12	dep	_	_
+14	distribution	distribution	N	NC	g=f|n=s|s=c	13	obj	_	_
+15	et	et	C	CC	s=c	13	coord	_	_
+16	de	de	P	P	_	15	dep_coord	_	_
+17	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	18	mod	_	_
+18	comportements	comportement	N	NC	g=m|n=p|s=c	16	obj	_	_
+19	d'	de	P	P	_	18	dep	_	_
+20	achat	achat	N	NC	g=m|n=s|s=c	19	obj	_	_
+21	en_raison_de	en_raison_de	P	P	_	9	mod	_	_
+22	la	le	D	DET	g=f|n=s|s=def	23	det	_	_
+23	croissance	croissance	N	NC	g=f|n=s|s=c	21	obj	_	_
+24	globale	global	A	ADJ	g=f|n=s|s=qual	23	mod	_	_
+25	du	de	P+D	P+D	s=def	23	dep	_	_
+26	nombre_d'	nombre_de	D	DET	_	27	mod	_	_
+27	internautes	internaute	N	NC	n=p|s=c	25	obj	_	_
+28	(	(	PONCT	PONCT	s=w	9	ponct	_	_
+29	grâce_à	grâce_à	P	P	_	9	mod	_	_
+30	la	le	D	DET	g=f|n=s|s=def	31	det	_	_
+31	hausse	hausse	N	NC	g=f|n=s|s=c	29	obj	_	_
+32	du	de	P+D	P+D	s=def	31	dep	_	_
+33	niveau	niveau	N	NC	g=m|n=s|s=c	32	obj	_	_
+34	d'	de	P	P	_	33	dep	_	_
+35	équipement	équipement	N	NC	g=m|n=s|s=c	34	obj	_	_
+36	)	)	PONCT	PONCT	s=w	31	ponct	_	_
+37	et	et	C	CC	s=c	31	coord	_	_
+38	de	de	P	P	_	37	dep_coord	_	_
+39	l'	le	D	DET	n=s|s=def	40	det	_	_
+40	amélioration	amélioration	N	NC	g=f|n=s|s=c	38	obj	_	_
+41	de	de	P	P	_	40	dep	_	_
+42	la	le	D	DET	g=f|n=s|s=def	43	det	_	_
+43	qualité	qualité	N	NC	g=f|n=s|s=c	41	obj	_	_
+44	de	de	P	P	_	43	dep	_	_
+45	connexion	connexion	N	NC	g=f|n=s|s=c	44	obj	_	_
+46	permettant	permettre	V	VPR	m=part|t=pst	43	mod	_	_
+47	un	un	D	DET	g=m|n=s|s=ind	48	det	_	_
+48	enrichissement	enrichissement	N	NC	g=m|n=s|s=c	46	obj	_	_
+49	des	de	P+D	P+D	s=def	48	dep	_	_
+50	contenus	contenu	N	NC	g=m|n=p|s=c	49	obj	_	_
+51	(	(	PONCT	PONCT	s=w	48	ponct	_	_
+52	images	image	N	NC	g=f|n=p|s=c	48	mod	_	_
+53	,	,	PONCT	PONCT	s=w	31	coord	_	_
+54	son	son	D	DET	n=s|s=poss	56	det	_	_
+55	,	,	PONCT	PONCT	s=w	56	ponct	_	_
+56	vidéos	vidéo	N	NC	n=p|s=c	53	dep_coord	_	_
+57	)	)	PONCT	PONCT	s=w	53	ponct	_	_
+58	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+Parents' sons: [12, 21, 28, 29]	Children's sons: [22, 24, 25]
+
+------->  dessiner~mode~nouveau{VPR~NC~ADJ|obj~obj~mod}		en_raison_de{P|mod}		croissance~global{NC~ADJ|obj~mod}		Causation
+
+
+Parents' sons: [12, 21, 28, 29]	Children's sons: [22, 24, 25]
+
+------->  dessiner~mode~nouveau{VPR~NC~ADJ|obj~obj~mod}		en_raison_de{P|mod}		croissance~global{NC~ADJ|obj~mod}		Evidence
+
+
+Parents' sons: [12, 21, 28, 29]	Children's sons: [30, 32, 36, 37, 53]
+
+------->  dessiner~mode~nouveau{VPR~NC~ADJ|obj~obj~mod}		grâce_à{P|mod}		hausse{NC|obj}		Causation
+
+
+43|1413) Après une croissance initialement basée sur les vols secs et les déstockages de« dernière minute» à prix bradés, les opérateurs touristiques du Net entrent dans une phase plus innovante, grâce_à des moyens technologiques encore renforcés. 
+1	Après	après	P	P	_	27	mod	_	_
+2	une	un	D	DET	g=f|n=s|s=ind	3	det	_	_
+3	croissance	croissance	N	NC	g=f|n=s|s=c	1	obj	_	_
+4	initialement	initialement	ADV	ADV	_	5	mod	_	_
+5	basée	baser	V	VPP	g=f|m=part|n=s|t=past	3	mod	_	_
+6	sur	sur	P	P	_	5	mod	_	_
+7	les	le	D	DET	n=p|s=def	8	det	_	_
+8	vols	vol	N	NC	g=m|n=p|s=c	6	obj	_	_
+9	secs	sec	A	ADJ	g=m|n=p|s=qual	8	mod	_	_
+10	et	et	C	CC	s=c	8	coord	_	_
+11	les	le	D	DET	n=p|s=def	12	det	_	_
+12	déstockages	déstockage	N	NC	s=c	10	dep_coord	_	_
+13	de	de	P	P	_	12	dep	_	_
+14	«	«	PONCT	PONCT	s=w	13	ponct	_	_
+15	dernière	dernier	A	ADJ	g=f|n=s|s=ord	16	mod	_	_
+16	minute	minute	N	NC	g=f|n=s|s=c	13	obj	_	_
+17	»	»	PONCT	PONCT	s=w	5	ponct	_	_
+18	à	à	P	P	_	5	mod	_	_
+19	prix	prix	N	NC	g=m|s=c	18	obj	_	_
+20	bradés	brader	V	VPP	g=m|m=part|n=p|t=past	19	mod	_	_
+21	,	,	PONCT	PONCT	s=w	27	ponct	_	_
+22	les	le	D	DET	n=p|s=def	23	det	_	_
+23	opérateurs	opérateur	N	NC	g=m|n=p|s=c	27	suj	_	_
+24	touristiques	touristique	A	ADJ	n=p|s=qual	23	mod	_	_
+25	du	de	P+D	P+D	s=def	23	dep	_	_
+26	Net	Net	N	NPP	s=p	25	obj	_	_
+27	entrent	entrer	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+28	dans	dans	P	P	_	27	p_obj	_	_
+29	une	un	D	DET	g=f|n=s|s=ind	30	det	_	_
+30	phase	phase	N	NC	g=f|n=s|s=c	28	obj	_	_
+31	plus	plus	ADV	ADV	s=neg	32	mod	_	_
+32	innovante	innovant	A	ADJ	g=f|n=s|s=qual	30	mod	_	_
+33	,	,	PONCT	PONCT	s=w	27	ponct	_	_
+34	grâce_à	grâce_à	P	P	_	27	mod	_	_
+35	des	de	D	DET	_	36	det	_	_
+36	moyens	moyens	N	NC	g=m|n=p|s=c	34	obj	_	_
+37	technologiques	technologique	A	ADJ	n=p|s=qual	36	mod	_	_
+38	encore	encore	ADV	ADV	_	39	mod	_	_
+39	renforcés	renforcer	V	VPP	g=m|m=part|n=p|t=past	36	mod	_	_
+40	.	.	PONCT	PONCT	s=s	27	ponct	_	_
+
+Parents' sons: [1, 21, 23, 28, 33, 34, 40]	Children's sons: [35, 37, 39]
+
+------->  opérateur~entrer~touristique{NC~V~ADJ|suj~root~mod}		grâce_à{P|mod}		moyens~renforcer{NC~VPP|obj~mod}		Causation
+
+
+44|1415) Formation/ sensibilisation( y_compris sur le plan législatif et réglementaire) aux nouvelles technologies: la profusion des sites et une intégration plus forte de la technologie par les acteurs du tourisme est nécessaire en_raison_de la globalisation du haut débit( + de la moitié des internautes) et des nouvelles opportunités liées à la mobilité( Wifi, Wimax, Géolocalisation, puces RFID). 
+1	Formation	formation	N	NC	g=f|n=s|s=c	34	suj	_	_
+2	/	/	PONCT	PONCT	s=w	1	ponct	_	_
+3	sensibilisation	sensibilisation	N	NC	g=f|n=s|s=c	1	mod	_	_
+4	(	(	PONCT	PONCT	s=w	1	ponct	_	_
+5	y_compris	y_compris	ADV	ADV	_	1	mod	_	_
+6	sur	sur	P	P	_	1	dep	_	_
+7	le	le	D	DET	g=m|n=s|s=def	8	det	_	_
+8	plan	plan	N	NC	g=m|n=s|s=c	6	obj	_	_
+9	législatif	législatif	A	ADJ	g=m|n=s|s=qual	8	mod	_	_
+10	et	et	C	CC	s=c	9	coord	_	_
+11	réglementaire	réglementaire	A	ADJ	n=s|s=qual	10	dep_coord	_	_
+12	)	)	PONCT	PONCT	s=w	8	ponct	_	_
+13	aux	à	P+D	P+D	s=def	1	dep	_	_
+14	nouvelles	nouveau	A	ADJ	g=f|n=p|s=qual	15	mod	_	_
+15	technologies	technologie	N	NC	g=f|n=p|s=c	13	obj	_	_
+16	:	:	PONCT	PONCT	s=w	1	ponct	_	_
+17	la	le	D	DET	g=f|n=s|s=def	18	det	_	_
+18	profusion	profusion	N	NC	g=f|n=s|s=c	1	mod	_	_
+19	des	de	P+D	P+D	s=def	18	dep	_	_
+20	sites	site	N	NC	g=m|n=p|s=c	19	obj	_	_
+21	et	et	C	CC	s=c	18	coord	_	_
+22	une	un	D	DET	g=f|n=s|s=ind	23	det	_	_
+23	intégration	intégration	N	NC	g=f|n=s|s=c	21	dep_coord	_	_
+24	plus	plus	ADV	ADV	s=neg	25	mod	_	_
+25	forte	fort	A	ADJ	g=f|n=s|s=qual	23	mod	_	_
+26	de	de	P	P	_	23	dep	_	_
+27	la	le	D	DET	g=f|n=s|s=def	28	det	_	_
+28	technologie	technologie	N	NC	g=f|n=s|s=c	26	obj	_	_
+29	par	par	P	P	_	18	dep	_	_
+30	les	le	D	DET	n=p|s=def	31	det	_	_
+31	acteurs	acteur	N	NC	g=m|n=p|s=c	29	obj	_	_
+32	du	de	P+D	P+D	s=def	31	dep	_	_
+33	tourisme	tourisme	N	NC	g=m|n=s|s=c	32	obj	_	_
+34	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+35	nécessaire	nécessaire	A	ADJ	n=s|s=qual	34	ats	_	_
+36	en_raison_de	en_raison_de	P	P	_	34	mod	_	_
+37	la	le	D	DET	g=f|n=s|s=def	38	det	_	_
+38	globalisation	globalisation	N	NC	g=f|n=s|s=c	36	obj	_	_
+39	du	de	P+D	P+D	s=def	38	dep	_	_
+40	haut	haut	A	ADJ	g=m|n=s|s=qual	41	mod	_	_
+41	débit	débit	N	NC	g=m|n=s|s=c	39	obj	_	_
+42	(	(	PONCT	PONCT	s=w	34	ponct	_	_
+43	+	plus	ADV	ADV	s=neg	46	mod	_	_
+44	de	de	P	P	_	46	det	_	_
+45	la	le	D	DET	g=f|n=s|s=def	46	det	_	_
+46	moitié	moitié	N	NC	g=f|n=s|s=c	34	mod	_	_
+47	des	de	P+D	P+D	s=def	46	dep	_	_
+48	internautes	internaute	N	NC	n=p|s=c	47	obj	_	_
+49	)	)	PONCT	PONCT	s=w	46	ponct	_	_
+50	et	et	C	CC	s=c	46	coord	_	_
+51	des	de	P+D	P+D	s=def	53	det	_	_
+52	nouvelles	nouveau	A	ADJ	g=f|n=p|s=qual	53	mod	_	_
+53	opportunités	opportunité	N	NC	g=f|n=p|s=c	50	dep_coord	_	_
+54	liées	lier	V	VPP	g=f|m=part|n=p|t=past	53	mod	_	_
+55	à	à	P	P	_	54	mod	_	_
+56	la	le	D	DET	g=f|n=s|s=def	57	det	_	_
+57	mobilité	mobilité	N	NC	g=f|n=s|s=c	55	obj	_	_
+58	(	(	PONCT	PONCT	s=w	57	ponct	_	_
+59	Wifi	Wifi	N	NPP	s=p	57	mod	_	_
+60	,	,	PONCT	PONCT	s=w	57	ponct	_	_
+61	Wimax	Wimax	N	NPP	s=p	57	mod	_	_
+62	,	,	PONCT	PONCT	s=w	57	ponct	_	_
+63	Géolocalisation	Géolocalisation	N	NPP	s=p	57	mod	_	_
+64	,	,	PONCT	PONCT	s=w	57	ponct	_	_
+65	puces	puce	N	NC	g=f|n=p|s=c	57	mod	_	_
+66	RFID	RFID	N	NPP	s=p	65	mod	_	_
+67	)	)	PONCT	PONCT	s=w	57	ponct	_	_
+68	.	.	PONCT	PONCT	s=s	34	ponct	_	_
+
+Parents' sons: [1, 35, 36, 42, 46, 68]	Children's sons: [37, 39]
+
+------->  être~nécessaire{V~ADJ|root~ats}		en_raison_de{P|mod}		globalisation{NC|obj}		Causation
+
+
+Parents' sons: [1, 35, 36, 42, 46, 68]	Children's sons: [37, 39]
+
+------->  être~nécessaire{V~ADJ|root~ats}		en_raison_de{P|mod}		globalisation{NC|obj}		Evidence
+
+
+45|1568) L' amende maximum de 750  fût divisée par deux par le juge au_vu_de sa petite retraite. 
+1	L'	le	D	DET	n=s|s=def	2	det	_	_
+2	amende	amende	N	NC	g=f|n=s|s=c	8	suj	_	_
+3	maximum	maximum	A	ADJ	s=qual	2	mod	_	_
+4	de	de	P	P	_	2	dep	_	_
+5	750	750	D	DET	s=card	6	det	_	_
+6			N	NC	s=c	4	obj	_	_
+7	fût	être	V	VS	m=subj|n=s|p=3|t=past	8	aux_pass	_	_
+8	divisée	diviser	V	VPP	g=f|m=part|n=s|t=past	0	root	_	_
+9	par	par	P	P	_	8	p_obj	_	_
+10	deux	deux	N	NC	g=m|s=card	9	obj	_	_
+11	par	par	P	P	_	8	p_obj	_	_
+12	le	le	D	DET	g=m|n=s|s=def	13	det	_	_
+13	juge	juge	N	NC	g=m|n=s|s=c	11	obj	_	_
+14	au_vu_de	au_vu_de	P	P	_	8	mod	_	_
+15	sa	son	D	DET	g=f|n=s|s=poss	17	det	_	_
+16	petite	petit	A	ADJ	g=f|n=s|s=qual	17	mod	_	_
+17	retraite	retraite	N	NC	g=f|n=s|s=c	14	obj	_	_
+18	.	.	PONCT	PONCT	s=s	8	ponct	_	_
+
+Parents' sons: [2, 7, 9, 11, 14, 18]	Children's sons: [15, 16]
+
+------->  amende~diviser~maximum{NC~VPP~ADJ|suj~root~mod}		au_vu_de{P|mod}		retraite~petit{NC~ADJ|obj~mod}		FR_Reason
+
+
+Parents' sons: [2, 7, 9, 11, 14, 18]	Children's sons: [15, 16]
+
+------->  amende~diviser~maximum{NC~VPP~ADJ|suj~root~mod}		au_vu_de{P|mod}		retraite~petit{NC~ADJ|obj~mod}		Evidence
+
+
+46|1615) En_raison_de la trop grande fréquence des oublis, l' internat ne sera plus ouvert dans la journée. 
+1	En_raison_de	en_raison_de	P	P	_	14	mod	_	_
+2	la	le	D	DET	g=f|n=s|s=def	5	det	_	_
+3	trop	trop	ADV	ADV	_	4	mod	_	_
+4	grande	grand	A	ADJ	g=f|n=s|s=qual	5	mod	_	_
+5	fréquence	fréquence	N	NC	g=f|n=s|s=c	1	obj	_	_
+6	des	de	P+D	P+D	s=def	5	dep	_	_
+7	oublis	oubli	N	NC	g=m|n=p|s=c	6	obj	_	_
+8	,	,	PONCT	PONCT	s=w	14	ponct	_	_
+9	l'	le	D	DET	n=s|s=def	10	det	_	_
+10	internat	internat	N	NC	g=m|n=s|s=c	14	suj	_	_
+11	ne	ne	ADV	ADV	s=neg	14	mod	_	_
+12	sera	être	V	V	m=ind|n=s|p=3|t=fut	14	aux_pass	_	_
+13	plus	plus	ADV	ADV	s=neg	14	mod	_	_
+14	ouvert	ouvrir	V	VPP	g=m|m=part|n=s|t=past	0	root	_	_
+15	dans	dans	P	P	_	14	mod	_	_
+16	la	le	D	DET	g=f|n=s|s=def	17	det	_	_
+17	journée	journée	N	NC	g=f|n=s|s=c	15	obj	_	_
+18	.	.	PONCT	PONCT	s=s	14	ponct	_	_
+
+Parents' sons: [1, 8, 10, 11, 12, 13, 15, 18]	Children's sons: [2, 4, 6]
+
+------->  ouvrir~plus{VPP~ADV|root~mod}		en_raison_de{P|mod}		fréquence~grand{NC~ADJ|obj~mod}		Causation
+
+
+Parents' sons: [1, 8, 10, 11, 12, 13, 15, 18]	Children's sons: [2, 4, 6]
+
+------->  ouvrir~plus{VPP~ADV|root~mod}		en_raison_de{P|mod}		fréquence~grand{NC~ADJ|obj~mod}		Evidence
+
+
+47|1706) Les accutests donnent une réponse rapide grâce_à des bandelettes imprégnées d' enzyme transformant le lactate en pyruvate. 
+1	Les	le	D	DET	n=p|s=def	2	det	_	_
+2	accutests	accutest	N	NC	s=c	3	suj	_	_
+3	donnent	donner	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+4	une	un	D	DET	g=f|n=s|s=ind	5	det	_	_
+5	réponse	réponse	N	NC	g=f|n=s|s=c	3	obj	_	_
+6	rapide	rapide	A	ADJ	n=s|s=qual	5	mod	_	_
+7	grâce_à	grâce_à	P	P	_	3	mod	_	_
+8	des	de	D	DET	_	9	det	_	_
+9	bandelettes	bandelette	N	NC	g=f|n=p|s=c	7	obj	_	_
+10	imprégnées	imprégner	V	VPP	g=f|m=part|n=p|t=past	9	mod	_	_
+11	d'	de	P	P	_	10	mod	_	_
+12	enzyme	enzyme	N	NC	n=s|s=c	11	obj	_	_
+13	transformant	transformer	V	VPR	m=part|t=pst	12	mod	_	_
+14	le	le	D	DET	g=m|n=s|s=def	15	det	_	_
+15	lactate	lactate	N	NC	g=m|n=s|s=c	13	obj	_	_
+16	en	en	P	P	p=3	13	mod	_	_
+17	pyruvate	pyruvate	N	NC	s=c	16	obj	_	_
+18	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+Parents' sons: [2, 5, 7, 18]	Children's sons: [8, 10]
+
+------->  donner~réponse~rapide{V~NC~ADJ|root~obj~mod}		grâce_à{P|mod}		bandelette~imprégner{NC~VPP|obj~mod}		Causation
+
+
+48|1883) Newsletter du 18/04/2002: Les salaires de la publicité sont restés stables en 2001 selon l' aacc Nouveaux budgets pour srms one to e-one Hickory publie la troisième édition de l' observatoire sports et valeurs Newsletter du 17/04/2002: Publicis conseil accueille quatre teams créatifs Harcourt inc reprend les editions du centre de psychologie appliquée L' agence image à suivre s' arrête Zenithoptimedia ne prévoit pas de reprise du marché publicitaire avant fin 2002 Newsletter du 16/04/2002: Dream on récompensée pour l' habillage de cuisine tv Création de l' agence pomad High co.institute lance des programmes d' enseignement Newsletter du 15/04/2002: Tbwa lance un réseau mondial d' agences santé Interdeco et l' agence s' associent dans les consumers Bertrand jacquel quitte nex & com Newsletter du 12/04/2002: Dragon rouge acquiert l' agence de presse d' entreprise spécifique Sr teleperformance rachète les activités services de bvrp software Ddb décroche un mégabudget aux etats-unis Derby s' implante auprès_des collectivités locales Newsletter du 11/04/2002: Omd s' intéresse au sport Trois nouveaux budgets pour euro rscg publishing Tbwa grossit en angleterre, se rationalise en autriche et en pologne Carré noir habille le chantier du drugstore publicis Interpartners s' étend aux etats-unis et en asie-pacifique Newsletter du 10/04/2002: Le groupe yin acquiert concept interactif Lester wunderman inaugurera les premiers cannes lions direct Gutenberg on line commercialise une nouvelle solution globale d' édition De nouveaux budgets pour bv conseil Newsletter du 09/04/2002: Trois premiers prix pour leagas delaney au club des da Ipsos acquiert acnielsen vantis aux etats-unis Omnicom devient majoritaire dans brodeur worldwide en france Reed expositions france et reed-oip fusionnent Ddb ouvre son hall aux artistes Newsletter du 08/04/2002: I & e consultants en croissance de 12 % en 2001 Leagas delaney paris centre distingué aux etats-unis grâce_à ikea Remise des prix du club des directeurs artistiques ce soir Ibase lance le mensuel comme nous! 
+1	Newsletter	newsletter	N	NC	g=f|n=s|s=c	11	suj	_	_
+2	du	de	P+D	P+D	s=def	1	dep	_	_
+3	18/04/2002	18/04/2002	N	NC	s=card	2	obj	_	_
+4	:	:	PONCT	PONCT	s=w	1	ponct	_	_
+5	Les	le	D	DET	n=p|s=def	6	det	_	_
+6	salaires	salaire	N	NC	g=m|n=p|s=c	1	mod	_	_
+7	de	de	P	P	_	6	dep	_	_
+8	la	le	D	DET	g=f|n=s|s=def	9	det	_	_
+9	publicité	publicité	N	NC	g=f|n=s|s=c	7	obj	_	_
+10	sont	être	V	V	m=ind|n=p|p=3|t=pst	11	aux_pass	_	_
+11	restés	rester	V	VPP	g=m|m=part|n=p|t=past	168	mod	_	_
+12	stables	stable	A	ADJ	n=p|s=qual	11	ats	_	_
+13	en	en	P	P	p=3	11	mod	_	_
+14	2001	2001	A	ADJ	s=card	13	obj	_	_
+15	selon	selon	P	P	_|marker=199	11	mod	_	_
+16	l'	le	D	DET	n=s|s=def	17	det	_	_
+17	aacc	aacc	N	NC	s=c	15	obj	_	_
+18	Nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	17	mod	_	_
+19	budgets	budget	N	NC	g=m|n=p|s=c	17	mod	_	_
+20	pour	pour	P	P	_	17	dep	_	_
+21	srms	srms	ET	ET	_	25	dep	_	_
+22	one	one	ET	ET	_	25	dep	_	_
+23	to	to	ET	ET	_	25	dep	_	_
+24	e-one	e-one	ET	ET	_	25	dep	_	_
+25	Hickory	Hickory	ET	ET	_	20	dep	_	_
+26	publie	publier	V	V	m=ind|n=s|p=3|t=pst	11	mod	_	_
+27	la	le	D	DET	g=f|n=s|s=def	29	det	_	_
+28	troisième	troisième	A	ADJ	n=s|s=ord	29	mod	_	_
+29	édition	édition	N	NC	g=f|n=s|s=c	26	suj	_	_
+30	de	de	P	P	_	29	dep	_	_
+31	l'	le	D	DET	n=s|s=def	32	det	_	_
+32	observatoire	observatoire	N	NC	g=m|n=s|s=c	30	obj	_	_
+33	sports	sport	N	NC	g=m|n=p|s=c	32	mod	_	_
+34	et	et	C	CC	s=c	33	coord	_	_
+35	valeurs	valeur	N	NC	g=f|n=p|s=c	34	dep_coord	_	_
+36	Newsletter	Newsletter	N	NPP	s=p	35	mod	_	_
+37	du	de	P+D	P+D	s=def	35	dep	_	_
+38	17/04/2002	17/04/2002	N	NC	s=card	37	obj	_	_
+39	:	:	PONCT	PONCT	s=w	42	ponct	_	_
+40	Publicis	Publicis	N	NPP	s=p	42	suj	_	_
+41	conseil	conseil	N	NPP	g=m|n=s|s=p	40	mod	_	_
+42	accueille	accueillir	V	V	m=ind|n=s|p=3|t=pst	11	mod	_	_
+43	quatre	quatre	D	DET	s=card	44	det	_	_
+44	teams	team	N	NC	s=c	42	obj	_	_
+45	créatifs	créatif	A	ADJ	g=m|n=p|s=qual	44	mod	_	_
+46	Harcourt	Harcourt	N	NPP	g=m|n=s|s=p	44	mod	_	_
+47	inc	inc	A	ADJ	s=qual	44	mod	_	_
+48	reprend	reprendre	V	V	m=ind|n=s|p=3|t=pst	11	mod	_	_
+49	les	le	D	DET	n=p|s=def	50	det	_	_
+50	editions	edition	N	NC	s=c	48	suj	_	_
+51	du	de	P+D	P+D	s=def	50	dep	_	_
+52	centre	centre	N	NC	g=m|n=s|s=c	51	obj	_	_
+53	de	de	P	P	_	52	dep	_	_
+54	psychologie	psychologie	N	NC	g=f|n=s|s=c	53	obj	_	_
+55	appliquée	appliquer	V	VPP	g=f|m=part|n=s|t=past	52	mod	_	_
+56	L'	le	D	DET	n=s|s=def	57	det	_	_
+57	agence	agence	N	NC	g=f|n=s|s=c	55	mod	_	_
+58	image	image	N	NC	g=f|n=s|s=c	57	mod	_	_
+59	à	à	P	P	_	55	mod	_	_
+60	suivre	suivre	V	VINF	m=inf	59	obj	_	_
+61	s'	se	CL	CLR	p=3|s=refl	62	aff	_	_
+62	arrête	arrêter	V	V	m=ind|n=s|p=3|t=pst	11	mod	_	_
+63	Zenithoptimedia	Zenithoptimedia	N	NPP	s=p	62	suj	_	_
+64	ne	ne	ADV	ADV	s=neg	65	mod	_	_
+65	prévoit	prévoir	V	V	m=ind|n=s|p=3|t=pst	11	aux_tps	_	_
+66	pas	pas	ADV	ADV	s=neg	65	mod	_	_
+67	de	de	P	P	_	65	mod	_	_
+68	reprise	reprise	N	NC	g=f|n=s|s=c	67	obj	_	_
+69	du	de	P+D	P+D	s=def	68	dep	_	_
+70	marché	marché	N	NC	g=m|n=s|s=c	69	obj	_	_
+71	publicitaire	publicitaire	A	ADJ	n=s|s=qual	70	mod	_	_
+72	avant	avant	P	P	_	65	mod	_	_
+73	fin	fin	N	NC	n=s|s=c	72	obj	_	_
+74	2002	2002	N	NC	s=card	73	mod	_	_
+75	Newsletter	Newsletter	N	NPP	s=p	73	mod	_	_
+76	du	de	P+D	P+D	s=def	73	dep	_	_
+77	16/04/2002	16/04/2002	N	NC	s=card	76	obj	_	_
+78	:	:	PONCT	PONCT	s=w	65	ponct	_	_
+79	Dream	Dream	N	NPP	s=p	65	mod	_	_
+80	on	cln	CL	CLS	s=suj	81	suj	_	_
+81	récompensée	récompenser	V	VPP	g=f|m=part|n=s|t=past	65	dep	_	_
+82	pour	pour	P	P	_	81	mod	_	_
+83	l'	le	D	DET	n=s|s=def	84	det	_	_
+84	habillage	habillage	N	NC	g=m|n=s|s=c	82	obj	_	_
+85	de	de	P	P	_	84	dep	_	_
+86	cuisine	cuisine	N	NC	g=f|n=s|s=c	85	obj	_	_
+87	tv	tv	A	ADJ	s=qual	86	mod	_	_
+88	Création	création	N	NC	g=f|n=s|s=c	86	mod	_	_
+89	de	de	P	P	_	88	dep	_	_
+90	l'	le	D	DET	n=s|s=def	91	det	_	_
+91	agence	agence	N	NC	g=f|n=s|s=c	89	obj	_	_
+92	pomad	pomad	ET	ET	_	91	dep	_	_
+93	High	High	ET	ET	_	91	dep	_	_
+94	co.institute	co.institute	ET	ET	_	91	dep	_	_
+95	lance	lancer	V	V	m=ind|n=s|p=3|t=pst	65	mod	_	_
+96	des	de	D	DET	_	97	det	_	_
+97	programmes	programme	N	NC	g=m|n=p|s=c	65	obj	_	_
+98	d'	de	P	P	_	97	dep	_	_
+99	enseignement	enseignement	N	NC	g=m|n=s|s=c	98	obj	_	_
+100	Newsletter	Newsletter	N	NPP	s=p	99	mod	_	_
+101	du	de	P+D	P+D	s=def	99	dep	_	_
+102	15/04/2002	15/04/2002	N	NC	s=card	101	obj	_	_
+103	:	:	PONCT	PONCT	s=w	105	ponct	_	_
+104	Tbwa	Tbwa	N	NPP	s=p	105	suj	_	_
+105	lance	lancer	V	V	m=ind|n=s|p=3|t=pst	65	mod	_	_
+106	un	un	D	DET	g=m|n=s|s=ind	107	det	_	_
+107	réseau	réseau	N	NC	g=m|n=s|s=c	105	obj	_	_
+108	mondial	mondial	A	ADJ	g=m|n=s|s=qual	107	mod	_	_
+109	d'	de	P	P	_	107	dep	_	_
+110	agences	agence	N	NC	g=f|n=p|s=c	109	obj	_	_
+111	santé	santé	N	NC	g=f|n=s|s=c	107	mod	_	_
+112	Interdeco	Interdeco	N	NPP	s=p	111	mod	_	_
+113	et	et	C	CC	s=c	107	coord	_	_
+114	l'	le	D	DET	n=s|s=def	115	det	_	_
+115	agence	agence	N	NC	g=f|n=s|s=c	113	dep_coord	_	_
+116	s'	se	CL	CLR	p=3|s=refl	117	aff	_	_
+117	associent	associer	V	V	m=ind|n=p|p=3|t=pst	65	dep	_	_
+118	dans	dans	P	P	_	65	mod	_	_
+119	les	le	D	DET	n=p|s=def	120	det	_	_
+120	consumers	consumer	N	NC	s=c	118	obj	_	_
+121	Bertrand	Bertrand	N	NPP	g=m|n=s|s=p	120	mod	_	_
+122	jacquel	jacquel	A	ADJ	s=qual	120	mod	_	_
+123	quitte	quitter	V	V	m=ind|n=s|p=3|t=pst	65	mod	_	_
+124	nex	nex	ADV	ADV	_	123	mod	_	_
+125	&	et	C	CC	s=c	65	coord	_	_
+126	com	com	N	NC	s=c	125	dep_coord	_	_
+127	Newsletter	Newsletter	N	NPP	s=p	126	mod	_	_
+128	du	de	P+D	P+D	s=def	126	dep	_	_
+129	12/04/2002	12/04/2002	N	NC	s=card	128	obj	_	_
+130	:	:	PONCT	PONCT	s=w	65	ponct	_	_
+131	Dragon	Dragon	N	NPP	s=p	133	suj	_	_
+132	rouge	rouge	A	ADJ	n=s|s=qual	131	mod	_	_
+133	acquiert	acquérir	V	V	m=ind|n=s|p=3|t=pst	65	mod	_	_
+134	l'	le	D	DET	n=s|s=def	135	det	_	_
+135	agence	agence	N	NC	g=f|n=s|s=c	133	obj	_	_
+136	de	de	P	P	_	135	dep	_	_
+137	presse	presse	N	NC	g=f|n=s|s=c	136	obj	_	_
+138	d'	de	P	P	_	137	dep	_	_
+139	entreprise	entreprise	N	NC	g=f|n=s|s=c	138	obj	_	_
+140	spécifique	spécifique	A	ADJ	n=s|s=qual	139	mod	_	_
+141	Sr	Sr	N	NPP	s=p	139	mod	_	_
+142	teleperformance	teleperformance	ADV	ADV	_	143	mod	_	_
+143	rachète	racheter	V	V	m=ind|n=s|p=3|t=pst	133	mod	_	_
+144	les	le	D	DET	n=p|s=def	145	det	_	_
+145	activités	activité	N	NC	g=f|n=p|s=c	143	obj	_	_
+146	services	service	N	NC	g=m|n=p|s=c	145	mod	_	_
+147	de	de	P	P	_	146	dep	_	_
+148	bvrp	bvrp	D	DET	_	149	det	_	_
+149	software	software	N	NC	g=m|n=s|s=c	147	obj	_	_
+150	Ddb	Ddb	N	NPP	s=p	149	mod	_	_
+151	décroche	décrocher	V	V	m=ind|n=s|p=3|t=pst	65	mod	_	_
+152	un	un	D	DET	g=m|n=s|s=ind	153	det	_	_
+153	mégabudget	mégabudget	N	NC	s=c	151	suj	_	_
+154	aux	à	P+D	P+D	s=def	151	a_obj	_	_
+155	etats-unis	etats-uni	N	NC	s=c	154	obj	_	_
+156	Derby	Derby	N	NPP	g=m|n=s|s=p	155	mod	_	_
+157	s'	se	CL	CLR	p=3|s=refl	158	aff	_	_
+158	implante	implanter	V	V	m=ind|n=s|p=3|t=pst	65	mod	_	_
+159	auprès_des	auprès_de	P	P	_	65	mod	_	_
+160	collectivités	collectivité	N	NC	g=f|n=p|s=c	159	obj	_	_
+161	locales	local	A	ADJ	g=f|n=p|s=qual	160	mod	_	_
+162	Newsletter	Newsletter	N	NPP	s=p	160	mod	_	_
+163	du	de	P+D	P+D	s=def	160	dep	_	_
+164	11/04/2002	11/04/2002	N	NC	s=card	163	obj	_	_
+165	:	:	PONCT	PONCT	s=w	168	ponct	_	_
+166	Omd	Omd	N	NPP	s=p	168	suj	_	_
+167	s'	se	CL	CLR	p=3|s=refl	168	aff	_	_
+168	intéresse	intéresser	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+169	au	à	P+D	P+D	s=def	168	a_obj	_	_
+170	sport	sport	N	NC	g=m|n=s|s=c	169	obj	_	_
+171	Trois	Trois	A	ADJ	s=card	170	mod	_	_
+172	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	173	mod	_	_
+173	budgets	budget	N	NC	g=m|n=p|s=c	168	obj	_	_
+174	pour	pour	P	P	_	173	dep	_	_
+175	euro	euro	N	NC	g=m|n=s|s=c	174	obj	_	_
+176	rscg	rscg	ET	ET	_	178	dep	_	_
+177	publishing	publishing	ET	ET	_	178	dep	_	_
+178	Tbwa	Tbwa	ET	ET	_	174	dep	_	_
+179	grossit	grossir	V	V	m=ind|n=s|p=3|t=pst	168	mod	_	_
+180	en	en	P	P	p=3	179	mod	_	_
+181	angleterre	angleterre	N	NC	s=c	180	obj	_	_
+182	,	,	PONCT	PONCT	s=w	184	ponct	_	_
+183	se	se	CL	CLR	p=3|s=refl	184	aff	_	_
+184	rationalise	rationaliser	V	V	m=ind|n=s|p=3|t=pst	168	mod	_	_
+185	en	en	P	P	p=3	184	mod	_	_
+186	autriche	autriche	N	NC	s=c	185	obj	_	_
+187	et	et	C	CC	s=c	185	coord	_	_
+188	en	en	P	P	p=3	187	dep_coord	_	_
+189	pologne	pologne	N	NC	s=c	188	obj	_	_
+190	Carré	Carré	N	NPP	s=p	189	mod	_	_
+191	noir	noir	A	ADJ	g=m|n=s|s=qual	189	mod	_	_
+192	habille	habiller	V	V	m=ind|n=s|p=3|t=pst	168	mod	_	_
+193	le	le	D	DET	g=m|n=s|s=def	194	det	_	_
+194	chantier	chantier	N	NC	g=m|n=s|s=c	192	suj	_	_
+195	du	de	P+D	P+D	s=def	194	dep	_	_
+196	drugstore	drugstore	N	NC	g=m|n=s|s=c	195	obj	_	_
+197	publicis	publici	A	ADJ	s=qual	196	mod	_	_
+198	Interpartners	Interpartners	N	NPP	s=p	196	mod	_	_
+199	s'	se	CL	CLR	p=3|s=refl	200	aff	_	_
+200	étend	étendre	V	V	m=ind|n=s|p=3|t=pst	192	dep	_	_
+201	aux	à	P+D	P+D	s=def	192	a_obj	_	_
+202	etats-unis	etats-uni	N	NC	s=c	201	obj	_	_
+203	et	et	C	CC	s=c	201	coord	_	_
+204	en	en	P	P	p=3	203	dep_coord	_	_
+205	asie-pacifique	asie-pacifique	N	NC	s=c	204	obj	_	_
+206	Newsletter	Newsletter	N	NPP	s=p	205	mod	_	_
+207	du	de	P+D	P+D	s=def	168	mod	_	_
+208	10/04/2002	10/04/2002	N	NC	s=card	207	obj	_	_
+209	:	:	PONCT	PONCT	s=w	168	ponct	_	_
+210	Le	le	D	DET	g=m|n=s|s=def	211	det	_	_
+211	groupe	groupe	N	NC	g=m|n=s|s=c	213	suj	_	_
+212	yin	yin	N	NC	g=m|n=s|s=c	211	mod	_	_
+213	acquiert	acquérir	V	V	m=ind|n=s|p=3|t=pst	168	mod	_	_
+214	concept	concept	N	NC	g=m|n=s|s=c	213	obj	_	_
+215	interactif	interactif	A	ADJ	g=m|n=s|s=qual	214	mod	_	_
+216	Lester	Lester	N	NPP	g=m|n=s|s=p	214	mod	_	_
+217	wunderman	wunderman	N	NC	s=c	216	mod	_	_
+218	inaugurera	inaugurer	V	V	m=ind|n=s|p=3|t=fut	168	mod	_	_
+219	les	le	D	DET	n=p|s=def	221	det	_	_
+220	premiers	premier	A	ADJ	g=m|n=p|s=ord	221	mod	_	_
+221	cannes	canne	N	NC	g=f|n=p|s=c	218	suj	_	_
+222	lions	lion	N	NC	g=m|n=p|s=c	221	mod	_	_
+223	direct	direct	A	ADJ	g=m|n=s|s=qual	222	mod	_	_
+224	Gutenberg	Gutenberg	N	NPP	s=p	222	mod	_	_
+225	on	cln	CL	CLS	s=suj	226	suj	_	_
+226	line	line	N	NC	g=f|n=s|s=c	222	mod	_	_
+227	commercialise	commercialiser	V	V	m=ind|n=s|p=3|t=pst	168	mod	_	_
+228	une	un	D	DET	g=f|n=s|s=ind	230	det	_	_
+229	nouvelle	nouveau	A	ADJ	g=f|n=s|s=qual	230	mod	_	_
+230	solution	solution	N	NC	g=f|n=s|s=c	168	obj	_	_
+231	globale	global	A	ADJ	g=f|n=s|s=qual	230	mod	_	_
+232	d'	de	P	P	_	230	dep	_	_
+233	édition	édition	N	NC	g=f|n=s|s=c	232	obj	_	_
+234	De	un	D	DET	n=p|s=ind	236	det	_	_
+235	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	236	mod	_	_
+236	budgets	budget	N	NC	g=m|n=p|s=c	230	mod	_	_
+237	pour	pour	P	P	_	236	dep	_	_
+238	bv	bv	D	DET	_	239	det	_	_
+239	conseil	conseil	N	NC	g=m|n=s|s=c	237	obj	_	_
+240	Newsletter	Newsletter	N	NPP	s=p	239	mod	_	_
+241	du	de	P+D	P+D	s=def	239	dep	_	_
+242	09/04/2002	09/04/2002	N	NC	s=card	241	obj	_	_
+243	:	:	PONCT	PONCT	s=w	168	ponct	_	_
+244	Trois	Trois	D	DET	s=card	246	det	_	_
+245	premiers	premier	A	ADJ	g=m|n=p|s=ord	246	mod	_	_
+246	prix	prix	N	NC	g=m|s=c	255	suj	_	_
+247	pour	pour	P	P	_	246	dep	_	_
+248	leagas	leagas	ET	ET	_	249	dep	_	_
+249	delaney	delaney	ET	ET	_	247	dep	_	_
+250	au	à	P+D	P+D	s=def	246	dep	_	_
+251	club	club	N	NC	g=m|n=s|s=c	250	obj	_	_
+252	des	de	P+D	P+D	s=def	251	dep	_	_
+253	da	da	ET	ET	_	254	dep	_	_
+254	Ipsos	Ipsos	ET	ET	_	252	dep	_	_
+255	acquiert	acquérir	V	V	m=ind|n=s|p=3|t=pst	168	mod	_	_
+256	acnielsen	acnielsen	ET	ET	_	257	dep	_	_
+257	vantis	vantis	ET	ET	_	255	obj	_	_
+258	aux	à	P+D	P+D	s=def	255	a_obj	_	_
+259	etats-unis	etats-unis	C	CC	s=c	255	coord	_	_
+260	Omnicom	Omnicom	N	NPP	s=p	261	suj	_	_
+261	devient	devenir	V	V	m=ind|n=s|p=3|t=pst	259	dep_coord	_	_
+262	majoritaire	majoritaire	A	ADJ	n=s|s=qual	261	ats	_	_
+263	dans	dans	P	P	_	261	mod	_	_
+264	brodeur	brodeur	N	NC	g=m|n=s|s=c	263	obj	_	_
+265	worldwide	worldwid	A	ADJ	s=qual	264	mod	_	_
+266	en	en	P	P	p=3	261	mod	_	_
+267	france	france	N	NC	s=c	266	obj	_	_
+268	Reed	Reed	N	NPP	g=m|n=s|s=p	267	mod	_	_
+269	expositions	exposition	N	NC	g=f|n=p|s=c	267	mod	_	_
+270	france	france	A	ADJ	s=qual	269	mod	_	_
+271	et	et	C	CC	s=c	270	coord	_	_
+272	reed-oip	reed-oip	A	ADJ	s=qual	271	dep_coord	_	_
+273	fusionnent	fusionner	V	V	m=ind|n=p|p=3|t=pst	261	mod	_	_
+274	Ddb	Ddb	N	NPP	s=p	273	suj	_	_
+275	ouvre	ouvrir	V	V	m=ind|n=s|p=3|t=pst	273	dep	_	_
+276	son	son	D	DET	n=s|s=poss	277	det	_	_
+277	hall	hall	N	NC	g=m|n=s|s=c	273	suj	_	_
+278	aux	à	P+D	P+D	s=def	273	a_obj	_	_
+279	artistes	artiste	N	NC	n=p|s=c	278	obj	_	_
+280	Newsletter	Newsletter	N	NPP	s=p	279	mod	_	_
+281	du	de	P+D	P+D	s=def	279	dep	_	_
+282	08/04/2002	08/04/2002	N	NC	s=card	281	obj	_	_
+283	:	:	PONCT	PONCT	s=w	279	ponct	_	_
+284	I	I	A	ADJ	s=qual	279	mod	_	_
+285	&	et	C	CC	s=c	273	coord	_	_
+286	e	e	A	ADJ	s=qual	287	mod	_	_
+287	consultants	consultant	N	NC	g=m|n=p|s=c	285	dep_coord	_	_
+288	en	en	P	P	p=3	287	dep	_	_
+289	croissance	croissance	N	NC	g=f|n=s|s=c	288	obj	_	_
+290	de	de	P	P	_	289	dep	_	_
+291	12	12	D	DET	s=card	292	det	_	_
+292	%	%	N	NC	g=m|s=c	290	obj	_	_
+293	en	en	P	P	p=3	287	dep	_	_
+294	2001	2001	A	ADJ	s=card	293	obj	_	_
+295	Leagas	Leagas	N	NPP	s=p	287	mod	_	_
+296	delaney	delaney	P	P	_	273	mod	_	_
+297	paris	pari	N	NC	g=m|n=p|s=c	296	obj	_	_
+298	centre	centre	N	NC	g=m|n=s|s=c	273	suj	_	_
+299	distingué	distinguer	V	VPP	g=m|m=part|n=s|t=past	298	mod	_	_
+300	aux	à	P+D	P+D	s=def	299	a_obj	_	_
+301	etats-unis	etats-uni	N	NC	s=c	300	obj	_	_
+302	grâce_à	grâce_à	P	P	_	299	mod	_	_
+303	ikea	ikea	N	NC	s=c	302	obj	_	_
+304	Remise	remise	N	NC	g=f|n=s|s=c	303	mod	_	_
+305	des	de	P+D	P+D	s=def	304	dep	_	_
+306	prix	prix	N	NC	g=m|s=c	305	obj	_	_
+307	du	de	P+D	P+D	s=def	306	dep	_	_
+308	club	club	N	NC	g=m|n=s|s=c	307	obj	_	_
+309	des	de	P+D	P+D	s=def	308	dep	_	_
+310	directeurs	directeur	N	NC	g=m|n=p|s=c	309	obj	_	_
+311	artistiques	artistique	A	ADJ	n=p|s=qual	310	mod	_	_
+312	ce	ce	D	DET	g=m|n=s|s=dem	313	det	_	_
+313	soir	soir	N	NC	g=m|n=s|s=c	315	suj	_	_
+314	Ibase	Ibas	A	ADJ	s=qual	313	mod	_	_
+315	lance	lancer	V	V	m=ind|n=s|p=3|t=pst	273	obj	_	_
+316	le	le	D	DET	g=m|n=s|s=def	317	det	_	_
+317	mensuel	mensuel	N	NC	g=m|n=s|s=c	315	obj	_	_
+318	comme	comme	P	P	_	317	dep	_	_
+319	nous	lui	PRO	PRO	n=p|s=pers	318	obj	_	_
+320	!	!	PONCT	PONCT	s=s	168	ponct	_	_
+
+Parents' sons: [300, 302]	Children's sons: [304]
+
+------->  distinguer~etats-uni{VPP~NC|mod~obj}		grâce_à{P|mod}		ikea~remise{NC~NC|obj~mod}		Causation
+
+
+49|1884) Newsletter du 05/04/2002: Le public système rachète salines Le français aldo cardoso nommé pdg par intérim d' andersen worldwide Bates corporate renforce son équipe Em.tv commercialisera les droits marketing du mondial 2006 Newsletter du 04/04/2002: Bddp & fils, agence française la plus érotique Nouveaux clients pour l' agence pléiades Le directeur artistique christophe paviot publie un recueil de nouvelles L' agence britannique hotwire pr s' installe à paris Mpg grossit en allemagne Newsletter du 03/04/2002: Business attitude s' apprête à quitter publicis pour grrrey marketing services Leagas delaney se lance dans la consultation ing Newsletter du 02/04/2002: Une campagne contre les discriminations raciales confiée à bbdo corporate Nomen crée lyria pour rail france suisse Wegener direct marketing france lance une campagne d' image Dragon rouge, partenaire d' une nouvelle agence de design produit Newsletter du 31/03/2002: Draft france s' étoffe et crée un département consulting Rsl devient d' arcy business Publicis méditerranée reprend coyotte Apco france déménage Newsletter du 29/03/2002: Universal mccann gagne huit nouveaux budgets Les agences brésiliennes attendent 640 millions de dollars grâce_à la coupe du monde. 
+1	Newsletter	newsletter	N	NC	g=f|n=s|s=c	8	mod	_	_
+2	du	de	P+D	P+D	s=def	1	dep	_	_
+3	05/04/2002	05/04/2002	N	NC	s=card	2	obj	_	_
+4	:	:	PONCT	PONCT	s=w	1	ponct	_	_
+5	Le	le	D	DET	g=m|n=s|s=def	7	det	_	_
+6	public	public	A	ADJ	g=m|n=s|s=qual	7	mod	_	_
+7	système	système	N	NC	g=m|n=s|s=c	8	suj	_	_
+8	rachète	racheter	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+9	salines	saline	N	NC	g=f|n=p|s=c	8	obj	_	_
+10	Le	le	D	DET	g=m|n=s|s=def	11	det	_	_
+11	français	français	A	ADJ	g=m|s=qual	9	mod	_	_
+12	aldo	aldo	ET	ET	_	9	mod	_	_
+13	cardoso	cardoso	ET	ET	_	9	mod	_	_
+14	nommé	nommer	V	VPP	g=m|m=part|n=s|t=past	9	mod	_	_
+15	pdg	pdg	ADV	ADV	_	14	mod	_	_
+16	par	par	P	P	_	14	p_obj	_	_
+17	intérim	intérim	N	NC	g=m|n=s|s=c	16	obj	_	_
+18	d'	de	P	P	_	17	dep	_	_
+19	andersen	andersen	ET	ET	_	21	dep	_	_
+20	worldwide	worldwide	ET	ET	_	21	dep	_	_
+21	Bates	Bates	ET	ET	_	18	dep	_	_
+22	corporate	corporate	A	ADJ	s=qual	21	dep	_	_
+23	renforce	renforcer	V	V	m=ind|n=s|p=3|t=pst	8	mod	_	_
+24	son	son	D	DET	n=s|s=poss	25	det	_	_
+25	équipe	équipe	N	NC	g=f|n=s|s=c	23	suj	_	_
+26	Em.tv	Em.tv	N	NPP	s=p	25	mod	_	_
+27	commercialisera	commercialiser	V	V	m=ind|n=s|p=3|t=fut	23	dep	_	_
+28	les	le	D	DET	n=p|s=def	29	det	_	_
+29	droits	droits	N	NC	g=m|n=p|s=c	23	suj	_	_
+30	marketing	marketing	N	NC	g=m|n=s|s=c	29	mod	_	_
+31	du	de	P+D	P+D	s=def	30	dep	_	_
+32	mondial	mondial	A	ADJ	g=m|n=s|s=qual	33	mod	_	_
+33	2006	2006	N	NC	s=card	31	obj	_	_
+34	Newsletter	Newsletter	N	NPP	s=p	33	mod	_	_
+35	du	de	P+D	P+D	s=def	33	dep	_	_
+36	04/04/2002	04/04/2002	N	NC	s=card	35	obj	_	_
+37	:	:	PONCT	PONCT	s=w	29	ponct	_	_
+38	Bddp	Bddp	N	NPP	s=p	29	mod	_	_
+39	&	et	C	CC	s=c	38	coord	_	_
+40	fils	fils	N	NC	g=m|s=c	39	dep_coord	_	_
+41	,	,	PONCT	PONCT	s=w	29	ponct	_	_
+42	agence	agence	N	NC	g=f|n=s|s=c	29	mod	_	_
+43	française	français	A	ADJ	g=f|n=s|s=qual	29	mod	_	_
+44	la	le	D	DET	g=f|n=s|s=def	48	det	_	_
+45	plus	plus	ADV	ADV	s=neg	46	mod	_	_
+46	érotique	érotique	A	ADJ	n=s|s=qual	48	mod	_	_
+47	Nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	48	mod	_	_
+48	clients	client	N	NC	g=m|n=p|s=c	29	mod	_	_
+49	pour	pour	P	P	_	48	dep	_	_
+50	l'	le	D	DET	n=s|s=def	51	det	_	_
+51	agence	agence	N	NC	g=f|n=s|s=c	49	obj	_	_
+52	pléiades	pléiades	P	P	_	23	mod	_	_
+53	Le	le	D	DET	g=m|n=s|s=def	54	det	_	_
+54	directeur	directeur	N	NC	g=m|n=s|s=c	52	obj	_	_
+55	artistique	artistique	A	ADJ	n=s|s=qual	54	mod	_	_
+56	christophe	christophe	A	ADJ	s=qual	54	mod	_	_
+57	paviot	paviot	N	NC	s=c	54	mod	_	_
+58	publie	publier	V	V	m=ind|n=s|p=3|t=pst	8	mod	_	_
+59	un	un	D	DET	g=m|n=s|s=ind	60	det	_	_
+60	recueil	recueil	N	NC	g=m|n=s|s=c	58	suj	_	_
+61	de	de	P	P	_	60	dep	_	_
+62	nouvelles	nouveau	A	ADJ	g=f|n=p|s=qual	61	obj	_	_
+63	L'	le	D	DET	n=s|s=def	64	det	_	_
+64	agence	agence	N	NC	g=f|n=s|s=c	58	obj	_	_
+65	britannique	britannique	A	ADJ	n=s|s=qual	64	mod	_	_
+66	hotwire	hotwire	ADV	ADV	_	67	mod	_	_
+67	pr	pour	P	P	_	58	mod	_	_
+68	s'	se	CL	CLR	p=3|s=refl	69	aff	_	_
+69	installe	installer	V	V	m=ind|n=s|p=3|t=pst	67	obj	_	_
+70	à	à	P	P	_	67	arg	_	_
+71	paris	pari	N	NC	g=m|n=p|s=c	70	obj	_	_
+72	Mpg	Mpg	N	NPP	s=p	71	mod	_	_
+73	grossit	grossir	V	V	m=ind|n=s|p=3|t=pst	67	obj	_	_
+74	en	en	P	P	p=3	58	mod	_	_
+75	allemagne	allemagne	N	NC	s=c	74	obj	_	_
+76	Newsletter	Newsletter	N	NPP	s=p	75	mod	_	_
+77	du	de	P+D	P+D	s=def	75	dep	_	_
+78	03/04/2002	03/04/2002	N	NC	s=card	77	obj	_	_
+79	:	:	PONCT	PONCT	s=w	8	ponct	_	_
+80	Business	Business	N	NPP	s=p	83	suj	_	_
+81	attitude	attitude	N	NC	g=f|n=s|s=c	80	mod	_	_
+82	s'	se	CL	CLR	p=3|s=refl	83	aff	_	_
+83	apprête	apprêter	V	V	m=ind|n=s|p=3|t=pst	8	mod	_	_
+84	à	à	P	P	_	8	mod	_	_
+85	quitter	quitter	V	VINF	m=inf	84	obj	_	_
+86	publicis	publicis	ADV	ADV	_	85	mod	_	_
+87	pour	pour	P	P	_	85	mod	_	_
+88	grrrey	grrrey	D	DET	_	89	det	_	_
+89	marketing	marketing	N	NC	g=m|n=s|s=c	87	obj	_	_
+90	services	service	N	NC	g=m|n=p|s=c	89	mod	_	_
+91	Leagas	Leagas	N	NPP	s=p	90	mod	_	_
+92	delaney	delaney	V	V	m=ind	8	mod	_	_
+93	se	se	CL	CLR	p=3|s=refl	94	aff	_	_
+94	lance	lancer	V	V	m=ind|n=s|p=3|t=pst	8	dep	_	_
+95	dans	dans	P	P	_	8	mod	_	_
+96	la	le	D	DET	g=f|n=s|s=def	97	det	_	_
+97	consultation	consultation	N	NC	g=f|n=s|s=c	95	obj	_	_
+98	ing	ing	ET	ET	_	97	dep	_	_
+99	Newsletter	Newsletter	ET	ET	_	97	dep	_	_
+100	du	de	P+D	P+D	s=def	97	dep	_	_
+101	02/04/2002	02/04/2002	N	NC	s=card	100	obj	_	_
+102	:	:	PONCT	PONCT	s=w	8	ponct	_	_
+103	Une	un	D	DET	g=f|n=s|s=ind	104	det	_	_
+104	campagne	campagne	N	NC	g=f|n=s|s=c	8	mod	_	_
+105	contre	contre	P	P	_	104	dep	_	_
+106	les	le	D	DET	n=p|s=def	107	det	_	_
+107	discriminations	discrimination	N	NC	g=f|n=p|s=c	105	obj	_	_
+108	raciales	racial	A	ADJ	g=f|n=p|s=qual	107	mod	_	_
+109	confiée	confier	V	VPP	g=f|m=part|n=s|t=past	107	mod	_	_
+110	à	à	P	P	_	109	mod	_	_
+111	bbdo	bbdo	ADV	ADV	_	112	mod	_	_
+112	corporate	corporate	A	ADJ	s=qual	113	mod	_	_
+113	Nomen	Nomen	N	NPP	s=p	110	obj	_	_
+114	crée	créer	V	V	m=ind|n=s|p=3|t=pst	8	aux_tps	_	_
+115	lyria	lyria	ADV	ADV	_	124	mod	_	_
+116	pour	pour	P	P	_	124	mod	_	_
+117	rail	rail	N	NC	g=m|n=s|s=c	116	obj	_	_
+118	france	france	N	NC	s=c	117	mod	_	_
+119	suisse	suisse	A	ADJ	n=s|s=qual	118	mod	_	_
+120	Wegener	Wegener	N	NPP	s=p	118	mod	_	_
+121	direct	direct	A	ADJ	g=m|n=s|s=qual	122	mod	_	_
+122	marketing	marketing	N	NC	g=m|n=s|s=c	118	mod	_	_
+123	france	france	A	ADJ	s=qual	122	mod	_	_
+124	lance	lancer	V	V	m=ind|n=s|p=3|t=pst	114	aux_tps	_	_
+125	une	un	D	DET	g=f|n=s|s=ind	126	det	_	_
+126	campagne	campagne	N	NC	g=f|n=s|s=c	124	ats	_	_
+127	d'	de	P	P	_	126	dep	_	_
+128	image	image	N	NC	g=f|n=s|s=c	127	obj	_	_
+129	Dragon	Dragon	N	NPP	s=p	128	mod	_	_
+130	rouge	rouge	A	ADJ	n=s|s=qual	129	mod	_	_
+131	,	,	PONCT	PONCT	s=w	124	ponct	_	_
+132	partenaire	partenaire	N	NC	n=s|s=c	124	mod	_	_
+133	d'	de	P	P	_	132	dep	_	_
+134	une	un	D	DET	g=f|n=s|s=ind	136	det	_	_
+135	nouvelle	nouveau	A	ADJ	g=f|n=s|s=qual	136	mod	_	_
+136	agence	agence	N	NC	g=f|n=s|s=c	133	obj	_	_
+137	de	de	P	P	_	136	dep	_	_
+138	design	design	N	NC	g=m|n=s|s=c	137	obj	_	_
+139	produit	produire	V	V	m=ind|n=s|p=3|t=pst	124	aux_tps	_	_
+140	Newsletter	Newsletter	N	NPP	s=p	139	suj	_	_
+141	du	de	P+D	P+D	s=def	139	mod	_	_
+142	31/03/2002	31/03/2002	N	NC	s=card	141	obj	_	_
+143	:	:	PONCT	PONCT	s=w	139	ponct	_	_
+144	Draft	Draft	N	NPP	s=p	147	suj	_	_
+145	france	france	N	NC	s=c	144	mod	_	_
+146	s'	se	CL	CLR	p=3|s=refl	147	aff	_	_
+147	étoffe	étoffer	V	V	m=ind|n=s|p=3|t=pst	139	mod	_	_
+148	et	et	C	CC	s=c	147	coord	_	_
+149	crée	créer	V	V	m=ind|n=s|p=3|t=pst	148	dep_coord	_	_
+150	un	un	D	DET	g=m|n=s|s=ind	151	det	_	_
+151	département	département	N	NC	g=m|n=s|s=c	149	obj	_	_
+152	consulting	consulting	ET	ET	_	151	dep	_	_
+153	Rsl	Rsl	ET	ET	_	151	dep	_	_
+154	devient	devenir	V	V	m=ind|n=s|p=3|t=pst	139	aux_tps	_	_
+155	d'	de	P	P	_	157	det	_	_
+156	arcy	arcy	D	DET	_	157	det	_	_
+157	business	business	N	NC	g=m|s=c	154	suj	_	_
+158	Publicis	Publicis	N	NPP	s=p	157	mod	_	_
+159	méditerranée	méditerranée	N	NC	g=f|n=s|s=c	158	mod	_	_
+160	reprend	reprendre	V	V	m=ind|n=s|p=3|t=pst	154	dep	_	_
+161	coyotte	coyotte	ADV	ADV	_	154	mod	_	_
+162	Apco	Apco	N	NPP	s=p	154	suj	_	_
+163	france	france	V	V	m=ind	154	dep	_	_
+164	déménage	déménager	V	V	m=ind|n=s|p=3|t=pst	154	coord	_	_
+165	Newsletter	Newsletter	N	NPP	s=p	164	suj	_	_
+166	du	de	P+D	P+D	s=def	164	mod	_	_
+167	29/03/2002	29/03/2002	N	NC	s=card	166	obj	_	_
+168	:	:	PONCT	PONCT	s=w	154	ponct	_	_
+169	Universal	Universal	ET	ET	_	170	dep	_	_
+170	mccann	mccann	ET	ET	_	154	obj	_	_
+171	gagne	gagner	V	V	m=ind|n=s|p=3|t=pst	154	coord	_	_
+172	huit	huit	D	DET	s=card	174	det	_	_
+173	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	174	mod	_	_
+174	budgets	budget	N	NC	g=m|n=p|s=c	171	suj	_	_
+175	Les	le	D	DET	n=p|s=def	176	det	_	_
+176	agences	agence	N	NC	g=f|n=p|s=c	178	suj	_	_
+177	brésiliennes	brésilien	A	ADJ	g=f|n=p|s=qual	176	mod	_	_
+178	attendent	attendre	V	V	m=ind|n=p|p=3|t=pst	171	dep_coord	_	_
+179	640	640	D	DET	s=card	180	det	_	_
+180	millions	million	N	NC	n=p|s=card	178	obj	_	_
+181	de	de	P	P	_	180	dep	_	_
+182	dollars	dollar	N	NC	g=m|n=p|s=c	181	obj	_	_
+183	grâce_à	grâce_à	P	P	_	178	mod	_	_
+184	la	le	D	DET	g=f|n=s|s=def	185	det	_	_
+185	coupe	coupe	N	NC	g=f|n=s|s=c	183	obj	_	_
+186	du	de	P+D	P+D	s=def	185	dep	_	_
+187	monde	monde	N	NC	g=m|n=s|s=c	186	obj	_	_
+188	.	.	PONCT	PONCT	s=s	8	ponct	_	_
+
+Parents' sons: [176, 180, 183]	Children's sons: [184, 186]
+
+------->  attendre~million{V~NC|dep_coord~obj}		grâce_à{P|mod}		coupe{NC|obj}		Causation
+
+
+50|1887) marketing services lance une offre d' e-mailing Lancement d' un collectif en_faveur_de la libéralisation de la publicité politique Newsletter du 15/03/2002: Shanghaï fusionne avec artbreakers Tlb se dote d' un centre d' appels Rangoon gagne cinq nouveaux budgets Le bvp actualise ses recommandations enfant Newsletter du 14/03/2002: Aegis fait preuve de pessimisme pour 2002 Valoris a maintenu sa croissance en 2001 Un ancien de wieden & kennedy lance une nouvelle agence Le singe signe la campagne de relance des inrockuptibles Newsletter du 13/03/2002: Draft france s' étoffe et crée un département consulting Rsl devient d' arcy business Publicis méditerranée reprend coyotte Apco france déménage Newsletter du 08/03/2002: Harrison & wolf s' associe avec pricewaterhousecoopers Saguez & partners complète son réseau all around design Trois nouveaux budgets pour fleishman-hillard france Tbwa paris crée tbwaretail avec henri baché Newsletter du 06/03/2002: Publicis consultants prépare sa réorganisation Sept nouveaux adhérents au syntec etudes marketing et opinion Le chiffre d' affaires de publicis en_hausse de 41,2 % Auditoire déménage Précision sur editum Newsletter du 05/03/2002: Ipsos-médiangles crée un département presse d' entreprise Rapprochement entre id1524 et le public système Alice emménage chez lowe François decaux se lance en indépendant Newsletter du 04/03/2002: Idenium remporte les relations presse de draft worldwide france Le collectif 500 lance un manifeste Mediacom gagne electronic arts et le syndicat des antiquaires Sept nouveaux adhérents au syntec etudes marketing et opinion Privé de champion, editum ferme ses portes Newsletter du 01/03/2002: Pema groupe et de bonneville orlandini: c' est fini Wunderman s' attend à une activité stable pour 2002 Scarlett met en_place le diagnostic marques chaudes Tequila remporte le sncf senior Mccann momentum se réorganise Newsletter du 28/02/2002: 2,5 millions d' euros de nouveaux budgets pour ubi bene Trois nouveaux membres à l' anaé De nouveaux budgets pour oxygen Harrison & wolf et steria révisent leur collaboration Newsletter du 27/02/2002: Bach & partenaires mène une campagne d' autopromotion K agency gagne rexona et special k Précisions d' euro rscg works et du nouvel eldorado Création de babylone, agence conseil en création d' événements Newsletter du 26/02/2002: Bddptequilainteractive va réaliser l' intranet de la cnav Laurence perez, ex-publicisetnous, crée vox populi L' agence by récupère céline et se place pour dunhill Newsletter du 25/02/2002: Deux annonceurs pour loomedia, la régie qui affiche dans les toilettes L' agence eliotrope participe au lancement du réseau international plexus Noé rachète anstett L' agence concrètement déménage Clm/ bbdo fait ses débuts pour uncle ben' s Newsletter du 22/02/2002: Nouveaux clients pour les agences beau fixe, les 100 ciels et media book Publicis consultants conseille la société générale Havas advertising sports met en_place une offre européenne de sponsoring Newsletter du 18/02/2002: Capital events se renforce dans la santé Le chiffre d' affaires 2001 d' ipsos en_hausse de 46 % Le réseau ten accueille trois nouveaux partenaires Bertrand tierny quitte la présidence de mccann momentum Un phénix pour jd relations Newsletter du 15/02/2002: Festival de cannes: mercedes erra au jury film, olivier altmann et gabriel gaultier au print Publicis consultants rachète johnston & associates aux etats-unis La marge brute de havas advertising en_hausse de 24,8 % Eurokapi étoffe son équipe Trois nouveaux budgets pour oko Newsletter du 14/02/2002: High co en compétition pour le stade france Sr teleperformance: activité en_hausse de 30 % en 2001 Quatre nouveaux clients pour next step Interpublic: les barons quittent le board Eurodirect marketing crée une joint-venture avec bertelsmann Newsletter du 13/02/2002: Claritas lance spectra europe Sophie renard, président intérimaire du syntec rp Les cartes de voeux soumises au vote chez gibory consultant Deux nouveaux budgets chez creapress Le chiffre d' affaires de publicis en forte hausse en 2001 grâce_à ses acquisitions Newsletter du 12/02/2002: Médiapost prend le contrôle de delta diffusion Jean-louis azizollah revient avec jla and partners Quatre nouveaux clients pour lewis communications Mccann réorganise ses activités médias en france Newsletter du 11/02/2002: L' agence lyonnaise mga se régénère Saguez & partners signe la nouvelle identité visuelle de pomme de pain Exmachina: 60 emplois sauvés sur 158 Patrice saugeron, pdg de mccann, s' entoure d' un comité exécutif Newsletter du 08/02/2002: Young & rubicam gagne la carte imagine r Louis xiv ddb fait ses débuts avec la poste et bouygues telecom Chiffre d' affaires quasi stable pour le public système Leagas delaney paris centre en or à new york Tarak ben amar, repreneur d' exmachina Newsletter du 07/02/2002: Clio 2002: les jurys sont au complet Cinq nouveaux clients pour actus high tech L' agence stratéus entièrement certifiée iso 9001 Quatre agences françaises primées au new york festival Newsletter du 06/02/2002: W & cie gagne des budgets dans le grand ouest Omd lance un outil d' optimisation et de construction des campagnes de marketing direct Deux nouveaux clients internationaux pour text 100 Trimedia communications france étoffe son pôle high-tech Ebb and flow, nouvelle agence de marketing relationnel Newsletter du 05/02/2002: Publicis renforce sa filiale japonaise Altaï engrange plusieurs budgets Carré noir et dragon rouge en finale sur la maif Rebondissement dans la liquidation d' exmachina Newsletter du 04/02/2002: Sri devient c-sports communication Le groupe sogec rebaptise son pôle conseil Nex & com crée nex & com travel Consodata investit en chine Le groupe leo burnett france rachète ipc Newsletter du 01/02/2002: Le chiffre d' affaires d' altedia en_hausse de 40 % High co a connu une croissance de 19 % en 2001 Market place gérera ses relations publiques avec idenium Le groupe transatlantic acquiert medialab technology Nombre_de pages de résultats: 
+1	marketing	marketing	N	NC	g=m|n=s|s=c	3	suj	_	_
+2	services	service	N	NC	g=m|n=p|s=c	1	mod	_	_
+3	lance	lancer	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+4	une	un	D	DET	g=f|n=s|s=ind	5	det	_	_
+5	offre	offre	N	NC	g=f|n=s|s=c	3	obj	_	_
+6	d'	de	P	P	_	5	dep	_	_
+7	e-mailing	e-mailing	N	NC	s=c	6	obj	_	_
+8	Lancement	Lancement	N	NPP	s=p	7	mod	_	_
+9	d'	de	P	P	_	7	dep	_	_
+10	un	un	D	DET	g=m|n=s|s=ind	11	det	_	_
+11	collectif	collectif	A	ADJ	g=m|n=s|s=qual	9	obj	_	_
+12	en_faveur_de	en_faveur_de	P	P	_	11	dep	_	_
+13	la	le	D	DET	g=f|n=s|s=def	14	det	_	_
+14	libéralisation	libéralisation	N	NC	g=f|n=s|s=c	12	obj	_	_
+15	de	de	P	P	_	14	dep	_	_
+16	la	le	D	DET	g=f|n=s|s=def	17	det	_	_
+17	publicité	publicité	N	NC	g=f|n=s|s=c	15	obj	_	_
+18	politique	politique	A	ADJ	n=s|s=qual	17	mod	_	_
+19	Newsletter	Newsletter	N	NPP	s=p	17	mod	_	_
+20	du	de	P+D	P+D	s=def	17	dep	_	_
+21	15/03/2002	15/03/2002	N	NC	s=card	20	obj	_	_
+22	:	:	PONCT	PONCT	s=w	24	ponct	_	_
+23	Shanghaï	Shanghaï	N	NPP	s=p	24	suj	_	_
+24	fusionne	fusionner	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+25	avec	avec	P	P	_	24	mod	_	_
+26	artbreakers	artbreaker	N	NC	s=c	25	obj	_	_
+27	Tlb	Tlb	N	NPP	s=p	26	mod	_	_
+28	se	se	CL	CLR	p=3|s=refl	29	aff	_	_
+29	dote	doter	V	V	m=ind|n=s|p=3|t=pst	3	dep	_	_
+30	d'	de	P	P	_	29	de_obj	_	_
+31	un	un	D	DET	g=m|n=s|s=ind	32	det	_	_
+32	centre	centre	N	NC	g=m|n=s|s=c	30	obj	_	_
+33	d'	de	P	P	_	32	dep	_	_
+34	appels	appel	N	NC	g=m|n=p|s=c	33	obj	_	_
+35	Rangoon	Rangoon	N	NPP	s=p	34	mod	_	_
+36	gagne	gagner	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+37	cinq	cinq	D	DET	s=card	39	det	_	_
+38	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	39	mod	_	_
+39	budgets	budget	N	NC	g=m|n=p|s=c	36	suj	_	_
+40	Le	le	D	DET	g=m|n=s|s=def	41	det	_	_
+41	bvp	bvp	N	NC	s=c	36	suj	_	_
+42	actualise	actualiser	V	V	m=ind|n=s|p=3|t=pst	36	dep	_	_
+43	ses	son	D	DET	n=p|s=poss	44	det	_	_
+44	recommandations	recommandation	N	NC	g=f|n=p|s=c	36	suj	_	_
+45	enfant	enfant	N	NC	n=s|s=c	44	mod	_	_
+46	Newsletter	Newsletter	N	NPP	s=p	45	mod	_	_
+47	du	de	P+D	P+D	s=def	45	dep	_	_
+48	14/03/2002	14/03/2002	N	NC	s=card	47	obj	_	_
+49	:	:	PONCT	PONCT	s=w	51	ponct	_	_
+50	Aegis	Aegis	N	NPP	s=p	51	suj	_	_
+51	fait	faire	V	V	m=ind|n=s|p=3|t=pst	3	aux_caus	_	_
+52	preuve	preuve	N	NC	g=f|n=s|s=c	51	ats	_	_
+53	de	de	P	P	_	52	dep	_	_
+54	pessimisme	pessimisme	N	NC	g=m|n=s|s=c	53	obj	_	_
+55	pour	pour	P	P	_	51	mod	_	_
+56	2002	2002	N	NC	s=card	55	obj	_	_
+57	Valoris	Valoris	N	NPP	s=p	51	suj	_	_
+58	a	avoir	V	V	m=ind|n=s|p=3|t=pst	59	aux_tps	_	_
+59	maintenu	maintenir	V	VPP	g=m|m=part|n=s|t=past	51	dep	_	_
+60	sa	son	D	DET	g=f|n=s|s=poss	61	det	_	_
+61	croissance	croissance	N	NC	g=f|n=s|s=c	59	obj	_	_
+62	en	en	P	P	p=3	59	mod	_	_
+63	2001	2001	A	ADJ	s=card	62	obj	_	_
+64	Un	un	D	DET	g=m|n=s|s=ind	65	det	_	_
+65	ancien	ancien	A	ADJ	g=m|n=s|s=qual	62	obj	_	_
+66	de	de	P	P	_	51	de_obj	_	_
+67	wieden	wieden	N	NC	s=c	66	obj	_	_
+68	&	et	C	CC	s=c	51	coord	_	_
+69	kennedy	kennedy	ET	ET	_	70	suj	_	_
+70	lance	lancer	V	V	m=ind|n=s|p=3|t=pst	68	dep_coord	_	_
+71	une	un	D	DET	g=f|n=s|s=ind	73	det	_	_
+72	nouvelle	nouveau	A	ADJ	g=f|n=s|s=qual	73	mod	_	_
+73	agence	agence	N	NC	g=f|n=s|s=c	70	obj	_	_
+74	Le	le	D	DET	g=m|n=s|s=def	75	det	_	_
+75	singe	singe	N	NC	g=m|n=s|s=c	76	suj	_	_
+76	signe	signer	V	V	m=ind|n=s|p=3|t=pst	70	mod	_	_
+77	la	le	D	DET	g=f|n=s|s=def	78	det	_	_
+78	campagne	campagne	N	NC	g=f|n=s|s=c	76	obj	_	_
+79	de	de	P	P	_	78	dep	_	_
+80	relance	relance	N	NC	g=f|n=s|s=c	79	obj	_	_
+81	des	de	P+D	P+D	s=def	80	dep	_	_
+82	inrockuptibles	inrockuptible	N	NC	s=c	81	obj	_	_
+83	Newsletter	Newsletter	N	NPP	s=p	82	mod	_	_
+84	du	de	P+D	P+D	s=def	82	dep	_	_
+85	13/03/2002	13/03/2002	N	NC	s=card	84	obj	_	_
+86	:	:	PONCT	PONCT	s=w	51	ponct	_	_
+87	Draft	Draft	N	NPP	s=p	90	suj	_	_
+88	france	france	N	NC	s=c	87	mod	_	_
+89	s'	se	CL	CLR	p=3|s=refl	90	aff	_	_
+90	étoffe	étoffer	V	V	m=ind|n=s|p=3|t=pst	51	mod	_	_
+91	et	et	C	CC	s=c	90	coord	_	_
+92	crée	créer	V	V	m=ind|n=s|p=3|t=pst	91	dep_coord	_	_
+93	un	un	D	DET	g=m|n=s|s=ind	94	det	_	_
+94	département	département	N	NC	g=m|n=s|s=c	92	obj	_	_
+95	consulting	consulting	ET	ET	_	94	dep	_	_
+96	Rsl	Rsl	ET	ET	_	94	dep	_	_
+97	devient	devenir	V	V	m=ind|n=s|p=3|t=pst	51	dep	_	_
+98	d'	de	P	P	_	51	de_obj	_	_
+99	arcy	arcy	D	DET	_	100	det	_	_
+100	business	business	N	NC	g=m|s=c	98	obj	_	_
+101	Publicis	Publicis	N	NPP	s=p	100	mod	_	_
+102	méditerranée	méditerranée	N	NC	g=f|n=s|s=c	101	mod	_	_
+103	reprend	reprendre	V	V	m=ind|n=s|p=3|t=pst	51	coord	_	_
+104	coyotte	coyotte	ADV	ADV	_	103	mod	_	_
+105	Apco	Apco	N	NPP	s=p	103	suj	_	_
+106	france	france	V	V	m=ind	103	dep	_	_
+107	déménage	déménager	V	V	m=ind|n=s|p=3|t=pst	103	dep	_	_
+108	Newsletter	Newsletter	N	NPP	s=p	103	mod	_	_
+109	du	de	P+D	P+D	s=def	103	de_obj	_	_
+110	08/03/2002	08/03/2002	N	NC	s=card	109	obj	_	_
+111	:	:	PONCT	PONCT	s=w	51	ponct	_	_
+112	Harrison	Harrison	N	NPP	g=m|n=s|s=p	51	suj	_	_
+113	&	et	C	CC	s=c	51	coord	_	_
+114	wolf	wolf	ADV	ADV	_	116	mod	_	_
+115	s'	se	CL	CLR	p=3|s=refl	116	aff	_	_
+116	associe	associer	V	V	m=ind|n=s|p=3|t=pst	113	dep_coord	_	_
+117	avec	avec	P	P	_	116	p_obj	_	_
+118	pricewaterhousecoopers	pricewaterhousecooper	N	NC	s=c	117	obj	_	_
+119	Saguez	Saguez	N	NPP	s=p	118	mod	_	_
+120	&	et	C	CC	s=c	118	coord	_	_
+121	partners	partner	N	NC	g=m|n=p|s=c	120	dep_coord	_	_
+122	complète	complet	A	ADJ	g=f|n=s|s=qual	121	mod	_	_
+123	son	son	D	DET	n=s|s=poss	124	det	_	_
+124	réseau	réseau	N	NC	g=m|n=s|s=c	116	obj	_	_
+125	all	all	P	P	_	116	mod	_	_
+126	around	around	N	NC	s=c	125	obj	_	_
+127	design	design	N	NC	g=m|n=s|s=c	126	mod	_	_
+128	Trois	Trois	D	DET	s=card	130	det	_	_
+129	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	130	mod	_	_
+130	budgets	budget	N	NC	g=m|n=p|s=c	126	mod	_	_
+131	pour	pour	P	P	_	130	dep	_	_
+132	fleishman-hillard	fleishman-hillard	ET	ET	_	135	dep	_	_
+133	france	france	ET	ET	_	135	dep	_	_
+134	Tbwa	Tbwa	ET	ET	_	135	dep	_	_
+135	paris	paris	ET	ET	_	131	dep	_	_
+136	crée	créer	V	V	m=ind|n=s|p=3|t=pst	51	coord	_	_
+137	tbwaretail	tbwaretail	ET	ET	_	136	suj	_	_
+138	avec	avec	P	P	_	136	mod	_	_
+139	henri	henri	ET	ET	_	141	dep	_	_
+140	baché	baché	ET	ET	_	141	dep	_	_
+141	Newsletter	Newsletter	ET	ET	_	138	dep	_	_
+142	du	de	P+D	P+D	s=def	141	dep	_	_
+143	06/03/2002	06/03/2002	N	NC	s=card	142	obj	_	_
+144	:	:	PONCT	PONCT	s=w	51	ponct	_	_
+145	Publicis	Publici	N	NC	s=c	51	mod	_	_
+146	consultants	consultant	N	NC	g=m|n=p|s=c	145	mod	_	_
+147	prépare	préparer	V	V	m=ind|n=s|p=3|t=pst	51	mod	_	_
+148	sa	son	D	DET	g=f|n=s|s=poss	149	det	_	_
+149	réorganisation	réorganisation	N	NC	g=f|n=s|s=c	51	suj	_	_
+150	Sept	Sept	D	DET	s=card	152	det	_	_
+151	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	152	mod	_	_
+152	adhérents	adhérent	N	NC	g=m|n=p|s=c	51	obj	_	_
+153	au	à	P+D	P+D	s=def	51	mod	_	_
+154	syntec	syntec	N	NC	s=c	153	obj	_	_
+155	etudes	etudes	P	P	_	51	mod	_	_
+156	marketing	marketing	N	NC	g=m|n=s|s=c	155	obj	_	_
+157	et	et	C	CC	s=c	156	coord	_	_
+158	opinion	opinion	N	NC	g=f|n=s|s=c	157	dep_coord	_	_
+159	Le	le	D	DET	g=m|n=s|s=def	160	det	_	_
+160	chiffre	chiffre	N	NC	g=m|n=s|s=c	51	obj	_	_
+161	d'	de	P	P	_	160	dep	_	_
+162	affaires	affaire	N	NC	g=f|n=p|s=c	161	obj	_	_
+163	de	de	P	P	_	160	dep	_	_
+164	publicis	publici	N	NC	s=c	163	obj	_	_
+165	en_hausse	en_hausse	ADV	ADV	_	160	mod	_	_
+166	de	de	P	P	_	160	dep	_	_
+167	41,2	41,2	D	DET	s=card	168	det	_	_
+168	%	%	N	NC	g=m|s=c	166	obj	_	_
+169	Auditoire	Auditoire	N	NPP	s=p	168	mod	_	_
+170	déménage	déménager	V	V	m=ind|n=s|p=3|t=pst	51	dep	_	_
+171	Précision	Précision	N	NPP	s=p	51	suj	_	_
+172	sur	sur	P	P	_	51	mod	_	_
+173	editum	editum	ET	ET	_	174	dep	_	_
+174	Newsletter	Newsletter	ET	ET	_	172	dep	_	_
+175	du	de	P+D	P+D	s=def	174	dep	_	_
+176	05/03/2002	05/03/2002	N	NC	s=card	175	obj	_	_
+177	:	:	PONCT	PONCT	s=w	179	ponct	_	_
+178	Ipsos-médiangles	Ipsos-médiangles	N	NPP	s=p	179	suj	_	_
+179	crée	créer	V	V	m=ind|n=s|p=3|t=pst	51	mod	_	_
+180	un	un	D	DET	g=m|n=s|s=ind	181	det	_	_
+181	département	département	N	NC	g=m|n=s|s=c	179	suj	_	_
+182	presse	presser	V	V	m=ind|n=s|p=3|t=pst	179	dep	_	_
+183	d'	de	P	P	_	51	de_obj	_	_
+184	entreprise	entreprise	N	NC	g=f|n=s|s=c	183	obj	_	_
+185	Rapprochement	Rapprochement	N	NPP	s=p	184	mod	_	_
+186	entre	entre	P	P	_	51	mod	_	_
+187	id1524	id1524	N	NC	s=c	186	obj	_	_
+188	et	et	C	CC	s=c	187	coord	_	_
+189	le	le	D	DET	g=m|n=s|s=def	191	det	_	_
+190	public	public	A	ADJ	g=m|n=s|s=qual	191	mod	_	_
+191	système	système	N	NC	g=m|n=s|s=c	188	dep_coord	_	_
+192	Alice	Alice	N	NPP	g=f|n=s|s=p	191	mod	_	_
+193	emménage	emménager	V	V	m=ind|n=s|p=3|t=pst	51	aux_tps	_	_
+194	chez	chez	P	P	_	193	mod	_	_
+195	lowe	lowe	N	NC	s=c	194	obj	_	_
+196	François	François	N	NPP	g=m|n=s|s=p	195	mod	_	_
+197	decaux	decaux	P+D	P+D	s=def	195	dep	_	_
+198	se	se	CL	CLR	p=3|s=refl	199	aff	_	_
+199	lance	lancer	V	V	m=ind|n=s|p=3|t=pst	197	obj	_	_
+200	en	en	P	P	p=3	199	mod	_	_
+201	indépendant	indépendant	A	ADJ	g=m|n=s|s=qual	202	mod	_	_
+202	Newsletter	Newsletter	N	NPP	s=p	200	obj	_	_
+203	du	de	P+D	P+D	s=def	199	de_obj	_	_
+204	04/03/2002	04/03/2002	N	NC	s=card	203	obj	_	_
+205	:	:	PONCT	PONCT	s=w	207	ponct	_	_
+206	Idenium	Idenium	N	NPP	s=p	207	suj	_	_
+207	remporte	remporter	V	V	m=ind|n=s|p=3|t=pst	193	mod	_	_
+208	les	le	D	DET	n=p|s=def	209	det	_	_
+209	relations	relation	N	NC	g=f|n=p|s=c	207	suj	_	_
+210	presse	presser	V	V	m=ind|n=s|p=3|t=pst	207	dep	_	_
+211	de	de	P	P	_	207	de_obj	_	_
+212	draft	draft	N	NC	s=c	211	obj	_	_
+213	worldwide	worldwide	P	P	_	207	mod	_	_
+214	france	france	N	NC	s=c	213	obj	_	_
+215	Le	le	D	DET	g=m|n=s|s=def	216	det	_	_
+216	collectif	collectif	A	ADJ	g=m|n=s|s=qual	214	mod	_	_
+217	500	500	D	DET	s=card	218	det	_	_
+218	lance	lance	N	NC	g=f|n=s|s=c	207	suj	_	_
+219	un	un	D	DET	g=m|n=s|s=ind	221	det	_	_
+220	manifeste	manifeste	A	ADJ	n=s|s=qual	221	mod	_	_
+221	Mediacom	Mediacom	N	NPP	s=p	207	obj	_	_
+222	gagne	gagner	V	V	m=ind|n=s|p=3|t=pst	193	coord	_	_
+223	electronic	electronic	P	P	_	222	dep_coord	_	_
+224	arts	art	N	NC	g=m|n=p|s=c	223	obj	_	_
+225	et	et	C	CC	s=c	193	coord	_	_
+226	le	le	D	DET	g=m|n=s|s=def	227	det	_	_
+227	syndicat	syndicat	N	NC	g=m|n=s|s=c	232	suj	_	_
+228	des	de	P+D	P+D	s=def	227	dep	_	_
+229	antiquaires	antiquaire	N	NC	n=p|s=c	228	obj	_	_
+230	Sept	Sept	D	DET	s=card	232	det	_	_
+231	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	232	mod	_	_
+232	adhérents	adhérent	N	NC	g=m|n=p|s=c	225	dep_coord	_	_
+233	au	à	P+D	P+D	s=def	193	mod	_	_
+234	syntec	syntec	N	NC	s=c	233	obj	_	_
+235	etudes	etudes	P	P	_	193	mod	_	_
+236	marketing	marketing	N	NC	g=m|n=s|s=c	235	obj	_	_
+237	et	et	C	CC	s=c	193	coord	_	_
+238	opinion	opinion	N	NC	g=f|n=s|s=c	237	dep_coord	_	_
+239	Privé	Privé	N	NPP	s=p	238	mod	_	_
+240	de	de	P	P	_	238	dep	_	_
+241	champion	champion	N	NC	g=m|n=s|s=c	240	obj	_	_
+242	,	,	PONCT	PONCT	s=w	193	ponct	_	_
+243	editum	editum	P	P	_	193	mod	_	_
+244	ferme	ferme	N	NC	g=f|n=s|s=c	243	obj	_	_
+245	ses	son	D	DET	n=p|s=poss	246	det	_	_
+246	portes	porte	N	NC	g=f|n=p|s=c	51	suj	_	_
+247	Newsletter	Newsletter	N	NPP	s=p	246	mod	_	_
+248	du	de	P+D	P+D	s=def	246	dep	_	_
+249	01/03/2002	01/03/2002	N	NC	s=card	248	obj	_	_
+250	:	:	PONCT	PONCT	s=w	246	ponct	_	_
+251	Pema	Pema	N	NPP	s=p	246	mod	_	_
+252	groupe	groupe	N	NC	g=m|n=s|s=c	251	mod	_	_
+253	et	et	C	CC	s=c	246	coord	_	_
+254	de	de	P	P	_	253	dep_coord	_	_
+255	bonneville	bonneville	ET	ET	_	256	dep	_	_
+256	orlandini	orlandini	ET	ET	_	254	dep	_	_
+257	:	:	PONCT	PONCT	s=w	51	ponct	_	_
+258	c'	cln	CL	CLS	s=suj	260	suj	_	_
+259	est	être	V	V	m=ind|n=s|p=3|t=pst	260	aux_pass	_	_
+260	fini	finir	V	VPP	g=m|m=part|n=s|t=past	51	mod	_	_
+261	Wunderman	Wunderman	N	NPP	s=p	260	obj	_	_
+262	s'	se	CL	CLR	p=3|s=refl	263	aff	_	_
+263	attend	attendre	V	V	m=ind|n=s|p=3|t=pst	51	dep	_	_
+264	à	à	P	P	_	51	mod	_	_
+265	une	un	D	DET	g=f|n=s|s=ind	266	det	_	_
+266	activité	activité	N	NC	g=f|n=s|s=c	264	obj	_	_
+267	stable	stable	A	ADJ	n=s|s=qual	266	mod	_	_
+268	pour	pour	P	P	_	266	dep	_	_
+269	2002	2002	N	NC	s=card	268	obj	_	_
+270	Scarlett	Scarlett	N	NPP	g=f|n=s|s=p	269	mod	_	_
+271	met	mettre	V	V	m=ind|n=s|p=3|t=pst	51	aux_tps	_	_
+272	en_place	en_place	ADV	ADV	_	271	mod	_	_
+273	le	le	D	DET	g=m|n=s|s=def	274	det	_	_
+274	diagnostic	diagnostic	N	NC	g=m|n=s|s=c	271	suj	_	_
+275	marques	marque	N	NC	g=f|n=p|s=c	274	mod	_	_
+276	chaudes	chaud	A	ADJ	g=f|n=p|s=qual	274	mod	_	_
+277	Tequila	Tequila	N	NPP	s=p	274	mod	_	_
+278	remporte	remporter	V	V	m=ind|n=s|p=3|t=pst	271	dep	_	_
+279	le	le	D	DET	g=m|n=s|s=def	281	det	_	_
+280	sncf	sncf	A	ADJ	s=qual	281	mod	_	_
+281	senior	senior	N	NC	n=s|s=c	271	suj	_	_
+282	Mccann	Mccann	N	NPP	s=p	281	mod	_	_
+283	momentum	momentum	A	ADJ	s=qual	281	mod	_	_
+284	se	se	CL	CLR	p=3|s=refl	285	aff	_	_
+285	réorganise	réorganiser	V	V	m=ind|n=s|p=3|t=pst	271	dep	_	_
+286	Newsletter	Newsletter	N	NPP	s=p	285	suj	_	_
+287	du	de	P+D	P+D	s=def	271	mod	_	_
+288	28/02/2002	28/02/2002	N	NC	s=card	287	obj	_	_
+289	:	:	PONCT	PONCT	s=w	271	ponct	_	_
+290	2,5	2,5	D	DET	s=card	291	det	_	_
+291	millions	million	N	NC	n=p|s=card	271	mod	_	_
+292	d'	de	P	P	_	291	dep	_	_
+293	euros	euro	N	NC	g=m|n=p|s=c	292	obj	_	_
+294	de	de	P	P	_	293	dep	_	_
+295	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	296	mod	_	_
+296	budgets	budget	N	NC	g=m|n=p|s=c	294	obj	_	_
+297	pour	pour	P	P	_	271	mod	_	_
+298	ubi	ubi	V	VINF	m=inf	297	obj	_	_
+299	bene	bene	ADV	ADV	_	298	mod	_	_
+300	Trois	Trois	D	DET	s=card	302	det	_	_
+301	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	302	mod	_	_
+302	membres	membre	N	NC	g=m|n=p|s=c	298	obj	_	_
+303	à	à	P	P	_	298	mod	_	_
+304	l'	le	D	DET	n=s|s=def	305	det	_	_
+305	anaé	anaé	N	NC	s=c	303	obj	_	_
+306	De	un	D	DET	n=p|s=ind	308	det	_	_
+307	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	308	mod	_	_
+308	budgets	budget	N	NC	g=m|n=p|s=c	298	obj	_	_
+309	pour	pour	P	P	_	308	dep	_	_
+310	oxygen	oxygen	N	NC	s=c	309	obj	_	_
+311	Harrison	Harrison	N	NPP	g=m|n=s|s=p	310	mod	_	_
+312	&	et	C	CC	s=c	308	coord	_	_
+313	wolf	wolf	ADV	ADV	_	312	mod	_	_
+314	et	et	C	CC	s=c	271	coord	_	_
+315	steria	steria	V	V	m=ind	314	dep_coord	_	_
+316	révisent	réviser	V	V	m=ind|n=p|p=3|t=pst	271	coord	_	_
+317	leur	son	D	DET	n=s|s=poss	318	det	_	_
+318	collaboration	collaboration	N	NC	g=f|n=s|s=c	51	obj	_	_
+319	Newsletter	Newsletter	N	NPP	s=p	318	mod	_	_
+320	du	de	P+D	P+D	s=def	318	dep	_	_
+321	27/02/2002	27/02/2002	N	NC	s=card	320	obj	_	_
+322	:	:	PONCT	PONCT	s=w	51	ponct	_	_
+323	Bach	Bach	N	NPP	g=m|n=s|s=p	51	suj	_	_
+324	&	et	C	CC	s=c	51	coord	_	_
+325	partenaires	partenaire	N	NC	n=p|s=c	324	dep_coord	_	_
+326	mène	mène	V	VS	m=subj	51	coord	_	_
+327	une	un	D	DET	g=f|n=s|s=ind	328	det	_	_
+328	campagne	campagne	N	NC	g=f|n=s|s=c	51	suj	_	_
+329	d'	de	P	P	_	328	dep	_	_
+330	autopromotion	autopromotion	N	NC	s=c	329	obj	_	_
+331	K	K	N	NPP	s=p	330	mod	_	_
+332	agency	agency	V	V	m=ind	51	dep	_	_
+333	gagne	gagner	V	V	m=ind|n=s|p=3|t=pst	51	coord	_	_
+334	rexona	rexona	D	DET	_	362	mod	_	_
+335	et	et	C	CC	s=c	334	coord	_	_
+336	special	special	ET	ET	_	338	dep	_	_
+337	k	k	ET	ET	_	338	dep	_	_
+338	Précisions	Précisions	ET	ET	_	335	dep_coord	_	_
+339	d'	de	P	P	_	338	dep	_	_
+340	euro	euro	N	NC	g=m|n=s|s=c	339	obj	_	_
+341	rscg	rscg	P	P	_	334	dep	_	_
+342	works	work	N	NC	s=c	341	obj	_	_
+343	et	et	C	CC	s=c	341	coord	_	_
+344	du	de	P+D	P+D	s=def	343	dep_coord	_	_
+345	nouvel	nouveau	A	ADJ	g=m|n=s|s=qual	346	mod	_	_
+346	eldorado	eldorado	N	NC	g=m|n=s|s=c	344	obj	_	_
+347	Création	création	N	NC	g=f|n=s|s=c	346	mod	_	_
+348	de	de	P	P	_	347	dep	_	_
+349	babylone	babylone	N	NC	s=c	348	obj	_	_
+350	,	,	PONCT	PONCT	s=w	346	ponct	_	_
+351	agence	agence	N	NC	g=f|n=s|s=c	346	mod	_	_
+352	conseil	conseil	N	NPP	g=m|n=s|s=p	346	mod	_	_
+353	en	en	P	P	p=3	343	dep_coord	_	_
+354	création	création	N	NC	g=f|n=s|s=c	353	obj	_	_
+355	d'	de	P	P	_	354	dep	_	_
+356	événements	événement	N	NC	g=m|n=p|s=c	355	obj	_	_
+357	Newsletter	Newsletter	N	NPP	s=p	356	mod	_	_
+358	du	de	P+D	P+D	s=def	356	dep	_	_
+359	26/02/2002	26/02/2002	N	NC	s=card	358	obj	_	_
+360	:	:	PONCT	PONCT	s=w	362	ponct	_	_
+361	Bddptequilainteractive	Bddptequilainteractive	N	NPP	s=p	362	suj	_	_
+362	va	aller	V	V	m=ind|n=s|p=3|t=pst	333	dep_coord	_	_
+363	réaliser	réaliser	V	VINF	m=inf	362	obj	_	_
+364	l'	le	D	DET	n=s|s=def	365	det	_	_
+365	intranet	intranet	N	NC	g=m|n=s|s=c	363	obj	_	_
+366	de	de	P	P	_	365	dep	_	_
+367	la	le	D	DET	g=f|n=s|s=def	368	det	_	_
+368	cnav	cnav	N	NC	s=c	366	obj	_	_
+369	Laurence	Laurence	N	NPP	g=f|n=s|s=p	368	mod	_	_
+370	perez	perez	N	NC	s=c	369	mod	_	_
+371	,	,	PONCT	PONCT	s=w	368	ponct	_	_
+372	ex-publicisetnous	ex-publicisetnou	N	NC	s=c	368	mod	_	_
+373	,	,	PONCT	PONCT	s=w	374	ponct	_	_
+374	crée	créer	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+375	vox	vox	ADV	ADV	_	374	mod	_	_
+376	populi	populi	ADV	ADV	_	374	mod	_	_
+377	L'	le	D	DET	n=s|s=def	378	det	_	_
+378	agence	agence	N	NC	g=f|n=s|s=c	374	suj	_	_
+379	by	by	A	ADJ	s=qual	378	mod	_	_
+380	récupère	récupérer	V	V	m=ind|n=s|p=3|t=pst	374	dep	_	_
+381	céline	célin	A	ADJ	s=qual	380	mod	_	_
+382	et	et	C	CC	s=c	380	coord	_	_
+383	se	se	CL	CLR	p=3|s=refl	384	aff	_	_
+384	place	placer	V	V	m=ind|n=s|p=3|t=pst	382	dep_coord	_	_
+385	pour	pour	P	P	_	384	mod	_	_
+386	dunhill	dunhill	V	VINF	m=inf	385	obj	_	_
+387	Newsletter	Newsletter	N	NPP	s=p	386	obj	_	_
+388	du	de	P+D	P+D	s=def	386	de_obj	_	_
+389	25/02/2002	25/02/2002	N	NC	s=card	388	obj	_	_
+390	:	:	PONCT	PONCT	s=w	374	ponct	_	_
+391	Deux	Deux	D	DET	s=card	392	det	_	_
+392	annonceurs	annonceur	N	NC	g=m|n=p|s=c	374	mod	_	_
+393	pour	pour	P	P	_	392	dep	_	_
+394	loomedia	loomedia	N	NC	s=c	393	obj	_	_
+395	,	,	PONCT	PONCT	s=w	374	ponct	_	_
+396	la	le	D	DET	g=f|n=s|s=def	397	det	_	_
+397	régie	régie	N	NC	g=f|n=s|s=c	374	suj	_	_
+398	qui	qui	PRO	PROREL	s=rel	399	suj	_	_
+399	affiche	afficher	V	V	m=ind|n=s|p=3|t=pst	397	mod_rel	_	_
+400	dans	dans	P	P	_	399	mod	_	_
+401	les	le	D	DET	n=p|s=def	402	det	_	_
+402	toilettes	toilette	N	NC	g=f|n=p|s=c	400	obj	_	_
+403	L'	le	D	DET	n=s|s=def	404	det	_	_
+404	agence	agence	N	NC	g=f|n=s|s=c	406	suj	_	_
+405	eliotrope	eliotrope	A	ADJ	s=qual	404	mod	_	_
+406	participe	participer	V	V	m=ind|n=s|p=3|t=pst	399	obj	_	_
+407	au	à	P+D	P+D	s=def	406	mod	_	_
+408	lancement	lancement	N	NC	g=m|n=s|s=c	407	obj	_	_
+409	du	de	P+D	P+D	s=def	408	dep	_	_
+410	réseau	réseau	N	NC	g=m|n=s|s=c	409	obj	_	_
+411	international	international	A	ADJ	g=m|n=s|s=qual	410	mod	_	_
+412	plexus	plexus	N	NC	g=m|s=c	410	mod	_	_
+413	Noé	Noé	N	NPP	g=m|n=s|s=p	412	mod	_	_
+414	rachète	racheter	V	V	m=ind|n=s|p=3|t=pst	374	dep	_	_
+415	anstett	anstett	ADV	ADV	_	374	mod	_	_
+416	L'	le	D	DET	n=s|s=def	417	det	_	_
+417	agence	agence	N	NC	g=f|n=s|s=c	374	suj	_	_
+418	concrètement	concrètement	ADV	ADV	_	419	mod	_	_
+419	déménage	déménager	V	V	m=ind|n=s|p=3|t=pst	374	mod	_	_
+420	Clm	Clm	N	NPP	s=p	419	suj	_	_
+421	/	/	PONCT	PONCT	s=w	420	ponct	_	_
+422	bbdo	bbdo	ET	ET	_	423	suj	_	_
+423	fait	faire	V	V	m=ind|n=s|p=3|t=pst	420	mod_rel	_	_
+424	ses	son	D	DET	n=p|s=poss	425	det	_	_
+425	débuts	débuts	N	NC	g=m|n=p|s=c	423	obj	_	_
+426	pour	pour	P	P	_	423	mod	_	_
+427	uncle	uncle	D	DET	_	428	det	_	_
+428	ben	ben	N	NC	s=c	426	obj	_	_
+429	'	'	PONCT	PONCT	s=w	423	ponct	_	_
+430	s	s	ET	ET	_	431	dep	_	_
+431	Newsletter	Newsletter	ET	ET	_	423	obj	_	_
+432	du	de	P+D	P+D	s=def	423	mod	_	_
+433	22/02/2002	22/02/2002	A	ADJ	s=card	432	obj	_	_
+434	:	:	PONCT	PONCT	s=w	423	ponct	_	_
+435	Nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	436	mod	_	_
+436	clients	client	N	NC	g=m|n=p|s=c	423	mod	_	_
+437	pour	pour	P	P	_	423	mod	_	_
+438	les	le	D	DET	n=p|s=def	439	det	_	_
+439	agences	agence	N	NC	g=f|n=p|s=c	437	obj	_	_
+440	beau	beau	A	ADJ	g=m|n=s|s=qual	439	mod	_	_
+441	fixe	fixe	A	ADJ	n=s|s=qual	439	mod	_	_
+442	,	,	PONCT	PONCT	s=w	451	ponct	_	_
+443	les	le	D	DET	n=p|s=def	445	det	_	_
+444	100	100	A	ADJ	s=card	445	mod	_	_
+445	ciels	ciel	N	NC	g=m|n=p|s=c	451	suj	_	_
+446	et	et	C	CC	s=c	445	coord	_	_
+447	media	media	D	DET	_	448	det	_	_
+448	book	book	N	NC	g=m|n=s|s=c	446	dep_coord	_	_
+449	Publicis	Publicis	N	NPP	s=p	448	mod	_	_
+450	consultants	consultant	N	NC	g=m|n=p|s=c	449	mod	_	_
+451	conseille	conseiller	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+452	la	le	D	DET	g=f|n=s|s=def	453	det	_	_
+453	société	société	N	NC	g=f|n=s|s=c	451	suj	_	_
+454	générale	général	A	ADJ	g=f|n=s|s=qual	453	mod	_	_
+455	Havas	Havas	N	NPP	s=p	453	mod	_	_
+456	advertising	advertising	A	ADJ	s=qual	457	mod	_	_
+457	sports	sport	N	NC	g=m|n=p|s=c	453	mod	_	_
+458	met	mettre	V	V	m=ind|n=s|p=3|t=pst	451	dep	_	_
+459	en_place	en_place	ADV	ADV	_	451	mod	_	_
+460	une	un	D	DET	g=f|n=s|s=ind	461	det	_	_
+461	offre	offre	N	NC	g=f|n=s|s=c	451	obj	_	_
+462	européenne	européen	A	ADJ	g=f|n=s|s=qual	461	mod	_	_
+463	de	de	P	P	_	461	dep	_	_
+464	sponsoring	sponsoring	N	NC	g=m|n=s|s=c	463	obj	_	_
+465	Newsletter	Newsletter	N	NPP	s=p	464	mod	_	_
+466	du	de	P+D	P+D	s=def	464	dep	_	_
+467	18/02/2002	18/02/2002	N	NC	s=card	466	obj	_	_
+468	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+469	Capital	Capital	N	NPP	s=p	472	suj	_	_
+470	events	event	N	NC	s=c	469	mod	_	_
+471	se	se	CL	CLR	p=3|s=refl	472	aff	_	_
+472	renforce	renforcer	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+473	dans	dans	P	P	_	472	mod	_	_
+474	la	le	D	DET	g=f|n=s|s=def	475	det	_	_
+475	santé	santé	N	NC	g=f|n=s|s=c	473	obj	_	_
+476	Le	le	D	DET	g=m|n=s|s=def	477	det	_	_
+477	chiffre	chiffre	N	NC	g=m|n=s|s=c	472	obj	_	_
+478	d'	de	P	P	_	477	dep	_	_
+479	affaires	affaire	N	NC	g=f|n=p|s=c	478	obj	_	_
+480	2001	2001	A	ADJ	s=card	477	mod	_	_
+481	d'	de	P	P	_	477	dep	_	_
+482	ipsos	ipso	N	NC	s=c	481	obj	_	_
+483	en_hausse	en_hausse	ADV	ADV	_	477	mod	_	_
+484	de	de	P	P	_	477	dep	_	_
+485	46	46	D	DET	s=card	486	det	_	_
+486	%	%	N	NC	g=m|s=c	484	obj	_	_
+487	Le	le	D	DET	g=m|n=s|s=def	488	det	_	_
+488	réseau	réseau	N	NC	g=m|n=s|s=c	490	suj	_	_
+489	ten	ten	A	ADJ	s=qual	488	mod	_	_
+490	accueille	accueillir	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+491	trois	trois	D	DET	s=card	493	det	_	_
+492	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	493	mod	_	_
+493	partenaires	partenaire	N	NC	n=p|s=c	490	obj	_	_
+494	Bertrand	Bertrand	N	NPP	g=m|n=s|s=p	493	mod	_	_
+495	tierny	tierny	V	V	m=ind	3	mod	_	_
+496	quitte	quitter	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+497	la	le	D	DET	g=f|n=s|s=def	498	det	_	_
+498	présidence	présidence	N	NC	g=f|n=s|s=c	496	suj	_	_
+499	de	de	P	P	_	498	dep	_	_
+500	mccann	mccann	ET	ET	_	499	obj	_	_
+501	momentum	momentum	ET	ET	_	500	mod	_	_
+502	Un	un	D	DET	g=m|n=s|s=ind	503	det	_	_
+503	phénix	phénix	N	NC	g=m|s=c	500	mod	_	_
+504	pour	pour	P	P	_	496	mod	_	_
+505	jd	jd	D	DET	_	506	det	_	_
+506	relations	relation	N	NC	g=f|n=p|s=c	504	obj	_	_
+507	Newsletter	Newsletter	N	NPP	s=p	506	mod	_	_
+508	du	de	P+D	P+D	s=def	506	dep	_	_
+509	15/02/2002	15/02/2002	N	NC	s=card	508	obj	_	_
+510	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+511	Festival	festival	N	NC	g=m|n=s|s=c	3	mod	_	_
+512	de	de	P	P	_	511	dep	_	_
+513	cannes	canne	N	NC	g=f|n=p|s=c	512	obj	_	_
+514	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+515	mercedes	cln	CL	CLS	s=suj	516	suj	_	_
+516	erra	errer	V	V	m=ind|n=s|p=3|t=past	3	mod	_	_
+517	au	à	P+D	P+D	s=def	516	mod	_	_
+518	jury	jury	N	NC	g=m|n=s|s=c	517	obj	_	_
+519	film	film	N	NC	g=m|n=s|s=c	518	mod	_	_
+520	,	,	PONCT	PONCT	s=w	516	ponct	_	_
+521	olivier	olivier	N	NC	g=m|n=s|s=c	516	mod	_	_
+522	altmann	altmann	A	ADJ	s=qual	521	mod	_	_
+523	et	et	C	CC	s=c	521	coord	_	_
+524	gabriel	gabriel	ET	ET	_	525	dep	_	_
+525	gaultier	gaultier	ET	ET	_	523	dep_coord	_	_
+526	au	à	P+D	P+D	s=def	516	mod	_	_
+527	print	print	A	ADJ	s=qual	528	mod	_	_
+528	Publicis	Publici	N	NC	s=c	526	obj	_	_
+529	consultants	consultant	N	NC	g=m|n=p|s=c	528	mod	_	_
+530	rachète	racheter	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+531	johnston	johnston	ADV	ADV	_	530	mod	_	_
+532	&	et	C	CC	s=c	530	coord	_	_
+533	associates	associates	ET	ET	_	532	dep_coord	_	_
+534	aux	à	P+D	P+D	s=def	530	mod	_	_
+535	etats-unis	etats-unis	C	CC	s=c	530	coord	_	_
+536	La	le	D	DET	g=f|n=s|s=def	537	det	_	_
+537	marge	marge	N	NC	g=f|n=s|s=c	535	dep_coord	_	_
+538	brute	brut	A	ADJ	g=f|n=s|s=qual	537	mod	_	_
+539	de	de	P	P	_	537	dep	_	_
+540	havas	havas	ET	ET	_	541	dep	_	_
+541	advertising	advertising	ET	ET	_	539	dep	_	_
+542	en_hausse	en_hausse	ADV	ADV	_	537	mod	_	_
+543	de	de	P	P	_	537	dep	_	_
+544	24,8	24,8	D	DET	s=card	545	det	_	_
+545	%	%	N	NC	g=m|s=c	543	obj	_	_
+546	Eurokapi	Eurokapi	N	NPP	s=p	537	mod	_	_
+547	étoffe	étoffer	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+548	son	son	D	DET	n=s|s=poss	549	det	_	_
+549	équipe	équipe	N	NC	g=f|n=s|s=c	3	obj	_	_
+550	Trois	Trois	A	ADJ	s=card	549	mod	_	_
+551	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	549	mod	_	_
+552	budgets	budget	N	NC	g=m|n=p|s=c	549	mod	_	_
+553	pour	pour	P	P	_	3	mod	_	_
+554	oko	oko	ET	ET	_	555	dep	_	_
+555	Newsletter	Newsletter	ET	ET	_	553	dep	_	_
+556	du	de	P+D	P+D	s=def	555	dep	_	_
+557	14/02/2002	14/02/2002	A	ADJ	s=card	556	obj	_	_
+558	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+559	High	High	N	NPP	s=p	587	mod	_	_
+560	co	co	N	NC	s=c	559	mod	_	_
+561	en	en	P	P	p=3	560	dep	_	_
+562	compétition	compétition	N	NC	g=f|n=s|s=c	561	obj	_	_
+563	pour	pour	P	P	_	560	dep	_	_
+564	le	le	D	DET	g=m|n=s|s=def	565	det	_	_
+565	stade	stade	N	NC	g=m|n=s|s=c	563	obj	_	_
+566	france	france	ET	ET	_	565	dep	_	_
+567	Sr	Sr	ET	ET	_	565	dep	_	_
+568	teleperformance	teleperformance	ET	ET	_	565	dep	_	_
+569	:	:	PONCT	PONCT	s=w	559	ponct	_	_
+570	activité	activité	N	NC	g=f|n=s|s=c	559	mod	_	_
+571	en_hausse	en_hausse	ADV	ADV	_	570	mod	_	_
+572	de	de	P	P	_	571	dep	_	_
+573	30	30	D	DET	s=card	574	det	_	_
+574	%	%	N	NC	g=m|s=c	572	obj	_	_
+575	en	en	P	P	p=3	570	dep	_	_
+576	2001	2001	A	ADJ	s=card	575	obj	_	_
+577	Quatre	Quatre	D	DET	s=card	579	det	_	_
+578	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	579	mod	_	_
+579	clients	client	N	NC	g=m|n=p|s=c	559	mod	_	_
+580	pour	pour	P	P	_	579	dep	_	_
+581	next	next	ET	ET	_	583	dep	_	_
+582	step	step	ET	ET	_	583	dep	_	_
+583	Interpublic	Interpublic	ET	ET	_	580	dep	_	_
+584	:	:	PONCT	PONCT	s=w	559	ponct	_	_
+585	les	le	D	DET	n=p|s=def	586	det	_	_
+586	barons	baron	N	NC	g=m|n=p|s=c	587	suj	_	_
+587	quittent	quitter	V	V	m=ind|n=p|p=3|t=pst	3	mod	_	_
+588	le	le	D	DET	g=m|n=s|s=def	589	det	_	_
+589	board	board	N	NC	s=c	587	suj	_	_
+590	Eurodirect	Eurodirect	N	NPP	s=p	589	mod	_	_
+591	marketing	marketing	N	NC	g=m|n=s|s=c	590	mod	_	_
+592	crée	créer	V	V	m=ind|n=s|p=3|t=pst	587	dep	_	_
+593	une	un	D	DET	g=f|n=s|s=ind	594	det	_	_
+594	joint-venture	joint-venture	N	NC	n=s|s=c	587	obj	_	_
+595	avec	avec	P	P	_	587	mod	_	_
+596	bertelsmann	bertelsmann	N	NC	s=c	595	obj	_	_
+597	Newsletter	Newsletter	N	NPP	s=p	596	mod	_	_
+598	du	de	P+D	P+D	s=def	596	dep	_	_
+599	13/02/2002	13/02/2002	N	NC	s=card	598	obj	_	_
+600	:	:	PONCT	PONCT	s=w	602	ponct	_	_
+601	Claritas	Claritas	N	NPP	s=p	602	suj	_	_
+602	lance	lancer	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+603	spectra	spectra	ET	ET	_	604	dep	_	_
+604	europe	europe	ET	ET	_	602	suj	_	_
+605	Sophie	Sophie	N	NPP	g=f|n=s|s=p	604	mod	_	_
+606	renard	renard	N	NC	g=m|n=s|s=c	605	mod	_	_
+607	,	,	PONCT	PONCT	s=w	604	ponct	_	_
+608	président	président	N	NC	g=m|n=s|s=c	604	mod	_	_
+609	intérimaire	intérimaire	A	ADJ	n=s|s=qual	608	mod	_	_
+610	du	de	P+D	P+D	s=def	608	dep	_	_
+611	syntec	syntec	ET	ET	_	612	dep	_	_
+612	rp	rp	ET	ET	_	610	dep	_	_
+613	Les	le	D	DET	n=p|s=def	614	det	_	_
+614	cartes	carte	N	NC	g=f|n=p|s=c	612	obj	_	_
+615	de	de	P	P	_	614	dep	_	_
+616	voeux	voeu	N	NC	g=m|n=p|s=c	615	obj	_	_
+617	soumises	soumettre	V	VPP	g=f|m=part|n=p|t=past	614	mod	_	_
+618	au	à	P+D	P+D	s=def	617	a_obj	_	_
+619	vote	vote	N	NC	g=m|n=s|s=c	618	obj	_	_
+620	chez	chez	P	P	_	617	mod	_	_
+621	gibory	gibory	N	NC	s=c	620	obj	_	_
+622	consultant	consultant	N	NC	g=m|n=s|s=c	621	mod	_	_
+623	Deux	Deux	D	DET	s=card	625	det	_	_
+624	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	625	mod	_	_
+625	budgets	budget	N	NC	g=m|n=p|s=c	621	mod	_	_
+626	chez	chez	P	P	_	625	dep	_	_
+627	creapress	creapres	N	NC	s=c	626	obj	_	_
+628	Le	le	D	DET	g=m|n=s|s=def	629	det	_	_
+629	chiffre	chiffre	N	NC	g=m|n=s|s=c	617	mod	_	_
+630	d'	de	P	P	_	629	dep	_	_
+631	affaires	affaire	N	NC	g=f|n=p|s=c	630	obj	_	_
+632	de	de	P	P	_	629	dep	_	_
+633	publicis	publici	N	NC	s=c	632	obj	_	_
+634	en	en	P	P	p=3	617	mod	_	_
+635	forte	fort	A	ADJ	g=f|n=s|s=qual	636	mod	_	_
+636	hausse	hausse	N	NC	g=f|n=s|s=c	634	obj	_	_
+637	en	en	P	P	p=3	636	dep	_	_
+638	2001	2001	A	ADJ	s=card	637	obj	_	_
+639	grâce_à	grâce_à	P	P	_	617	mod	_	_
+640	ses	son	D	DET	n=p|s=poss	641	det	_	_
+641	acquisitions	acquisition	N	NC	g=f|n=p|s=c	639	obj	_	_
+642	Newsletter	Newsletter	N	NPP	s=p	641	mod	_	_
+643	du	de	P+D	P+D	s=def	641	dep	_	_
+644	12/02/2002	12/02/2002	N	NC	s=card	643	obj	_	_
+645	:	:	PONCT	PONCT	s=w	647	ponct	_	_
+646	Médiapost	Médiapost	N	NPP	s=p	647	suj	_	_
+647	prend	prendre	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+648	le	le	D	DET	g=m|n=s|s=def	649	det	_	_
+649	contrôle	contrôle	N	NC	g=m|n=s|s=c	647	suj	_	_
+650	de	de	P	P	_	649	dep	_	_
+651	delta	delta	N	NC	g=m|n=s|s=c	650	obj	_	_
+652	diffusion	diffusion	N	NC	g=f|n=s|s=c	654	mod	_	_
+653	Jean-louis	Jean-louis	N	NPP	s=p	654	suj	_	_
+654	azizollah	azizollah	V	V	m=ind	647	mod	_	_
+655	revient	revenir	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+656	avec	avec	P	P	_	655	mod	_	_
+657	jla	jla	ET	ET	_	662	dep	_	_
+658	and	and	ET	ET	_	662	dep	_	_
+659	partners	partners	ET	ET	_	662	dep	_	_
+660	Quatre	Quatre	D	DET	s=card	662	det	_	_
+661	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	662	mod	_	_
+662	clients	client	N	NC	g=m|n=p|s=c	656	obj	_	_
+663	pour	pour	P	P	_	662	dep	_	_
+664	lewis	lewis	D	DET	_	665	det	_	_
+665	communications	communication	N	NC	g=f|n=p|s=c	663	obj	_	_
+666	Mccann	Mccann	N	NPP	s=p	665	mod	_	_
+667	réorganise	réorganiser	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+668	ses	son	D	DET	n=p|s=poss	669	det	_	_
+669	activités	activité	N	NC	g=f|n=p|s=c	667	suj	_	_
+670	médias	média	N	NC	g=m|n=p|s=c	669	mod	_	_
+671	en	en	P	P	p=3	667	mod	_	_
+672	france	france	N	NC	s=c	671	obj	_	_
+673	Newsletter	Newsletter	N	NPP	s=p	672	mod	_	_
+674	du	de	P+D	P+D	s=def	672	dep	_	_
+675	11/02/2002	11/02/2002	N	NC	s=card	674	obj	_	_
+676	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+677	L'	le	D	DET	n=s|s=def	678	det	_	_
+678	agence	agence	N	NC	g=f|n=s|s=c	680	suj	_	_
+679	lyonnaise	lyonnais	A	ADJ	g=f|n=s|s=qual	678	mod	_	_
+680	mga	mga	V	V	m=ind	3	mod	_	_
+681	se	se	CL	CLR	p=3|s=refl	682	aff	_	_
+682	régénère	régénérer	V	V	m=ind|n=s|p=3|t=pst	3	dep	_	_
+683	Saguez	Saguez	N	NPP	s=p	682	suj	_	_
+684	&	et	C	CC	s=c	682	coord	_	_
+685	partners	partner	N	NC	g=m|n=p|s=c	686	suj	_	_
+686	signe	signer	V	V	m=ind|n=s|p=3|t=pst	684	dep_coord	_	_
+687	la	le	D	DET	g=f|n=s|s=def	689	det	_	_
+688	nouvelle	nouveau	A	ADJ	g=f|n=s|s=qual	689	mod	_	_
+689	identité	identité	N	NC	g=f|n=s|s=c	686	obj	_	_
+690	visuelle	visuel	A	ADJ	g=f|n=s|s=qual	689	mod	_	_
+691	de	de	P	P	_	689	dep	_	_
+692	pomme	pomme	N	NC	g=f|n=s|s=c	691	obj	_	_
+693	de	de	P	P	_	692	dep	_	_
+694	pain	pain	N	NC	g=m|n=s|s=c	693	obj	_	_
+695	Exmachina	Exmachina	N	NPP	s=p	694	mod	_	_
+696	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+697	60	60	D	DET	s=card	698	det	_	_
+698	emplois	emploi	N	NC	g=m|n=p|s=c	3	obj	_	_
+699	sauvés	sauver	V	VPP	g=m|m=part|n=p|t=past	698	mod	_	_
+700	sur	sur	P	P	_	699	mod	_	_
+701	158	158	D	DET	s=card	702	det	_	_
+702	Patrice	Patrice	N	NPP	g=m|n=s|s=p	700	obj	_	_
+703	saugeron	saugeron	N	NC	s=c	702	mod	_	_
+704	,	,	PONCT	PONCT	s=w	702	ponct	_	_
+705	pdg	pdg	N	NC	s=c	702	mod	_	_
+706	de	de	P	P	_	705	dep	_	_
+707	mccann	mccann	N	NC	s=c	706	obj	_	_
+708	,	,	PONCT	PONCT	s=w	710	ponct	_	_
+709	s'	se	CL	CLR	p=3|s=refl	710	aff	_	_
+710	entoure	entourer	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+711	d'	de	P	P	_	710	de_obj	_	_
+712	un	un	D	DET	g=m|n=s|s=ind	713	det	_	_
+713	comité	comité	N	NC	g=m|n=s|s=c	711	obj	_	_
+714	exécutif	exécutif	A	ADJ	g=m|n=s|s=qual	713	mod	_	_
+715	Newsletter	Newsletter	N	NPP	s=p	713	mod	_	_
+716	du	de	P+D	P+D	s=def	713	dep	_	_
+717	08/02/2002	08/02/2002	N	NC	s=card	716	obj	_	_
+718	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+719	Young	Young	N	NPP	n=s|s=p	3	mod	_	_
+720	&	et	C	CC	s=c	3	coord	_	_
+721	rubicam	rubicam	N	NC	s=c	722	suj	_	_
+722	gagne	gagner	V	V	m=ind|n=s|p=3|t=pst	720	dep_coord	_	_
+723	la	le	D	DET	g=f|n=s|s=def	724	det	_	_
+724	carte	carte	N	NC	g=f|n=s|s=c	722	obj	_	_
+725	imagine	imaginer	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+726	r	r	V	VINF	m=inf	3	obj	_	_
+727	Louis	Louis	N	NPP	g=m|n=s|s=p	726	obj	_	_
+728	xiv	xiv	ET	ET	_	727	mod	_	_
+729	ddb	ddb	ET	ET	_	727	mod	_	_
+730	fait	faire	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+731	ses	son	D	DET	n=p|s=poss	732	det	_	_
+732	débuts	débuts	N	NC	g=m|n=p|s=c	730	suj	_	_
+733	avec	avec	P	P	_	730	mod	_	_
+734	la	le	D	DET	g=f|n=s|s=def	735	det	_	_
+735	poste	poste	N	NC	n=s|s=c	733	obj	_	_
+736	et	et	C	CC	s=c	735	coord	_	_
+737	bouygues	bouygue	N	NC	s=c	736	dep_coord	_	_
+738	telecom	telecom	A	ADJ	s=qual	737	mod	_	_
+739	Chiffre	chiffre	N	NC	g=m|n=s|s=c	737	mod	_	_
+740	d'	de	P	P	_	739	dep	_	_
+741	affaires	affaire	N	NC	g=f|n=p|s=c	740	obj	_	_
+742	quasi	quasi	ADV	ADV	_	743	mod	_	_
+743	stable	stable	A	ADJ	n=s|s=qual	735	mod	_	_
+744	pour	pour	P	P	_	730	mod	_	_
+745	le	le	D	DET	g=m|n=s|s=def	747	det	_	_
+746	public	public	A	ADJ	g=m|n=s|s=qual	747	mod	_	_
+747	système	système	N	NC	g=m|n=s|s=c	744	obj	_	_
+748	Leagas	Leagas	N	NPP	s=p	747	mod	_	_
+749	delaney	delaney	P	P	_	730	mod	_	_
+750	paris	pari	N	NC	g=m|n=p|s=c	749	obj	_	_
+751	centre	centre	N	NC	g=m|n=s|s=c	730	suj	_	_
+752	en	en	P	P	p=3	730	mod	_	_
+753	or	or	N	NC	s=c	752	obj	_	_
+754	à	à	P	P	_	730	mod	_	_
+755	new	new	ET	ET	_	759	dep	_	_
+756	york	york	ET	ET	_	759	dep	_	_
+757	Tarak	Tarak	ET	ET	_	759	dep	_	_
+758	ben	ben	ET	ET	_	759	dep	_	_
+759	amar	amar	ET	ET	_	754	dep	_	_
+760	,	,	PONCT	PONCT	s=w	730	ponct	_	_
+761	repreneur	repreneur	N	NC	s=c	730	mod	_	_
+762	d'	de	P	P	_	761	dep	_	_
+763	exmachina	exmachina	ET	ET	_	764	dep	_	_
+764	Newsletter	Newsletter	ET	ET	_	762	dep	_	_
+765	du	de	P+D	P+D	s=def	764	dep	_	_
+766	07/02/2002	07/02/2002	N	NC	s=card	765	obj	_	_
+767	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+768	Clio	Clio	N	NPP	g=f|n=s|s=p	773	suj	_	_
+769	2002	2002	N	NC	s=card	768	mod	_	_
+770	:	:	PONCT	PONCT	s=w	773	ponct	_	_
+771	les	le	D	DET	n=p|s=def	772	det	_	_
+772	jurys	jury	N	NC	g=m|n=p|s=c	773	suj	_	_
+773	sont	être	V	V	m=ind|n=p|p=3|t=pst	3	mod	_	_
+774	au	à	P+D	P+D	s=def	773	mod	_	_
+775	complet	complet	A	ADJ	g=m|n=s|s=qual	774	obj	_	_
+776	Cinq	Cinq	N	NPP	s=p	775	mod	_	_
+777	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	778	mod	_	_
+778	clients	client	N	NC	g=m|n=p|s=c	775	mod	_	_
+779	pour	pour	P	P	_	775	dep	_	_
+780	actus	actualité	N	NC	g=f|n=p|s=c	779	obj	_	_
+781	high	high	ET	ET	_	775	dep	_	_
+782	tech	tech	ET	ET	_	775	dep	_	_
+783	L'	le	D	DET	n=s|s=def	784	det	_	_
+784	agence	agence	N	NC	g=f|n=s|s=c	805	mod	_	_
+785	stratéus	stratéus	ADV	ADV	_	786	mod	_	_
+786	entièrement	entièrement	ADV	ADV	_	787	mod	_	_
+787	certifiée	certifier	V	VPP	g=f|m=part|n=s|t=past	784	mod	_	_
+788	iso	iso	ET	ET	_	784	dep	_	_
+789	9001	9001	ET	ET	s=card	784	dep	_	_
+790	Quatre	Quatre	D	DET	s=card	791	det	_	_
+791	agences	agence	N	NC	g=f|n=p|s=c	805	suj	_	_
+792	françaises	français	A	ADJ	g=f|n=p|s=qual	791	mod	_	_
+793	primées	primer	V	VPP	g=f|m=part|n=p|t=past	791	mod	_	_
+794	au	à	P+D	P+D	s=def	793	a_obj	_	_
+795	new	new	ADV	ADV	_	794	mod	_	_
+796	york	york	ADV	ADV	_	794	mod	_	_
+797	festival	festival	N	NC	g=m|n=s|s=c	794	obj	_	_
+798	Newsletter	Newsletter	N	NPP	s=p	797	mod	_	_
+799	du	de	P+D	P+D	s=def	797	dep	_	_
+800	06/02/2002	06/02/2002	N	NC	s=card	799	obj	_	_
+801	:	:	PONCT	PONCT	s=w	791	ponct	_	_
+802	W	W	N	NPP	s=p	791	mod	_	_
+803	&	et	C	CC	s=c	791	coord	_	_
+804	cie	cie	N	NC	s=c	803	dep_coord	_	_
+805	gagne	gagner	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+806	des	de	D	DET	_	807	det	_	_
+807	budgets	budget	N	NC	g=m|n=p|s=c	805	obj	_	_
+808	dans	dans	P	P	_	807	dep	_	_
+809	le	le	D	DET	g=m|n=s|s=def	811	det	_	_
+810	grand	grand	A	ADJ	g=m|n=s|s=qual	811	mod	_	_
+811	ouest	ouest	N	NC	g=m|n=s|s=c	808	obj	_	_
+812	Omd	Omd	N	NPP	s=p	811	mod	_	_
+813	lance	lancer	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+814	un	un	D	DET	g=m|n=s|s=ind	815	det	_	_
+815	outil	outil	N	NC	g=m|n=s|s=c	813	suj	_	_
+816	d'	de	P	P	_	815	dep	_	_
+817	optimisation	optimisation	N	NC	g=f|n=s|s=c	816	obj	_	_
+818	et	et	C	CC	s=c	816	coord	_	_
+819	de	de	P	P	_	818	dep_coord	_	_
+820	construction	construction	N	NC	g=f|n=s|s=c	819	obj	_	_
+821	des	de	P+D	P+D	s=def	820	dep	_	_
+822	campagnes	campagne	N	NC	g=f|n=p|s=c	821	obj	_	_
+823	de	de	P	P	_	822	dep	_	_
+824	marketing	marketing	N	NC	g=m|n=s|s=c	823	obj	_	_
+825	direct	direct	A	ADJ	g=m|n=s|s=qual	824	mod	_	_
+826	Deux	Deux	D	DET	s=card	828	det	_	_
+827	nouveaux	nouveau	A	ADJ	g=m|n=p|s=qual	828	mod	_	_
+828	clients	client	N	NC	g=m|n=p|s=c	813	mod	_	_
+829	internationaux	international	A	ADJ	g=m|n=p|s=qual	828	mod	_	_
+830	pour	pour	P	P	_	813	mod	_	_
+831	text	text	ET	ET	_	830	dep	_	_
+832	100	100	D	DET	s=card	834	det	_	_
+833	Trimedia	Trimedia	ET	ET	_	834	dep	_	_
+834	communications	communication	N	NC	g=f|n=p|s=c	836	suj	_	_
+835	france	france	A	ADJ	s=qual	834	mod	_	_
+836	étoffe	étoffer	V	V	m=ind|n=s|p=3|t=pst	830	obj	_	_
+837	son	son	D	DET	n=s|s=poss	838	det	_	_
+838	pôle	pôle	N	NC	g=m|n=s|s=c	836	obj	_	_
+839	high-tech	high-tech	A	ADJ	s=qual	838	mod	_	_
+840	Ebb	Ebb	N	NPP	s=p	838	mod	_	_
+841	and	and	ET	ET	_	840	dep	_	_
+842	flow	flow	ET	ET	_	840	dep	_	_
+843	,	,	PONCT	PONCT	s=w	838	ponct	_	_
+844	nouvelle	nouveau	A	ADJ	g=f|n=s|s=qual	845	mod	_	_
+845	agence	agence	N	NC	g=f|n=s|s=c	838	mod	_	_
+846	de	de	P	P	_	845	dep	_	_
+847	marketing	marketing	N	NC	g=m|n=s|s=c	846	obj	_	_
+848	relationnel	relationnel	A	ADJ	g=m|n=s|s=qual	847	mod	_	_
+849	Newsletter	Newsletter	N	NPP	s=p	847	mod	_	_
+850	du	de	P+D	P+D	s=def	847	dep	_	_
+851	05/02/2002	05/02/2002	N	NC	s=card	850	obj	_	_
+852	:	:	PONCT	PONCT	s=w	854	ponct	_	_
+853	Publicis	Publicis	N	NPP	s=p	854	suj	_	_
+854	renforce	renforcer	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+855	sa	son	D	DET	g=f|n=s|s=poss	856	det	_	_
+856	filiale	filiale	N	NC	g=f|n=s|s=c	854	suj	_	_
+857	japonaise	japonais	A	ADJ	g=f|n=s|s=qual	856	mod	_	_
+858	Altaï	Altaï	N	NPP	s=p	856	mod	_	_
+859	engrange	engranger	V	V	m=ind|n=s|p=3|t=pst	854	dep	_	_
+860	plusieurs	plusieurs	D	DET	n=p	861	det	_	_
+861	budgets	budget	N	NC	g=m|n=p|s=c	854	suj	_	_
+862	Carré	Carré	N	NPP	s=p	861	mod	_	_
+863	noir	noir	A	ADJ	g=m|n=s|s=qual	862	mod	_	_
+864	et	et	C	CC	s=c	862	coord	_	_
+865	dragon	dragon	N	NC	g=m|n=s|s=c	864	dep_coord	_	_
+866	rouge	rouge	A	ADJ	n=s|s=qual	865	mod	_	_
+867	en	en	P	P	p=3	864	dep_coord	_	_
+868	finale	final	A	ADJ	g=f|n=s|s=qual	867	obj	_	_
+869	sur	sur	P	P	_	861	dep	_	_
+870	la	le	D	DET	g=f|n=s|s=def	871	det	_	_
+871	maif	maif	N	NC	s=c	869	obj	_	_
+872	Rebondissement	Rebondissement	N	NPP	s=p	871	mod	_	_
+873	dans	dans	P	P	_	861	dep	_	_
+874	la	le	D	DET	g=f|n=s|s=def	875	det	_	_
+875	liquidation	liquidation	N	NC	g=f|n=s|s=c	873	obj	_	_
+876	d'	de	P	P	_	875	dep	_	_
+877	exmachina	exmachina	ET	ET	_	878	dep	_	_
+878	Newsletter	Newsletter	ET	ET	_	876	dep	_	_
+879	du	de	P+D	P+D	s=def	878	dep	_	_
+880	04/02/2002	04/02/2002	N	NC	s=card	879	obj	_	_
+881	:	:	PONCT	PONCT	s=w	883	ponct	_	_
+882	Sri	Sri	N	NPP	g=f|n=s|s=p	883	suj	_	_
+883	devient	devenir	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+884	c-sports	c-sports	D	DET	_	885	det	_	_
+885	communication	communication	N	NC	g=f|n=s|s=c	883	suj	_	_
+886	Le	le	D	DET	g=m|n=s|s=def	887	det	_	_
+887	groupe	groupe	N	NC	g=m|n=s|s=c	889	suj	_	_
+888	sogec	sogec	A	ADJ	s=qual	887	mod	_	_
+889	rebaptise	rebaptiser	V	V	m=ind|n=s|p=3|t=pst	883	mod	_	_
+890	son	son	D	DET	n=s|s=poss	891	det	_	_
+891	pôle	pôle	N	NC	g=m|n=s|s=c	889	obj	_	_
+892	conseil	conseil	N	NPP	g=m|n=s|s=p	891	mod	_	_
+893	Nex	Nex	N	NPP	s=p	891	mod	_	_
+894	&	et	C	CC	s=c	891	coord	_	_
+895	com	com	N	NC	s=c	894	dep_coord	_	_
+896	crée	créer	V	V	m=ind|n=s|p=3|t=pst	3	mod	_	_
+897	nex	nex	ADV	ADV	_	896	mod	_	_
+898	&	et	C	CC	s=c	896	coord	_	_
+899	com	com	ET	ET	_	901	dep	_	_
+900	travel	travel	ET	ET	_	901	dep	_	_
+901	Consodata	Consodata	ET	ET	_	898	dep_coord	_	_
+902	investit	investir	V	V	m=ind|n=s|p=3|t=pst	3	dep	_	_
+903	en	en	P	P	p=3	902	mod	_	_
+904	chine	chine	N	NC	n=s|s=c	903	obj	_	_
+905	Le	le	D	DET	g=m|n=s|s=def	906	det	_	_
+906	groupe	groupe	N	NC	g=m|n=s|s=c	902	obj	_	_
+907	leo	leo	ET	ET	_	906	mod	_	_
+908	burnett	burnett	ET	ET	_	906	mod	_	_
+909	france	france	ET	ET	_	908	mod	_	_
+910	rachète	racheter	V	V	m=ind|n=s|p=3|t=pst	3	dep	_	_
+911	ipc	ipc	P	P	_	910	mod	_	_
+912	Newsletter	Newsletter	N	NPP	s=p	911	obj	_	_
+913	du	de	P+D	P+D	s=def	912	dep	_	_
+914	01/02/2002	01/02/2002	N	NC	s=card	913	obj	_	_
+915	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+916	Le	le	D	DET	g=m|n=s|s=def	917	det	_	_
+917	chiffre	chiffre	N	NC	g=m|n=s|s=c	3	obj	_	_
+918	d'	de	P	P	_	917	dep	_	_
+919	affaires	affaire	N	NC	g=f|n=p|s=c	918	obj	_	_
+920	d'	de	P	P	_	919	dep	_	_
+921	altedia	altedia	N	NC	s=c	920	obj	_	_
+922	en_hausse	en_hausse	ADV	ADV	_	3	mod	_	_
+923	de	de	P	P	_	3	de_obj	_	_
+924	40	40	D	DET	s=card	925	det	_	_
+925	%	%	N	NC	g=m|s=c	923	obj	_	_
+926	High	High	N	NPP	s=p	3	mod	_	_
+927	co	co	ET	ET	_	926	dep	_	_
+928	a	avoir	V	V	m=ind|n=s|p=3|t=pst	929	aux_tps	_	_
+929	connu	connaître	V	VPP	g=m|m=part|n=s|t=past	3	mod	_	_
+930	une	un	D	DET	g=f|n=s|s=ind	931	det	_	_
+931	croissance	croissance	N	NC	g=f|n=s|s=c	929	obj	_	_
+932	de	de	P	P	_	931	dep	_	_
+933	19	19	D	DET	s=card	934	det	_	_
+934	%	%	N	NC	g=m|s=c	932	obj	_	_
+935	en	en	P	P	p=3	929	mod	_	_
+936	2001	2001	A	ADJ	s=card	937	mod	_	_
+937	Market	Market	N	NPP	s=p	935	obj	_	_
+938	place	place	N	NC	g=f|n=s|s=c	937	mod	_	_
+939	gérera	gérer	V	V	m=ind|n=s|p=3|t=fut	3	mod	_	_
+940	ses	son	D	DET	n=p|s=poss	941	det	_	_
+941	relations	relation	N	NC	g=f|n=p|s=c	939	suj	_	_
+942	publiques	public	A	ADJ	g=f|n=p|s=qual	941	mod	_	_
+943	avec	avec	P	P	_	941	dep	_	_
+944	idenium	idenium	N	NC	s=c	943	obj	_	_
+945	Le	le	D	DET	g=m|n=s|s=def	946	det	_	_
+946	groupe	groupe	N	NC	g=m|n=s|s=c	948	suj	_	_
+947	transatlantic	transatlantic	A	ADJ	s=qual	946	mod	_	_
+948	acquiert	acquérir	V	V	m=ind|n=s|p=3|t=pst	939	mod	_	_
+949	medialab	medialab	ET	ET	_	948	obj	_	_
+950	technology	technology	ET	ET	_	952	dep	_	_
+951	Nombre_de	Nombre_de	ET	ET	_	952	dep	_	_
+952	pages	page	N	NC	n=p|s=c	949	obj	_	_
+953	de	de	P	P	_	952	dep	_	_
+954	résultats	résultat	N	NC	g=m|n=p|s=c	953	obj	_	_
+955	:	:	PONCT	PONCT	s=w	3	ponct	_	_
+
+Parents' sons: [618, 620, 629, 634, 639]	Children's sons: [640, 642, 643]
+
+------->  soumettre~vote{VPP~NC|mod~obj}		grâce_à{P|mod}		acquisition{NC|obj}		Causation
+
+
+51|1931) Si nos rivières sont dépeuplées, ce n' est pas à_cause_de la pêche mais des différentes modification- pour ne_pas dire agressions- apportées au milieu par l' activité humaine. 
+1	Si	si	C	CS	s=s	9	mod	_	_
+2	nos	son	D	DET	n=p|s=poss	3	det	_	_
+3	rivières	rivière	N	NC	g=f|n=p|s=c	5	suj	_	_
+4	sont	être	V	V	m=ind|n=p|p=3|t=pst	5	aux_pass	_	_
+5	dépeuplées	dépeupler	V	VPP	g=f|m=part|n=p|t=past	1	obj	_	_
+6	,	,	PONCT	PONCT	s=w	9	ponct	_	_
+7	ce	cln	CL	CLS	s=suj	9	suj	_	_
+8	n'	ne	ADV	ADV	s=neg	9	mod	_	_
+9	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+10	pas	pas	ADV	ADV	s=neg	9	mod	_	_
+11	à_cause_de	à_cause_de	P	P	_	9	mod	_	_
+12	la	le	D	DET	g=f|n=s|s=def	13	det	_	_
+13	pêche	pêche	N	NC	g=f|n=s|s=c	11	obj	_	_
+14	mais	mais	C	CC	s=c|marker=304	9	coord	_	_
+15	des	de	D	DET	_	17	det	_	_
+16	différentes	différent	A	ADJ	g=f|n=p|s=qual	17	mod	_	_
+17	modification	modification	N	NC	g=f|n=s|s=c	0	root	_	_
+18	-	-	PONCT	PONCT	s=w	17	ponct	_	_
+19	pour	pour	P	P	_	17	dep	_	_
+20	ne_pas	ne_pas	ADV	ADV	_	21	mod	_	_
+21	dire	dire	V	VINF	m=inf	19	obj	_	_
+22	agressions	agression	N	NC	g=f|n=p|s=c	21	obj	_	_
+23	-	-	PONCT	PONCT	s=w	17	ponct	_	_
+24	apportées	apporter	V	VPP	g=f|m=part|n=p|t=past	17	mod	_	_
+25	au	à	P+D	P+D	s=def	24	a_obj	_	_
+26	milieu	milieu	N	NC	g=m|n=s|s=c	25	obj	_	_
+27	par	par	P	P	_	24	p_obj	_	_
+28	l'	le	D	DET	n=s|s=def	29	det	_	_
+29	activité	activité	N	NC	g=f|n=s|s=c	27	obj	_	_
+30	humaine	humain	A	ADJ	g=f|n=s|s=qual	29	mod	_	_
+31	.	.	PONCT	PONCT	s=s	17	ponct	_	_
+
+Parents' sons: [1, 6, 7, 8, 10, 11, 14]	Children's sons: [12]
+
+------->  être~pas{V~ADV|root~mod}		à_cause_de{P|mod}		pêche{NC|obj}		Causation
+
+
+52|1939) Du_fait_du recul de l' agriculture de montagne, les prairies fauchées disparaissent et la forêt progresse. 
+1	Du_fait_du	du_fait_de	P	P	_|marker=64	12	mod	_	_
+2	recul	recul	N	NC	g=m|n=s|s=c	1	obj	_	_
+3	de	de	P	P	_	2	dep	_	_
+4	l'	le	D	DET	n=s|s=def	5	det	_	_
+5	agriculture	agriculture	N	NC	g=f|n=s|s=c	3	obj	_	_
+6	de	de	P	P	_	5	dep	_	_
+7	montagne	montagne	N	NC	g=f|n=s|s=c	6	obj	_	_
+8	,	,	PONCT	PONCT	s=w	12	ponct	_	_
+9	les	le	D	DET	n=p|s=def	10	det	_	_
+10	prairies	prairie	N	NC	g=f|n=p|s=c	12	suj	_	_
+11	fauchées	faucher	A	ADJ	g=f|m=part|n=p|s=qual|t=past	10	mod	_	_
+12	disparaissent	disparaître	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+13	et	et	C	CC	s=c	12	coord	_	_
+14	la	le	D	DET	g=f|n=s|s=def	15	det	_	_
+15	forêt	forêt	N	NC	g=f|n=s|s=c	16	suj	_	_
+16	progresse	progresser	V	V	m=ind|n=s|p=3|t=pst	13	dep_coord	_	_
+17	.	.	PONCT	PONCT	s=s	12	ponct	_	_
+
+Parents' sons: [1, 8, 10, 13, 17]	Children's sons: [3]
+
+------->  prairie~disparaître~faucher{NC~V~ADJ|suj~root~mod}		du_fait_de{P|mod}		recul{NC|obj}		Causation
+
+
+Parents' sons: [1, 8, 10, 13, 17]	Children's sons: [3]
+
+------->  prairie~disparaître~faucher{NC~V~ADJ|suj~root~mod}		du_fait_de{P|mod}		recul{NC|obj}		Evidence
+
+
+53|2048) Grâce_aux différents fuseaux horaires et à la rotation de la Terre, Papa Noël a 31 heures ce jour-là pour effectuer son travail, en supposant qu' il voyage d' est en ouest( Ce qui semble logique). 
+1	Grâce_aux	grâce_à	P	P	_	15	mod	_	_
+2	différents	différent	A	ADJ	g=m|n=p|s=qual	3	mod	_	_
+3	fuseaux	fuseaux	N	NC	g=m|n=p|s=c	1	obj	_	_
+4	horaires	horaire	A	ADJ	n=p|s=qual	3	mod	_	_
+5	et	et	C	CC	s=c	1	coord	_	_
+6	à	à	P	P	_	5	dep_coord	_	_
+7	la	le	D	DET	g=f|n=s|s=def	8	det	_	_
+8	rotation	rotation	N	NC	g=f|n=s|s=c	6	obj	_	_
+9	de	de	P	P	_	8	dep	_	_
+10	la	le	D	DET	g=f|n=s|s=def	11	det	_	_
+11	Terre	terre	N	NC	g=f|n=s|s=c	9	obj	_	_
+12	,	,	PONCT	PONCT	s=w	15	ponct	_	_
+13	Papa	Papa	N	NPP	s=p	15	suj	_	_
+14	Noël	Noël	N	NPP	s=p	13	mod	_	_
+15	a	avoir	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+16	31	31	D	DET	s=card	17	det	_	_
+17	heures	heure	N	NC	g=f|n=p|s=c	15	obj	_	_
+18	ce	ce	D	DET	g=m|n=s|s=dem	19	det	_	_
+19	jour-là	jour-là	N	NC	s=c	15	obj	_	_
+20	pour	pour	P	P	_	15	mod	_	_
+21	effectuer	effectuer	V	VINF	m=inf	20	obj	_	_
+22	son	son	D	DET	n=s|s=poss	23	det	_	_
+23	travail	travail	N	NC	g=m|n=s|s=c	21	obj	_	_
+24	,	,	PONCT	PONCT	s=w	15	ponct	_	_
+25	en	en	P	P	p=3	15	mod	_	_
+26	supposant	supposer	V	VPR	m=part|t=pst	25	obj	_	_
+27	qu'	que	C	CS	s=s	26	obj	_	_
+28	il	cln	CL	CLS	s=suj	29	suj	_	_
+29	voyage	voyager	V	V	m=ind|n=s|p=3|t=pst	27	obj	_	_
+30	d'	de	P	P	_	29	p_obj	_	_
+31	est	est	N	NPP	s=p	30	obj	_	_
+32	en	en	P	P	p=3	29	mod	_	_
+33	ouest	ouest	N	NC	g=m|n=s|s=c	32	obj	_	_
+34	(	(	PONCT	PONCT	s=w	29	ponct	_	_
+35	Ce	ce	PRO	PRO	_	29	mod	_	_
+36	qui	qui	PRO	PROREL	s=rel	37	suj	_	_
+37	semble	sembler	V	V	m=ind|n=s|p=3|t=pst	35	mod_rel	_	_
+38	logique	logique	A	ADJ	n=s|s=qual	37	ats	_	_
+39	)	)	PONCT	PONCT	s=w	29	ponct	_	_
+40	.	.	PONCT	PONCT	s=s	15	ponct	_	_
+
+Parents' sons: [1, 12, 13, 17, 19, 20, 24, 25, 40]	Children's sons: [2, 4]
+
+------->  avoir~jour-là{V~NC|root~obj}		grâce_à{P|mod}		fuseaux~horaire{NC~ADJ|obj~mod}		Causation
+
+
+Parents' sons: [1, 12, 13, 17, 19, 20, 24, 25, 40]	Children's sons: [6]
+
+$$$$$$$>  avoir~jour-là{V~NC|root~obj}		grâce_à{P|mod}		et{CC|coord}		Causation
+
+
+54|2074) L' attention du Gouvernement a été appelée sur la situation des salariés devenus inaptes à_la_suite_d' un accident du travail et notamment sur l' absence de versement de salaire pendant la période précédant leur licenciement justifié par cette inaptitude. 
+1	L'	le	D	DET	n=s|s=def	2	det	_	_
+2	attention	attention	N	NC	g=f|n=s|s=c	6	suj	_	_
+3	du	de	P+D	P+D	s=def	2	dep	_	_
+4	Gouvernement	Gouvernement	N	NPP	s=p	3	obj	_	_
+5	a	avoir	V	V	m=ind|n=s|p=3|t=pst	6	aux_tps	_	_
+6	été	être	V	VPP	m=part|t=past	0	root	_	_
+7	appelée	appeler	A	ADJ	g=f|m=part|n=s|s=qual|t=past	6	ats	_	_
+8	sur	sur	P	P	_	6	mod	_	_
+9	la	le	D	DET	g=f|n=s|s=def	10	det	_	_
+10	situation	situation	N	NC	g=f|n=s|s=c	8	obj	_	_
+11	des	de	P+D	P+D	s=def	10	dep	_	_
+12	salariés	salarié	N	NC	g=m|n=p|s=c	11	obj	_	_
+13	devenus	devenir	V	VPP	g=m|m=part|n=p|t=past	12	mod	_	_
+14	inaptes	inapte	A	ADJ	n=p|s=qual	13	mod	_	_
+15	à_la_suite_d'	à_la_suite_de	P	P	_	13	mod	_	_
+16	un	un	D	DET	g=m|n=s|s=ind	17	det	_	_
+17	accident	accident	N	NC	g=m|n=s|s=c	15	obj	_	_
+18	du	de	P+D	P+D	s=def	17	dep	_	_
+19	travail	travail	N	NC	g=m|n=s|s=c	18	obj	_	_
+20	et	et	C	CC	s=c	8	coord	_	_
+21	notamment	notamment	ADV	ADV	_	20	mod	_	_
+22	sur	sur	P	P	_	20	dep_coord	_	_
+23	l'	le	D	DET	n=s|s=def	24	det	_	_
+24	absence	absence	N	NC	g=f|n=s|s=c	22	obj	_	_
+25	de	de	P	P	_	24	dep	_	_
+26	versement	versement	N	NC	g=m|n=s|s=c	25	obj	_	_
+27	de	de	P	P	_	26	dep	_	_
+28	salaire	salaire	N	NC	g=m|n=s|s=c	27	obj	_	_
+29	pendant	pendant	P	P	_|marker=197	20	dep_coord	_	_
+30	la	le	D	DET	g=f|n=s|s=def	31	det	_	_
+31	période	période	N	NC	n=s|s=c	29	obj	_	_
+32	précédant	précéder	V	VPR	m=part|t=pst	31	mod	_	_
+33	leur	son	D	DET	n=s|s=poss	34	det	_	_
+34	licenciement	licenciement	N	NC	g=m|n=s|s=c	32	obj	_	_
+35	justifié	justifier	V	VPP	g=m|m=part|n=s|t=past	34	mod	_	_
+36	par	par	P	P	_	35	p_obj	_	_
+37	cette	ce	D	DET	g=f|n=s|s=dem	38	det	_	_
+38	inaptitude	inaptitude	N	NC	g=f|n=s|s=c	36	obj	_	_
+39	.	.	PONCT	PONCT	s=s	6	ponct	_	_
+
+Parents' sons: [14, 15]	Children's sons: [16, 18]
+
+------->  devenir~inapte{VPP~ADJ|mod~mod}		à_la_suite_de{P|mod}		accident{NC|obj}		Causation
+
+
+55|2075) Si le médecin du travail ne l' estime pas apte à reprendre son poste, l' employeur n' a pas à reprendre le versement du salaire en_raison_de l' absence de prestation de travail. 
+1	Si	si	C	CS	s=s	0	root	_	_
+2	le	le	D	DET	g=m|n=s|s=def	3	det	_	_
+3	médecin	médecin	N	NC	g=m|n=s|s=c	8	suj	_	_
+4	du	de	P+D	P+D	s=def	3	dep	_	_
+5	travail	travail	N	NC	g=m|n=s|s=c	4	obj	_	_
+6	ne	ne	ADV	ADV	s=neg	8	mod	_	_
+7	l'	le	D	DET	n=s|s=def	8	det	_	_
+8	estime	estime	N	NC	g=m|n=s|s=c	1	obj	_	_
+9	pas	pas	ADV	ADV	s=neg	8	mod	_	_
+10	apte	apte	A	ADJ	n=s|s=qual	8	mod	_	_
+11	à	à	P	P	_	1	ats	_	_
+12	reprendre	reprendre	V	VINF	m=inf	11	obj	_	_
+13	son	son	D	DET	n=s|s=poss	14	det	_	_
+14	poste	poste	N	NC	n=s|s=c	12	obj	_	_
+15	,	,	PONCT	PONCT	s=w	19	ponct	_	_
+16	l'	le	D	DET	n=s|s=def	17	det	_	_
+17	employeur	employeur	N	NC	g=m|n=s|s=c	19	suj	_	_
+18	n'	ne	ADV	ADV	s=neg	19	mod	_	_
+19	a	avoir	V	V	m=ind|n=s|p=3|t=pst	1	obj	_	_
+20	pas	pas	ADV	ADV	s=neg	19	mod	_	_
+21	à	à	P	P	_	19	mod	_	_
+22	reprendre	reprendre	V	VINF	m=inf	21	obj	_	_
+23	le	le	D	DET	g=m|n=s|s=def	24	det	_	_
+24	versement	versement	N	NC	g=m|n=s|s=c	22	obj	_	_
+25	du	de	P+D	P+D	s=def	24	dep	_	_
+26	salaire	salaire	N	NC	g=m|n=s|s=c	25	obj	_	_
+27	en_raison_de	en_raison_de	P	P	_	22	mod	_	_
+28	l'	le	D	DET	n=s|s=def	29	det	_	_
+29	absence	absence	N	NC	g=f|n=s|s=c	27	obj	_	_
+30	de	de	P	P	_	29	dep	_	_
+31	prestation	prestation	N	NC	g=f|n=s|s=c	30	obj	_	_
+32	de	de	P	P	_	31	dep	_	_
+33	travail	travail	N	NC	g=m|n=s|s=c	32	obj	_	_
+34	.	.	PONCT	PONCT	s=s	1	ponct	_	_
+
+Parents' sons: [24, 27]	Children's sons: [28, 30]
+
+------->  reprendre~versement{VINF~NC|obj~obj}		en_raison_de{P|mod}		absence{NC|obj}		Causation
+
+
+Parents' sons: [24, 27]	Children's sons: [28, 30]
+
+------->  reprendre~versement{VINF~NC|obj~obj}		en_raison_de{P|mod}		absence{NC|obj}		Evidence
+
+
+56|2133) Sur le modèle de cette démarche collective et grâce_au concours de l' ADEME et du Conseil Régional de Picardie, est né un programme interrégional d' accompagnement d' entrepreneurs des Territoires âEDT- instigué en Picardie et dans le Nord pas de Calais. 
+1	Sur	sur	P	P	_	22	mod	_	_
+2	le	le	D	DET	g=m|n=s|s=def	3	det	_	_
+3	modèle	modèle	N	NC	g=m|n=s|s=c	1	obj	_	_
+4	de	de	P	P	_	3	dep	_	_
+5	cette	ce	D	DET	g=f|n=s|s=dem	6	det	_	_
+6	démarche	démarche	N	NC	g=f|n=s|s=c	4	obj	_	_
+7	collective	collectif	A	ADJ	g=f|n=s|s=qual	6	mod	_	_
+8	et	et	C	CC	s=c	4	coord	_	_
+9	grâce_au	grâce_à	P	P	_	8	dep_coord	_	_
+10	concours	concours	N	NC	g=m|s=c	9	obj	_	_
+11	de	de	P	P	_	10	dep	_	_
+12	l'	le	D	DET	n=s|s=def	13	det	_	_
+13	ADEME	ADEME	N	NPP	s=p	11	obj	_	_
+14	et	et	C	CC	s=c	11	coord	_	_
+15	du	de	P+D	P+D	s=def	14	dep_coord	_	_
+16	Conseil	conseil	N	NPP	g=m|n=s|s=p	15	obj	_	_
+17	Régional	Régional	N	NPP	s=p	16	mod	_	_
+18	de	de	P	P	_	16	dep	_	_
+19	Picardie	Picardie	N	NPP	g=f|n=s|s=p	18	obj	_	_
+20	,	,	PONCT	PONCT	s=w	22	ponct	_	_
+21	est	être	V	V	m=ind|n=s|p=3|t=pst	22	aux_pass	_	_
+22	né	naître	V	VPP	g=m|m=part|n=s|t=past	0	root	_	_
+23	un	un	D	DET	g=m|n=s|s=ind	24	det	_	_
+24	programme	programme	N	NC	g=m|n=s|s=c	22	obj	_	_
+25	interrégional	interrégional	A	ADJ	g=m|n=s|s=qual	24	mod	_	_
+26	d'	de	P	P	_	24	dep	_	_
+27	accompagnement	accompagnement	N	NC	g=m|n=s|s=c	26	obj	_	_
+28	d'	de	P	P	_	27	dep	_	_
+29	entrepreneurs	entrepreneur	N	NC	g=m|n=p|s=c	28	obj	_	_
+30	des	de	P+D	P+D	s=def	29	dep	_	_
+31	Territoires	territoire	N	NC	g=m|n=p|s=c	30	obj	_	_
+32	âEDT	âEDT	N	NPP	s=p	31	mod	_	_
+33	-	-	PONCT	PONCT	s=w	31	ponct	_	_
+34	instigué	instiguer	V	VPP	g=m|m=part|n=s|t=past	31	mod	_	_
+35	en	en	P	P	p=3	34	mod	_	_
+36	Picardie	Picardie	N	NPP	g=f|n=s|s=p	35	obj	_	_
+37	et	et	C	CC	s=c	35	coord	_	_
+38	dans	dans	P	P	_	37	dep_coord	_	_
+39	le	le	D	DET	g=m|n=s|s=def	40	det	_	_
+40	Nord	Nord	N	NPP	g=m|n=s|s=p	38	obj	_	_
+41	pas	pas	ADV	ADV	s=neg	37	mod	_	_
+42	de	de	P	P	_	37	dep_coord	_	_
+43	Calais	Calais	N	NPP	g=m|n=s|s=p	42	obj	_	_
+44	.	.	PONCT	PONCT	s=s	22	ponct	_	_
+
+Parents' sons: [9]	Children's sons: [11]
+
+xxxxxxx>  et~concours{CC~NC|coord~obj}		grâce_à{P|dep_coord}		concours{NC|obj}		Causation
+
+

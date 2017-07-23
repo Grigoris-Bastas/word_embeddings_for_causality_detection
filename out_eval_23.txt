@@ -1,0 +1,1461 @@
+
+(1)
+Mon corps projetait une ombre sur la pelouse .
+
+Le soleil se levait .
+
+La pelouse a été tondue .
+
+cs_corps ef_soleil 0.314887
+cs_corps ef_lever 0.469092
+cs_projeter ef_soleil 0.30612
+cs_projeter ef_lever 0.413124
+cs_ombre ef_soleil 0.296541
+cs_ombre ef_lever 0.487135
+cs_pelouse ef_soleil 0.304674
+cs_pelouse ef_lever 0.381999
+
+pKEYWORDS ::  corps projeter ombre pelouse
+a1KEYWORDS ::  soleil lever
+
+cs_corps ef_pelouse 0.901941
+cs_projeter ef_pelouse 0.857798
+cs_ombre ef_pelouse 0.927476
+
+a2KEYWORDS ::  pelouse
+
+False
+correct: 1
+
+
+
+(2)
+La femme tolérait le comportement difficile de son amie .
+
+La femme savait que son amie traversait une période difficile .
+
+La femme pensait que son amie profitait de sa gentillesse .
+
+cs_tolérer ef_savoir 0.000838096
+cs_tolérer ef_amie 0.326576
+cs_tolérer ef_traverser 0.352241
+cs_tolérer ef_période 0.293667
+cs_comportement ef_savoir 0.0185172
+cs_comportement ef_amie 0.320044
+cs_comportement ef_traverser 0.338832
+cs_comportement ef_période 0.335399
+cs_amie ef_savoir 0.0789089
+cs_amie ef_traverser 0.487183
+cs_amie ef_période 0.327554
+
+pKEYWORDS ::  tolérer comportement amie
+a1KEYWORDS ::  savoir amie traverser période
+
+cs_tolérer ef_penser 0.0530928
+cs_tolérer ef_amie 0.326576
+cs_tolérer ef_profiter -0.0064872
+cs_tolérer ef_gentillesse -0.195243
+cs_comportement ef_penser 0.0484724
+cs_comportement ef_amie 0.320044
+cs_comportement ef_profiter 0.0300644
+cs_comportement ef_gentillesse -0.108996
+cs_amie ef_penser -0.0214268
+cs_amie ef_profiter -0.0302078
+cs_amie ef_gentillesse -0.230619
+
+a2KEYWORDS ::  penser amie profiter gentillesse
+
+True
+correct: 1
+
+
+
+(3)
+Les femmes se rencontrèrent au café .
+
+Le café avait réouvert à un autre endroit .
+
+Elles voulaient se donner de leurs nouvelles .
+
+cs_rencontrer ef_café 0.0318385
+cs_rencontrer ef_endroit -0.273144
+cs_café ef_endroit -0.247128
+
+pKEYWORDS ::  rencontrer café
+a1KEYWORDS ::  café endroit
+
+cs_rencontrer ef_vouloir 0.310996
+cs_rencontrer ef_donner -0.239954
+cs_rencontrer ef_nouveau -0.259922
+cs_café ef_vouloir 0.300155
+cs_café ef_donner -0.221766
+cs_café ef_nouveau -0.345964
+
+a2KEYWORDS ::  vouloir donner nouveau
+
+True
+correct: 2
+
+
+
+(4)
+La coureuse portait un short .
+
+La météo prévoyait des températures élevées .
+
+Elle prévoyait de courir le long de la plage .
+
+cs_coureur ef_météo 0.602149
+cs_coureur ef_prévoir 0.0553546
+cs_coureur ef_température -0.0180079
+cs_porter ef_météo 0.760999
+cs_porter ef_prévoir 0.0553633
+cs_porter ef_température 0.00163454
+cs_short ef_météo 0.321243
+cs_short ef_prévoir 0.037855
+cs_short ef_température -0.0034456
+
+pKEYWORDS ::  coureur porter short
+a1KEYWORDS ::  météo prévoir température
+
+cs_coureur ef_prévoir 0.0553546
+cs_coureur ef_courir 0.00613739
+cs_coureur ef_long 0.0773647
+cs_coureur ef_plage 0.375487
+cs_porter ef_prévoir 0.0553633
+cs_porter ef_courir -0.0187609
+cs_porter ef_long 0.0659326
+cs_porter ef_plage 0.547495
+cs_short ef_prévoir 0.037855
+cs_short ef_courir 0.0246712
+cs_short ef_long 0.0494719
+cs_short ef_plage 0.24354
+
+a2KEYWORDS ::  prévoir courir long plage
+
+True
+correct: 1
+
+
+
+(5)
+Les invités de la fête se cachèrent derrière le canapé .
+
+C' était une fête surprise .
+
+C' était une fête d' anniversaire .
+
+cs_inviter ef_fête 0.251495
+cs_cacher ef_fête 0.261977
+cs_canapé ef_fête 0.274994
+
+pKEYWORDS ::  inviter fête cacher canapé
+a1KEYWORDS ::  fête
+
+cs_inviter ef_fête 0.251495
+cs_inviter ef_anniversaire -0.509832
+cs_fête ef_anniversaire -0.482962
+cs_cacher ef_fête 0.261977
+cs_cacher ef_anniversaire -0.471998
+cs_canapé ef_fête 0.274994
+cs_canapé ef_anniversaire -0.485744
+
+a2KEYWORDS ::  fête anniversaire
+
+True
+correct: 1
+
+
+
+(6)
+Le politicien a perdu l' élection .
+
+Il a fait des publicités de campagne négatives .
+
+Personne n' a voté pour lui .
+
+cs_politicien ef_publicité -0.457982
+cs_politicien ef_campagne -0.172997
+cs_perdre ef_publicité -0.4696
+cs_perdre ef_campagne -0.172757
+cs_élection ef_publicité -0.466865
+cs_élection ef_campagne -0.272457
+
+pKEYWORDS ::  politicien perdre élection
+a1KEYWORDS ::  publicité campagne
+
+cs_politicien ef_personne 0.124752
+cs_perdre ef_personne 0.179468
+cs_élection ef_personne 0.133871
+
+a2KEYWORDS ::  personne
+
+True
+correct: 2
+
+
+
+(7)
+La tâche est partie de la chemise .
+
+J' ai rapiécé la chemise .
+
+J' ai passé la chemise à la javel .
+
+cs_tâche ef_chemise -0.266883
+cs_partie ef_chemise -0.324811
+
+pKEYWORDS ::  tâche partie chemise
+a1KEYWORDS ::  chemise
+
+cs_tâche ef_passer 0.00178545
+cs_tâche ef_chemise -0.266883
+cs_partie ef_passer -0.00487488
+cs_partie ef_chemise -0.324811
+cs_chemise ef_passer -0.0318343
+
+a2KEYWORDS ::  passer chemise
+
+True
+correct: 2
+
+
+
+(8)
+L' homme a eu un rabais sur ses courses .
+
+Il a salué le caissier .
+
+Il a utilisé un coupon .
+
+cs_rabais ef_saluer 0.474311
+cs_rabais ef_caissier -0.933502
+cs_course ef_saluer 0.603136
+cs_course ef_caissier -1.28069
+
+pKEYWORDS ::  rabais course
+a1KEYWORDS ::  saluer caissier
+
+cs_rabais ef_utiliser -0.0724854
+cs_rabais ef_coupon -0.259175
+cs_course ef_utiliser -0.0992495
+cs_course ef_coupon -0.147406
+
+a2KEYWORDS ::  utiliser coupon
+
+True
+correct: 2
+
+
+
+(9)
+Le médecin a mal diagnostiqué le patient .
+
+Le patient a fait un procès au médecin pour faute professionnelle .
+
+Le patient a dévoilé des informations confidentielles au médecin .
+
+cs_médecin ef_patient -0.0614237
+cs_médecin ef_procès 0.133353
+cs_médecin ef_faute 0.241573
+cs_diagnostiquer ef_patient -0.0306593
+cs_diagnostiquer ef_procès 0.0373308
+cs_diagnostiquer ef_médecin -0.0075451
+cs_diagnostiquer ef_faute 0.210718
+cs_patient ef_procès 0.0610522
+cs_patient ef_médecin -0.0271809
+cs_patient ef_faute 0.244406
+
+pKEYWORDS ::  médecin diagnostiquer patient
+a1KEYWORDS ::  patient procès médecin faute
+
+cs_médecin ef_patient -0.0614237
+cs_médecin ef_dévoiler -0.264116
+cs_médecin ef_information -0.234326
+cs_diagnostiquer ef_patient -0.0306593
+cs_diagnostiquer ef_dévoiler -0.239008
+cs_diagnostiquer ef_information -0.205524
+cs_diagnostiquer ef_médecin -0.0075451
+cs_patient ef_dévoiler -0.331969
+cs_patient ef_information -0.262358
+cs_patient ef_médecin -0.0271809
+
+a2KEYWORDS ::  patient dévoiler information médecin
+
+True
+correct: 1
+
+
+
+(11)
+The customer filed a complaint with the store manager . La femme a réparé le robinet .
+
+The sales associate undercharged the customer . Le robinet fuyait .
+
+The sales associate acted rude to the customer . Le robinet était fermé .
+
+cs_manager ef_robinet -0.851532
+cs_manager ef_fuir -0.530978
+cs_réparer ef_robinet -0.781757
+cs_réparer ef_fuir -0.43817
+cs_robinet ef_fuir -0.453853
+
+pKEYWORDS ::  manager réparer robinet
+a1KEYWORDS ::  robinet fuir
+
+cs_manager ef_robinet -0.851532
+cs_réparer ef_robinet -0.781757
+
+a2KEYWORDS ::  robinet
+
+True
+correct: 1
+
+
+
+(12)
+La vieille dame a eu un infarctus .
+
+La fille de la vieille dame est venue nettoyer sa maison .
+
+La fille de la vieille dame a emménagé pour s' occuper d' elle .
+
+cs_dame ef_fille -0.158766
+cs_dame ef_nettoyer -0.0491145
+cs_dame ef_maison 0.148701
+cs_infarctus ef_fille -0.087958
+cs_infarctus ef_dame 0.104723
+cs_infarctus ef_nettoyer -0.0124367
+cs_infarctus ef_maison 0.131625
+
+pKEYWORDS ::  dame infarctus
+a1KEYWORDS ::  fille dame nettoyer maison
+
+cs_dame ef_fille -0.158766
+cs_dame ef_emménager -0.32087
+cs_dame ef_occuper -0.00738793
+cs_infarctus ef_fille -0.087958
+cs_infarctus ef_dame 0.104723
+cs_infarctus ef_emménager -0.111337
+cs_infarctus ef_occuper -0.0173724
+
+a2KEYWORDS ::  fille dame emménager occuper
+
+False
+correct: 2
+
+
+
+(13)
+La mare a gelé pendant l' hiver .
+
+Les gens ont fait du patin sur la mare .
+
+Les gens ont apporté des bateaux sur la mare .
+
+cs_mare ef_gens -0.132902
+cs_mare ef_patin 2.00773
+cs_geler ef_gens -0.20411
+cs_geler ef_patin 2.51493
+cs_geler ef_mare 0.00886126
+cs_hiver ef_gens -0.245696
+cs_hiver ef_patin 2.82942
+cs_hiver ef_mare 0.0316889
+
+pKEYWORDS ::  mare geler hiver
+a1KEYWORDS ::  gens patin mare
+
+cs_mare ef_gens -0.132902
+cs_mare ef_apporter -0.163471
+cs_mare ef_bateau -0.294007
+cs_geler ef_gens -0.20411
+cs_geler ef_apporter -0.166627
+cs_geler ef_bateau -0.338153
+cs_geler ef_mare 0.00886126
+cs_hiver ef_gens -0.245696
+cs_hiver ef_apporter -0.203949
+cs_hiver ef_bateau -0.308087
+cs_hiver ef_mare 0.0316889
+
+a2KEYWORDS ::  gens apporter bateau mare
+
+True
+correct: 1
+
+
+
+(14)
+Le délinquant à violé sa probation .
+
+Il a été envoyé en prison .
+
+Il a volé de l' argent de l' église .
+
+cs_délinquant ef_prison -5.25617e-05
+cs_violer ef_prison -0.0199682
+
+pKEYWORDS ::  délinquant violer
+a1KEYWORDS ::  prison
+
+cs_délinquant ef_voler 0.163208
+cs_délinquant ef_argent -0.222175
+cs_délinquant ef_église 0.0081789
+cs_violer ef_voler 0.148402
+cs_violer ef_argent -0.201471
+cs_violer ef_église -0.0109901
+
+a2KEYWORDS ::  voler argent église
+
+True
+correct: 1
+
+
+
+(15)
+J' ai arrosé mon ami qui dormait .
+
+Mon ami s' est réveillé .
+
+Mon ami ronflait .
+
+cs_arroser ef_ami -0.00383033
+
+pKEYWORDS ::  arroser ami
+a1KEYWORDS ::  ami
+
+cs_arroser ef_ami -0.00383033
+
+a2KEYWORDS ::  ami
+
+False
+correct: 1
+
+
+
+(16)
+La fille a eu un cri de surprise .
+
+Son ami lui a mis un cube de glace dans le dos .
+
+Son ami lui a mis une petite tape dans le dos .
+
+cs_fille ef_ami -0.00272896
+cs_fille ef_mettre 0.0697462
+cs_fille ef_cube 0.275649
+cs_fille ef_glace -0.0565325
+cs_fille ef_dos -0.444142
+cs_cri ef_ami 0.00414647
+cs_cri ef_mettre 0.0836823
+cs_cri ef_cube 0.123334
+cs_cri ef_glace -0.0363755
+cs_cri ef_dos -0.415967
+cs_surprise ef_ami -0.00271184
+cs_surprise ef_mettre 0.0624009
+cs_surprise ef_cube 0.286183
+cs_surprise ef_glace -0.0674366
+cs_surprise ef_dos -0.394693
+
+pKEYWORDS ::  fille cri surprise
+a1KEYWORDS ::  ami mettre cube glace dos
+
+cs_fille ef_ami -0.00272896
+cs_fille ef_mettre 0.0697462
+cs_fille ef_tape -0.213123
+cs_fille ef_dos -0.444142
+cs_cri ef_ami 0.00414647
+cs_cri ef_mettre 0.0836823
+cs_cri ef_tape 0.147904
+cs_cri ef_dos -0.415967
+cs_surprise ef_ami -0.00271184
+cs_surprise ef_mettre 0.0624009
+cs_surprise ef_tape -0.0752657
+cs_surprise ef_dos -0.394693
+
+a2KEYWORDS ::  ami mettre tape dos
+
+True
+correct: 1
+
+
+
+(17)
+La chemise a rétréci .
+
+J' ai mis de la javelle dessus .
+
+Je l' ai mise dans le séchoir .
+
+cs_chemise ef_mettre 0.0568995
+cs_rétrécir ef_mettre 0.00359477
+
+pKEYWORDS ::  chemise rétrécir
+a1KEYWORDS ::  mettre
+
+cs_chemise ef_mettre 0.0568995
+cs_chemise ef_séchoir 2.02989
+cs_rétrécir ef_mettre 0.00359477
+cs_rétrécir ef_séchoir 2.47842
+
+a2KEYWORDS ::  mettre séchoir
+
+True
+correct: 2
+
+
+
+(18)
+Dehors il commença à faire sombre .
+
+Des flocons de neige commençèrent à tomber du ciel .
+
+La lune devint visible dans le ciel .
+
+cs_commencer ef_flocon -0.224659
+cs_commencer ef_neige 0.356772
+cs_commencer ef_tomber -0.0284342
+cs_commencer ef_ciel 0.446332
+
+pKEYWORDS ::  commencer
+a1KEYWORDS ::  flocon neige tomber ciel
+
+cs_commencer ef_lune 0.0396388
+cs_commencer ef_devenir 0.0542385
+cs_commencer ef_ciel 0.446332
+
+a2KEYWORDS ::  lune devenir ciel
+
+True
+correct: 2
+
+
+
+(19)
+Je raccrochai le téléphone .
+
+L' interlocuteur me dit au revoir .
+
+L' interlocuteur me donna son nom .
+
+cs_raccrocher ef_interlocuteur 0.118727
+cs_raccrocher ef_dire -0.0157498
+cs_raccrocher ef_revoir -0.194256
+cs_téléphone ef_interlocuteur 0.245026
+cs_téléphone ef_dire 0.0233766
+cs_téléphone ef_revoir -0.263983
+
+pKEYWORDS ::  raccrocher téléphone
+a1KEYWORDS ::  interlocuteur dire revoir
+
+cs_raccrocher ef_interlocuteur 0.118727
+cs_raccrocher ef_donner -0.140547
+cs_raccrocher ef_nom -0.158851
+cs_téléphone ef_interlocuteur 0.245026
+cs_téléphone ef_donner -0.207494
+cs_téléphone ef_nom -0.299608
+
+a2KEYWORDS ::  interlocuteur donner nom
+
+True
+correct: 1
+
+
+
+(20)
+La bague de la femme a glissé dans la douche .
+
+La femme polissait la bague .
+
+La bague est tombé dans la bonde .
+
+cs_bague ef_polir -0.943648
+cs_glisser ef_polir -0.803439
+cs_glisser ef_bague -0.126334
+cs_douche ef_polir -0.822448
+cs_douche ef_bague -0.0270032
+
+pKEYWORDS ::  bague glisser douche
+a1KEYWORDS ::  polir bague
+
+cs_bague ef_tomber 0.0432101
+cs_glisser ef_bague -0.126334
+cs_glisser ef_tomber 0.00177049
+cs_douche ef_bague -0.0270032
+cs_douche ef_tomber -0.0157511
+
+a2KEYWORDS ::  bague tomber
+
+True
+correct: 2
+
+
+
+(21)
+La petite fille a gagné un trophée .
+
+Elle a gagné un concours de dictée .
+
+Elle s' est fait un nouvel ami .
+
+cs_fille ef_gagner -0.215595
+cs_fille ef_concours 0.207644
+cs_fille ef_dictée 0.91504
+cs_gagner ef_concours 0.180425
+cs_gagner ef_dictée 0.961769
+cs_trophée ef_gagner -0.214323
+cs_trophée ef_concours 0.161272
+cs_trophée ef_dictée 0.806831
+
+pKEYWORDS ::  fille gagner trophée
+a1KEYWORDS ::  gagner concours dictée
+
+cs_fille ef_ami -0.00272896
+cs_gagner ef_ami -0.0257768
+cs_trophée ef_ami 0.00712987
+
+a2KEYWORDS ::  ami
+
+True
+correct: 1
+
+
+
+(22)
+L' escorte de la femme voulait avoir l' air d' un gentleman .
+
+Il lui a ouvert la porte .
+
+Il lui a demandé si elle aimait les sushi .
+
+cs_escorte ef_ouvrir 0.11031
+cs_escorte ef_porte -0.0302121
+cs_vouloir ef_ouvrir 0.252063
+cs_vouloir ef_porte -0.0988576
+cs_air ef_ouvrir 0.216199
+cs_air ef_porte -0.121448
+cs_gentleman ef_ouvrir 0.0378832
+cs_gentleman ef_porte 0.00369213
+
+pKEYWORDS ::  escorte vouloir air gentleman
+a1KEYWORDS ::  ouvrir porte
+
+cs_escorte ef_demander 0.003483
+cs_escorte ef_aimer -0.0431836
+cs_vouloir ef_demander 0.0196829
+cs_vouloir ef_aimer -0.0519106
+cs_air ef_demander 0.0106403
+cs_air ef_aimer -0.086773
+cs_gentleman ef_demander -0.00815282
+cs_gentleman ef_aimer -0.00699184
+
+a2KEYWORDS ::  demander aimer
+
+True
+correct: 1
+
+
+
+(23)
+Le champ avait besoin d' irrigation .
+
+Un canal a été construit .
+
+Une inondation a eu lieu .
+
+cs_champagne ef_canal -0.367199
+cs_champagne ef_construire 0.068621
+cs_besoin ef_canal -0.442626
+cs_besoin ef_construire 0.0773153
+cs_irrigation ef_canal -0.512527
+cs_irrigation ef_construire 0.0296555
+
+pKEYWORDS ::  champagne besoin irrigation
+a1KEYWORDS ::  canal construire
+
+cs_champagne ef_inondation -0.380026
+cs_champagne ef_lieu -0.319208
+cs_besoin ef_inondation -0.386099
+cs_besoin ef_lieu -0.291139
+cs_irrigation ef_inondation -0.402474
+cs_irrigation ef_lieu -0.184358
+
+a2KEYWORDS ::  inondation lieu
+
+True
+correct: 1
+
+
+
+(24)
+L' hotesse a annulé la fête .
+
+Elle était certaine d' avoir la grippe .
+
+Elle avait peur d' attrapper la grippe .
+
+cs_annuler ef_grippe -0.709098
+cs_fête ef_grippe -0.757348
+
+pKEYWORDS ::  annuler fête
+a1KEYWORDS ::  grippe
+
+cs_annuler ef_peur -0.20726
+cs_annuler ef_grippe -0.709098
+cs_fête ef_peur -0.193666
+cs_fête ef_grippe -0.757348
+
+a2KEYWORDS ::  peur grippe
+
+False
+correct: 1
+
+
+
+(25)
+La femme a donné son numéro de téléphone à l' homme .
+
+Elle était attiré par lui .
+
+Il lui répugnait .
+
+cs_donner ef_attirer 0.0489053
+cs_numéro ef_attirer -0.0332488
+cs_téléphone ef_attirer 0.0111956
+
+pKEYWORDS ::  donner numéro téléphone
+a1KEYWORDS ::  attirer
+
+cs_donner ef_répugner -0.0138475
+cs_numéro ef_répugner 0.192958
+cs_téléphone ef_répugner -0.0374371
+
+a2KEYWORDS ::  répugner
+
+False
+correct: 1
+
+
+
+(26)
+La parachutiste a plané jusqu'_au sol en toute sécurité .
+
+Elle a ouvert son parachute .
+
+Elle a sauté de l' avion .
+
+cs_parachutiste ef_ouvrir 0.0511259
+cs_parachutiste ef_parachute -0.297207
+cs_planer ef_ouvrir 0.212952
+cs_planer ef_parachute -1.17541
+cs_sol ef_ouvrir 0.211741
+cs_sol ef_parachute -1.41179
+cs_sécurité ef_ouvrir 0.264974
+cs_sécurité ef_parachute -1.66673
+
+pKEYWORDS ::  parachutiste planer sol sécurité
+a1KEYWORDS ::  ouvrir parachute
+
+cs_parachutiste ef_sauter -0.137714
+cs_parachutiste ef_avion 0.00573341
+cs_planer ef_sauter -0.503372
+cs_planer ef_avion 0.0355156
+cs_sol ef_sauter -0.717397
+cs_sol ef_avion 0.0625665
+cs_sécurité ef_sauter -0.698114
+cs_sécurité ef_avion 0.0419465
+
+a2KEYWORDS ::  sauter avion
+
+False
+correct: 1
+
+
+
+(27)
+Le bébé devenait de mauvaise humeur .
+
+Sa mère lui a fait faire une sieste .
+
+Sa mère lui a fait des couettes avec ses cheveux .
+
+cs_bébé ef_mère -0.258388
+cs_bébé ef_sieste -1.06727
+cs_devenir ef_mère -0.256101
+cs_devenir ef_sieste -1.16446
+
+pKEYWORDS ::  bébé devenir
+a1KEYWORDS ::  mère sieste
+
+cs_bébé ef_mère -0.258388
+cs_bébé ef_couette -0.0873578
+cs_bébé ef_cheveux 0.401469
+cs_devenir ef_mère -0.256101
+cs_devenir ef_couette -0.13256
+cs_devenir ef_cheveux 0.455659
+
+a2KEYWORDS ::  mère couette cheveux
+
+False
+correct: 1
+
+
+
+(28)
+L' enfant est devenu immunisé à la maladie .
+
+Il a évité l' exposition à la maladie .
+
+Il a reçu un vaccin contre la maladie .
+
+cs_immuniser ef_éviter 0.11609
+cs_immuniser ef_exposition 0.0505486
+cs_immuniser ef_maladie -0.113229
+cs_maladie ef_éviter 0.240893
+cs_maladie ef_exposition 0.100567
+
+pKEYWORDS ::  immuniser maladie
+a1KEYWORDS ::  éviter exposition maladie
+
+cs_immuniser ef_recevoir 0.0963989
+cs_immuniser ef_vaccin -0.246055
+cs_immuniser ef_maladie -0.113229
+cs_maladie ef_recevoir 0.28363
+cs_maladie ef_vaccin -0.565848
+
+a2KEYWORDS ::  recevoir vaccin maladie
+
+False
+correct: 2
+
+
+
+(29)
+Le jus de raisin a fermenté .
+
+Le jus est devenu du vin .
+
+Le jus s' est évaporé .
+
+cs_jus ef_devenir -0.00491925
+cs_jus ef_vin 0.453951
+cs_raisin ef_jus -0.0236295
+cs_raisin ef_devenir -0.0230272
+cs_raisin ef_vin 0.383828
+cs_fermenter ef_jus -0.0423793
+cs_fermenter ef_devenir 0.00438686
+cs_fermenter ef_vin 0.0520736
+
+pKEYWORDS ::  jus raisin fermenter
+a1KEYWORDS ::  jus devenir vin
+
+cs_raisin ef_jus -0.0236295
+cs_fermenter ef_jus -0.0423793
+
+a2KEYWORDS ::  jus
+
+True
+correct: 1
+
+
+
+(30)
+Le débat entre les amis s' est prolongé de façon interminable .
+
+Les amis se sont mis d'_accord .
+
+Les amis ont coupé les cheveux en quatre .
+
+cs_débat ef_ami -0.0337084
+cs_façon ef_ami -0.00448329
+
+pKEYWORDS ::  débat ami façon
+a1KEYWORDS ::  ami
+
+cs_débat ef_ami -0.0337084
+cs_débat ef_coupé 0.00906185
+cs_débat ef_cheveux 0.423382
+cs_débat ef_quatre 0.174781
+cs_ami ef_coupé -0.0108606
+cs_ami ef_cheveux 0.409143
+cs_ami ef_quatre 0.21667
+cs_façon ef_ami -0.00448329
+cs_façon ef_coupé -0.00109664
+cs_façon ef_cheveux 0.462294
+cs_façon ef_quatre 0.144952
+
+a2KEYWORDS ::  ami coupé cheveux quatre
+
+True
+correct: 2
+
+
+
+(31)
+La femme chantait pour elle-même .
+
+Elle était nerveuse .
+
+Elle était de bonne humeur .
+
+
+pKEYWORDS ::  chanter lui-même
+a1KEYWORDS ::  
+
+cs_chanter ef_humeur 0.556435
+cs_lui-même ef_humeur 0.423423
+
+a2KEYWORDS ::  humeur
+
+
+
+
+(32)
+L' homme détestait sa nouvelle coiffure .
+
+Il portait un chapeau .
+
+Il se laissa pousser la barbe .
+
+cs_détester ef_porter -0.0264789
+cs_détester ef_chapeau 0.0431932
+cs_coiffure ef_porter -0.026945
+cs_coiffure ef_chapeau -0.106329
+
+pKEYWORDS ::  détester coiffure
+a1KEYWORDS ::  porter chapeau
+
+cs_détester ef_laisser -0.175064
+cs_détester ef_pousser 0.0203348
+cs_détester ef_barbe 1.3464
+cs_coiffure ef_laisser -0.153444
+cs_coiffure ef_pousser 0.00664431
+cs_coiffure ef_barbe 1.22099
+
+a2KEYWORDS ::  laisser pousser barbe
+
+False
+correct: 1
+
+
+
+(33)
+Les policiers ont visé le figutif avec leurs armes .
+
+Le fugitif est tombé au sol .
+
+Le fugitif a lâché son pistolet .
+
+cs_policier ef_fugitif 1.50507
+cs_policier ef_tomber -0.0639429
+cs_policier ef_sol -0.108567
+cs_viser ef_fugitif 1.41158
+cs_viser ef_tomber -0.0513843
+cs_viser ef_sol -0.00627256
+cs_arme ef_fugitif 1.41776
+cs_arme ef_tomber 0.00458728
+cs_arme ef_sol -0.0203301
+
+pKEYWORDS ::  policier viser arme
+a1KEYWORDS ::  fugitif tomber sol
+
+cs_policier ef_fugitif 1.50507
+cs_policier ef_lâcher 0.647146
+cs_policier ef_pistolet -0.821407
+cs_viser ef_fugitif 1.41158
+cs_viser ef_lâcher 0.768054
+cs_viser ef_pistolet -0.742143
+cs_arme ef_fugitif 1.41776
+cs_arme ef_lâcher 0.652572
+cs_arme ef_pistolet -0.765972
+
+a2KEYWORDS ::  fugitif lâcher pistolet
+
+False
+correct: 2
+
+
+
+(34)
+Le patient était déshydraté .
+
+L' infirmière a testé ses réflexes .
+
+L' infirmière lui a mis une intraveineuse .
+
+cs_patient ef_infirmier 0.55214
+cs_patient ef_tester -0.320121
+cs_patient ef_réflexe 0.246207
+
+pKEYWORDS ::  patient
+a1KEYWORDS ::  infirmier tester réflexe
+
+cs_patient ef_infirmier 0.55214
+cs_patient ef_mettre 0.0058795
+
+a2KEYWORDS ::  infirmier mettre
+
+True
+correct: 2
+
+
+
+(35)
+La fille a trouvé la pièce manquante du puzzle .
+
+Elle a terminé le puzzle .
+
+Elle a défait le puzzle .
+
+cs_fille ef_terminer 0.222478
+cs_fille ef_puzzle 1.178
+cs_trouver ef_terminer 0.180189
+cs_trouver ef_puzzle 1.30485
+cs_pièce ef_terminer 0.123377
+cs_pièce ef_puzzle 1.14577
+cs_puzzle ef_terminer 0.13551
+
+pKEYWORDS ::  fille trouver pièce puzzle
+a1KEYWORDS ::  terminer puzzle
+
+cs_fille ef_défaire -0.530839
+cs_fille ef_puzzle 1.178
+cs_trouver ef_défaire -0.649909
+cs_trouver ef_puzzle 1.30485
+cs_pièce ef_défaire -0.584705
+cs_pièce ef_puzzle 1.14577
+cs_puzzle ef_défaire -0.442129
+
+a2KEYWORDS ::  défaire puzzle
+
+True
+correct: 1
+
+
+
+(36)
+L' homme a sauté du lit précipitamment .
+
+Il voulait éteindre le réveil .
+
+Il voulait repasser son pantalon avant_de partir au travail .
+
+cs_sauter ef_vouloir 0.241789
+cs_sauter ef_éteindre -0.0621851
+cs_sauter ef_réveil -0.0150868
+cs_lit ef_vouloir 0.279461
+cs_lit ef_éteindre -0.0377264
+cs_lit ef_réveil -0.0722221
+
+pKEYWORDS ::  sauter lit
+a1KEYWORDS ::  vouloir éteindre réveil
+
+cs_sauter ef_vouloir 0.241789
+cs_sauter ef_repasser -0.744503
+cs_sauter ef_pantalon 0.0492624
+cs_sauter ef_partir -0.150713
+cs_sauter ef_travail 0.0994424
+cs_lit ef_vouloir 0.279461
+cs_lit ef_repasser -0.721121
+cs_lit ef_pantalon -0.0301917
+cs_lit ef_partir -0.126737
+cs_lit ef_travail 0.093906
+
+a2KEYWORDS ::  vouloir repasser pantalon partir travail
+
+True
+correct: 1
+
+
+
+(37)
+Les papiers étaient en désordre .
+
+Je les ai photocopiés .
+
+Je les ai rangés alphabétiquement .
+
+cs_papiers ef_photocopier 2.14848
+cs_étayer ef_photocopier 2.12715
+cs_désordre ef_photocopier 1.93252
+
+pKEYWORDS ::  papiers étayer désordre
+a1KEYWORDS ::  photocopier
+
+cs_papiers ef_ranger -0.0438592
+cs_étayer ef_ranger 0.0347772
+cs_désordre ef_ranger -0.0170838
+
+a2KEYWORDS ::  ranger
+
+False
+correct: 2
+
+
+
+(38)
+La femme a gagné à la loterie .
+
+Elle a acheté un yacht .
+
+Elle a rejoint une paroisse .
+
+cs_gagner ef_acheter -0.249593
+cs_gagner ef_yacht 0.507561
+cs_loterie ef_acheter -0.148263
+cs_loterie ef_yacht 0.339292
+
+pKEYWORDS ::  gagner loterie
+a1KEYWORDS ::  acheter yacht
+
+cs_gagner ef_rejoindre 0.0375529
+cs_gagner ef_paroisse 0.684261
+cs_loterie ef_rejoindre -0.000788214
+cs_loterie ef_paroisse 0.447228
+
+a2KEYWORDS ::  rejoindre paroisse
+
+False
+correct: 1
+
+
+
+(39)
+La couturière a poussé l' aiguille dans le tissu .
+
+Le fil s' enroula autour_de l' aiguille .
+
+Le fil est passé à_travers le tissu .
+
+cs_couturière ef_fil 0.0118332
+cs_couturière ef_enrouler 0.827676
+cs_couturière ef_aiguille -0.00761489
+cs_pousser ef_fil 0.0293014
+cs_pousser ef_enrouler 1.7377
+cs_pousser ef_aiguille 0.0282572
+cs_aiguille ef_fil -0.0405808
+cs_aiguille ef_enrouler 1.79184
+cs_tissu ef_fil 0.00320728
+cs_tissu ef_enrouler 1.82642
+cs_tissu ef_aiguille 0.0511023
+
+pKEYWORDS ::  couturière pousser aiguille tissu
+a1KEYWORDS ::  fil enrouler aiguille
+
+cs_couturière ef_fil 0.0118332
+cs_couturière ef_tissu -0.019489
+cs_pousser ef_fil 0.0293014
+cs_pousser ef_tissu 0.0568685
+cs_aiguille ef_fil -0.0405808
+cs_aiguille ef_tissu -0.0159993
+cs_tissu ef_fil 0.00320728
+
+a2KEYWORDS ::  fil tissu
+
+False
+correct: 2
+
+
+
+(40)
+La femme a engagé un avocat .
+
+Elle a décidé de poursuivre son employeur .
+
+Elle a décidé de se présenter aux élections .
+
+cs_engager ef_décider -0.274927
+cs_engager ef_poursuivre -0.0183286
+cs_engager ef_employeur 0.329884
+cs_avocat ef_décider -0.264028
+cs_avocat ef_poursuivre -0.0283574
+cs_avocat ef_employeur 0.310641
+
+pKEYWORDS ::  engager avocat
+a1KEYWORDS ::  décider poursuivre employeur
+
+cs_engager ef_décider -0.274927
+cs_engager ef_présenter -0.249942
+cs_engager ef_élection -0.216768
+cs_avocat ef_décider -0.264028
+cs_avocat ef_présenter -0.150691
+cs_avocat ef_élection -0.181299
+
+a2KEYWORDS ::  décider présenter élection
+
+True
+correct: 1
+
+
+
+(41)
+Le locataire a perdu les clefs de son appartement .
+
+Son propriétaire à ouvert la porte .
+
+Son propriétaire à réparé la porte .
+
+cs_locataire ef_propriétaire 0.270212
+cs_locataire ef_ouvrir 0.26549
+cs_perdre ef_propriétaire 0.339442
+cs_perdre ef_ouvrir 0.233284
+cs_clef ef_propriétaire 0.310082
+cs_clef ef_ouvrir 0.202256
+cs_appartement ef_propriétaire 0.199378
+cs_appartement ef_ouvrir 0.207445
+
+pKEYWORDS ::  locataire perdre clef appartement
+a1KEYWORDS ::  propriétaire ouvrir
+
+cs_locataire ef_propriétaire 0.270212
+cs_locataire ef_réparer -0.510326
+cs_perdre ef_propriétaire 0.339442
+cs_perdre ef_réparer -0.593193
+cs_clef ef_propriétaire 0.310082
+cs_clef ef_réparer -0.512106
+cs_appartement ef_propriétaire 0.199378
+cs_appartement ef_réparer -0.6067
+
+a2KEYWORDS ::  propriétaire réparer
+
+True
+correct: 1
+
+
+
+(42)
+Ma chanson favorite est passée à la radio .
+
+Je me suis bouché les oreilles .
+
+J' ai chanté avec .
+
+cs_chanson ef_boucher -0.641896
+cs_chanson ef_oreille -0.0046947
+cs_passer ef_boucher -0.799452
+cs_passer ef_oreille -0.0168615
+cs_radio ef_boucher -0.751082
+cs_radio ef_oreille 0.00912794
+
+pKEYWORDS ::  chanson passer radio
+a1KEYWORDS ::  boucher oreille
+
+cs_chanson ef_chanter 0.501209
+cs_passer ef_chanter 0.550169
+cs_radio ef_chanter 0.528256
+
+a2KEYWORDS ::  chanter
+
+True
+correct: 2
+
+
+
+(43)
+Le responsable a décidé de ne_pas recruter le candidat .
+
+Le candidat n' a pas passé la vérification de son dossier .
+
+Le candidat avait de l' expérience pour cet emploi .
+
+cs_responsable ef_candidat -0.0298986
+cs_responsable ef_vérification -0.431232
+cs_responsable ef_dossier 0.073869
+cs_décider ef_candidat -0.0266317
+cs_décider ef_vérification -0.524446
+cs_décider ef_dossier 0.103289
+cs_recruter ef_candidat -0.0358267
+cs_recruter ef_vérification -0.420317
+cs_recruter ef_dossier 0.135793
+cs_candidat ef_vérification -0.528026
+cs_candidat ef_dossier 0.0737185
+
+pKEYWORDS ::  responsable décider recruter candidat
+a1KEYWORDS ::  candidat vérification dossier
+
+cs_responsable ef_candidat -0.0298986
+cs_responsable ef_expérience -0.0375716
+cs_responsable ef_emploi -0.304641
+cs_décider ef_candidat -0.0266317
+cs_décider ef_expérience -0.0138829
+cs_décider ef_emploi -0.307706
+cs_recruter ef_candidat -0.0358267
+cs_recruter ef_expérience -0.0302179
+cs_recruter ef_emploi -0.295216
+cs_candidat ef_expérience -0.0457216
+cs_candidat ef_emploi -0.329487
+
+a2KEYWORDS ::  candidat expérience emploi
+
+False
+correct: 1
+
+
+
+(44)
+L' œil de l' homme s' est infecté .
+
+Il est devenu aveugle .
+
+Il a mis des lunettes .
+
+
+pKEYWORDS ::  
+a1KEYWORDS ::  devenir
+
+
+a2KEYWORDS ::  mettre lunette
+
+
+
+
+(45)
+L' oiseau ne pouvait pas voler .
+
+Il a émigré pour l' hiver .
+
+Il s' est blessé à l' aile .
+
+cs_oiseau ef_émigrer -1.63078
+cs_oiseau ef_hiver -0.00236933
+cs_voler ef_émigrer -1.9484
+cs_voler ef_hiver 0.0659264
+
+pKEYWORDS ::  oiseau voler
+a1KEYWORDS ::  émigrer hiver
+
+cs_oiseau ef_aile -0.419639
+cs_voler ef_aile -0.450552
+
+a2KEYWORDS ::  aile
+
+True
+correct: 2
+
+
+
+(46)
+La fille a fait un voeu .
+
+Elle a vu un chat noir .
+
+Elle a vu une étoile filante .
+
+cs_fille ef_voir 0.0329112
+cs_fille ef_chat 0.342914
+
+pKEYWORDS ::  fille
+a1KEYWORDS ::  voir chat
+
+cs_fille ef_voir 0.0329112
+cs_fille ef_étoile 0.0581226
+
+a2KEYWORDS ::  voir étoile
+
+False
+correct: 2
+
+
+
+(47)
+La femme frissonait en sortant de la piscine .
+
+Elle s' est enveloppée dans une serviette .
+
+Elle s' est servie une limonade .
+
+cs_sortir ef_serviette 0.194972
+cs_piscine ef_serviette -0.192943
+
+pKEYWORDS ::  sortir piscine
+a1KEYWORDS ::  serviette
+
+cs_sortir ef_limonade 0.541966
+cs_piscine ef_limonade 0.520062
+
+a2KEYWORDS ::  limonade
+
+False
+correct: 1
+
+
+
+(48)
+L' infirmière prépara la seringue pour l' injection du patient .
+
+Le patient saigna .
+
+Le patient se tendit .
+
+cs_infirmier ef_patient -0.0483577
+cs_infirmier ef_saigner 0.0565267
+cs_préparer ef_patient -0.00123856
+cs_préparer ef_saigner 0.0147859
+cs_seringue ef_patient -0.0410793
+cs_seringue ef_saigner 0.0464827
+cs_injection ef_patient -0.0295295
+cs_injection ef_saigner 0.142729
+cs_patient ef_saigner 0.0353006
+
+pKEYWORDS ::  infirmier préparer seringue injection patient
+a1KEYWORDS ::  patient saigner
+
+cs_infirmier ef_patient -0.0483577
+cs_infirmier ef_tendre 0.43485
+cs_préparer ef_patient -0.00123856
+cs_préparer ef_tendre 0.390356
+cs_seringue ef_patient -0.0410793
+cs_seringue ef_tendre 0.247994
+cs_injection ef_patient -0.0295295
+cs_injection ef_tendre 0.315521
+cs_patient ef_tendre 0.443762
+
+a2KEYWORDS ::  patient tendre
+
+True
+correct: 2
+
+
+
+(49)
+L' homme a jeté le pain .
+
+Il était frais .
+
+Il était dur .
+
+
+pKEYWORDS ::  jeter pain
+a1KEYWORDS ::  
+
+
+a2KEYWORDS ::  
+
+
+
+
+(50)
+Les enfants ont renversé une lampe .
+
+Ils faisaient une bataille d' oreillers .
+
+Ils sautaient sur le lit .
+
+cs_renverser ef_bataille 0.0411587
+cs_renverser ef_oreiller 2.92757
+cs_lampe ef_bataille 0.0284963
+cs_lampe ef_oreiller 3.15787
+
+pKEYWORDS ::  renverser lampe
+a1KEYWORDS ::  bataille oreiller
+
+cs_renverser ef_sauter -0.712601
+cs_renverser ef_lit 0.0105598
+cs_lampe ef_sauter -0.780153
+cs_lampe ef_lit 0.035425
+
+a2KEYWORDS ::  sauter lit
+
+True
+correct: 1
+
+
+0.652173913043
